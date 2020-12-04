@@ -15,7 +15,7 @@ jobs:
         run: mkdir data
 
       - name: run conversion
-        run: python3 auto-convert-collection-to-skos
+        run: python3 auto-convert-collection-to-skos.py
 
       - name: make public folder
         run: mkdir public

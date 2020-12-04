@@ -107,7 +107,7 @@ def buildGraph(data, start_id, collection_name):
 
             if "keywords" in tree.keys():
                 for item in tree["keywords"]:
-                    g.add((item_url, SDO.keywords, Literal(item, lang="de")))
+                    if item != "": g.add((item_url, SDO.keywords, Literal(item, lang="de")))
 
             if "discipline" in tree.keys():
                 for item in tree["discipline"]:

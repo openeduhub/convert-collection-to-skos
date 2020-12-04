@@ -12,13 +12,13 @@ jobs:
         uses: actions/checkout@v2
 
       - name: make data folder
-        runs: mkdir data
+        run: mkdir data
 
       - name: run conversion
         run: python3 auto-convert-collection-to-skos
 
       - name: make public folder
-        runs: mkdir public
+        run: mkdir public
 
       - name: make .env.production file
         run: echo "PATH_PREFIX=/convert-collection-to-skos" > .env.production

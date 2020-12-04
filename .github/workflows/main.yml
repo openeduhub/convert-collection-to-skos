@@ -1,6 +1,13 @@
 name: Convert collection to SKOS
 
-on: push
+on: 
+  push:
+    branchs:
+      - main
+  workflow_dispatch:
+    inputs:
+      tags:
+        description: 'Manual trigger.'
 
 jobs:
   convert-collection-to-skos:

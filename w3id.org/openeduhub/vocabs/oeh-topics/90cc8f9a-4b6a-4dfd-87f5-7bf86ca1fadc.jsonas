@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/90cc8f9a-4b6a-4dfd-87f5-7bf86ca1fadc",
   "type": "Service",
+  "name": "Finden, Verwenden, Produzieren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39306363386639612d346236612d346466642d383766352d376266383663613166616463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F90cc8f9a-4b6a-4dfd-87f5-7bf86ca1fadc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F90cc8f9a-4b6a-4dfd-87f5-7bf86ca1fadc",

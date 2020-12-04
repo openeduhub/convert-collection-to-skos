@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/80944184-4cf2-4cc0-9a79-4f5b24dd8f48",
   "type": "Service",
+  "name": "Klassenarbeiten Primarstufe",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38303934343138342d346366322d346363302d396137392d346635623234646438663438",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F80944184-4cf2-4cc0-9a79-4f5b24dd8f48",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F80944184-4cf2-4cc0-9a79-4f5b24dd8f48",

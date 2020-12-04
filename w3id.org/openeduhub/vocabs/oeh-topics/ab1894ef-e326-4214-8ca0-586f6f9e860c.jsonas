@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ab1894ef-e326-4214-8ca0-586f6f9e860c",
   "type": "Service",
+  "name": "OER Coaching Kit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61623138393465662d653332362d343231342d386361302d353836663666396538363063",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fab1894ef-e326-4214-8ca0-586f6f9e860c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fab1894ef-e326-4214-8ca0-586f6f9e860c",

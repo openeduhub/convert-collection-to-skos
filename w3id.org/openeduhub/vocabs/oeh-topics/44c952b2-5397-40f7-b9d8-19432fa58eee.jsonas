@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/44c952b2-5397-40f7-b9d8-19432fa58eee",
   "type": "Service",
+  "name": "Zuordnungen, Funktionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34346339353262322d353339372d343066372d623964382d313934333266613538656565",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F44c952b2-5397-40f7-b9d8-19432fa58eee",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F44c952b2-5397-40f7-b9d8-19432fa58eee",

@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6ee037ac-ad61-4d2a-b168-40b52599dba6",
   "type": "Service",
+  "name": "Analysieren und Reflektieren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36656530333761632d616436312d346432612d623136382d343062353235393964626136",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6ee037ac-ad61-4d2a-b168-40b52599dba6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6ee037ac-ad61-4d2a-b168-40b52599dba6",

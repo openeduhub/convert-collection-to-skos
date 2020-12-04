@@ -1,0 +1,117 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/90c65b97-deea-411f-a3bf-ba82d2204bc7",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F90c65b97-deea-411f-a3bf-ba82d2204bc7",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F90c65b97-deea-411f-a3bf-ba82d2204bc7",
+  "prefLabel": {
+    "de": "Wahrscheinlichkeitsrechnung"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/14f7cb5d-1089-4db1-9107-6ec67b2179f7",
+      "prefLabel": {
+        "de": "Bernoulli-Ketten"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2148250a-4202-4284-a925-222c527f8ea1",
+      "prefLabel": {
+        "de": "Mehrstufige Zufallsexperimente"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/97f59d3e-fd7e-43cb-9549-51040bb8316d",
+      "prefLabel": {
+        "de": "Testen von Hypothesen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/eba0b11a-869b-427a-b5c4-a9c05302ef0b",
+      "prefLabel": {
+        "de": "Binomialverteilung"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f15f727c-9a5a-4f20-b1be-483c15477648",
+    "prefLabel": {
+      "de": "Analytische Geometrie"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bd8be6d5-0fbe-4534-a4b3-773154ba6abc",
+    "title": {
+      "de": "Mathematik"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

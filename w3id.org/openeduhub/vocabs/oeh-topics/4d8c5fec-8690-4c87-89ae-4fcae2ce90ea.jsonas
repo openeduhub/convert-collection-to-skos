@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4d8c5fec-8690-4c87-89ae-4fcae2ce90ea",
   "type": "Service",
+  "name": "Architektur",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34643863356665632d383639302d346338372d383961652d346663616532636539306561",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4d8c5fec-8690-4c87-89ae-4fcae2ce90ea",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4d8c5fec-8690-4c87-89ae-4fcae2ce90ea",

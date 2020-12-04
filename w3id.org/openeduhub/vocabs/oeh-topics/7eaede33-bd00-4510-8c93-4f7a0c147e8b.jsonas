@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7eaede33-bd00-4510-8c93-4f7a0c147e8b",
   "type": "Service",
+  "name": "Rechtliche Aspekte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37656165646533332d626430302d343531302d386339332d346637613063313437653862",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7eaede33-bd00-4510-8c93-4f7a0c147e8b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7eaede33-bd00-4510-8c93-4f7a0c147e8b",

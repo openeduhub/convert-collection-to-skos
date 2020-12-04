@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c690705e-f69d-40c6-a00b-1482493980bd",
   "type": "Service",
+  "name": "Muster, Körper, Maße, Zeiten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63363930373035652d663639642d343063362d613030622d313438323439333938306264",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc690705e-f69d-40c6-a00b-1482493980bd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc690705e-f69d-40c6-a00b-1482493980bd",

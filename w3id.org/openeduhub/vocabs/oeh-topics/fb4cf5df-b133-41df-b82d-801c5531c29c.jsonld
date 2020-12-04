@@ -3,24 +3,27 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffb4cf5df-b133-41df-b82d-801c5531c29c",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffb4cf5df-b133-41df-b82d-801c5531c29c",
+  "prefLabel": {
+    "de": "Terme, Gleichungen, Ungleichungen"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/216afeb6-e115-4405-a3bf-815abd7713fe"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/216afeb6-e115-4405-a3bf-815abd7713fe",
+      "prefLabel": {
+        "de": "Gleichungen und Ungleichungen"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bf9543bb-2999-4efc-b9c7-e0e852af5c7e"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/216afeb6-e115-4405-a3bf-815abd7713fe"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bf9543bb-2999-4efc-b9c7-e0e852af5c7e"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bf9543bb-2999-4efc-b9c7-e0e852af5c7e",
+      "prefLabel": {
+        "de": "Terme"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bd8be6d5-0fbe-4534-a4b3-773154ba6abc",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Mathematik"
     }
   },
   "topConceptOf": {

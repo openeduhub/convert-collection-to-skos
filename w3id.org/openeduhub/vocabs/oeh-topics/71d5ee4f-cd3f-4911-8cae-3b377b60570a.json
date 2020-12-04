@@ -3,10 +3,13 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F71d5ee4f-cd3f-4911-8cae-3b377b60570a",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F71d5ee4f-cd3f-4911-8cae-3b377b60570a",
+  "prefLabel": {
+    "de": "Illustration"
+  },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6a3f5881-cce0-4e8d-b123-26392b3f1c19",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Kunst"
     }
   },
   "topConceptOf": {

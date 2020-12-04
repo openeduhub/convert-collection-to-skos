@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/153ba54c-b401-41a1-8510-7ccb63dcfea4",
   "type": "Service",
+  "name": "Gott",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31353362613534632d623430312d343161312d383531302d376363623633646366656134",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F153ba54c-b401-41a1-8510-7ccb63dcfea4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F153ba54c-b401-41a1-8510-7ccb63dcfea4",

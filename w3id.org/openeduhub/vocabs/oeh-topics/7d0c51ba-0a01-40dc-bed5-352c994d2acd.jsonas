@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7d0c51ba-0a01-40dc-bed5-352c994d2acd",
   "type": "Service",
+  "name": "Informieren und Recherchieren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37643063353162612d306130312d343064632d626564352d333532633939346432616364",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7d0c51ba-0a01-40dc-bed5-352c994d2acd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7d0c51ba-0a01-40dc-bed5-352c994d2acd",

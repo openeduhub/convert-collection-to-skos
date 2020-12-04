@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/80f700c3-0603-4092-89b5-2f3af7358222",
   "type": "Service",
+  "name": "Tanz und Gymnastik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38306637303063332d303630332d343039322d383962352d326633616637333538323232",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F80f700c3-0603-4092-89b5-2f3af7358222",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F80f700c3-0603-4092-89b5-2f3af7358222",

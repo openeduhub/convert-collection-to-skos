@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0d4c206e-1198-4ad5-87dc-9f0637ef7e9f",
   "type": "Service",
+  "name": "Grammatik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30643463323036652d313139382d346164352d383764632d396630363337656637653966",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0d4c206e-1198-4ad5-87dc-9f0637ef7e9f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0d4c206e-1198-4ad5-87dc-9f0637ef7e9f",

@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/01baba03-378b-42cd-8dff-10433dddb027",
   "type": "Service",
+  "name": "OER Kompetenzentwicklung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30316261626130332d333738622d343263642d386466662d313034333364646462303237",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F01baba03-378b-42cd-8dff-10433dddb027",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F01baba03-378b-42cd-8dff-10433dddb027",

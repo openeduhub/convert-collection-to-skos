@@ -3,24 +3,27 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5137f3ce-927c-4085-b731-54271c6df347",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5137f3ce-927c-4085-b731-54271c6df347",
+  "prefLabel": {
+    "de": "Rechtschreibung"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2f617292-f21e-4ce0-8d15-059229ab25fa"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2f617292-f21e-4ce0-8d15-059229ab25fa",
+      "prefLabel": {
+        "de": "Zeichensetzung"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/89298846-0029-4b5c-bc12-f27efdf3ed28"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2f617292-f21e-4ce0-8d15-059229ab25fa"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/89298846-0029-4b5c-bc12-f27efdf3ed28"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/89298846-0029-4b5c-bc12-f27efdf3ed28",
+      "prefLabel": {
+        "de": "Großschreibung & Kleinschreibung"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/26a336bf-51c8-4b91-9a6c-f1cf67fd4ae4",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Deutsch als Zweitsprache"
     }
   },
   "topConceptOf": {

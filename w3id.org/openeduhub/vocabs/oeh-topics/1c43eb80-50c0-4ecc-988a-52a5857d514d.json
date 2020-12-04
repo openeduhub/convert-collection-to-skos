@@ -3,36 +3,39 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1c43eb80-50c0-4ecc-988a-52a5857d514d",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1c43eb80-50c0-4ecc-988a-52a5857d514d",
+  "prefLabel": {
+    "de": "Ökologie"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6bba936e-ff04-47e2-9a37-62efc36c72ae"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6bba936e-ff04-47e2-9a37-62efc36c72ae",
+      "prefLabel": {
+        "de": "Ökosysteme"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6d610232-06c0-419e-8a38-195d313158e0"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6d610232-06c0-419e-8a38-195d313158e0",
+      "prefLabel": {
+        "de": "Umweltfaktoren"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/976e9328-aabb-4223-8485-acc75c1665d6"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/976e9328-aabb-4223-8485-acc75c1665d6",
+      "prefLabel": {
+        "de": "Wechselwirkung zwischen Lebewesen"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f3bee4b4-2223-469e-b7ec-d1374bc99f52"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6bba936e-ff04-47e2-9a37-62efc36c72ae"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6d610232-06c0-419e-8a38-195d313158e0"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/976e9328-aabb-4223-8485-acc75c1665d6"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f3bee4b4-2223-469e-b7ec-d1374bc99f52"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f3bee4b4-2223-469e-b7ec-d1374bc99f52",
+      "prefLabel": {
+        "de": "Umweltschutz und Nachhaltigkeit"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/15fce411-54d9-467f-8f35-61ea374a298d",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Biologie"
     }
   },
   "topConceptOf": {

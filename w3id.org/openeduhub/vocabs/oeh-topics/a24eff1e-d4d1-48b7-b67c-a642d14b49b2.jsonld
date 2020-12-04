@@ -3,30 +3,33 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa24eff1e-d4d1-48b7-b67c-a642d14b49b2",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa24eff1e-d4d1-48b7-b67c-a642d14b49b2",
+  "prefLabel": {
+    "de": "Rechtschreibung"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0a57f710-725e-4328-8d41-3e43b1227ea4"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0a57f710-725e-4328-8d41-3e43b1227ea4",
+      "prefLabel": {
+        "de": "Groß- / Kleinschreibung"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/65b390bf-5255-4045-9165-2f588479f529"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/65b390bf-5255-4045-9165-2f588479f529",
+      "prefLabel": {
+        "de": "Rechtschreibstrategien"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/98412501-86ec-44b2-8920-cb63fa29f1c3"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0a57f710-725e-4328-8d41-3e43b1227ea4"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/65b390bf-5255-4045-9165-2f588479f529"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/98412501-86ec-44b2-8920-cb63fa29f1c3"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/98412501-86ec-44b2-8920-cb63fa29f1c3",
+      "prefLabel": {
+        "de": "Getrennt- und Zusammenschreibung"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/69f9ff64-93da-4d68-b849-ebdf9fbdcc77",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Deutsch"
     }
   },
   "topConceptOf": {

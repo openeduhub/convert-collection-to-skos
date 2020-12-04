@@ -3,60 +3,63 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fba0dda9d-8c4c-42ab-b28b-4bc673086b98",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fba0dda9d-8c4c-42ab-b28b-4bc673086b98",
+  "prefLabel": {
+    "de": "Grundrechenarten"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0ce8c644-3fed-4d64-a63b-b0ae2c1b6311"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0ce8c644-3fed-4d64-a63b-b0ae2c1b6311",
+      "prefLabel": {
+        "de": "Runden und Überschlag"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4441b15b-bbae-46bf-8311-b966f51cc957"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4441b15b-bbae-46bf-8311-b966f51cc957",
+      "prefLabel": {
+        "de": "Zahlen zerlegen"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/66fc2282-f854-4854-a747-d4ed7be10571"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/66fc2282-f854-4854-a747-d4ed7be10571",
+      "prefLabel": {
+        "de": "Subtraktion"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/85366f86-98a5-4ba1-a536-db066bdb9165"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/85366f86-98a5-4ba1-a536-db066bdb9165",
+      "prefLabel": {
+        "de": "Addition"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c6f4b917-7506-4f4f-9145-bfe6659bfad7"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c6f4b917-7506-4f4f-9145-bfe6659bfad7",
+      "prefLabel": {
+        "de": "Zahlenvergleich"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cfcfa430-7baf-4a6e-8ece-17b75a2a2f69"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cfcfa430-7baf-4a6e-8ece-17b75a2a2f69",
+      "prefLabel": {
+        "de": "Sachaufgaben"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e5b49679-8c00-4b3c-aca4-8735fd08b182"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e5b49679-8c00-4b3c-aca4-8735fd08b182",
+      "prefLabel": {
+        "de": "Division"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/edf5fae0-e45d-4a69-8d11-c99da8601e6f"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0ce8c644-3fed-4d64-a63b-b0ae2c1b6311"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4441b15b-bbae-46bf-8311-b966f51cc957"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/66fc2282-f854-4854-a747-d4ed7be10571"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/85366f86-98a5-4ba1-a536-db066bdb9165"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c6f4b917-7506-4f4f-9145-bfe6659bfad7"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cfcfa430-7baf-4a6e-8ece-17b75a2a2f69"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e5b49679-8c00-4b3c-aca4-8735fd08b182"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/edf5fae0-e45d-4a69-8d11-c99da8601e6f"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/edf5fae0-e45d-4a69-8d11-c99da8601e6f",
+      "prefLabel": {
+        "de": "Multiplikation"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bd8be6d5-0fbe-4534-a4b3-773154ba6abc",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Mathematik"
     }
   },
   "topConceptOf": {

@@ -3,24 +3,27 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F69756a85-a71e-4790-8ed0-6c11bb56aa1d",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F69756a85-a71e-4790-8ed0-6c11bb56aa1d",
+  "prefLabel": {
+    "de": "Zeichensetzung"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/97e2fa84-ca92-4ba2-911c-7e318c635c69"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/97e2fa84-ca92-4ba2-911c-7e318c635c69",
+      "prefLabel": {
+        "de": "Kommasetzung"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cd0b40a5-20bd-4f83-a234-c52e1a995dd9"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/97e2fa84-ca92-4ba2-911c-7e318c635c69"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cd0b40a5-20bd-4f83-a234-c52e1a995dd9"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cd0b40a5-20bd-4f83-a234-c52e1a995dd9",
+      "prefLabel": {
+        "de": "Satzzeichen"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/69f9ff64-93da-4d68-b849-ebdf9fbdcc77",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Deutsch"
     }
   },
   "topConceptOf": {

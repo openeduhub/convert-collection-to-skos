@@ -3,24 +3,27 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62dbc371-2e8e-4c86-90cd-a2682153b16d",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62dbc371-2e8e-4c86-90cd-a2682153b16d",
+  "prefLabel": {
+    "de": "Relativitätstheorie"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/21266a5f-0e9f-40c3-baef-78db5375b242"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/21266a5f-0e9f-40c3-baef-78db5375b242",
+      "prefLabel": {
+        "de": "Spezielle Relativitätstheorie (SRT)"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e6028f0-ca13-460a-973f-0a052c3aa4f5"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/21266a5f-0e9f-40c3-baef-78db5375b242"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e6028f0-ca13-460a-973f-0a052c3aa4f5"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e6028f0-ca13-460a-973f-0a052c3aa4f5",
+      "prefLabel": {
+        "de": "Allgemeine Relativitätstheorie (ART)"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/94f22c9b-0d3a-4c1c-8987-4c8e83f3a92e",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Physik"
     }
   },
   "topConceptOf": {

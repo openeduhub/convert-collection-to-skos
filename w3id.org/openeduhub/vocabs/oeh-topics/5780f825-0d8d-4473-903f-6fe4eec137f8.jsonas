@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5780f825-0d8d-4473-903f-6fe4eec137f8",
   "type": "Service",
+  "name": "Zellbiologie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35373830663832352d306438642d343437332d393033662d366665346565633133376638",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5780f825-0d8d-4473-903f-6fe4eec137f8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5780f825-0d8d-4473-903f-6fe4eec137f8",

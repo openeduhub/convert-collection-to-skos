@@ -3,42 +3,45 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F39f11a8e-7c84-4ccc-abb5-875a59f5efb4",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F39f11a8e-7c84-4ccc-abb5-875a59f5efb4",
+  "prefLabel": {
+    "de": "Kunstgeschichte"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8cc3ea73-00ea-4177-9de8-c800daa9758e"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8cc3ea73-00ea-4177-9de8-c800daa9758e",
+      "prefLabel": {
+        "de": "Zeitstrahl"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a4df00f4-f8d8-4217-8ee9-7eb0bc5160c0"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a4df00f4-f8d8-4217-8ee9-7eb0bc5160c0",
+      "prefLabel": {
+        "de": "Künstler*innen"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a7cfef1f-38eb-46b0-b35b-888aa1322373"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a7cfef1f-38eb-46b0-b35b-888aa1322373",
+      "prefLabel": {
+        "de": "Kunstwerke"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d6a37ea5-7208-4306-8692-880881b1df8b"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d6a37ea5-7208-4306-8692-880881b1df8b",
+      "prefLabel": {
+        "de": "Weltkunst"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e85946cc-f1be-40e4-816c-f3af053665d2"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8cc3ea73-00ea-4177-9de8-c800daa9758e"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a4df00f4-f8d8-4217-8ee9-7eb0bc5160c0"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a7cfef1f-38eb-46b0-b35b-888aa1322373"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d6a37ea5-7208-4306-8692-880881b1df8b"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e85946cc-f1be-40e4-816c-f3af053665d2"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e85946cc-f1be-40e4-816c-f3af053665d2",
+      "prefLabel": {
+        "de": "Epochen"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6a3f5881-cce0-4e8d-b123-26392b3f1c19",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Kunst"
     }
   },
   "topConceptOf": {

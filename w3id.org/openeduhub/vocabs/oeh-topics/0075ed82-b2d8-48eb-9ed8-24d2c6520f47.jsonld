@@ -3,10 +3,13 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0075ed82-b2d8-48eb-9ed8-24d2c6520f47",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0075ed82-b2d8-48eb-9ed8-24d2c6520f47",
+  "prefLabel": {
+    "de": "Daniela"
+  },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/11bdb8a0-a9f5-4028-becc-cbf8e328dd4b",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Spanisch"
     }
   },
   "topConceptOf": {

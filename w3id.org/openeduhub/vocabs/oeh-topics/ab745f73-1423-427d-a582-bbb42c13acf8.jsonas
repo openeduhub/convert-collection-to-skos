@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ab745f73-1423-427d-a582-bbb42c13acf8",
   "type": "Service",
+  "name": "Finanzierung und Geschäftsmodelle",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61623734356637332d313432332d343237642d613538322d626262343263313361636638",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fab745f73-1423-427d-a582-bbb42c13acf8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fab745f73-1423-427d-a582-bbb42c13acf8",

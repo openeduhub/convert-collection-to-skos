@@ -1,0 +1,123 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3d589846-67e0-45d1-869c-7b94d0538e0a",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3d589846-67e0-45d1-869c-7b94d0538e0a",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3d589846-67e0-45d1-869c-7b94d0538e0a",
+  "prefLabel": {
+    "de": "Stoffe und Stoffeigenschaften"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/08b845eb-823a-41e2-8c08-0779c9afb491",
+      "prefLabel": {
+        "de": "Trennverfahren und Gemische"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0e619127-058c-40f3-8bbe-33669d69ecbb",
+      "prefLabel": {
+        "de": "Stoffeigenschaft Dichte"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2ae97153-62ca-4bf2-835c-00c6c64783f1",
+      "prefLabel": {
+        "de": "Löslichkeit als Stoffeigenschaft"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6449ef24-c4e2-42ed-b7ec-c3b76450b7da",
+      "prefLabel": {
+        "de": "Stoffklassen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7cc1fa31-f5dc-4ae1-8371-544978e459c9",
+      "prefLabel": {
+        "de": "Identifikation unbekannter Stoffe"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b25b69f-ad8c-4473-8cb3-3b3d47434380",
+    "prefLabel": {
+      "de": "Einführung in die Chemie"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "title": {
+      "de": "Chemie"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

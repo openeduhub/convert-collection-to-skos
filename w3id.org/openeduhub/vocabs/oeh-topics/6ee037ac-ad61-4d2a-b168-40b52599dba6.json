@@ -3,36 +3,39 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6ee037ac-ad61-4d2a-b168-40b52599dba6",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6ee037ac-ad61-4d2a-b168-40b52599dba6",
+  "prefLabel": {
+    "de": "Analysieren und Reflektieren"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/34561f6b-7493-4692-b43d-3e1e012cffd2"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/34561f6b-7493-4692-b43d-3e1e012cffd2",
+      "prefLabel": {
+        "de": "Medien in der digitalen Welt verstehen und reflektieren"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/533b7cb1-1f53-4830-b931-55b4569c505c"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/533b7cb1-1f53-4830-b931-55b4569c505c",
+      "prefLabel": {
+        "de": "Medien analysieren und bewerten"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7505326d-d855-439e-a3d2-482c6ed16393"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7505326d-d855-439e-a3d2-482c6ed16393",
+      "prefLabel": {
+        "de": "Selbstgesteuerte Mediennutzung fördern"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/af95e72a-8805-4396-89a6-7fffcf118985"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/34561f6b-7493-4692-b43d-3e1e012cffd2"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/533b7cb1-1f53-4830-b931-55b4569c505c"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7505326d-d855-439e-a3d2-482c6ed16393"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/af95e72a-8805-4396-89a6-7fffcf118985"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/af95e72a-8805-4396-89a6-7fffcf118985",
+      "prefLabel": {
+        "de": "Jugendmedienschutz beachten"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/eef047a3-58ba-419c-ab7d-3d0cfd04bb4e",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Medienbildung"
     }
   },
   "topConceptOf": {

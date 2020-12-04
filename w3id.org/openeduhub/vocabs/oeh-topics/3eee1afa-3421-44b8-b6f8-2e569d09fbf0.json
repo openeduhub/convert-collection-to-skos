@@ -3,18 +3,21 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3eee1afa-3421-44b8-b6f8-2e569d09fbf0",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3eee1afa-3421-44b8-b6f8-2e569d09fbf0",
+  "prefLabel": {
+    "de": "Initiativen"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f64117f8-11dd-4772-bf77-b4742527f686"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f64117f8-11dd-4772-bf77-b4742527f686"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f64117f8-11dd-4772-bf77-b4742527f686",
+      "prefLabel": {
+        "de": "17 Ziele für Nachhaltige Entwicklung"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d0ed50e6-a49f-4566-8f3b-c545cdf75067",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Nachhaltigkeit"
     }
   },
   "topConceptOf": {

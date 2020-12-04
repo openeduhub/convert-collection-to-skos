@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/40d595c7-ed57-4fb1-af55-10a22affe308",
   "type": "Service",
+  "name": "Figuren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34306435393563372d656435372d346662312d616635352d313061323261666665333038",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F40d595c7-ed57-4fb1-af55-10a22affe308",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F40d595c7-ed57-4fb1-af55-10a22affe308",

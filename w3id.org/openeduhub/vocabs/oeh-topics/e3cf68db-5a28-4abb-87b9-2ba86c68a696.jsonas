@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e3cf68db-5a28-4abb-87b9-2ba86c68a696",
   "type": "Service",
+  "name": "Fähigkeiten und Kompetenzen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65336366363864622d356132382d346162622d383762392d326261383663363861363936",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe3cf68db-5a28-4abb-87b9-2ba86c68a696",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe3cf68db-5a28-4abb-87b9-2ba86c68a696",

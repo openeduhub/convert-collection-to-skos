@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/65652844-fe24-4ab0-9374-02af5a0b63e3",
   "type": "Service",
+  "name": "Atomphysik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36353635323834342d666532342d346162302d393337342d303261663561306236336533",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F65652844-fe24-4ab0-9374-02af5a0b63e3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F65652844-fe24-4ab0-9374-02af5a0b63e3",

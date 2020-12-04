@@ -3,42 +3,45 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3ca9344d-26d5-4632-8a0c-e2eb9ef59bda",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3ca9344d-26d5-4632-8a0c-e2eb9ef59bda",
+  "prefLabel": {
+    "de": "Theaterformen und Inszenierungskonzepte"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6eef8224-193f-4767-9a3b-af0614dbaf1c"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6eef8224-193f-4767-9a3b-af0614dbaf1c",
+      "prefLabel": {
+        "de": "Sketche und Rollenspiele "
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9c35f863-163c-4355-a876-b7a2a13e03cb"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9c35f863-163c-4355-a876-b7a2a13e03cb",
+      "prefLabel": {
+        "de": "Gameplay "
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/adc74622-cdb0-4c84-98a0-9179aa7b79b1"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/adc74622-cdb0-4c84-98a0-9179aa7b79b1",
+      "prefLabel": {
+        "de": "Inszenierungskonzepte "
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ccbb90c5-f569-492b-a8d9-1461062d84f5"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ccbb90c5-f569-492b-a8d9-1461062d84f5",
+      "prefLabel": {
+        "de": "Objekt- und Medientheater"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fed35a56-b265-4278-acef-0b08b18da9ec"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6eef8224-193f-4767-9a3b-af0614dbaf1c"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9c35f863-163c-4355-a876-b7a2a13e03cb"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/adc74622-cdb0-4c84-98a0-9179aa7b79b1"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ccbb90c5-f569-492b-a8d9-1461062d84f5"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fed35a56-b265-4278-acef-0b08b18da9ec"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fed35a56-b265-4278-acef-0b08b18da9ec",
+      "prefLabel": {
+        "de": "Schauspiel und performatives Theater"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7998f334-9311-491e-9a58-72baf2a7efd2",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Darstellendes Spiel"
     }
   },
   "topConceptOf": {

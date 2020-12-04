@@ -3,30 +3,33 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc700a838-aade-447d-aa49-44c34e6991f5",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc700a838-aade-447d-aa49-44c34e6991f5",
+  "prefLabel": {
+    "de": "Aussprache "
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5229ab44-2fe4-4d24-a8d2-6a0b91acba03"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5229ab44-2fe4-4d24-a8d2-6a0b91acba03",
+      "prefLabel": {
+        "de": "Laute und Buchstaben\n "
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b471432-43fd-42dc-a170-7f587a663e01"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b471432-43fd-42dc-a170-7f587a663e01",
+      "prefLabel": {
+        "de": "Silben und Silbentrennung"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b99cfb96-d0f8-4cad-a341-14b479c03f87"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5229ab44-2fe4-4d24-a8d2-6a0b91acba03"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b471432-43fd-42dc-a170-7f587a663e01"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b99cfb96-d0f8-4cad-a341-14b479c03f87"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b99cfb96-d0f8-4cad-a341-14b479c03f87",
+      "prefLabel": {
+        "de": "Intonation und Akzentuierung"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/11bdb8a0-a9f5-4028-becc-cbf8e328dd4b",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Spanisch"
     }
   },
   "topConceptOf": {

@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6922b635-ff52-4585-987e-2810b3f11878",
   "type": "Service",
+  "name": "Plakat / Werbung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36393232623633352d666635322d343538352d393837652d323831306233663131383738",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6922b635-ff52-4585-987e-2810b3f11878",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6922b635-ff52-4585-987e-2810b3f11878",

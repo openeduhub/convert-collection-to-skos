@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b27c58d1-09fa-4b63-8155-5c1f40895754",
   "type": "Service",
+  "name": "Fitness und Gymnastik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62323763353864312d303966612d346236332d383135352d356331663430383935373534",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb27c58d1-09fa-4b63-8155-5c1f40895754",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb27c58d1-09fa-4b63-8155-5c1f40895754",

@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/36f8e701-0ce5-4d3d-9a61-78288df5ab73",
   "type": "Service",
+  "name": "Spielen und Gestalten ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33366638653730312d306365352d346433642d396136312d373832383864663561623733",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F36f8e701-0ce5-4d3d-9a61-78288df5ab73",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F36f8e701-0ce5-4d3d-9a61-78288df5ab73",

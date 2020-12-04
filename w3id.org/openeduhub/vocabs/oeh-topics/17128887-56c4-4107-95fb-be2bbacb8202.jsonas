@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/17128887-56c4-4107-95fb-be2bbacb8202",
   "type": "Service",
+  "name": "Technische Informatik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31373132383838372d353663342d343130372d393566622d626532626261636238323032",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F17128887-56c4-4107-95fb-be2bbacb8202",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F17128887-56c4-4107-95fb-be2bbacb8202",

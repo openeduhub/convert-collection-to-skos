@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f3c11ec7-cf59-45c0-95db-af0396dd7e19",
   "type": "Service",
+  "name": "Statistik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66336331316563372d636635392d343563302d393564622d616630333936646437653139",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff3c11ec7-cf59-45c0-95db-af0396dd7e19",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff3c11ec7-cf59-45c0-95db-af0396dd7e19",

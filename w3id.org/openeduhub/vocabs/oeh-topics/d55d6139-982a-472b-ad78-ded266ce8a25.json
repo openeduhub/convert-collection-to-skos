@@ -3,30 +3,33 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd55d6139-982a-472b-ad78-ded266ce8a25",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd55d6139-982a-472b-ad78-ded266ce8a25",
+  "prefLabel": {
+    "de": "allgemeine Biologie"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/26d59a4b-d9fc-45fc-841f-a0cf86db2361"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/26d59a4b-d9fc-45fc-841f-a0cf86db2361",
+      "prefLabel": {
+        "de": "Methoden"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8402f24f-81ae-458a-a696-b809e6e1eb69"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8402f24f-81ae-458a-a696-b809e6e1eb69",
+      "prefLabel": {
+        "de": "Kennzeichen von Lebewesen"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/dc0005ab-6026-48b2-9c86-68125165c72b"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/26d59a4b-d9fc-45fc-841f-a0cf86db2361"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8402f24f-81ae-458a-a696-b809e6e1eb69"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/dc0005ab-6026-48b2-9c86-68125165c72b"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/dc0005ab-6026-48b2-9c86-68125165c72b",
+      "prefLabel": {
+        "de": "Viren"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/15fce411-54d9-467f-8f35-61ea374a298d",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Biologie"
     }
   },
   "topConceptOf": {

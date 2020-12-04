@@ -3,48 +3,51 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7bfc5fc7-9f53-4b7d-b655-8dcf9b7a74a7",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7bfc5fc7-9f53-4b7d-b655-8dcf9b7a74a7",
+  "prefLabel": {
+    "de": "Schwimmen"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5495b4b5-a6cb-47a3-b0f8-dcf7a75bafd9"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5495b4b5-a6cb-47a3-b0f8-dcf7a75bafd9",
+      "prefLabel": {
+        "de": "Turmsprung"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5a099c25-13de-4fcd-bae9-fc04a4469fe8"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5a099c25-13de-4fcd-bae9-fc04a4469fe8",
+      "prefLabel": {
+        "de": "Kopfsprung"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/75d86572-b700-482e-9365-c6b497a619b8"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/75d86572-b700-482e-9365-c6b497a619b8",
+      "prefLabel": {
+        "de": "Brustschwimmen"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/77aa63e5-8931-41ef-a8cc-a7452a183e37"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/77aa63e5-8931-41ef-a8cc-a7452a183e37",
+      "prefLabel": {
+        "de": "Kraulen"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e501a74d-1b21-4cf8-b50f-cc2464dceebe"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e501a74d-1b21-4cf8-b50f-cc2464dceebe",
+      "prefLabel": {
+        "de": "Tauchen"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f25d09d8-1056-49e4-aeb1-49fa7549a225"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5495b4b5-a6cb-47a3-b0f8-dcf7a75bafd9"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5a099c25-13de-4fcd-bae9-fc04a4469fe8"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/75d86572-b700-482e-9365-c6b497a619b8"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/77aa63e5-8931-41ef-a8cc-a7452a183e37"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e501a74d-1b21-4cf8-b50f-cc2464dceebe"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f25d09d8-1056-49e4-aeb1-49fa7549a225"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f25d09d8-1056-49e4-aeb1-49fa7549a225",
+      "prefLabel": {
+        "de": "Rückenschwimmen"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ea776a48-b3f4-446c-b871-19f84b31d280",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Sport"
     }
   },
   "topConceptOf": {

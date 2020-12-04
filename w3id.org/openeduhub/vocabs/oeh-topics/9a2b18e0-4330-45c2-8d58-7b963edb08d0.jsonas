@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9a2b18e0-4330-45c2-8d58-7b963edb08d0",
   "type": "Service",
+  "name": "Mediale Kunst",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39613262313865302d343333302d343563322d386435382d376239363365646230386430",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9a2b18e0-4330-45c2-8d58-7b963edb08d0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9a2b18e0-4330-45c2-8d58-7b963edb08d0",

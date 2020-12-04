@@ -3,36 +3,39 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9e7ae956-e9df-430f-bace-f3db4b910013",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9e7ae956-e9df-430f-bace-f3db4b910013",
+  "prefLabel": {
+    "de": "Optik"
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/95f2002f-1745-4b47-889d-8376af38fe41"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/95f2002f-1745-4b47-889d-8376af38fe41",
+      "prefLabel": {
+        "de": "Farben"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bf729405-18ff-440b-9d5b-dd466ff563c3"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bf729405-18ff-440b-9d5b-dd466ff563c3",
+      "prefLabel": {
+        "de": "Wellenoptik"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d8b1849b-26a2-4d08-8dd3-0e0cb733113b"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d8b1849b-26a2-4d08-8dd3-0e0cb733113b",
+      "prefLabel": {
+        "de": "Menschliches Auge"
+      }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f35c17d1-a29e-4b26-9d22-802682fad43d"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/95f2002f-1745-4b47-889d-8376af38fe41"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bf729405-18ff-440b-9d5b-dd466ff563c3"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d8b1849b-26a2-4d08-8dd3-0e0cb733113b"
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f35c17d1-a29e-4b26-9d22-802682fad43d"
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f35c17d1-a29e-4b26-9d22-802682fad43d",
+      "prefLabel": {
+        "de": "Geometrische Optik"
+      }
     }
   ],
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/94f22c9b-0d3a-4c1c-8987-4c8e83f3a92e",
     "title": {
-      "de": "Main-Collection (All)"
+      "de": "Physik"
     }
   },
   "topConceptOf": {

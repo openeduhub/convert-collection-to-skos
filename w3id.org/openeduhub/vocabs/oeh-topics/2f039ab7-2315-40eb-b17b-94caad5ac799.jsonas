@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2f039ab7-2315-40eb-b17b-94caad5ac799",
   "type": "Service",
+  "name": "Methodisches",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32663033396162372d323331352d343065622d623137622d393463616164356163373939",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2f039ab7-2315-40eb-b17b-94caad5ac799",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2f039ab7-2315-40eb-b17b-94caad5ac799",

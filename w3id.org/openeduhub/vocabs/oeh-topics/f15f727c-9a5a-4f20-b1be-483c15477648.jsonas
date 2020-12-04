@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f15f727c-9a5a-4f20-b1be-483c15477648",
   "type": "Service",
+  "name": "Analytische Geometrie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66313566373237632d396135612d346632302d623162652d343833633135343737363438",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff15f727c-9a5a-4f20-b1be-483c15477648",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff15f727c-9a5a-4f20-b1be-483c15477648",

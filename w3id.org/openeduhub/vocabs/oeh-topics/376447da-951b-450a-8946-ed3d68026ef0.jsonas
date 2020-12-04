@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/376447da-951b-450a-8946-ed3d68026ef0",
   "type": "Service",
+  "name": "Wahrscheinlichkeit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33373634343764612d393531622d343530612d383934362d656433643638303236656630",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F376447da-951b-450a-8946-ed3d68026ef0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F376447da-951b-450a-8946-ed3d68026ef0",

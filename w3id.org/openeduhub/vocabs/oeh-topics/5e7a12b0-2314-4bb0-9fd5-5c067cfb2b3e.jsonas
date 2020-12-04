@@ -1,6 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5e7a12b0-2314-4bb0-9fd5-5c067cfb2b3e",
   "type": "Service",
+  "name": "Trigonometrie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35653761313262302d323331342d346262302d396664352d356330363763666232623365",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5e7a12b0-2314-4bb0-9fd5-5c067cfb2b3e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5e7a12b0-2314-4bb0-9fd5-5c067cfb2b3e",

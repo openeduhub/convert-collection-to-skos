@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "GHS-Piktogramme"
   },
+  "definition": {
+    "de": "Die Bedeutung der GHS-Piktogramme, mit denen auf Gefahren hingewiesen wird, soll kennengelernt werden."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c2681cb6-356c-4888-8e61-1e7edfe65d85",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

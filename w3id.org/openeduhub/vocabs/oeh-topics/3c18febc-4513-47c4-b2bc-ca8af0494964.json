@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Anorganische Chemie"
   },
+  "definition": {
+    "de": "Die Anorganische Chemie ist die Chemie aller kohlenstofffreien Verbindungen sowie einiger Ausnahmen"
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4384893e-1e13-4c9d-970b-29e69cc2a87c",
@@ -50,14 +53,17 @@
       }
     }
   ],
-  "inScheme": {
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
-    "title": {
+    "prefLabel": {
       "de": "Chemie"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

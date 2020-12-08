@@ -44,14 +44,17 @@
       }
     }
   ],
-  "inScheme": {
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d0ed50e6-a49f-4566-8f3b-c545cdf75067",
-    "title": {
+    "prefLabel": {
       "de": "Nachhaltigkeit"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d0ed50e6-a49f-4566-8f3b-c545cdf75067"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

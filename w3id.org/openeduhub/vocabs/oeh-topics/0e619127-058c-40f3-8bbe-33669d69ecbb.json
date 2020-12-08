@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Stoffeigenschaft Dichte"
   },
+  "definition": {
+    "de": "Die Bestimmung der Dichte dient im Labor meist der praktischen Anwendung von Messmethoden. Später ist die Formel für Berechnungen in der Stöchiometrie wichtig."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3d589846-67e0-45d1-869c-7b94d0538e0a",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

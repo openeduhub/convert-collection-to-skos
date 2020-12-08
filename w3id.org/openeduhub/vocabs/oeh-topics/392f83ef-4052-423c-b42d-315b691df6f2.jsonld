@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Reaktionsmechanismen"
   },
+  "definition": {
+    "de": "Der Reaktionsmechanismus gibt Auskunft über den exakten Ablauf der Teilschritte einer chemischen Reaktion. Sind sind teilweise charakteristisch für bestimmte Arten von Verbindungen."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/20730859-395a-42c5-be5a-0a540b43150a",
@@ -57,9 +60,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

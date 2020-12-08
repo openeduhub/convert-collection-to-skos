@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Sätze "
   },
+  "definition": {
+    "de": "Die Stellung der einzelnen Satzglieder im Spanischen unterscheidet sich vom Deutschen. Hier findest du alles, was du über Sätze und ihre Bildungen wissen musst."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/541e8ce4-d138-46ad-a878-26f2e0af81dd",
@@ -56,14 +59,17 @@
       }
     }
   ],
-  "inScheme": {
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/11bdb8a0-a9f5-4028-becc-cbf8e328dd4b",
-    "title": {
+    "prefLabel": {
       "de": "Spanisch"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/11bdb8a0-a9f5-4028-becc-cbf8e328dd4b"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

@@ -6,14 +6,20 @@
   "prefLabel": {
     "de": "Finden, Verwenden, Produzieren"
   },
-  "inScheme": {
+  "definition": {
+    "de": "03. OER Finden, Verwenden, Produzieren\n___________________________________ \nDie Sammlung “Finden, Verwenden, Produzieren” enthält umfangreiche Informations- und Qualifizierungs-Materialien zu Open Educational Resources (OER), die sich mit den Themen  “Wie findet man OER?”, “Wie verwendet man OER in Lehre und Unterricht?” und “Wie veröffentlicht man seine eigenen OER?” auseinandersetzen. Derzeit enthält sie zudem die Untersammlung “OER Erklärfilme”.\nArt der Materialien: Fallbeispiele, Checklisten, PowerPoint Präsentationen, Werbematerial, Wikis, Broschüren, sonstige Publikationen\n\nMapping OER - Bildungsmaterialien gemeinsam gestalten, Atelier Disko, Hamburg und Berlin"
+  },
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a87c092d-e3b5-43ef-81db-757ab1967646",
-    "title": {
+    "prefLabel": {
       "de": "Open Educational Resources (OER)"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a87c092d-e3b5-43ef-81db-757ab1967646"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

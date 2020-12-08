@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Substitution"
   },
+  "definition": {
+    "de": "Eine Substitutionsreaktion ist eine chemische Reaktion, bei der Atome oder Atomgruppen in einem Molekül durch ein anderes Atom oder eine andere Atomgruppe ersetzt werden."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/392f83ef-4052-423c-b42d-315b691df6f2",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

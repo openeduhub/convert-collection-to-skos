@@ -1,1 +1,192 @@
-{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bd8be6d5-0fbe-4534-a4b3-773154ba6abc","type":"ConceptScheme","title":{"de":"Mathematik"},"hasTopConcept":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2d34688d-00b6-47f7-8522-31909c2671b4","prefLabel":{"de":"Arithmetik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/00da2fcc-64b5-4db7-9b9b-d41e7381aca9","prefLabel":{"de":"Potenzen, Logarithmen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/18bc7c0d-b1d6-4b36-b76d-aaab01f4cac2","prefLabel":{"de":"Potenzen mit gebrochenen Exponenten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/33410c41-bbdb-466a-bf76-c4f14ea0520a","prefLabel":{"de":"Potenzen mit negativen Exponenten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6224c75c-2d8a-4e2c-b152-f144ed651621","prefLabel":{"de":"Potenzgesetze"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e10ad95c-2fdb-440c-a955-f5a654d24d6a","prefLabel":{"de":"Logarithmen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/07238f71-8db8-498e-bdcd-32ebf58d6ebf","prefLabel":{"de":"Vertiefung der Grundrechenarten"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/009742b5-a96b-40e5-b97d-75a6dd528d9c","prefLabel":{"de":"Runden"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/188224a9-af2b-4c8c-8968-48cb966a1f5d","prefLabel":{"de":"Potenzen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1d318c5b-1222-439c-b0c9-a420408706e3","prefLabel":{"de":"Rechnen mit Klammern"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/479c3c32-d2d5-4ed5-8109-4246aac046e0","prefLabel":{"de":"Rechengesetze"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8753d1b0-c985-4b63-98b3-93d90805bc07","prefLabel":{"de":"Sachaufgaben zur Vertiefung der Grundrechenarten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8f73479d-b9bc-4033-8f3d-249a83c3fc87","prefLabel":{"de":"Rechenvorteile"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/abfd80a4-5cf1-41fc-a917-90a6510bd371","prefLabel":{"de":"schriftlich Rechnen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0a62a10e-374a-46e2-a7d6-0c6954e755c0","prefLabel":{"de":"Prozente und Zinsen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/06b5437d-4843-48b8-b336-e030017b13b3","prefLabel":{"de":"Prozentsatz"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2195791b-bc99-4f5c-88bd-ad72fe5f1f01","prefLabel":{"de":"Berechnung des Zeitraums"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3d5db29e-53e7-4455-93e7-2b7db4210b84","prefLabel":{"de":"Berechnung der Zinsen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/84dc3d52-3203-4443-bda9-71a7132a27c9","prefLabel":{"de":"Zinseszinsen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9c2cf28c-9294-4b9f-88e8-2931384b2410","prefLabel":{"de":"Sachaufgaben zu Prozenten und Zinsen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a53348c1-0233-4a40-bf2a-4fe4baab449d","prefLabel":{"de":"Grundlagen der Prozentrechnung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b6863788-84bc-4240-8815-f8f6eb164684","prefLabel":{"de":"Prozentrechnung: Formel umstellen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b8523db2-c88b-48ef-a6bd-d838ec1be360","prefLabel":{"de":"Berechnung des Zinssatzes"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b9c6e9d5-64e1-412c-8906-8b1ceafd165a","prefLabel":{"de":"Grundwert"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bdd22416-da27-4c50-a587-d01b5c544f12","prefLabel":{"de":"Berechnung des Kapitals"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/dd6c6cee-c902-445b-ab87-47818cb0c940","prefLabel":{"de":"Prozentwert"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/7fccdc6c-dc31-40c4-8a4b-6cf0b55b433c","prefLabel":{"de":"Negative Zahlen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c9022bf8-04ad-478b-9384-3474f2d44e93","prefLabel":{"de":"Dezimalzahlen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/347055ee-17fb-425d-ac33-2c16b5f484e8","prefLabel":{"de":"Vergleich von Dezimalzahlen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/49c990d3-3578-4486-ac9f-83c83d075c26","prefLabel":{"de":"Dezimalschreibweise"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/aa4c3663-5570-42fa-8dc3-b51d4c1a655f","prefLabel":{"de":"Rechnen mit Dezimalzahlen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bcceb32d-6629-40d2-a4fd-ed25155b9fc8","prefLabel":{"de":"Runden von Dezimalzahlen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/dd7db17a-212f-4a31-983b-c388e20b0690","prefLabel":{"de":"Periodische Dezimalzahlen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f119782e-7a6d-4f3a-9088-494a6fe757dd","prefLabel":{"de":"Dezimalzahlen und Brüche"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ca5a3030-f830-45e2-88eb-2b32883a9888","prefLabel":{"de":"Römische Zahlen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ca93c23d-ae33-4100-91e4-0769c8079e97","prefLabel":{"de":"Dualzahlen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/cbd48511-a82f-48e7-bb0d-d059af6027c7","prefLabel":{"de":"Teiler, Primzahlen, Vielfache"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4d990f30-edbf-4549-b443-ec93d604e26a","prefLabel":{"de":"Primzahlen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/cb98a12d-d040-4e9c-8e0b-c2c30097a8d5","prefLabel":{"de":"Teilbarkeitsregeln"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f0585c9f-faf2-4e71-b361-25dd0eccc8ea","prefLabel":{"de":"Gemeinsame Teiler, gemeinsame Vielfache"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d6c88b81-b639-4b89-94d7-c0507a3e90be","prefLabel":{"de":"Bruchrechnung"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1d926161-36be-491c-96f4-cead912881a1","prefLabel":{"de":"Besondere Brüche"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9e1b142f-3c9b-4c0a-8a67-d801bb2f863b","prefLabel":{"de":"Addition und Subtraktion von Brüchen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ac18e9bf-3209-4606-a598-e8e290c9b999","prefLabel":{"de":"Grundlagen der Bruchrechnung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d2f27cc4-57d1-4741-890c-d1455512c28f","prefLabel":{"de":"Erweitern und Kürzen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fd260ea1-fe69-4eab-8343-0c8898ea1a76","prefLabel":{"de":"Multiplikation und Division von Brüchen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e68627d7-5cb8-45b4-a2ff-e65d258ddbdd","prefLabel":{"de":"Wurzeln"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/089688c5-1ff2-4890-a87b-3f2e25d0792a","prefLabel":{"de":"Wurzel näherungsweise berechnen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/91e06fd0-dabc-4d72-9e40-230e48a1e0bf","prefLabel":{"de":"Reelle Zahlen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fbb5f055-87e9-44e2-bce3-d3c39f8397c1","prefLabel":{"de":"Wurzelgesetze"}}]}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/35515325-20a7-4c7e-b490-f1acd437e31a","prefLabel":{"de":"Wahrscheinlichkeit (Sek I)"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5e9f0d4a-8f49-4239-9460-09993bb0b504","prefLabel":{"de":"stochastische Unabhängigkeit"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/68bf22c1-3455-4b22-a05d-4fce536bceeb","prefLabel":{"de":"Vierfeldertafel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/852b7ee1-bda5-446b-93e4-486892c33105","prefLabel":{"de":"Bernoulli-Experimente, Binomialverteilung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c5a50244-ebad-4f28-b279-3bea2bce7609","prefLabel":{"de":"bedingte Wahrscheinlichkeit"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c5ab8d4f-acf4-4966-9125-308216dc2e70","prefLabel":{"de":"Normalverteilung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/dac17be7-2681-4455-b58c-2bf05799b51b","prefLabel":{"de":"Erwartungswert und Standardabweichung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e5bfd039-07ac-459c-9b8f-1cd0b52732c5","prefLabel":{"de":"Zufallsexperimente und Wahrscheinlichkeiten"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/376447da-951b-450a-8946-ed3d68026ef0","prefLabel":{"de":"Wahrscheinlichkeit"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1836b0ac-a5ec-4dc1-bdf0-e3d902e84ac7","prefLabel":{"de":"Vierfeldertafel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/607e2315-1709-440b-a3cb-fd300998abd3","prefLabel":{"de":"Begriff der Wahrscheinlichkeit"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/81edc46c-429c-4a39-a677-88da999aefc8","prefLabel":{"de":"Baumdiagramm und Pfadregel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b490212a-8cb8-41c7-b5b7-cf976ea58762","prefLabel":{"de":"Absolute und relative Häufigkeit"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c38d035c-0928-4d6f-8f8b-b9896cd3e6da","prefLabel":{"de":"bedingte Wahrscheinlichkeit"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e007d11f-5a40-428d-b96a-25238a9f6543","prefLabel":{"de":"Laplace-Wahrscheinlichkeit – Summenregel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/efecec55-495e-444c-8dd2-ec7a1c0d237b","prefLabel":{"de":"stochastische Unabhängigkeit"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fd6d24d1-b962-4c07-a88c-806f2c1d7726","prefLabel":{"de":"Statistische Grundbegriffe"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/40d595c7-ed57-4fb1-af55-10a22affe308","prefLabel":{"de":"Figuren"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1b648051-f596-4080-86f3-791a7cd77b60","prefLabel":{"de":"Winkel messen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5834a088-cd9b-4510-850e-744718eb7b23","prefLabel":{"de":"Verschiebungen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/7d376504-45e1-43a9-bc44-8d0ced42baae","prefLabel":{"de":"Drehungen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/44c952b2-5397-40f7-b9d8-19432fa58eee","prefLabel":{"de":"Zuordnungen, Funktionen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3976774a-b3fb-4bc3-91f9-0475b70a6de1","prefLabel":{"de":"Quadratische Funktionen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2e610a04-b222-433e-96d7-a42bc06efc5f","prefLabel":{"de":"Normalparabel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8be67366-0153-4674-8009-eb9fd472fda6","prefLabel":{"de":"Scheitelpunktsform der Parabelgleichung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d2b52e34-3ebc-4433-a11b-de605774ac3f","prefLabel":{"de":"Streckung und Verschiebung der Normalparabel"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b68335b8-6a1f-4c45-ab11-da49d02a1786","prefLabel":{"de":"Proportionale und antiproportionale Zuordnungen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bd85676b-8660-400b-9521-330b5b09cad1","prefLabel":{"de":"Funktionsbegriff"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c9fa4417-f7b9-4874-b37b-e8c9f5583d1e","prefLabel":{"de":"Lineare Funktionen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5e7a12b0-2314-4bb0-9fd5-5c067cfb2b3e","prefLabel":{"de":"Trigonometrie"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1ab711ea-181c-4daf-aa83-4e1382d52e4e","prefLabel":{"de":"Winkelfunktionen im rechtwinkligen Dreieck"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3ad81f6e-7f96-41a7-851f-0064d623e4b5","prefLabel":{"de":"Sinussatz und Kosinussatz"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d7bdc30e-a6c9-4abd-91de-ecd95b05b51d","prefLabel":{"de":"Bogenmaß"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/eabd1c50-886f-4937-a242-1d10bb8c71a2","prefLabel":{"de":"Winkelfunktionen am Einheitskreis"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/609079e6-0dad-41e2-bd16-a868c0e8b612","prefLabel":{"de":"Symmetrie senkrecht/ parallel/ symmetrisch"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bb9f4f8e-dbdd-4a96-a187-0ca8df8be8fb","prefLabel":{"de":"Koordinatensystem"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/80944184-4cf2-4cc0-9a79-4f5b24dd8f48","prefLabel":{"de":"Klassenarbeiten Primarstufe"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/90c6411f-eadc-4478-b668-866ed6eb9012","prefLabel":{"de":"Räumliche und ebene Geometrie"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/55a00891-f7db-403d-adbb-2ea0220caa94","prefLabel":{"de":"Kegelschnitte"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6a1aa6f4-5a29-4d66-94c9-35845524c775","prefLabel":{"de":"Räumliche Geometrie"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4094a984-2d86-4dd5-ba58-fdb8c6224606","prefLabel":{"de":"Prisma"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6ab1314a-fc25-48df-a00d-947bcfa6e4f0","prefLabel":{"de":"Quader und Würfel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/781ccad4-a187-4290-bbea-f6fb423a1acc","prefLabel":{"de":"Kugel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9273f22f-7cfb-4fec-9e40-fcad42783024","prefLabel":{"de":"Kegel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b9451767-96d7-4eaa-9aa1-dd3b3ffa43fa","prefLabel":{"de":"Zylinder"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fe680e4c-e755-4fb4-aaf4-bbd5d54154ea","prefLabel":{"de":"Pyramide"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8a752bc4-e616-4f70-a1b6-60099d43cd2a","prefLabel":{"de":"Ebene Geometrie"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/027c17e9-614e-490f-a9b8-99a9157ae85e","prefLabel":{"de":"Vierecke"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/05e67c0d-2239-43cb-84b3-abc17c605dc0","prefLabel":{"de":"Inkreis, Umkreis, Schwerpunkt"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2d1182dd-dff5-45ca-ad80-868ef3957822","prefLabel":{"de":"Kreise"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4962e9d9-fb54-4faf-9116-8177decf2b14","prefLabel":{"de":"Besondere Winkel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/51ba2b6a-95dc-4dbc-85e4-fb3a5156e2f2","prefLabel":{"de":"Ähnlichkeit, Strahlensätze"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5a376d0e-a7a9-4f2e-ade8-cb2913182ff3","prefLabel":{"de":"Senkrechte und Parallelen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/874aba2c-5ca9-43d7-892a-c1496bda00ea","prefLabel":{"de":"Dreieckskonstruktionen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/995536ab-bee1-4de5-9978-237caf680fac","prefLabel":{"de":"Satzgruppe des Pythagoras"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bdac8950-7b4d-4388-b33a-7766a6569c92","prefLabel":{"de":"Winkelsummen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fb28b42d-a262-48bc-86a9-0b27ce7f70bd","prefLabel":{"de":"Satz des Thales"}}]}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9b8c8454-2435-4d30-84c4-60eb03c972d1","prefLabel":{"de":"Zahlen bis..."},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/09a878ca-c1b1-4fa1-8857-516ab74b0482","prefLabel":{"de":"Zahlen bis 100"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1a186be8-1f83-44ba-81e9-3162b3b61d0e","prefLabel":{"de":"Zahlen bis 10"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5f1483a1-bc38-4aab-b9bd-3242d2d1ee49","prefLabel":{"de":"Zahlen bis 20"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/aaa343bb-74c9-414c-b8bf-071ed514b4b9","prefLabel":{"de":"Zahlen bis 100.000"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d2205682-e5ed-41be-971c-ba8e1a2d037e","prefLabel":{"de":"Zahlen bis 1000"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e08a0890-97d5-4f83-93ed-fd10ad316a6b","prefLabel":{"de":"Zahlen bis 10.000"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ba0dda9d-8c4c-42ab-b28b-4bc673086b98","prefLabel":{"de":"Grundrechenarten"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0ce8c644-3fed-4d64-a63b-b0ae2c1b6311","prefLabel":{"de":"Runden und Überschlag"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4441b15b-bbae-46bf-8311-b966f51cc957","prefLabel":{"de":"Zahlen zerlegen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/66fc2282-f854-4854-a747-d4ed7be10571","prefLabel":{"de":"Subtraktion"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/85366f86-98a5-4ba1-a536-db066bdb9165","prefLabel":{"de":"Addition"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c6f4b917-7506-4f4f-9145-bfe6659bfad7","prefLabel":{"de":"Zahlenvergleich"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/cfcfa430-7baf-4a6e-8ece-17b75a2a2f69","prefLabel":{"de":"Sachaufgaben"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e5b49679-8c00-4b3c-aca4-8735fd08b182","prefLabel":{"de":"Division"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/edf5fae0-e45d-4a69-8d11-c99da8601e6f","prefLabel":{"de":"Multiplikation"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c690705e-f69d-40c6-a00b-1482493980bd","prefLabel":{"de":"Muster, Körper, Maße, Zeiten"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/28678824-c961-4feb-ac88-83cff16a40c6","prefLabel":{"de":"Maßeinheiten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4d1b503f-7bde-459d-b01e-add1e1867ae0","prefLabel":{"de":"Die Uhr"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/806f28e6-3d4a-4013-97ca-6f297d8d8913","prefLabel":{"de":"Körper"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/aaa64ef2-e856-4702-962f-f1ffc8d48889","prefLabel":{"de":"Muster"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/cb0e5d18-5754-43cb-b217-0b1c1e4e1907","prefLabel":{"de":"Symmetrie"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c7f85560-af0c-4223-950e-94e9f831254a","prefLabel":{"de":"Flächeninhalte/ Umfang"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0dac21cf-8af7-4235-82ff-a883dee68731","prefLabel":{"de":"Flächeninhalt eines Rechtecks"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4910ece2-9291-404b-85f3-e5131c799628","prefLabel":{"de":"Umfang"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/617c7df1-302b-4cad-b137-b09bd44ead42","prefLabel":{"de":"Flächeneinheiten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8065abae-2fc6-4976-995d-b12d6ff71a27","prefLabel":{"de":"Flächeninhalt eines rechtwinkligen Dreiecks"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/cd061d87-33ca-4f2d-8566-70df93470b70","prefLabel":{"de":"Flächeninhalt eines Dreiecks"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f15f727c-9a5a-4f20-b1be-483c15477648","prefLabel":{"de":"Analytische Geometrie"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0a5332ae-0a10-452c-9c1d-73466b9fdb49","prefLabel":{"de":"Der Begriff des Vektors"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/32d6a520-8708-438f-8079-239a204c3bae","prefLabel":{"de":"Betrag eines Vektors"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4907bd38-4fb8-45e8-ab5e-f7dcac28b95f","prefLabel":{"de":"Weitere Verteilungen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4546aae8-0488-47dc-8bd2-1068a9670c55","prefLabel":{"de":"Exponentialverteilung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/832846aa-5b91-4325-a595-dc8144e95eae","prefLabel":{"de":"Näherungsformel von De Moivre-Laplace"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/901f7bb5-1692-453c-83f1-ac998fa6525d","prefLabel":{"de":"Geometrische Verteilung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d6dcd9d0-711a-4c8e-b059-88bd75a90b52","prefLabel":{"de":"Hypergeometrische Verteilung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fa0b42e9-3e61-4d19-9bf8-df2a6797556f","prefLabel":{"de":"Normalverteilung"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/500808db-d098-42b5-bd2d-effa5c5e36eb","prefLabel":{"de":"Lineare Abhängigkeit / Unabhängigkeit"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/740b7931-0e70-4bec-8766-f1340acae5b0","prefLabel":{"de":"Multiplikation eines Vektors mit einer Zahl"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/74b93d41-9cfd-40f1-8dc3-abe3bae89982","prefLabel":{"de":"Prozesse und Matrizen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0079c8ad-e2f9-4374-adc4-c96bbac53ca5","prefLabel":{"de":"Zweistufige Prozesse und Multiplikation von Matrizen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/81c69ac3-fe8c-470f-9eb7-1a60fdd8d54c","prefLabel":{"de":"Beschreibung von Prozessen durch Matrizen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8ddd7572-dab1-429a-b90e-ac90e3164f93","prefLabel":{"de":"Geometrische Abbildungen und Matrizen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/02f18876-ab2b-4ccf-b8bb-61d2ea0deb59","prefLabel":{"de":"Abbildungen durch Matrizen darstellen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/65ad6c81-04c9-4d95-86af-9fb2a438c2a5","prefLabel":{"de":"Affine Abbildungen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/90159fe5-e0d9-4f2b-be91-30a957c116da","prefLabel":{"de":"Geometrische Abbildungen und Abbildungsgleichungen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/90c65b97-deea-411f-a3bf-ba82d2204bc7","prefLabel":{"de":"Wahrscheinlichkeitsrechnung"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/14f7cb5d-1089-4db1-9107-6ec67b2179f7","prefLabel":{"de":"Bernoulli-Ketten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2148250a-4202-4284-a925-222c527f8ea1","prefLabel":{"de":"Mehrstufige Zufallsexperimente"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/97f59d3e-fd7e-43cb-9549-51040bb8316d","prefLabel":{"de":"Testen von Hypothesen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/eba0b11a-869b-427a-b5c4-a9c05302ef0b","prefLabel":{"de":"Binomialverteilung"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9186ba08-ed26-41e7-8d28-5035f2294bb3","prefLabel":{"de":"Lineare Gleichungssysteme"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a951f979-d27e-44d5-97ad-2bfc967f08f2","prefLabel":{"de":"Punkte und Vektoren im Koordinatensystem"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/aa79f5bc-d5e8-4d47-8739-2ce15741e60f","prefLabel":{"de":"Geraden und Ebenen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/33c9c70e-2b30-4e01-b2ba-26a7b8c8fa73","prefLabel":{"de":"Parametergleichung einer Geraden"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/7f6a2aba-fbc3-4f00-94a5-9ab04b5642df","prefLabel":{"de":"Ebenen und Geraden"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/986e9d35-8887-4aa1-b41e-ecd323687cf2","prefLabel":{"de":"Gegenseitige Lage von Geraden"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b4e0efe8-11ac-43ed-b04b-5444e9be6cf8","prefLabel":{"de":"Normalenform einer Ebene"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/dfbc4062-f0c2-40a9-b5e9-cfdd2e13a647","prefLabel":{"de":"Gegenseitige Lage von Ebenen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f917a67f-e971-429a-af53-36ce16e11af2","prefLabel":{"de":"Parametergleichung von Ebenen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c2fe8b51-89c6-42d4-9d37-51624c4ff7fd","prefLabel":{"de":"Addition und Subtraktion von Vektoren"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c4f9577a-9aef-4187-9db5-713f256bf3b2","prefLabel":{"de":"Winkel und Abstände"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/492750d9-2f3a-4568-b213-05f5876dc26d","prefLabel":{"de":"Abstand eines Punktes von einer Ebene"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/98608754-e249-4034-97cf-679c4b23cbc4","prefLabel":{"de":"Die Hessesche Normalenform"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9cccd279-76ff-4b6d-b20b-0062331f934c","prefLabel":{"de":"Skalarprodukt von Vektoren"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b5182cd6-55ec-41c2-9e00-ee016012a91a","prefLabel":{"de":"Normalenform der Ebenengleichung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c3bc7332-7f9e-4191-a182-4bcf1e169479","prefLabel":{"de":"Winkel zwischen Vektoren"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c764c9df-fe3d-4ba2-bf89-e9801e66dc74","prefLabel":{"de":"Abstand windschiefer Geraden"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d3344e6d-66f1-4827-81ee-a6cd6e9a61bc","prefLabel":{"de":"Vektorprodukt"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f3c11ec7-cf59-45c0-95db-af0396dd7e19","prefLabel":{"de":"Statistik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/267f9232-2abc-4627-9865-30cb823f4660","prefLabel":{"de":"Arithmetisches Mittel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/44b6a19c-ab03-494f-bb64-f05718fa1aaf","prefLabel":{"de":"Boxplots"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6233b8f0-0fd2-4c77-b0f3-4aebc0c03463","prefLabel":{"de":"Median"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/97b881ca-442b-452c-99e1-41c4662d5502","prefLabel":{"de":"Boxplots"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d1fd5681-7e09-493d-8cca-a39b30cdc89c","prefLabel":{"de":"Urliste, Strichlister, absolute und relative Häufigkeiten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e0b90ee1-a9a1-4132-aa39-619b4232cb8d","prefLabel":{"de":"Boxplots"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fb4cf5df-b133-41df-b82d-801c5531c29c","prefLabel":{"de":"Terme, Gleichungen, Ungleichungen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/216afeb6-e115-4405-a3bf-815abd7713fe","prefLabel":{"de":"Gleichungen und Ungleichungen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/15804388-a34e-4093-a999-1b313bc9e96b","prefLabel":{"de":"Quadratische Gleichungen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/39f845f1-65d5-4f46-ba51-918133501101","prefLabel":{"de":"Ungleichungen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/92c528b8-850c-49cb-b938-a64daaeb9126","prefLabel":{"de":"Aufstellen und Lösen von Gleichungen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ae31ec5b-e8e2-4db2-be4a-c82e9af0e376","prefLabel":{"de":"Lineare Gleichungssysteme"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bf9543bb-2999-4efc-b9c7-e0e852af5c7e","prefLabel":{"de":"Terme"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ab03c6ab-f732-476d-9f80-959535894cc7","prefLabel":{"de":"Binomische Formeln"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ae6fc547-6b05-41b0-8d4e-a3d857c3685f","prefLabel":{"de":"Vereinfachung von Termen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c15f9590-62af-442e-a1f0-d66d1db33a84","prefLabel":{"de":"Terme und Variablen"}}]}]}],"@context":{"@version":1.1,"id":"@id","type":"@type","@vocab":"http://www.w3.org/2004/02/skos/core#","xsd":"http://www.w3.org/2001/XMLSchema#","dct":"http://purl.org/dc/terms/","schema":"http://schema.org/","vann":"http://purl.org/vocab/vann/","as":"https://www.w3.org/ns/activitystreams#","ldp":"http://www.w3.org/ns/ldp#","title":{"@id":"dct:title","@container":"@language"},"description":{"@id":"dct:description","@container":"@language"},"issued":{"@id":"dct:issued","@type":"xsd:date"},"created":{"@id":"dct:created","@type":"xsd:date"},"modified":{"@id":"dct:modified","@type":"xsd:date"},"creator":"dct:creator","publisher":"dct:publisher","preferredNamespacePrefix":"vann:preferredNamespacePrefix","preferredNamespaceUri":"vann:preferredNamespaceUri","isBasedOn":"schema:isBasedOn","source":"dct:source","prefLabel":{"@container":"@language"},"altLabel":{"@container":["@language","@set"]},"definition":{"@container":"@language"},"scopeNote":{"@container":"@language"},"note":{"@container":"@language"},"notation":{"@container":"@set"},"narrower":{"@container":"@set"},"narrowerTransitive":{"@container":"@set"},"broaderTransitive":{"@container":"@set"},"followers":"as:followers","inbox":"ldp:inbox"}}
+{
+  "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bd8be6d5-0fbe-4534-a4b3-773154ba6abc",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbd8be6d5-0fbe-4534-a4b3-773154ba6abc",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbd8be6d5-0fbe-4534-a4b3-773154ba6abc",
+  "prefLabel": {
+    "de": "Mathematik"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2d34688d-00b6-47f7-8522-31909c2671b4",
+      "prefLabel": {
+        "de": "Arithmetik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/35515325-20a7-4c7e-b490-f1acd437e31a",
+      "prefLabel": {
+        "de": "Wahrscheinlichkeit (Sek I)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/376447da-951b-450a-8946-ed3d68026ef0",
+      "prefLabel": {
+        "de": "Wahrscheinlichkeit"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/40d595c7-ed57-4fb1-af55-10a22affe308",
+      "prefLabel": {
+        "de": "Figuren"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/44c952b2-5397-40f7-b9d8-19432fa58eee",
+      "prefLabel": {
+        "de": "Zuordnungen, Funktionen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e7a12b0-2314-4bb0-9fd5-5c067cfb2b3e",
+      "prefLabel": {
+        "de": "Trigonometrie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/609079e6-0dad-41e2-bd16-a868c0e8b612",
+      "prefLabel": {
+        "de": "Symmetrie senkrecht/ parallel/ symmetrisch"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/80944184-4cf2-4cc0-9a79-4f5b24dd8f48",
+      "prefLabel": {
+        "de": "Klassenarbeiten Primarstufe"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/90c6411f-eadc-4478-b668-866ed6eb9012",
+      "prefLabel": {
+        "de": "Räumliche und ebene Geometrie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b8c8454-2435-4d30-84c4-60eb03c972d1",
+      "prefLabel": {
+        "de": "Zahlen bis..."
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ba0dda9d-8c4c-42ab-b28b-4bc673086b98",
+      "prefLabel": {
+        "de": "Grundrechenarten"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c690705e-f69d-40c6-a00b-1482493980bd",
+      "prefLabel": {
+        "de": "Muster, Körper, Maße, Zeiten"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c7f85560-af0c-4223-950e-94e9f831254a",
+      "prefLabel": {
+        "de": "Flächeninhalte/ Umfang"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d6479851-c1a9-4435-845b-331580dac6db",
+      "prefLabel": {
+        "de": "Analysis"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f15f727c-9a5a-4f20-b1be-483c15477648",
+      "prefLabel": {
+        "de": "Analytische Geometrie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f3c11ec7-cf59-45c0-95db-af0396dd7e19",
+      "prefLabel": {
+        "de": "Statistik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fb4cf5df-b133-41df-b82d-801c5531c29c",
+      "prefLabel": {
+        "de": "Terme, Gleichungen, Ungleichungen"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
+  },
+  "topConceptOf": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

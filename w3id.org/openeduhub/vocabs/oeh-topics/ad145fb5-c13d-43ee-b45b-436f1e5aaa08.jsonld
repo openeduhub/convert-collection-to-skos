@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Allgemeine Chemie"
   },
+  "definition": {
+    "de": "Zur allgemeinen Chemie gehören Themen, die sowohl die Anorganik als auch die Organik betreffen."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/37e52144-ac0f-4622-b03c-9cea7749d8a5",
@@ -38,14 +41,17 @@
       }
     }
   ],
-  "inScheme": {
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
-    "title": {
+    "prefLabel": {
       "de": "Chemie"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

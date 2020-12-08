@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Grammatik"
   },
+  "definition": {
+    "de": "Wann benutzt man nochmal Indefinido und wann Imperfecto? Hier findest du alles rund um die spanische Grammatik, praktische Übersichten,  Arbeitsblätter, digitale Übungen, Lernspiele Erklärvideos und noch vieles mehr. "
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0ec7a5c0-3c06-489d-a3d3-66fa139c2d2e",
@@ -74,14 +77,17 @@
       }
     }
   ],
-  "inScheme": {
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/11bdb8a0-a9f5-4028-becc-cbf8e328dd4b",
-    "title": {
+    "prefLabel": {
       "de": "Spanisch"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/11bdb8a0-a9f5-4028-becc-cbf8e328dd4b"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

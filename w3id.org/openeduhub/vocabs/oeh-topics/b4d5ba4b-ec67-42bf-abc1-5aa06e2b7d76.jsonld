@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Ionenbindung bei Salzen"
   },
+  "definition": {
+    "de": "Die Ionenbindung zwischen verschiedenen geladenen Teilchen beruht auf der elektrostatischen Anziehung. Sie bestimmt die Eigenschaften der Salze."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a3f828d4-1eaa-46c6-9179-5ec68aa73194",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3cfc7b7f-5670-421c-96e4-48655def3471",
+  "type": "Service",
+  "name": "Liste (alt)",
+  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33636663376237662d353637302d343231632d393665342d343836353564656633343731",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3cfc7b7f-5670-421c-96e4-48655def3471",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3cfc7b7f-5670-421c-96e4-48655def3471",
+  "publicKey": {
+    "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3cfc7b7f-5670-421c-96e4-48655def3471#main-key",
+    "owner": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3cfc7b7f-5670-421c-96e4-48655def3471",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

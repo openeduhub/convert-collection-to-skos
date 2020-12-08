@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Trennverfahren und Gemische"
   },
+  "definition": {
+    "de": "Mit Hilfe der Stoffeigenschaften kann man Gemische auftrennen. Je nach Gemischkomponenten nutzt man verschiedene Trennmethoden."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3d589846-67e0-45d1-869c-7b94d0538e0a",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

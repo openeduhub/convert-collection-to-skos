@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "stochastische Unabhängigkeit"
   },
+  "definition": {
+    "de": "Zwei Ereignisse A und B sind stochastisch unabhängig, wenn das Eintreten des einen Ereignisses das Eintreten des anderen Ereignisses nicht beeinflusst."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/376447da-951b-450a-8946-ed3d68026ef0",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bd8be6d5-0fbe-4534-a4b3-773154ba6abc",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Mathematik"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

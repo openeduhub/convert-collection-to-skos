@@ -1,1 +1,180 @@
-{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/94f22c9b-0d3a-4c1c-8987-4c8e83f3a92e","type":"ConceptScheme","title":{"de":"Physik"},"hasTopConcept":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0b3a729c-b006-499c-8da9-251657fbe52b","prefLabel":{"de":"Kernphysik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/47e6b1d9-8bb6-411c-be11-ece5736c739a","prefLabel":{"de":"Grundlagen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/64d917fc-a952-4a4f-be24-28870fb69408","prefLabel":{"de":"Kernspaltung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6870879c-315c-4a6c-b8df-41da285fb4cd","prefLabel":{"de":"Kernfusion"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/930b370e-9129-4b82-a1af-ba1cf34a014a","prefLabel":{"de":"Radioaktivität"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a3e2c6f1-b534-4fef-bb17-eee42c6111af","prefLabel":{"de":"Kernmodelle"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ddcb52c7-5ae3-4ff7-9cf4-8dfdc14c647d","prefLabel":{"de":"Kernreaktionen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/256377d9-ca30-4280-9cfb-64fb4c45a998","prefLabel":{"de":"Mechanik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/50d93eab-83e8-4f62-8887-5b90d9488324","prefLabel":{"de":"Kräfte"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1bff4d1d-3ce4-49d5-935b-9f6deaddb1c9","prefLabel":{"de":"Arten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/65424653-539f-48df-a30d-c27b6097ca07","prefLabel":{"de":"Addition & Zerlegung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d9cc463a-9619-4ead-9437-9592abf00229","prefLabel":{"de":"Hooksches Gesetz"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5eb63223-6b0d-4b3f-9266-155d1aa7ab01","prefLabel":{"de":"Newtonsche Gesetze"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0bfde870-03c2-4706-86ec-fe5f19f4a64f","prefLabel":{"de":"Wechselwirkungsprinzip"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/21cfa69d-98d0-4152-90e3-5ed3fd9b4f21","prefLabel":{"de":"Trägheitsprinzip"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9f34bee1-9cff-4222-8697-06135d2e264d","prefLabel":{"de":"Grundgleichung der Mechanik"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/877c65b8-78c3-46b3-9eb1-86f1083cbfbe","prefLabel":{"de":"Bewegungen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0a81707d-fd92-4190-9c7b-2b931fb84f8b","prefLabel":{"de":"Gleichförmige Bewegung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/88733fb3-e348-417b-9883-4ac2b9aa2d41","prefLabel":{"de":"Kreis- / Drehbewegungen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8fc65ca7-d21c-445c-80f2-91d7f64f1689","prefLabel":{"de":"Beschleunigt"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9bf51538-d670-4acb-89fa-1217ba12774f","prefLabel":{"de":"Einfache Maschinen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a188f17a-5705-4a30-bd42-ae39d6ed0432","prefLabel":{"de":"Impuls"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b16a309b-0edf-4b0a-83f3-2ca765cad0f2","prefLabel":{"de":"Masse, Volumen, Dichte"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/656b3238-d2e4-4940-9cb5-e23bbe053005","prefLabel":{"de":"Druck & Auftrieb"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/dcaade7e-4045-4494-99cc-0a28eb434683","prefLabel":{"de":"Reibung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e8c79aa0-b438-476e-b863-a8a6ed5cae2c","prefLabel":{"de":"Arbeit, Leistung, Wirkungsgrad"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ffa05eb0-d428-4b2b-9b06-755bdbcbc0bd","prefLabel":{"de":"Mechanische Energie"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3c044300-e8da-4f49-a693-eddf5f3ef73f","prefLabel":{"de":"Astronomie"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0b1181fe-a29b-4930-903a-9cbdf2c77edb","prefLabel":{"de":"Sternbeobachtung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5f0754ed-10d1-4845-9e4f-57f35f7f787d","prefLabel":{"de":"Sonne / Fixsterne"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6481eff0-eb1d-45b7-b099-ddc9f670db0a","prefLabel":{"de":"Einführung / Grundlagen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/99db3d61-6683-42e9-8ea0-c8e14534c96e","prefLabel":{"de":"Kosmologie"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/df13c01a-dd5e-4fb5-b570-845fed00fbd0","prefLabel":{"de":"Planetensystem"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3d2e9d02-348d-4f51-bb5c-6ed0fdeddcb6","prefLabel":{"de":"Elektrizitätslehre / Magnetismus"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/11674b73-3b8a-4514-a4a0-a6e1a69d8298","prefLabel":{"de":"Vertiefung E-Lehre"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/709be54b-61b1-4b12-acf9-f0da564b5530","prefLabel":{"de":"Induktion"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c23e573e-343a-4ccc-a329-f59890ace180","prefLabel":{"de":"Spule"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c607fe99-6fff-4bce-a028-3fac5377a12b","prefLabel":{"de":"Transformator Generator Motor"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f6ec2990-6978-4627-acb4-c4c7a9574d69","prefLabel":{"de":"Komplexe Schaltkreise"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/faeb111e-e1b3-4475-81aa-bb694ed9b96d","prefLabel":{"de":"Kondensator / Kapazität"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/33ce727a-9dca-418d-ae11-624f71dcb05d","prefLabel":{"de":"Grundlagen E-Lehre"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2704741a-838d-40f0-9de2-b8d33116797e","prefLabel":{"de":"Elektrostatik"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3dbe8969-39f5-4f54-a50c-effbe49557dd","prefLabel":{"de":"Stromwirkung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/753c00d1-ab5b-4f41-b28b-337049a3172e","prefLabel":{"de":"Elektrische Grundgrößen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d0095c99-3d13-47e8-bcea-e57dfd4a8b56","prefLabel":{"de":"Einfache Stromkreise"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c5d62d48-fbd3-4454-a9fe-bc37d141f548","prefLabel":{"de":"Grundlagen Magnetismus"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0e841b54-4777-4b85-b9a4-198620def422","prefLabel":{"de":"Permanentmagnetismus"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/96a16444-a5c1-4bdb-a93e-ced1aa5498d8","prefLabel":{"de":"Elektromagnetismus"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ea309400-8364-4330-b5d5-dc63f1f27149","prefLabel":{"de":"Bewegte Ladungen / Felder"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/7a02ae61-250d-4858-a589-97a5cbe07482","prefLabel":{"de":"Magnetfeld"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a1b8163c-2d3d-4c4f-8ef8-37dd846539b2","prefLabel":{"de":"Glühelektrischer Effekt"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a455f899-a3cb-4bc3-93ad-699ad9cd7403","prefLabel":{"de":"Elektrisches Feld"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c81409cc-0536-4203-9b2f-c51fb83797e9","prefLabel":{"de":"Kraft auf Leiter"}}]}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/43cd5309-9d1c-4e05-80e6-a5ef6e40a0ca","prefLabel":{"de":"Schwingungen und Wellen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/09dc6bd8-03dd-4bb4-864c-c224f86740af","prefLabel":{"de":"Mechanische Schwingungen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/694c7437-e98a-4810-bc72-7842c62de8b2","prefLabel":{"de":"Fadenpendel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8af28342-37d8-465a-b6a3-e4b5c4946499","prefLabel":{"de":"Federpendel"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/13922d17-57c7-44f6-994c-6c35811752d1","prefLabel":{"de":"Mechanische Wellen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/13c03c9b-220d-4821-a2b9-5d6ebb86e08b","prefLabel":{"de":"Elektromagnetische Wellen (s. Wellenoptik)"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/87390ea6-69c7-465c-9efb-13f7ba23acc9","prefLabel":{"de":"Elektromagnetische Schwingungen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/61c4ebff-a9d7-4001-8f14-bce0cf28e927","prefLabel":{"de":"Schwingkreis (s. E-Lehre)"}}]}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/62dbc371-2e8e-4c86-90cd-a2682153b16d","prefLabel":{"de":"Relativitätstheorie"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/21266a5f-0e9f-40c3-baef-78db5375b242","prefLabel":{"de":"Spezielle Relativitätstheorie (SRT)"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5e6028f0-ca13-460a-973f-0a052c3aa4f5","prefLabel":{"de":"Allgemeine Relativitätstheorie (ART)"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/640ad31f-0a11-44a1-bdfe-4931b992622c","prefLabel":{"de":"Energie"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5f6f53a0-b4f8-4f5a-a0a4-f92eecccffa7","prefLabel":{"de":"Energieumwandlung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a164dcce-1332-4a69-ad68-db91954cb86f","prefLabel":{"de":"Energiespeicher"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ed4516c8-c848-4b31-8c4d-2dc7f01229ef","prefLabel":{"de":"Energieformen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/65652844-fe24-4ab0-9374-02af5a0b63e3","prefLabel":{"de":"Atomphysik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0524ce0e-dbdb-48a3-80cd-249c3e769359","prefLabel":{"de":"Röntgen-Strahlung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/7eb26d5f-e0a9-46c1-99bc-a76943d5f6a8","prefLabel":{"de":"Historische Atommodelle"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a6800a2e-ce72-406f-8d08-b9f3b92ae8fd","prefLabel":{"de":"Quantenmechanisches Atommodell"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e67d03cd-9408-45de-9894-d6a47705fc38","prefLabel":{"de":"Atomarer Energieaustausch"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3e7609a6-9a7e-4189-b143-73ffd3ab85a3","prefLabel":{"de":"Festkörperphysik"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3f7a600a-5b88-4976-9f34-1ed52c32dca6","prefLabel":{"de":"Halbleiterphysik"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ecb0a81c-f2ed-4d93-a2b2-1b1fb7748849","prefLabel":{"de":"Laser"}}]}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/998f0a83-f928-400b-be4a-ac609b2dc878","prefLabel":{"de":"Teilchenphysik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0fdcd162-d01b-40f0-922b-bbd2fe1ac420","prefLabel":{"de":"Standardmodell"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/386bb7fe-c14f-4327-b27b-7053e8258f89","prefLabel":{"de":"Beschleuniger"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/dcef1170-e592-4925-8298-603baefa07d4","prefLabel":{"de":"Elementarteilchen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9e7ae956-e9df-430f-bace-f3db4b910013","prefLabel":{"de":"Optik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/95f2002f-1745-4b47-889d-8376af38fe41","prefLabel":{"de":"Farben"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bf729405-18ff-440b-9d5b-dd466ff563c3","prefLabel":{"de":"Wellenoptik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1f04a569-4e3f-4f9d-aa77-4262f0a4abce","prefLabel":{"de":"Interferenz"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9419a69a-ae66-49fd-814e-8115560c5eeb","prefLabel":{"de":"Elektromagnetisches Spektrum"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c8820c6a-54a3-4490-960b-2fa6345d0cc1","prefLabel":{"de":"Polarisation"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d309bab9-50e5-4a95-aeb4-d83c4ecea632","prefLabel":{"de":"Beugung"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d8b1849b-26a2-4d08-8dd3-0e0cb733113b","prefLabel":{"de":"Menschliches Auge"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f35c17d1-a29e-4b26-9d22-802682fad43d","prefLabel":{"de":"Geometrische Optik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9b289ccc-472b-43f3-a846-0a1c2f2e215f","prefLabel":{"de":"Licht und Schatten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9e2ecea3-f6e1-4e87-a154-d4fd7c0bf6d0","prefLabel":{"de":"Linsen / optische Geräte"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b104e2f9-5ceb-4e65-b234-43dc9130a2bb","prefLabel":{"de":"Reflexion"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c6200d4c-443c-4f32-b9d3-e6ff2f362e71","prefLabel":{"de":"Brechung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c9f069ae-33b5-474e-b8f7-9840175a7c3a","prefLabel":{"de":"Ausbreitung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f7a11ee6-86a5-4d5f-a033-7d46efc99b94","prefLabel":{"de":"Abbildungen"}}]}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a37552ec-78c4-44f2-8564-8e84e4ca26b3","prefLabel":{"de":"Quantenphysik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/28c4cee1-a987-4bfb-b227-8f36f57e33d3","prefLabel":{"de":"Elektronen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5c8fc12e-1ff9-4223-b920-5ea8cec7c65b","prefLabel":{"de":"Photonen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6f5c9f2e-f187-4a4b-9252-9d63521b3ccc","prefLabel":{"de":"Grundlagen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c0a79a8d-9f29-4056-8e1e-c0cec3f41f34","prefLabel":{"de":"Akustik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5de85c18-6451-47fd-a9f0-4e32108959ee","prefLabel":{"de":"Schallgeschwindigkeit"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/89eb5d3e-58bb-4b2a-94a1-12bc18071737","prefLabel":{"de":"menschl. Stimme & Gehör (s. Biologie)"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f35980cd-1ee9-426b-923d-422e60b6bccb","prefLabel":{"de":"Phänomene"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f427eb5f-6d9b-4133-aae7-2ad9f6911a68","prefLabel":{"de":"Akustische Schwingungen & Wellen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3e025be8-88ef-4b14-b991-16211d36eefa","prefLabel":{"de":"Quellen & Empfänger"}}]}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/cacbc7bc-833e-4360-90f0-6f828db27508","prefLabel":{"de":"Wärmelehre / Thermodynamik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/09dbf6d9-4492-4871-87a7-6397404fec20","prefLabel":{"de":"Allgemeines Gasgesetz"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/14c45a72-8439-4309-946e-f762bc9feeba","prefLabel":{"de":"Temperatur im Teilchenmodell"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6eae60ff-2ff6-4759-a2a6-2c75dea749f4","prefLabel":{"de":"Ausdehnung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/81be8023-7faa-4c16-ad09-d9600d3f21ec","prefLabel":{"de":"Wetter / Klima"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/85b4a93e-cecc-4165-a931-fa11a50504ba","prefLabel":{"de":"Wärmekraftmaschinen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a8e71db1-acaf-4e63-a906-5c104b91c231","prefLabel":{"de":"Kinetische Gastheorie"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b8c4150a-81b9-49ed-941d-039bed225281","prefLabel":{"de":"Wärmetransport"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c5addb17-2acd-41e9-9d97-b60f5a64adfa","prefLabel":{"de":"innere Energie / Wärmekapazität"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ebe18f72-ec94-407e-b700-a852c74ffd9d","prefLabel":{"de":"Deterministisches Chaos"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f1fa8806-5e67-4e6b-8140-2d52ee2cb71e","prefLabel":{"de":"Entropie"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fb7d5747-a5bd-437f-bb16-7c2b8ea89af0","prefLabel":{"de":"Methoden"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2117677f-dc71-4d55-93bb-3b509760c3aa","prefLabel":{"de":"Modellieren"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/28f3a4bf-4ece-4631-9ea7-284fb9b39c28","prefLabel":{"de":"SI-Einheiten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b0d2a7bb-3fdf-44da-8302-f9414ebd5ff0","prefLabel":{"de":"Dokumentieren"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b1ededc7-bee3-4fa4-bf98-8e661ceb527e","prefLabel":{"de":"Experimentieren"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bc3958a8-9398-49e3-a790-be05e298c312","prefLabel":{"de":"Mathematik"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c7d08fcb-568f-4757-80f5-22c7299dc3c8","prefLabel":{"de":"Physikalische Konstanten"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fdf3f75e-f240-46e8-850c-208ef1a7e1ad","prefLabel":{"de":"Geschichte / Ausblick"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/7716f7b8-7830-484a-b5c6-d4747bc1a877","prefLabel":{"de":"Geschichte der Physik"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/996d136f-ae10-4db1-924c-96842271e0fb","prefLabel":{"de":"Physik interdisziplinär"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c3bc1dc2-89d6-40ef-820e-473738862de7","prefLabel":{"de":"Persönlichkeiten der Physik"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fa24ecae-4390-49a0-b2ad-52a80c7b3e77","prefLabel":{"de":"aktuelle Projekte"}}]}],"@context":{"@version":1.1,"id":"@id","type":"@type","@vocab":"http://www.w3.org/2004/02/skos/core#","xsd":"http://www.w3.org/2001/XMLSchema#","dct":"http://purl.org/dc/terms/","schema":"http://schema.org/","vann":"http://purl.org/vocab/vann/","as":"https://www.w3.org/ns/activitystreams#","ldp":"http://www.w3.org/ns/ldp#","title":{"@id":"dct:title","@container":"@language"},"description":{"@id":"dct:description","@container":"@language"},"issued":{"@id":"dct:issued","@type":"xsd:date"},"created":{"@id":"dct:created","@type":"xsd:date"},"modified":{"@id":"dct:modified","@type":"xsd:date"},"creator":"dct:creator","publisher":"dct:publisher","preferredNamespacePrefix":"vann:preferredNamespacePrefix","preferredNamespaceUri":"vann:preferredNamespaceUri","isBasedOn":"schema:isBasedOn","source":"dct:source","prefLabel":{"@container":"@language"},"altLabel":{"@container":["@language","@set"]},"definition":{"@container":"@language"},"scopeNote":{"@container":"@language"},"note":{"@container":"@language"},"notation":{"@container":"@set"},"narrower":{"@container":"@set"},"narrowerTransitive":{"@container":"@set"},"broaderTransitive":{"@container":"@set"},"followers":"as:followers","inbox":"ldp:inbox"}}
+{
+  "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/94f22c9b-0d3a-4c1c-8987-4c8e83f3a92e",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F94f22c9b-0d3a-4c1c-8987-4c8e83f3a92e",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F94f22c9b-0d3a-4c1c-8987-4c8e83f3a92e",
+  "prefLabel": {
+    "de": "Physik"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0b3a729c-b006-499c-8da9-251657fbe52b",
+      "prefLabel": {
+        "de": "Kernphysik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/256377d9-ca30-4280-9cfb-64fb4c45a998",
+      "prefLabel": {
+        "de": "Mechanik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3c044300-e8da-4f49-a693-eddf5f3ef73f",
+      "prefLabel": {
+        "de": "Astronomie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3d2e9d02-348d-4f51-bb5c-6ed0fdeddcb6",
+      "prefLabel": {
+        "de": "Elektrizitätslehre / Magnetismus"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/43cd5309-9d1c-4e05-80e6-a5ef6e40a0ca",
+      "prefLabel": {
+        "de": "Schwingungen und Wellen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/62dbc371-2e8e-4c86-90cd-a2682153b16d",
+      "prefLabel": {
+        "de": "Relativitätstheorie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/640ad31f-0a11-44a1-bdfe-4931b992622c",
+      "prefLabel": {
+        "de": "Energie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/65652844-fe24-4ab0-9374-02af5a0b63e3",
+      "prefLabel": {
+        "de": "Atomphysik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/998f0a83-f928-400b-be4a-ac609b2dc878",
+      "prefLabel": {
+        "de": "Teilchenphysik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9e7ae956-e9df-430f-bace-f3db4b910013",
+      "prefLabel": {
+        "de": "Optik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a37552ec-78c4-44f2-8564-8e84e4ca26b3",
+      "prefLabel": {
+        "de": "Quantenphysik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c0a79a8d-9f29-4056-8e1e-c0cec3f41f34",
+      "prefLabel": {
+        "de": "Akustik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cacbc7bc-833e-4360-90f0-6f828db27508",
+      "prefLabel": {
+        "de": "Wärmelehre / Thermodynamik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fb7d5747-a5bd-437f-bb16-7c2b8ea89af0",
+      "prefLabel": {
+        "de": "Methoden"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fdf3f75e-f240-46e8-850c-208ef1a7e1ad",
+      "prefLabel": {
+        "de": "Geschichte / Ausblick"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
+  },
+  "topConceptOf": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

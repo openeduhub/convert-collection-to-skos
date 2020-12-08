@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Zwischenmolekulare Kräfte"
   },
+  "definition": {
+    "de": "Als zwischenmolekulare oder intermolekulare Kräfte bezeichnet man Wechselwirkungen zwischen Molekülen, die für sich einen stabilen Zustand haben."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/62a3ab0f-0df6-4eaa-adde-f61a2273fa40",
@@ -33,9 +36,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

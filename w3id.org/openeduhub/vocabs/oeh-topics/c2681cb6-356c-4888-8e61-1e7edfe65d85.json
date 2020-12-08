@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Sicherheit"
   },
+  "definition": {
+    "de": "Sicherheit in den Chemie-Räumen, im Chemie-Labor und bei der Nutzung von Chemikalien im Alltag"
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/400abe18-2e1b-48ae-9a7b-f1ab6aa42728",
@@ -33,9 +36,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

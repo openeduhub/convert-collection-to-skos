@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Fette und Öle"
   },
+  "definition": {
+    "de": "Fette und natürliche Öle haben einen ähnlichen Aufbau. Vom Grundprinzip sind sie Ester von langkettigen organischen Säuren. Biologisch gehören sie zu den Grundnährstoffen als Energiespeicher, Lösungsmittel und Baustoff."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0b96f153-9077-4d9b-9a2c-12f24c8fb29a",
@@ -45,9 +48,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

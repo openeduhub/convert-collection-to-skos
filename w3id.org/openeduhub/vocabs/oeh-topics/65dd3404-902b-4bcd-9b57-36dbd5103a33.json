@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Benennung der Aldehyde und Ketone"
   },
+  "definition": {
+    "de": "Die Benennung der Aldehyde orientiert sich an der der Alkane. Bei den Ketonen hat man zwei Kohlenwasserstoff-Reste, die genannt werden."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/868f4e1a-d732-4a4b-9397-c441e3d1c1ec",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

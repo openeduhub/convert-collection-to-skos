@@ -38,14 +38,17 @@
       }
     }
   ],
-  "inScheme": {
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ffd298b5-3a04-4d13-9d26-ddd5d3b5cedc",
-    "title": {
+    "prefLabel": {
       "de": "Politische Bildung"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ffd298b5-3a04-4d13-9d26-ddd5d3b5cedc"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

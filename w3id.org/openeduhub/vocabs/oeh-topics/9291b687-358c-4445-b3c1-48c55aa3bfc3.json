@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Nomen"
   },
+  "definition": {
+    "de": "He, she, it, das 's' muss mit! Erste Regel im Englischunterricht, klar. Aber wann benutze ich since oder for? Wann das Simple Past, wann das Present Perfect? Und was ist nochmal das Gerundium? Hier geht es darum, die englische Grammatik zu verstehen."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/05046fe2-284c-438f-82f8-ed0fae7beaa7",
@@ -45,9 +48,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/15dbd166-fd31-4e01-aabd-524cfa4d2783",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Englisch"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

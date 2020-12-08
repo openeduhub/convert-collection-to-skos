@@ -33,9 +33,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/15dbd166-fd31-4e01-aabd-524cfa4d2783",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Englisch"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

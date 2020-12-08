@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Thermodynamik"
   },
+  "definition": {
+    "de": "Die Thermodynamik ist ein Teilgebiet der Physik und der physikalischen Chemie. Sie beschreibt den Zustand und Änderungen von stofflichen Systemen unter Betrachtung der Energie und weiterer Zustandsgrößen."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/20163f83-7c85-4b36-96b7-e244b83db23d",
@@ -45,9 +48,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

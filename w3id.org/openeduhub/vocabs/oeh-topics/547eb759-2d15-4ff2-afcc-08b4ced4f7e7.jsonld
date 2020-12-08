@@ -6,14 +6,20 @@
   "prefLabel": {
     "de": "OER Warum und Wofür"
   },
-  "inScheme": {
+  "definition": {
+    "de": "01. OER - Warum und Wofür ___________________________________ Geschichte und Bedeutung von OER; Argumente für offene Bildungsressourcen und für die Auseinandersetzung mit Skepsis und Unsicherheiten gegenüber OER.\n___________________________________\nBeispiele: wiederverwendbare, änderbare OER-Informationsbroschüren, Erklärfilme, Übersichten\n\n\"Day #93 OER\" by edtechie99 is licensed under CC BY-SA 2.0"
+  },
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a87c092d-e3b5-43ef-81db-757ab1967646",
-    "title": {
+    "prefLabel": {
       "de": "Open Educational Resources (OER)"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a87c092d-e3b5-43ef-81db-757ab1967646"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

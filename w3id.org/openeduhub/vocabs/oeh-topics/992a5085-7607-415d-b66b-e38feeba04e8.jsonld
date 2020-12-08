@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Radioaktivität und Zerfallsarten"
   },
+  "definition": {
+    "de": "Radioaktivität beschreibt die Eigenschaften von bestimmten Isotopen, die zu einem spontanen Kernzerfall neigen."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/502ab680-af31-4c76-8b74-b493e8d918fb",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Alkohole"
   },
+  "definition": {
+    "de": "Alkohole sind eine Gruppe von organischen Verbindungen, bei der an einem Kohlenwasserstoff-Atom mindestens ein Wasserstoff-Atom durch eine OH-Gruppe ersetzt wurde."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/1b259726-e33b-4261-bb13-1f9273690cd0",
@@ -45,9 +48,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

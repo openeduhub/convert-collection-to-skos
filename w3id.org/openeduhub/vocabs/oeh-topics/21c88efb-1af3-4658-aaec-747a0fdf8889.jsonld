@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Wortschatz "
   },
+  "definition": {
+    "de": "Das Spanische besteht aus einem Wortschatz von geschätzten 100.000 Wörtern. Da gibt es einiges zu tun. Hier findest du tolle Materialien zu wichtigem Wortschatz nach Themen geordnet."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/01b8c873-439d-47ac-a913-d43ed70966e3",
@@ -164,14 +167,17 @@
       }
     }
   ],
-  "inScheme": {
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/11bdb8a0-a9f5-4028-becc-cbf8e328dd4b",
-    "title": {
+    "prefLabel": {
       "de": "Spanisch"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/11bdb8a0-a9f5-4028-becc-cbf8e328dd4b"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

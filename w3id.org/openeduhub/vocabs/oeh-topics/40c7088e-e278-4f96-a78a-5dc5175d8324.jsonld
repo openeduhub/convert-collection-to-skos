@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Eigenschaften von Estern"
   },
+  "definition": {
+    "de": "Im Gegensatz zu den Gruppen der Ausgangsstoffe ist die Estergruppe nicht so stark polar und daher sind Ester meist leicht flüchtig."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fded46e6-d5ca-4dc0-9702-7f9cdf16b498",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

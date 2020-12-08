@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Mehrstufige Zufallsexperimente"
   },
+  "definition": {
+    "de": "Ein Zufallsexperiment, das aus mehreren Schritten besteht, heißt mehrstufig."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/90c65b97-deea-411f-a3bf-ba82d2204bc7",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bd8be6d5-0fbe-4534-a4b3-773154ba6abc",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Mathematik"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

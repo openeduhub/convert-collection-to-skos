@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Salze"
   },
+  "definition": {
+    "de": "Salze sind chemische Verbindungen, die aus positiv und negativ geladenen Ionen bestehen und eine Kristallstruktur bilden."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2387b434-c3f8-428c-9187-894f9651b664",
@@ -39,9 +42,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

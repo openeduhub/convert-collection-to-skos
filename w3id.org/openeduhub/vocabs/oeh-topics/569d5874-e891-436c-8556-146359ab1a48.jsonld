@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Nachweisreaktionen für Eiweiße und Aminosäuren"
   },
+  "definition": {
+    "de": "Für beide Stoffgruppen gibt es spezielle Nachweisreaktionen."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/17911f2d-0d53-4d23-9c43-d5948aa4fff4",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

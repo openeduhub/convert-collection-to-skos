@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Atommodelle"
   },
+  "definition": {
+    "de": "Man lernt im Chemie-Unterricht nach und nach genauere Atommodelle kennen, um immer mehr Phänomene erklären zu können."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/23532975-3b46-43dd-bc0b-a5543f04de78",
@@ -57,9 +60,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

@@ -33,9 +33,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/26a336bf-51c8-4b91-9a6c-f1cf67fd4ae4",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Deutsch als Zweitsprache"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

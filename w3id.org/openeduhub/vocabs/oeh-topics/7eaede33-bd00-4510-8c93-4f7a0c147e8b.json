@@ -6,14 +6,20 @@
   "prefLabel": {
     "de": "Rechtliche Aspekte"
   },
-  "inScheme": {
+  "definition": {
+    "de": "04. Rechtliche Aspekte ___________________________________  Informations- und Qualifizierungs-Materialien zu rechtlichen Aspekten\n___________________________________\nBeispiele: Allgemeine rechtliche Grundlagen zur Verwendung und Produktion von OER; freie Lizenzen, Creative Commons; korrektes Lizenzieren, lizenzgerechtes Verwenden und Bearbeiten von OER, Texte und Checklisten, um OER in Verträgen zu verankern.\n\n\"Health and the Law - Legal Issues - Malpractice and Doctors\" by weiss_paarz_photos is licensed under CC BY-SA 2.0"
+  },
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a87c092d-e3b5-43ef-81db-757ab1967646",
-    "title": {
+    "prefLabel": {
       "de": "Open Educational Resources (OER)"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a87c092d-e3b5-43ef-81db-757ab1967646"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

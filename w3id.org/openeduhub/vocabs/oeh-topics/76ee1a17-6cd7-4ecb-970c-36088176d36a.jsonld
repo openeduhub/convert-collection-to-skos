@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Spezialkunststoffe"
   },
+  "definition": {
+    "de": "Wichtige Aspekte bei den speziellen Kunststoffen, die teilweise immer mehr Bedeutung bekommen, werden durch spezielle funktionelle Gruppen im Molekül erreicht."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5828c294-98bb-45fc-9784-ce22c6368a27",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

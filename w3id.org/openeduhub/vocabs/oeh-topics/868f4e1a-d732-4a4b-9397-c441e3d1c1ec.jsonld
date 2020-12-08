@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Aldehyde und Ketone"
   },
+  "definition": {
+    "de": "Aldehyde und Ketone sind Oxidationsprodukte von primären und sekundären Alkoholen."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/602e8b3e-d04d-4bad-8bb7-3bf319c8321d",
@@ -33,9 +36,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

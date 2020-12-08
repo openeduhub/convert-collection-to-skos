@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Stöchiometrische Berechnungen zum pH - Wert"
   },
+  "definition": {
+    "de": "Es gibt verschiedene Verfahren, wie man den pH-Wert bei verschieden starken Säuren und Basen/Laugen berechnen kann. Dazu gehören auch Berechnungen nach Säure-Base-Reaktionen."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/436337e4-e651-48dc-aad4-6e76d34809bc",
     "prefLabel": {
@@ -13,9 +16,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

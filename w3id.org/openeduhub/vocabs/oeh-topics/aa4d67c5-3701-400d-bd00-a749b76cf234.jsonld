@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Symbolschreibweise"
   },
+  "definition": {
+    "de": "Formeln sind typisch für die Chemie. Damit beschreiben die Chemiker den Aufbau der kleinsten Teilchen der Stoffe."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/58ad7c96-41a9-4fa1-a914-1f4d9c304acd",
@@ -45,9 +48,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

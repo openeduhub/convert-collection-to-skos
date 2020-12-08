@@ -45,9 +45,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/94f22c9b-0d3a-4c1c-8987-4c8e83f3a92e",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Physik"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

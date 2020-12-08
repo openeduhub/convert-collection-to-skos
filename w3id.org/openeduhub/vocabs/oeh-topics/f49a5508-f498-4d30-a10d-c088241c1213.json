@@ -51,9 +51,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/66c667bc-8777-4c57-b476-35f54ce9ff5d",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Religion"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

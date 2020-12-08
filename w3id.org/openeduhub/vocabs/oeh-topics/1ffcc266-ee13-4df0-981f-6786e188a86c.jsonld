@@ -21,9 +21,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6a3f5881-cce0-4e8d-b123-26392b3f1c19",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Kunst"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

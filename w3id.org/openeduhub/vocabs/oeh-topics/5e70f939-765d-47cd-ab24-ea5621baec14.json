@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Metalle und Erze"
   },
+  "definition": {
+    "de": "Metalle liegen selten elementar vor, daher müssen sie aus Salzen und Erzen mit Hilfe von chemischen Reaktionen gewonnen werden."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/013cf7f0-1069-49dc-8d91-295064386e86",
@@ -75,9 +78,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

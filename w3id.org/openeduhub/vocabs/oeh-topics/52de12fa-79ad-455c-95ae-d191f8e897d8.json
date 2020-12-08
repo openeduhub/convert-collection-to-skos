@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Organische Chemie"
   },
+  "definition": {
+    "de": "Die organische Chemie ist ein Teilgebiet der Chemie, die sich vor mit Verbindungen beschäftigt, die aus einem Kohlenstoff-Grundgerüst und anderen Atomen bestehen. Neben Wasserstoff sind das z.B. die Elemente Sauerstoff, Stickstoff, Schwefel, Phosphor und Halogene."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/117e5c0c-7a7e-453d-91a5-1b657d30a265",
@@ -98,14 +101,17 @@
       }
     }
   ],
-  "inScheme": {
+  "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
-    "title": {
+    "prefLabel": {
       "de": "Chemie"
     }
   },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629"
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
   },
   "@context": {
     "@version": 1.1,

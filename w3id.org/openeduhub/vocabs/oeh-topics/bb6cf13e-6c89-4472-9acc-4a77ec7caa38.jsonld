@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Kohlenhydrate"
   },
+  "definition": {
+    "de": "Kohlenhydrate oder Saccharide sind eine biochemisch wichtige Stoffklasse. Sie kommen im Stoffwechsel aller Lebewesen vor."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/29e0e3eb-869b-4794-85de-97fa82620fe4",
@@ -51,9 +54,9 @@
     }
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
-      "de": "Chemie"
+      "de": "Main-Collection (All)"
     }
   },
   "@context": {

@@ -1,1 +1,126 @@
-{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/742d8c87-e5a3-4658-86f9-419c2cea6574","type":"ConceptScheme","title":{"de":"Informatik"},"hasTopConcept":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/17128887-56c4-4107-95fb-be2bbacb8202","prefLabel":{"de":"Technische Informatik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/82ac77be-ca58-4898-95ba-6a1f5e62764f","prefLabel":{"de":"Kodierung"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0255fcd8-621b-491e-bce9-8e2c9a9cce40","prefLabel":{"de":"Audioformate"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/50f614a3-a2ff-4663-b308-f8af9ffc25cb","prefLabel":{"de":"Videoformate"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6d967672-101b-4601-a231-d9a83f235754","prefLabel":{"de":"Textkodierung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8b6b1cbc-b2ca-411a-9432-fe3cfc9bd7d5","prefLabel":{"de":"Bildformate"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9557aa0f-3e13-4384-b5a4-352e0022cb26","prefLabel":{"de":"3D"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8bca47fe-20e0-4186-9bca-1e41e11fede7","prefLabel":{"de":"Prozessoren"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b3cf62fe-0206-47c4-896c-dc93dc334c8d","prefLabel":{"de":"Robotik"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bfaa7443-0ac0-4367-9850-4ac5d4fe7a98","prefLabel":{"de":"Speicher"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d37dad2f-8838-4143-8667-08b5d082a8c7","prefLabel":{"de":"Netzwerke / OSI"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0fad7c42-0939-4811-812b-cae609df1447","prefLabel":{"de":"Internet"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4c48c608-ca05-4699-a09b-4fdc95f83421","prefLabel":{"de":"WLAN"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4da6f9f8-d9fa-4511-bb93-2e64143f5d27","prefLabel":{"de":"OSI"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6abc0449-ecdf-4005-9485-b574efbbc381","prefLabel":{"de":"Bluetooth"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f52ae292-8778-4f02-a73c-447eb63c9763","prefLabel":{"de":"Informationsübertragung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ffdd79db-69a0-4b09-b122-2afa89219b17","prefLabel":{"de":"Schaltnetze"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c41f82c2-d5d9-4cb9-973f-a6568f8c3c3f","prefLabel":{"de":"Schaltwerke"}}]}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6d3fe6bf-f43e-4b7d-8585-3ca8f1504277","prefLabel":{"de":"Theoretische Informatik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2ed136ac-105f-4a30-add7-f768523bf0d1","prefLabel":{"de":"Formale Sprachen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/520ddc94-f2a7-4e47-9ab9-aebf40306e1e","prefLabel":{"de":"regulär"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/875c5a6b-2c9f-4a28-8eea-80f3dadcf488","prefLabel":{"de":"kontextsensitiv"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/90d79bda-6399-43d4-b86a-81a3e82b054e","prefLabel":{"de":"kontextfrei"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3d08afb3-6c3f-47df-994c-b3a7e5e3711b","prefLabel":{"de":"Kryptologie"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/33604aba-2b1d-4119-8ed0-b5b55957100c","prefLabel":{"de":"Kryptoanalyse"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/75e8f063-3c23-44ec-9e65-8ee37180bd2d","prefLabel":{"de":"elektronische Signatur"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9fad029d-215a-4c6c-9da8-3f1b063c1ef2","prefLabel":{"de":"Symmetrische Verschlüsselung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ab9da923-3fd9-4467-93d2-cfbb66939e87","prefLabel":{"de":"Blockchain"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c7d617a0-011a-41de-8c87-c3ce0e290b5b","prefLabel":{"de":"Asymmetrische Verschlüsselung"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4b8fe32b-40ae-48d2-a08f-969c17ca07c4","prefLabel":{"de":"Kodierungstheorie"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8ce72ed0-4e55-4235-b986-804ace2ad3f6","prefLabel":{"de":"Funktionsweise eines Rechners"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2c2ea758-87b8-4b0a-8059-87de9428ad66","prefLabel":{"de":"Theorie (EVA, von Neumann, .."}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c99521ca-baaa-4b8a-8c68-6f35f7549cab","prefLabel":{"de":"Messen, Steuern & Regeln"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d0bb0414-f6b6-4f22-9737-78de966ec7f6","prefLabel":{"de":"Funktionsweise elementarer logischer Schaltungen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e37e1c2a-839b-4b61-8d9a-31a61ecf88bf","prefLabel":{"de":"Digitaltechnik"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9f0a9a4f-3df6-475d-b7e9-0d55f353bd44","prefLabel":{"de":"Automaten"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/305cd702-2e94-4049-9314-167a706bc35e","prefLabel":{"de":"Kellerautomaten "}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bc5b1f7d-1eab-4300-8122-5d06c6894d22","prefLabel":{"de":"Deterministischer endlicher Automat (DEA)"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d7529a27-5191-49dc-9a0a-a77f8e399d44","prefLabel":{"de":"Turingmaschine"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f96a0a66-8d09-4f07-844f-c6263ed7b9a4","prefLabel":{"de":"Nichtdeterministischer endlicher Automat (NEA)"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f591fde2-d16a-4758-8d26-2fc299415234","prefLabel":{"de":"Logik / Boolsche Algebra"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c0c475d2-8e1a-477f-a2a2-16f45f70f286","prefLabel":{"de":"Praktische Informatik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1a1b8a73-5421-4274-959d-4308582f2561","prefLabel":{"de":"Algorithmen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/01a055d4-68e6-48ae-b3fe-2b12f61169a9","prefLabel":{"de":"Komplexität / Aufwand"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0b597bf2-cf9f-4309-a25a-62a2bfbe8761","prefLabel":{"de":"Grenzen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1bab0ea8-eb5d-4ba5-b009-f25a2e85c6cd","prefLabel":{"de":"Graphalgorithmen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1c072a24-f840-49d9-8a1b-16f0ff8ef64c","prefLabel":{"de":"Heuristiken"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/46c9fb65-cb8f-40fd-b3e9-a68b98072296","prefLabel":{"de":"Sortieren"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/50a5608e-a166-4e48-845c-654c532ac1d2","prefLabel":{"de":"Anwendungen / Beispiele"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/57de86b6-aa71-4c56-91df-1b8a5bc7dfec","prefLabel":{"de":"Rekursion"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/7f844974-3cec-4884-8288-da0399fe7d20","prefLabel":{"de":"Backtracking"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f0fbdb50-3c67-499b-a2db-33619713ed04","prefLabel":{"de":"Suchen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4460f820-634b-415c-a404-2889f17c7aca","prefLabel":{"de":"Abstrakte Datentypen / -strukturen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0bd12ffb-f676-48ac-a585-2ea48268c9b9","prefLabel":{"de":"Zahlen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/33366963-64ec-4394-ae01-f57b2868b892","prefLabel":{"de":"Listen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4163f404-53c5-43c7-a20d-b76f9780747e","prefLabel":{"de":"Arrays"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/453be691-5f6b-4abf-8b6a-f8e02391cf9a","prefLabel":{"de":"Schlangen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/67fac3c1-d680-4d08-b90e-647de84a3d25","prefLabel":{"de":"Stapel"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/718b3865-cd98-4d7f-ba26-f4c6f8d7e2ba","prefLabel":{"de":"Hash-Tabellen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/be8981d9-45a9-493b-a1d2-0812013295af","prefLabel":{"de":"Graphen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d7465314-d409-4f2e-a964-3818bc42da11","prefLabel":{"de":"Bäume"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f1281447-003b-44cf-80a0-59bb175bec2d","prefLabel":{"de":"Zeichenketten"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/91752e44-5e0d-49c1-a715-d3012314a531","prefLabel":{"de":"Programmiersprachen / Integrierte Entwicklungsumgebungen (IDE)"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1fbeaaf6-dfb4-447c-8324-8de0a76de36c","prefLabel":{"de":"Imperative Programmierung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/36f6b8e5-2283-4fb5-a233-da518608605b","prefLabel":{"de":"Funktionale Programmiersprachen"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/7f9f2212-d9ad-4c42-b947-ac26d0120a25","prefLabel":{"de":"Objektorientierte Modellierung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/86a0b893-7dc1-44ca-8a01-9c319e68f086","prefLabel":{"de":"Die logische Programmiersprache PROLOG"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/96a99bd6-eac2-445b-8282-b0d191963ae4","prefLabel":{"de":"Blockbasierte Sprachen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/cdfa3d09-a605-46d5-b814-f9845a810e1f","prefLabel":{"de":"Softwaretechnik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2abc28b2-0847-49eb-9581-d04e6d68c119","prefLabel":{"de":"Modularität"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/bd34de8d-d084-4e2c-aa7d-e40f2e54e1e8","prefLabel":{"de":"Modellierung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c19d969d-8769-4942-a01e-b194dd0b31e4","prefLabel":{"de":"Struktorierung"}}]}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/db536584-55dc-4645-bc85-6ebe30c653b7","prefLabel":{"de":"Angewandte Informatik"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/242ed9a2-f001-4fc6-aed9-888c647f7a6c","prefLabel":{"de":"3D-Druck"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3871cf0a-ba39-4457-b710-c585f892beca","prefLabel":{"de":"Betriebssysteme"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/00f8d5eb-c9e6-46c1-8a70-11780e85e526","prefLabel":{"de":"Windows"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9c76a698-8268-4e84-90d9-6b50c29999c0","prefLabel":{"de":"Unix / Linux"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/e29d1b88-25a5-4684-a103-02b5d205fbcb","prefLabel":{"de":"Shell"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/38c0c48e-f74f-45a5-9b11-e5d7dce526b3","prefLabel":{"de":"Dokumentenbeschreibung"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/312ac8d2-14f2-4b80-b3b2-d3dadf6ff7b4","prefLabel":{"de":"HTML"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/33080ba0-352f-4bca-a90a-daaebe7667be","prefLabel":{"de":"XML"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/811d4c16-649c-4dd1-97af-ae54dda8b1b0","prefLabel":{"de":"TEX / LaTeX"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/fa05a320-2582-4f29-a1f2-333e39213036","prefLabel":{"de":"Style Sheets"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5b0cc856-e81e-4787-b693-43adb3980197","prefLabel":{"de":"Künstliche Intelligenz (KI)"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3f40f9f1-f176-4558-b9b5-6104c8938445","prefLabel":{"de":"Künstliche Neuronale Netze"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/9947e778-e520-40df-b7f3-2cd2bb914302","prefLabel":{"de":"Digitale Ethik"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b1f9d21f-b2e3-4566-a42c-147b988494f9","prefLabel":{"de":"Bots"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c0e36e08-0593-4ac8-9ecd-1bab273e46c9","prefLabel":{"de":"Maschinelles Lernen"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d4a8bc18-ee4b-4070-9b95-9873d2be366f","prefLabel":{"de":"Datenbanken"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/1175e96e-a14a-4461-b932-f085ca7098d3","prefLabel":{"de":"Structured Query Language (SQL)"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/37b21370-c165-4d08-bee5-91e78df51fa7","prefLabel":{"de":"Relationen-Algebren"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/eace562b-52fc-4429-a811-a58fc8d1f9af","prefLabel":{"de":"MariaDB"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ef150f4f-3a66-404d-93f1-91e916e4fd2c","prefLabel":{"de":"Entity-Relationship(ER)-Diagramme"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f1c76c4f-1d16-4fc5-8716-69147c82cf7c","prefLabel":{"de":"MySQL"}}]}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f39fdc23-f790-4799-afc1-da5d397be740","prefLabel":{"de":"Informatik & Gesellschaft"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0674ba75-6297-4c4a-a2eb-7e917a397cbd","prefLabel":{"de":"Persönlichkeiten der Informatik"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2c8136f7-da1a-46bf-8046-d08fa6641001","prefLabel":{"de":"OER"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2e21b6df-22ea-4669-8f2b-804b24403eaa","prefLabel":{"de":"Informationelle Selbstbestimmung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3321013a-7fb8-4a87-b9da-10e99f253714","prefLabel":{"de":"Grand Challenges"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/0f526e43-1f82-47e2-859e-9b1f0e801752","prefLabel":{"de":"Digitales Kulturerbe"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/2dc2b44c-5e71-4837-b70c-4cfff486d7e2","prefLabel":{"de":"Verlässlichkeit von Software"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a1721781-8994-4556-bdef-d78547888a96","prefLabel":{"de":"Mensch-Computer-Interaktion"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b24cfb1e-0087-4881-9505-78ee72b44ddc","prefLabel":{"de":"Internet der Zukunft"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d7ef68d7-2f6e-4ca6-902e-97bfbeafa941","prefLabel":{"de":"Systemische Risiken"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3a7f858d-b929-42a8-af32-67cfdfe1edf8","prefLabel":{"de":"Geschichte der Informatik"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/3b5c327d-dd67-4677-b4ef-d33cef82ce7d","prefLabel":{"de":"Soziale Netzwerke"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6d473eee-7dfe-4b95-98d2-ce6b456d6109","prefLabel":{"de":"Big Data"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/840bedc5-f0fe-4d09-9cfb-dd7d3a60bee0","prefLabel":{"de":"Sicherheit im Netz"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/8aa30233-8e6c-4cab-8238-f90dc73a5947","prefLabel":{"de":"Open Data und Open Source"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/946e4e87-b5f7-4ca9-9436-3ea7f20d824d","prefLabel":{"de":"Authentifikation und Verlässlichkeit"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c0f4e17b-c6a6-4e4f-b7ae-86819b4e5787","prefLabel":{"de":"Datenschutz"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/d8f04a52-70b8-4718-b176-4a1a212b2910","prefLabel":{"de":"Datensicherheit"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f9ea98a6-2840-433d-99ca-b6ca06d3ca95","prefLabel":{"de":"Grundlagen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/219a04e9-4fbd-4e28-9b9a-a37061aab77d","prefLabel":{"de":"Peripherie"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/48ab6901-702c-43df-8ab5-a68100eaae01","prefLabel":{"de":"Bildschirm"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/5d360c21-d9ed-4850-a76a-225b8675edbf","prefLabel":{"de":"Drucker"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/6e5d767d-28da-4604-b7e9-953b9beec289","prefLabel":{"de":"Netzwerkkarten"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/ac323d66-2e48-4d35-8d05-a5bc48173e6c","prefLabel":{"de":"Maus"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/f372caf7-6a0d-436a-bc46-62f2c736e026","prefLabel":{"de":"Tastatur"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/328ad362-c6ff-4bad-85da-3a4d02542492","prefLabel":{"de":"Grafik / Bildbearbeitung"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/4c44d4f8-22c5-4dbd-9b3c-94063f3ed852","prefLabel":{"de":"Anwendungen"},"narrower":[{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b435d604-2a74-4f8b-8d5c-a21682c2122d","prefLabel":{"de":"Office"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/b476d935-ea2f-426e-9019-60a8894413ba","prefLabel":{"de":"E-Mail"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/c2da56ef-1be7-463e-b954-5d498fd3e703","prefLabel":{"de":"Browser"}}]},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/73f365d3-fb31-4a60-aa30-b58ccd4dccbc","prefLabel":{"de":"Zahlensysteme"}},{"id":"http://w3id.org/openeduhub/vocabs/oeh-topics/a58a5980-b2e2-4961-897f-6dd810b29cfa","prefLabel":{"de":"Audiobearbeitung"}}]}],"@context":{"@version":1.1,"id":"@id","type":"@type","@vocab":"http://www.w3.org/2004/02/skos/core#","xsd":"http://www.w3.org/2001/XMLSchema#","dct":"http://purl.org/dc/terms/","schema":"http://schema.org/","vann":"http://purl.org/vocab/vann/","as":"https://www.w3.org/ns/activitystreams#","ldp":"http://www.w3.org/ns/ldp#","title":{"@id":"dct:title","@container":"@language"},"description":{"@id":"dct:description","@container":"@language"},"issued":{"@id":"dct:issued","@type":"xsd:date"},"created":{"@id":"dct:created","@type":"xsd:date"},"modified":{"@id":"dct:modified","@type":"xsd:date"},"creator":"dct:creator","publisher":"dct:publisher","preferredNamespacePrefix":"vann:preferredNamespacePrefix","preferredNamespaceUri":"vann:preferredNamespaceUri","isBasedOn":"schema:isBasedOn","source":"dct:source","prefLabel":{"@container":"@language"},"altLabel":{"@container":["@language","@set"]},"definition":{"@container":"@language"},"scopeNote":{"@container":"@language"},"note":{"@container":"@language"},"notation":{"@container":"@set"},"narrower":{"@container":"@set"},"narrowerTransitive":{"@container":"@set"},"broaderTransitive":{"@container":"@set"},"followers":"as:followers","inbox":"ldp:inbox"}}
+{
+  "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/742d8c87-e5a3-4658-86f9-419c2cea6574",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F742d8c87-e5a3-4658-86f9-419c2cea6574",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F742d8c87-e5a3-4658-86f9-419c2cea6574",
+  "prefLabel": {
+    "de": "Informatik"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/17128887-56c4-4107-95fb-be2bbacb8202",
+      "prefLabel": {
+        "de": "Technische Informatik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6d3fe6bf-f43e-4b7d-8585-3ca8f1504277",
+      "prefLabel": {
+        "de": "Theoretische Informatik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c0c475d2-8e1a-477f-a2a2-16f45f70f286",
+      "prefLabel": {
+        "de": "Praktische Informatik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/db536584-55dc-4645-bc85-6ebe30c653b7",
+      "prefLabel": {
+        "de": "Angewandte Informatik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f39fdc23-f790-4799-afc1-da5d397be740",
+      "prefLabel": {
+        "de": "Informatik & Gesellschaft"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f9ea98a6-2840-433d-99ca-b6ca06d3ca95",
+      "prefLabel": {
+        "de": "Grundlagen"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
+    "title": {
+      "de": "Main-Collection (All)"
+    }
+  },
+  "topConceptOf": {
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

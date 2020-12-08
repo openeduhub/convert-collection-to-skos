@@ -6,15 +6,16 @@ esc = ESConverter()
 appendix = esc.appendix
 base_url = esc.base_url
 
-def read_ids() -> list:
+def read_ids():
     with open("ids.json") as f:
-        ids = list(json.load(f).values())
-        return ids
+        dict_ids = json.load(f)
+        list_ids = list(dict_ids.keys())
+        return list_ids, dict_ids
 
 
-def parse_collection_id(_id):
+def parse_collection_id(_id, dict_ids):
     start_id = _id
-    collection_name = main_ids[start_id]
+    collection_name = dict_ids[start_id]
     print(f"converting: {collection_name}")
     url = base_url + start_id + appendix
 
@@ -28,14 +29,7 @@ def parse_collection_id(_id):
                collection_name=collection_name)
 
 # read ids
-ids = read_ids()
+list_ids, dict_ids = read_ids()
 
-# get all collections
-start_url = base_url + esc.main_collection_id + appendix
-main_ids = esc.getMainCollections(start_url, esc.main_collection)
-
-# add Main collection to main ids
-main_ids.update({esc.main_collection_id: "Main-Collection (All)"})
-
-for _id in ids:
-    parse_collection_id(_id)
+for _id in list_ids:
+    parse_collection_id(_id, dict_ids)

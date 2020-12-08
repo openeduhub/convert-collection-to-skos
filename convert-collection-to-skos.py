@@ -3,12 +3,19 @@ from esconverter import ESConverter
 
 esc = ESConverter()
 
-###
-
 start_url = esc.base_url + esc.main_collection_id + esc.appendix
 
 # get all collections
+esc.topic_identifier = [
+    "activated",
+    ""
+]
 main_ids = esc.getMainCollections(start_url, esc.main_collection)
+
+esc.topic_identifier = [
+    "activated",
+    # ""
+]
 
 # add Main collection to main ids
 main_ids.update({esc.main_collection_id: "Main-Collection (All)"})

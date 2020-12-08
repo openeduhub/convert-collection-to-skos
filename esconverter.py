@@ -14,7 +14,6 @@ class ESConverter:
     }
 
     topic_identifier = [
-        "Aktiviert / Sichtbar",
         "activated",
         ""
     ]
@@ -41,13 +40,14 @@ class ESConverter:
 
         collections = []
         for item in response["collections"]:
-            if any(x in self.topic_identifier for x in item["properties"]["ccm:editorial_state_DISPLAYNAME"]):
+            if any(x in self.topic_identifier for x in item["properties"]["ccm:editorial_state"]):
                 collection = {
                     "id": item["ref"]["id"],
                     "prefLabel": item["title"],
                     "keywords": item.get("properties").get("cclom:general_keyword", []),
                     "discipline": item.get("properties").get("ccm:taxonid", ""),
                     "educationalContext": item.get("properties").get("ccm:educationalcontext", ""),
+                    "description": item.get("properties").get("cm:description", ""),
                     "children": []
                 }
             else:
@@ -109,6 +109,11 @@ class ESConverter:
                     for item in tree["keywords"]:
                         if item != "":
                             g.add((item_url, SDO.keywords, Literal(item, lang="de")))
+
+                if "description" in tree.keys():
+                    for item in tree["description"]:
+                        if item != "":
+                            g.add((item_url, SKOS.definition, Literal(item, lang="de")))
 
                 if "discipline" in tree.keys():
                     for item in tree["discipline"]:

@@ -13,9 +13,8 @@ class ESConverter:
         "children": []
     }
 
-    topic_identifier = [
+    editorial_state = [
         "activated",
-        ""
     ]
 
 
@@ -40,7 +39,7 @@ class ESConverter:
 
         collections = []
         for item in response["collections"]:
-            if any(x in self.topic_identifier for x in item["properties"]["ccm:editorial_state"]):
+            if any(x in self.editorial_state for x in item["properties"]["ccm:editorial_state"]):
                 collection = {
                     "id": item["ref"]["id"],
                     "prefLabel": item["title"],

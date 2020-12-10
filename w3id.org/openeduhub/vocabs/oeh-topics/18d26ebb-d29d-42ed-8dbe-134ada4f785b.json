@@ -20,12 +20,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b7e92d00-3da9-48ce-8b7d-98f0f4f5ac03",
-      "prefLabel": {
-        "de": "Biologische Vielfalt"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ecd3e803-c5b9-4cc1-9761-6dc5431eb4a7",
       "prefLabel": {
         "de": "Katastrophenvorsorge"

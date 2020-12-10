@@ -8,12 +8,6 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0075ed82-b2d8-48eb-9ed8-24d2c6520f47",
-      "prefLabel": {
-        "de": "Daniela"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/03a945d7-f446-4629-b23f-1918a63a4544",
       "prefLabel": {
         "de": "Orthographie"

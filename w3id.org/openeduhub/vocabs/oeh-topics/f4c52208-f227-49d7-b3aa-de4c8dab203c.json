@@ -8,12 +8,6 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/08c95bb4-abdd-4779-9d67-345b62bbc2a7",
-      "prefLabel": {
-        "de": "Partielle Integration"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/352fe1fb-70cd-46a5-9665-20e98ddf0288",
       "prefLabel": {
         "de": "Einführung des Integrals"
@@ -26,12 +20,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4e87747e-45a5-4f15-8810-6eebb8f7a108",
-      "prefLabel": {
-        "de": "Prüfungsvorbereitung"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/86e090fe-3123-45cc-b339-cd4ab0715a08",
       "prefLabel": {
         "de": "Eingeschlossene Flächen berechnen"
@@ -41,12 +29,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8c88cce4-1fd3-4118-9d6b-108a2a2b0614",
       "prefLabel": {
         "de": "Numerische Integration"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/904043a9-2f6b-43d9-acc5-5a2da9c7be4c",
-      "prefLabel": {
-        "de": "Integration durch Substitution"
       }
     },
     {

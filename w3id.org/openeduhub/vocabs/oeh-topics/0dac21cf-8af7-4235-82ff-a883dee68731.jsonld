@@ -4,12 +4,12 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0dac21cf-8af7-4235-82ff-a883dee68731",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0dac21cf-8af7-4235-82ff-a883dee68731",
   "prefLabel": {
-    "de": "Flächeninhalt eines Rechtecks"
+    "de": "Flächeninhalt und Umfang von Rechtecken"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c7f85560-af0c-4223-950e-94e9f831254a",
     "prefLabel": {
-      "de": "Flächeninhalte/ Umfang"
+      "de": "Flächeninhalt und Umfang"
     }
   },
   "inScheme": {

@@ -20,12 +20,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4907bd38-4fb8-45e8-ab5e-f7dcac28b95f",
-      "prefLabel": {
-        "de": "Weitere Verteilungen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/500808db-d098-42b5-bd2d-effa5c5e36eb",
       "prefLabel": {
         "de": "Lineare Abhängigkeit / Unabhängigkeit"
@@ -38,21 +32,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/74b93d41-9cfd-40f1-8dc3-abe3bae89982",
-      "prefLabel": {
-        "de": "Prozesse und Matrizen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8ddd7572-dab1-429a-b90e-ac90e3164f93",
       "prefLabel": {
         "de": "Geometrische Abbildungen und Matrizen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/90c65b97-deea-411f-a3bf-ba82d2204bc7",
-      "prefLabel": {
-        "de": "Wahrscheinlichkeitsrechnung"
       }
     },
     {

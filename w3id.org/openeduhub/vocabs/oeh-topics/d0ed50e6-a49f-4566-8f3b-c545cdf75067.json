@@ -17,15 +17,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3eee1afa-3421-44b8-b6f8-2e569d09fbf0",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/57c22171-ad90-4e73-8696-fcaf8b8d6608",
       "prefLabel": {
-        "de": "Initiativen"
+        "de": "Bildung für Nachhaltige Entwicklung (BNE)"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/98a88451-718e-4bf8-958b-00630ac66b66",
       "prefLabel": {
         "de": "Konsum und Produktion"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/dc1264df-d3e6-4497-b56e-82f4178f8d26",
+      "prefLabel": {
+        "de": "Gesellschaft und Mensch (demnächst verfügbar)"
       }
     }
   ],

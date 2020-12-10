@@ -14,24 +14,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/35515325-20a7-4c7e-b490-f1acd437e31a",
-      "prefLabel": {
-        "de": "Wahrscheinlichkeit (Sek I)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/376447da-951b-450a-8946-ed3d68026ef0",
-      "prefLabel": {
-        "de": "Wahrscheinlichkeit"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/40d595c7-ed57-4fb1-af55-10a22affe308",
-      "prefLabel": {
-        "de": "Figuren"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/44c952b2-5397-40f7-b9d8-19432fa58eee",
       "prefLabel": {
         "de": "Zuordnungen, Funktionen"
@@ -41,12 +23,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e7a12b0-2314-4bb0-9fd5-5c067cfb2b3e",
       "prefLabel": {
         "de": "Trigonometrie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/609079e6-0dad-41e2-bd16-a868c0e8b612",
-      "prefLabel": {
-        "de": "Symmetrie senkrecht/ parallel/ symmetrisch"
       }
     },
     {
@@ -74,6 +50,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c43e833d-7343-4846-92f2-2ea093325235",
+      "prefLabel": {
+        "de": "Statistik und Wahrscheinlichkeitsrechnung"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c690705e-f69d-40c6-a00b-1482493980bd",
       "prefLabel": {
         "de": "Muster, Körper, Maße, Zeiten"
@@ -82,7 +64,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c7f85560-af0c-4223-950e-94e9f831254a",
       "prefLabel": {
-        "de": "Flächeninhalte/ Umfang"
+        "de": "Flächeninhalt und Umfang"
       }
     },
     {
@@ -95,12 +77,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f15f727c-9a5a-4f20-b1be-483c15477648",
       "prefLabel": {
         "de": "Analytische Geometrie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f3c11ec7-cf59-45c0-95db-af0396dd7e19",
-      "prefLabel": {
-        "de": "Statistik"
       }
     },
     {

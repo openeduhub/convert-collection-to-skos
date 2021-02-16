@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7cc1fa31-f5dc-4ae1-8371-544978e459c9",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7cc1fa31-f5dc-4ae1-8371-544978e459c9",
   "prefLabel": {
-    "de": "Identifikation unbekannter Stoffe"
+    "de": "Identifikation eines unbekannten Stoffes mit Hilfe von Stoffeigenschaften"
   },
   "definition": {
-    "de": "Bei Betrachtung der Stoffeigenschaften und dem Vergleich verschiedener Stoffe, kann man unbekannte Stoffe identifizieren."
+    "de": "Stoffeigenschaften können dazu genutzt werden,   unbekannte Stoffe zu identifizieren. Hierzu müssen Stoffeigenschaften verschiedener bekannter Stoffe mit den Eigenschaften eines unbekannten Stoffes verglichen werden."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3d589846-67e0-45d1-869c-7b94d0538e0a",
@@ -15,6 +15,11 @@
       "de": "Stoffe und Stoffeigenschaften"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

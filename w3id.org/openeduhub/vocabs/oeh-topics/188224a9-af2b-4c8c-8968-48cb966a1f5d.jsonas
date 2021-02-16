@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/188224a9-af2b-4c8c-8968-48cb966a1f5d",
   "type": "Service",
-  "name": "Potenzen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31383832323461392d616632622d346338632d383936382d343863623936366131663564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F188224a9-af2b-4c8c-8968-48cb966a1f5d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F188224a9-af2b-4c8c-8968-48cb966a1f5d",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e33b16c7-033b-40fd-9b07-89554a73827f",
   "type": "Service",
-  "name": "Formen des Sprechens mit und von Gott",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65333362313663372d303333622d343066642d396230372d383935353461373338323766",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe33b16c7-033b-40fd-9b07-89554a73827f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe33b16c7-033b-40fd-9b07-89554a73827f",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/acfe9b04-6d3d-465b-930f-afc0b37c4f74",
   "type": "Service",
-  "name": "Telefon und Handy",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61636665396230342d366433642d343635622d393330662d616663306233376334663734",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Facfe9b04-6d3d-465b-930f-afc0b37c4f74",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Facfe9b04-6d3d-465b-930f-afc0b37c4f74",

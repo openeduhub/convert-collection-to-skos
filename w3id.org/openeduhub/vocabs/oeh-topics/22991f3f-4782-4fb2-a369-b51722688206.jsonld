@@ -14,27 +14,27 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8f6a54a3-cdc2-418a-a572-c3fe03d79a5c",
-      "prefLabel": {
-        "de": "Homöostase"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b65dc529-03d4-4bbb-ac1c-756f3529c063",
-      "prefLabel": {
-        "de": "Transpiration bei Blättern"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e0052508-a4a7-4aec-8f81-4bbe1cda2ecd",
       "prefLabel": {
         "de": "Dissimilation"
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8f6a54a3-cdc2-418a-a572-c3fe03d79a5c",
+      "prefLabel": {
+        "de": "Homöostase"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e6376687-9800-4632-9e80-fafbf03ee3a4",
       "prefLabel": {
         "de": "Fotosynthese"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b65dc529-03d4-4bbb-ac1c-756f3529c063",
+      "prefLabel": {
+        "de": "Transpiration bei Blättern"
       }
     }
   ],
@@ -44,6 +44,11 @@
       "de": "Biologie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/080"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -108,7 +113,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +131,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

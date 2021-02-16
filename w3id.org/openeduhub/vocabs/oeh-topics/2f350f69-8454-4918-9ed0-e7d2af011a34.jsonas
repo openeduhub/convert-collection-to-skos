@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2f350f69-8454-4918-9ed0-e7d2af011a34",
   "type": "Service",
-  "name": "Christliche Ethik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32663335306636392d383435342d343931382d396564302d653764326166303131613334",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2f350f69-8454-4918-9ed0-e7d2af011a34",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2f350f69-8454-4918-9ed0-e7d2af011a34",

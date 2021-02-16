@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/877c65b8-78c3-46b3-9eb1-86f1083cbfbe",
   "type": "Service",
-  "name": "Bewegungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38373763363562382d373863332d343662332d396562312d383666313038336362666265",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F877c65b8-78c3-46b3-9eb1-86f1083cbfbe",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F877c65b8-78c3-46b3-9eb1-86f1083cbfbe",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/abfd80a4-5cf1-41fc-a917-90a6510bd371",
   "type": "Service",
-  "name": "schriftlich Rechnen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61626664383061342d356366312d343166632d613931372d393061363531306264333731",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fabfd80a4-5cf1-41fc-a917-90a6510bd371",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fabfd80a4-5cf1-41fc-a917-90a6510bd371",

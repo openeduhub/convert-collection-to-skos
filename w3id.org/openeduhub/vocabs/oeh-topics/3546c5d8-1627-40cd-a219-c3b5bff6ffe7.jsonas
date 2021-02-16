@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3546c5d8-1627-40cd-a219-c3b5bff6ffe7",
   "type": "Service",
-  "name": "Freizeit und Hobbies",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33353436633564382d313632372d343063642d613231392d633362356266663666666537",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3546c5d8-1627-40cd-a219-c3b5bff6ffe7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3546c5d8-1627-40cd-a219-c3b5bff6ffe7",

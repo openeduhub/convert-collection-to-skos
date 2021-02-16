@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/08b845eb-823a-41e2-8c08-0779c9afb491",
   "type": "Service",
-  "name": "Trennverfahren und Gemische",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30386238343565622d383233612d343165322d386330382d303737396339616662343931",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F08b845eb-823a-41e2-8c08-0779c9afb491",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F08b845eb-823a-41e2-8c08-0779c9afb491",

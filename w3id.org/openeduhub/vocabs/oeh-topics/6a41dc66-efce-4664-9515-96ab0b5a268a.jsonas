@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6a41dc66-efce-4664-9515-96ab0b5a268a",
   "type": "Service",
-  "name": "Berechnungen von und mit Konzentrationen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36613431646336362d656663652d343636342d393531352d393661623062356132363861",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6a41dc66-efce-4664-9515-96ab0b5a268a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6a41dc66-efce-4664-9515-96ab0b5a268a",

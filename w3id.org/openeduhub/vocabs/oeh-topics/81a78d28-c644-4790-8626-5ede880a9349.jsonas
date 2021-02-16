@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/81a78d28-c644-4790-8626-5ede880a9349",
   "type": "Service",
-  "name": "Leben auf dem Land",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38316137386432382d633634342d343739302d383632362d356564653838306139333439",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F81a78d28-c644-4790-8626-5ede880a9349",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F81a78d28-c644-4790-8626-5ede880a9349",

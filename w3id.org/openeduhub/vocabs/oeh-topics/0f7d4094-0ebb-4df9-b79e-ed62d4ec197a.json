@@ -8,15 +8,15 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/49fdf463-7213-4b97-87c0-694d9ab7546b",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7b868420-ad6e-487b-a9bf-036d5f3ab748",
       "prefLabel": {
-        "de": "Satzglieder"
+        "de": "Hauptsätze und Satzreihen"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7b868420-ad6e-487b-a9bf-036d5f3ab748",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/49fdf463-7213-4b97-87c0-694d9ab7546b",
       "prefLabel": {
-        "de": "Hauptsätze & Satzreihen"
+        "de": "Satzglieder"
       }
     },
     {
@@ -26,24 +26,23 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a526a251-20e5-4a54-81a1-a2749d3adec7",
-      "prefLabel": {
-        "de": "Modalpartikel"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ac6ed6da-9d05-4c42-ac0f-d7eefa3f066f",
       "prefLabel": {
-        "de": "Nebensätze im Satzgefüge"
+        "de": "Nebensätze"
       }
     }
   ],
   "broader": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/26a336bf-51c8-4b91-9a6c-f1cf67fd4ae4",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/12c4cd99-9804-44b5-a81b-e9900a0e3d42",
     "prefLabel": {
-      "de": "Deutsch als Zweitsprache"
+      "de": "Grammatik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/28002"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -108,7 +107,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +125,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

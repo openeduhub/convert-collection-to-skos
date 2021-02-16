@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d2cbbdb9-baaa-4a89-bd10-56e8857b2af0",
   "type": "Service",
-  "name": "Nebengruppenelemente",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64326362626462392d626161612d346138392d626431302d353665383835376232616630",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd2cbbdb9-baaa-4a89-bd10-56e8857b2af0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd2cbbdb9-baaa-4a89-bd10-56e8857b2af0",

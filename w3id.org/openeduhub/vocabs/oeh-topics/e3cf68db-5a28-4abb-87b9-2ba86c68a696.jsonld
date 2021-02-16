@@ -11,18 +11,6 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/1806954a-660c-4ed2-8f98-37638bd1168c",
-      "prefLabel": {
-        "de": "Sprechen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/240fe0be-56ee-4e0a-a233-c1a2502a5ed1",
-      "prefLabel": {
-        "de": "Schreiben"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/50d35676-55e0-4e93-810a-78d18975b0b6",
       "prefLabel": {
         "de": "Umgang mit Texten"
@@ -35,9 +23,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5f646c5c-b92d-43a7-a075-815eb82addc3",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/1806954a-660c-4ed2-8f98-37638bd1168c",
       "prefLabel": {
-        "de": "Sprachmittlung"
+        "de": "Sprechen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/240fe0be-56ee-4e0a-a233-c1a2502a5ed1",
+      "prefLabel": {
+        "de": "Schreiben"
       }
     },
     {
@@ -47,15 +41,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fb0cd462-72a9-4118-b1d7-a712ab213102",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5f646c5c-b92d-43a7-a075-815eb82addc3",
       "prefLabel": {
-        "de": "Arbeit mit dem Wörterbuch"
+        "de": "Sprachmittlung"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fb243cf7-a24f-447d-88b6-043affa037a1",
       "prefLabel": {
         "de": "Lernstrategien"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fb0cd462-72a9-4118-b1d7-a712ab213102",
+      "prefLabel": {
+        "de": "Arbeit mit dem Wörterbuch"
       }
     }
   ],
@@ -65,6 +65,11 @@
       "de": "Englisch"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/20001"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -129,7 +134,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -138,7 +152,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

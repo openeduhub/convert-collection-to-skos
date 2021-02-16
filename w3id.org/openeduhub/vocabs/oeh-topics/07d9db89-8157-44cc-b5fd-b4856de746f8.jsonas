@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/07d9db89-8157-44cc-b5fd-b4856de746f8",
   "type": "Service",
-  "name": "Dramatische Texte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30376439646238392d383135372d343463632d623566642d623438353664653734366638",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F07d9db89-8157-44cc-b5fd-b4856de746f8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F07d9db89-8157-44cc-b5fd-b4856de746f8",

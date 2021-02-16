@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/62ea5334-2a9d-4c53-955d-15de1335635a",
   "type": "Service",
-  "name": "Interdisziplinäres / Projekte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36326561353333342d326139642d346335332d393535642d313564653133333536333561",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62ea5334-2a9d-4c53-955d-15de1335635a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62ea5334-2a9d-4c53-955d-15de1335635a",

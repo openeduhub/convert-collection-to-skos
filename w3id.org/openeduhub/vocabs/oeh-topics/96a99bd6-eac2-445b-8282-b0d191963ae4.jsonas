@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/96a99bd6-eac2-445b-8282-b0d191963ae4",
   "type": "Service",
-  "name": "Blockbasierte Sprachen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39366139396264362d656163322d343435622d383238322d623064313931393633616534",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F96a99bd6-eac2-445b-8282-b0d191963ae4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F96a99bd6-eac2-445b-8282-b0d191963ae4",

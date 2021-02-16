@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/bf34a17b-b472-401c-967a-452a52143a10",
   "type": "Service",
-  "name": "Elementsymbole",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62663334613137622d623437322d343031632d393637612d343532613532313433613130",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbf34a17b-b472-401c-967a-452a52143a10",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbf34a17b-b472-401c-967a-452a52143a10",

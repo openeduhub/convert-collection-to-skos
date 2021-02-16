@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5e70f939-765d-47cd-ab24-ea5621baec14",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5e70f939-765d-47cd-ab24-ea5621baec14",
   "prefLabel": {
-    "de": "Metalle und Erze"
+    "de": "Metalle und die Gewinnung aus Erzen"
   },
   "definition": {
-    "de": "Metalle liegen selten elementar vor, daher müssen sie aus Salzen und Erzen mit Hilfe von chemischen Reaktionen gewonnen werden."
+    "de": "Metalle liegen in der Natur selten elementar vor und müssen daher aus Salzen und Erzen mit Hilfe von chemischen Reaktionen gewonnen werden. Dabei spielt die Gewinnung und der Verarbeitungsprozess der Metalle in diesem Themengebiet eine größe Rolle. \nDazu wird der Reaktionstyp der Redoxreaktion eingeführt und die Reaktivitäten der edlen und unedlen Metalle näher beleuchtet."
   },
   "narrower": [
     {
@@ -19,19 +19,19 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0e752c8b-f126-48f6-b105-53ed2037201e",
       "prefLabel": {
-        "de": "Halbmetalle"
+        "de": "Die Halbmetalle"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/54ab3216-d165-4ff7-b97c-c7c0e32f52d9",
       "prefLabel": {
-        "de": "Kupfer"
+        "de": "Herstellung von Kupfer und seine Anwendung"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6533ced9-1e1d-4143-9685-b4be560537c4",
       "prefLabel": {
-        "de": "Leichtmetalle"
+        "de": "Die Leichtmetalle"
       }
     },
     {
@@ -43,7 +43,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9e74c69a-2dd6-450c-b5d8-d44f9cab7be5",
       "prefLabel": {
-        "de": "Redoxreaktionen bei der Metallgewinnung"
+        "de": "Redoxreaktionen in Verfahren der Metallgewinnung"
       }
     },
     {
@@ -55,28 +55,33 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bb8bc391-f159-4810-a24a-a4f0fba87269",
       "prefLabel": {
-        "de": "Eigenschaften Metalle"
+        "de": "Die Eigenschaften der Metalle"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bc7711d9-1381-426c-8d87-6a6ba3d014e6",
       "prefLabel": {
-        "de": "Eisen"
+        "de": "Herstellung von Eisen und seine Anwendung"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e0eefd37-cb11-449b-b7a4-c4f02104c5be",
       "prefLabel": {
-        "de": "Legierung"
+        "de": "Betrachtung von wichtigen Legierungen"
       }
     }
   ],
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3c18febc-4513-47c4-b2bc-ca8af0494964",
     "prefLabel": {
-      "de": "Anorganische Chemie"
+      "de": "Die Anorganische Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -141,7 +146,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -150,7 +164,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

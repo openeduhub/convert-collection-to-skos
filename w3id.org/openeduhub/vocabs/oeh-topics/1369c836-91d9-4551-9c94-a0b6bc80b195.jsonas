@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1369c836-91d9-4551-9c94-a0b6bc80b195",
   "type": "Service",
-  "name": "Berechnungen zur Dichte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31333639633833362d393164392d343535312d396339342d613062366263383062313935",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1369c836-91d9-4551-9c94-a0b6bc80b195",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1369c836-91d9-4551-9c94-a0b6bc80b195",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/79d8ce69-3652-4008-ba15-a2e415ce716e",
   "type": "Service",
-  "name": "Street Art",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37396438636536392d333635322d343030382d626131352d613265343135636537313665",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F79d8ce69-3652-4008-ba15-a2e415ce716e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F79d8ce69-3652-4008-ba15-a2e415ce716e",

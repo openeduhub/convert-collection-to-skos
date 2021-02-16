@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2ae97153-62ca-4bf2-835c-00c6c64783f1",
   "type": "Service",
-  "name": "Löslichkeit als Stoffeigenschaft",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32616539373135332d363263612d346266322d383335632d303063366336343738336631",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2ae97153-62ca-4bf2-835c-00c6c64783f1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2ae97153-62ca-4bf2-835c-00c6c64783f1",

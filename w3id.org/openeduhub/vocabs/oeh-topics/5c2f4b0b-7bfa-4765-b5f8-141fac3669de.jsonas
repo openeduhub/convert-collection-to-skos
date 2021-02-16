@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5c2f4b0b-7bfa-4765-b5f8-141fac3669de",
   "type": "Service",
-  "name": "HipHop",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35633266346230622d376266612d343736352d623566382d313431666163333636396465",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5c2f4b0b-7bfa-4765-b5f8-141fac3669de",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5c2f4b0b-7bfa-4765-b5f8-141fac3669de",

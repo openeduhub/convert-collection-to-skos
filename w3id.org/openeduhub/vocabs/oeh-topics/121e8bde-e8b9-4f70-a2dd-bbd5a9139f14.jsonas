@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/121e8bde-e8b9-4f70-a2dd-bbd5a9139f14",
   "type": "Service",
-  "name": "Silbentrennendes-h",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31323165386264652d653862392d346637302d613264642d626264356139313339663134",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F121e8bde-e8b9-4f70-a2dd-bbd5a9139f14",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F121e8bde-e8b9-4f70-a2dd-bbd5a9139f14",

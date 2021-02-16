@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cb0e5d18-5754-43cb-b217-0b1c1e4e1907",
   "type": "Service",
-  "name": "Symmetrie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63623065356431382d353735342d343363622d623231372d306231633165346531393037",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcb0e5d18-5754-43cb-b217-0b1c1e4e1907",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcb0e5d18-5754-43cb-b217-0b1c1e4e1907",

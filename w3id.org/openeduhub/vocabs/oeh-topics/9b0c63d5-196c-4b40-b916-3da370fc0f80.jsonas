@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9b0c63d5-196c-4b40-b916-3da370fc0f80",
   "type": "Service",
-  "name": "endogene und exogene Faktoren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39623063363364352d313936632d346234302d623931362d336461333730666330663830",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b0c63d5-196c-4b40-b916-3da370fc0f80",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b0c63d5-196c-4b40-b916-3da370fc0f80",

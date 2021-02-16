@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5719aec9-1998-413f-9d4d-4ed2ad7be66c",
   "type": "Service",
-  "name": "Videokunst",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35373139616563392d313939382d343133662d396434642d346564326164376265363663",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5719aec9-1998-413f-9d4d-4ed2ad7be66c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5719aec9-1998-413f-9d4d-4ed2ad7be66c",

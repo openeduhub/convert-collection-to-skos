@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2a40c581-5645-49e7-8d75-044e2ebf077d",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2a40c581-5645-49e7-8d75-044e2ebf077d",
   "prefLabel": {
-    "de": "Fischer-Projektion"
+    "de": "Die Fischer-Projektion für die Darstellung von Stereoisomeren"
   },
   "definition": {
-    "de": "Die Fischer-Projektion ist eine Methode, die Raumstruktur einer linearen chemischen Verbindung abzubilden, die mehrere asymmetrische C-Atome haben. Das wird häufig bei Zuckern angewendet."
+    "de": "Die Fischer-Projektion ist eine Methode, die Raumstruktur einer linearen chemischen Verbindung abzubilden, die mehrere asymmetrische C-Atome besitzt. Diese wird häufig bei Zuckern angewendet und ermöglicht so leichter einen Vergleich von zwei Kohlenhydraten."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bb6cf13e-6c89-4472-9acc-4a77ec7caa38",
     "prefLabel": {
-      "de": "Kohlenhydrate"
+      "de": "Kohlenhydrate - die Grundlage der Biomasse"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

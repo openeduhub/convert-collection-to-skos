@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3757117d-15a3-4a6f-bf8b-92bff1c4e345",
   "type": "Service",
-  "name": "Menschsein in Schöpfung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33373537313137642d313561332d346136662d626638622d393262666631633465333435",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3757117d-15a3-4a6f-bf8b-92bff1c4e345",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3757117d-15a3-4a6f-bf8b-92bff1c4e345",

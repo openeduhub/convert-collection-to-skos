@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1c814694-0b2c-474a-8030-912ad53a3817",
   "type": "Service",
-  "name": "Politik in der Kommune und im Bundesland ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31633831343639342d306232632d343734612d383033302d393132616435336133383137",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1c814694-0b2c-474a-8030-912ad53a3817",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1c814694-0b2c-474a-8030-912ad53a3817",

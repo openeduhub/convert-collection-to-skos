@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9e74c69a-2dd6-450c-b5d8-d44f9cab7be5",
   "type": "Service",
-  "name": "Redoxreaktionen bei der Metallgewinnung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39653734633639612d326464362d343530632d623564382d643434663963616237626535",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9e74c69a-2dd6-450c-b5d8-d44f9cab7be5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9e74c69a-2dd6-450c-b5d8-d44f9cab7be5",

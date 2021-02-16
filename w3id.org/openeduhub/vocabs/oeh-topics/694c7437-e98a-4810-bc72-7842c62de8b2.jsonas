@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/694c7437-e98a-4810-bc72-7842c62de8b2",
   "type": "Service",
-  "name": "Fadenpendel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36393463373433372d653938612d343831302d626337322d373834326336326465386232",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F694c7437-e98a-4810-bc72-7842c62de8b2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F694c7437-e98a-4810-bc72-7842c62de8b2",

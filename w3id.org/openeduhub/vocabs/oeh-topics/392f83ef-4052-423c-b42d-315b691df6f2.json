@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F392f83ef-4052-423c-b42d-315b691df6f2",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F392f83ef-4052-423c-b42d-315b691df6f2",
   "prefLabel": {
-    "de": "Reaktionsmechanismen"
+    "de": "Reaktionsmechanismen - Auf der Spur der Reaktionswege"
   },
   "definition": {
-    "de": "Der Reaktionsmechanismus gibt Auskunft über den exakten Ablauf der Teilschritte einer chemischen Reaktion. Sind sind teilweise charakteristisch für bestimmte Arten von Verbindungen."
+    "de": "Der Reaktionsmechanismus gibt Auskunft über den exakten Ablauf der Teilschritte einer chemischen Reaktion. Sie sind ein wichtiges Hilfsmittel, um chemische Reaktionen zu verstehen, zu steuern und zu optimieren.\n\nHier gibt es eine Übersicht mit Materialien zu verschiedenen gängigen Reaktionsmechanismen, die jeweils für bestimmte Stoffgruppen bedeutsam sind."
   },
   "narrower": [
     {
@@ -19,13 +19,13 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/226cbad6-cacc-40ef-b486-98b136fb0a3d",
       "prefLabel": {
-        "de": "Polymerisation"
+        "de": "Polymerisationsreaktionen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/74caf11c-cf69-4626-8877-1b55cc935f9e",
       "prefLabel": {
-        "de": "Substitution"
+        "de": "Substitutionsreaktionen"
       }
     },
     {
@@ -37,28 +37,33 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b4c79ddf-0209-4a2f-8f53-6fc7baeb39e1",
       "prefLabel": {
-        "de": "Addition"
+        "de": "Additionsreaktionen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e383a5e7-de42-4ded-86f9-4f04daf2642f",
       "prefLabel": {
-        "de": "Eliminierung"
+        "de": "Eliminierungsreaktionen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e86f4d85-320b-4117-a0e4-bfd31080a53d",
       "prefLabel": {
-        "de": "Kondensation"
+        "de": "Kondensationsreaktionen"
       }
     }
   ],
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/52de12fa-79ad-455c-95ae-d191f8e897d8",
     "prefLabel": {
-      "de": "Organische Chemie"
+      "de": "Die Organische Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -123,7 +128,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -132,7 +146,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

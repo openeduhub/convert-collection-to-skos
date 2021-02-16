@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F602824ec-acbe-434e-b9a7-72931cf703d2",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F602824ec-acbe-434e-b9a7-72931cf703d2",
   "prefLabel": {
-    "de": "Gemische im Teilchenmodell"
+    "de": "Gemische und Trennverfahren im Teilchenmodell"
   },
   "definition": {
-    "de": "Die verschiedenen Arten von Gemischen werden mit Hilfe des Teilchenmodells erklärt und betrachtet."
+    "de": "Die verschiedenen Arten von Gemischen können mit Hilfe des Teilchenmodells erklärt und betrachtet werden.\nDazu gehören auch Überlegungen zu den grundlegenden Trennverfahren und wie sie auf Teilchenebene funktionieren."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f75eec46-f7a9-44b3-ad2a-1fee76a3b1a3",
     "prefLabel": {
-      "de": "Teilchenmodell"
+      "de": "Einführung in das Teilchenmodell"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/40792e9e-5c32-4e3d-947b-daa602a77fb8",
   "type": "Service",
-  "name": "Appositionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34303739326539652d356333322d346533642d393437622d646161363032613737666238",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F40792e9e-5c32-4e3d-947b-daa602a77fb8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F40792e9e-5c32-4e3d-947b-daa602a77fb8",

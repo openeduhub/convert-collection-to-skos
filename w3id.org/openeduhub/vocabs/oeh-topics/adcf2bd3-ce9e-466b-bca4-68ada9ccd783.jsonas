@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/adcf2bd3-ce9e-466b-bca4-68ada9ccd783",
   "type": "Service",
-  "name": "Indiaca",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61646366326264332d636539652d343636622d626361342d363861646139636364373833",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fadcf2bd3-ce9e-466b-bca4-68ada9ccd783",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fadcf2bd3-ce9e-466b-bca4-68ada9ccd783",

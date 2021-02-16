@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b50cce16-e178-468f-be93-143542b9aa3f",
   "type": "Service",
-  "name": "Landeskunde",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62353063636531362d653137382d343638662d626539332d313433353432623961613366",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb50cce16-e178-468f-be93-143542b9aa3f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb50cce16-e178-468f-be93-143542b9aa3f",

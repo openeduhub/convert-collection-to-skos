@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/94ceb24f-7085-415e-8abb-73ae1bb5bb46",
   "type": "Service",
-  "name": "Dipol-Dipol-Kräfte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39346365623234662d373038352d343135652d386162622d373361653162623562623436",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F94ceb24f-7085-415e-8abb-73ae1bb5bb46",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F94ceb24f-7085-415e-8abb-73ae1bb5bb46",

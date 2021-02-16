@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/625b5490-63bb-45de-9332-4defe58aecd4",
   "type": "Service",
-  "name": "Bibel als heiliges Buch der Christenheit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36323562353439302d363362622d343564652d393333322d346465666535386165636434",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F625b5490-63bb-45de-9332-4defe58aecd4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F625b5490-63bb-45de-9332-4defe58aecd4",

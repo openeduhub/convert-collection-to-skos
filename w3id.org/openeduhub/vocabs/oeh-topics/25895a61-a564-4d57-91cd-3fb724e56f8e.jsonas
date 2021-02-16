@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/25895a61-a564-4d57-91cd-3fb724e56f8e",
   "type": "Service",
-  "name": "Ortspronomen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32353839356136312d613536342d346435372d393163642d336662373234653536663865",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F25895a61-a564-4d57-91cd-3fb724e56f8e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F25895a61-a564-4d57-91cd-3fb724e56f8e",

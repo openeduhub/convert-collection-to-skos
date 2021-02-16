@@ -14,18 +14,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/477cdb9f-8bb6-4750-8528-838f0be14765",
-      "prefLabel": {
-        "de": "Menschwürdige Arbeit"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/784f31fc-1e7e-4fbf-8fe9-bf8c97974de5",
-      "prefLabel": {
-        "de": "Nachhaltige Wirtschaft und Innovation"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/84fbf6e8-1547-42bc-a54c-abbd70a7136a",
       "prefLabel": {
         "de": "Natürliche Ressourcen und Rohstoffe"
@@ -38,9 +26,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/477cdb9f-8bb6-4750-8528-838f0be14765",
+      "prefLabel": {
+        "de": "Menschwürdige Arbeit"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d02dc50a-0143-48e1-9ca7-da68fb49d970",
       "prefLabel": {
         "de": "Industire und Landwirtschaft"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/784f31fc-1e7e-4fbf-8fe9-bf8c97974de5",
+      "prefLabel": {
+        "de": "Nachhaltige Wirtschaft und Innovation"
       }
     }
   ],
@@ -50,6 +50,11 @@
       "de": "Nachhaltigkeit"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/64018"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -114,7 +119,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +137,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

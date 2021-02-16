@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1504cfb1-0af4-422c-9960-a1c89a8d527c",
   "type": "Service",
-  "name": "Martin von Tours",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31353034636662312d306166342d343232632d393936302d613163383961386435323763",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1504cfb1-0af4-422c-9960-a1c89a8d527c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1504cfb1-0af4-422c-9960-a1c89a8d527c",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6d890340-8add-47bd-a8aa-c10900973afb",
   "type": "Service",
-  "name": "Einkaufen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36643839303334302d386164642d343762642d613861612d633130393030393733616662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6d890340-8add-47bd-a8aa-c10900973afb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6d890340-8add-47bd-a8aa-c10900973afb",

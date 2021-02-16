@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e86f4d85-320b-4117-a0e4-bfd31080a53d",
   "type": "Service",
-  "name": "Kondensation",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65383666346438352d333230622d343131372d613065342d626664333130383061353364",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe86f4d85-320b-4117-a0e4-bfd31080a53d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe86f4d85-320b-4117-a0e4-bfd31080a53d",

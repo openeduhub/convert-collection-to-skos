@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/caa7faf7-d7e8-4c84-94e5-bf2f2fb0abab",
   "type": "Service",
-  "name": "Hörverstehen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63616137666166372d643765382d346338342d393465352d626632663266623061626162",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcaa7faf7-d7e8-4c84-94e5-bf2f2fb0abab",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcaa7faf7-d7e8-4c84-94e5-bf2f2fb0abab",

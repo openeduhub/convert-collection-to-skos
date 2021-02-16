@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0003bbc7-6669-405f-8821-63b2ba0db58e",
   "type": "Service",
-  "name": "Lineare Erörterung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30303033626263372d363636392d343035662d383832312d363362326261306462353865",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0003bbc7-6669-405f-8821-63b2ba0db58e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0003bbc7-6669-405f-8821-63b2ba0db58e",

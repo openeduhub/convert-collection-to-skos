@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0f9aded2-edf2-43f9-aed1-00037ca5bdec",
   "type": "Service",
-  "name": "Lustiges zum Fach Chemie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30663961646564322d656466322d343366392d616564312d303030333763613562646563",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0f9aded2-edf2-43f9-aed1-00037ca5bdec",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0f9aded2-edf2-43f9-aed1-00037ca5bdec",

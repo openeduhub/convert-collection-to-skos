@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/eddad374-3c8b-4ba4-9b43-f11104d6bda6",
   "type": "Service",
-  "name": "Camera Obscura",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65646461643337342d336338622d346261342d396234332d663131313034643662646136",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Feddad374-3c8b-4ba4-9b43-f11104d6bda6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Feddad374-3c8b-4ba4-9b43-f11104d6bda6",

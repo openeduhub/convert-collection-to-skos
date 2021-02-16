@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a4cd8855-0b3e-4181-bb27-81d9b42dc402",
   "type": "Service",
-  "name": "Malerei",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61346364383835352d306233652d343138312d626232372d383164396234326463343032",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa4cd8855-0b3e-4181-bb27-81d9b42dc402",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa4cd8855-0b3e-4181-bb27-81d9b42dc402",

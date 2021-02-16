@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7c95b151-1db4-4e55-b958-80082eba8209",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7c95b151-1db4-4e55-b958-80082eba8209",
   "prefLabel": {
-    "de": "Aromaten"
+    "de": "Aromaten - Ringe mit delokalisierten Elektronensystemen"
   },
   "definition": {
-    "de": "Aromaten sind eine Stoffklasse von organischen Verbindungen die mindestens ein Ringsystem mit abwechselnden Doppelbindungen enthält."
+    "de": "Aromaten sind eine Stoffklasse von organischen Verbindungen, die mindestens ein Ringsystem mit abwechselnden Doppelbindungen enthalten.\n\nBekanntester Vertreter ist das Benzol."
   },
   "narrower": [
     {
@@ -19,13 +19,13 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3f2bf544-ac66-47a4-a724-5e60d84f5b26",
       "prefLabel": {
-        "de": "Benzol"
+        "de": "Benzol - der einfachste Aromat"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b10ef2fa-0d79-4c19-8972-379a32a62a80",
       "prefLabel": {
-        "de": "Phenole"
+        "de": "Phenole - aromatische Alkohole"
       }
     },
     {
@@ -44,9 +44,14 @@
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/52de12fa-79ad-455c-95ae-d191f8e897d8",
     "prefLabel": {
-      "de": "Organische Chemie"
+      "de": "Die Organische Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -111,7 +116,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +134,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

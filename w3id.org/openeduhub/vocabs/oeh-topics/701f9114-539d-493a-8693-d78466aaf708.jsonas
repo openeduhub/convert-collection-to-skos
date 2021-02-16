@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/701f9114-539d-493a-8693-d78466aaf708",
   "type": "Service",
-  "name": "Stillleben",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37303166393131342d353339642d343933612d383639332d643738343636616166373038",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F701f9114-539d-493a-8693-d78466aaf708",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F701f9114-539d-493a-8693-d78466aaf708",

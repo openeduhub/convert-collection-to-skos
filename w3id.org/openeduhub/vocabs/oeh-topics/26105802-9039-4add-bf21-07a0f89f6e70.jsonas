@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/26105802-9039-4add-bf21-07a0f89f6e70",
   "type": "Service",
-  "name": "Türkisch",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32363130353830322d393033392d346164642d626632312d303761306638396636653730",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F26105802-9039-4add-bf21-07a0f89f6e70",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F26105802-9039-4add-bf21-07a0f89f6e70",

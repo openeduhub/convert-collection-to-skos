@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Terme, Gleichungen, Ungleichungen"
   },
+  "definition": {
+    "de": "\"Welchen Wert muss eine Unbekannte annehmen, damit eine Gleichung richtig ist?\" so lautet die zentrale Frage der klassischen Algebra. Online-Lernmittel, die den Erwerb der erforderlichen Kompetenzen unterstützen, werden in diesem Bereich gesammelt."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/216afeb6-e115-4405-a3bf-815abd7713fe",
@@ -26,6 +29,11 @@
       "de": "Mathematik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/380"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -90,7 +98,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -99,7 +116,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

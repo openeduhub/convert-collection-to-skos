@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/bb6cf13e-6c89-4472-9acc-4a77ec7caa38",
   "type": "Service",
-  "name": "Kohlenhydrate",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62623663663133652d366338392d343437322d396163632d346137376563376361613338",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbb6cf13e-6c89-4472-9acc-4a77ec7caa38",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbb6cf13e-6c89-4472-9acc-4a77ec7caa38",

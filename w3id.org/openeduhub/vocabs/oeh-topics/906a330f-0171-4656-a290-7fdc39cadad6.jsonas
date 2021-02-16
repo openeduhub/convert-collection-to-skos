@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/906a330f-0171-4656-a290-7fdc39cadad6",
   "type": "Service",
-  "name": "Exponential- und Logarithmusfunktion",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39303661333330662d303137312d343635362d613239302d376664633339636164616436",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F906a330f-0171-4656-a290-7fdc39cadad6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F906a330f-0171-4656-a290-7fdc39cadad6",

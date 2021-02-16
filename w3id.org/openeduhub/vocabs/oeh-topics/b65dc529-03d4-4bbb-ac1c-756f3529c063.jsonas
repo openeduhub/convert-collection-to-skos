@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b65dc529-03d4-4bbb-ac1c-756f3529c063",
   "type": "Service",
-  "name": "Transpiration bei Blättern",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62363564633532392d303364342d346262622d616331632d373536663335323963303633",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb65dc529-03d4-4bbb-ac1c-756f3529c063",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb65dc529-03d4-4bbb-ac1c-756f3529c063",

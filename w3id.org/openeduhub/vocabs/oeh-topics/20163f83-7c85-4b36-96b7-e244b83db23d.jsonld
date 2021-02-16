@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F20163f83-7c85-4b36-96b7-e244b83db23d",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F20163f83-7c85-4b36-96b7-e244b83db23d",
   "prefLabel": {
-    "de": "Entropie / Enthalpie"
+    "de": "Zusammenhang und Abgrenzung Entropie und Enthalpie"
   },
   "definition": {
-    "de": "Entropie und Enthalpie sind Maße für bestimmte Zustandsgrößen in der Thermodynamik. Große Bedeutung hat die Enthalpie, die man auch als \"Energie\" bezeichnen kann."
+    "de": "Entropie und Enthalpie sind Maße für bestimmte Zustandsgrößen in der Thermodynamik. Große Bedeutung hat die Enthalpie, die man auch als \"Energie\" bezeichnen kann.\n\nMit der Entropie lassen sich dagegen Reaktionen erklären, die eigentlich nicht stattfinden sollten."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/37e52144-ac0f-4622-b03c-9cea7749d8a5",
     "prefLabel": {
-      "de": "Thermodynamik"
+      "de": "Die Thermodynamik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

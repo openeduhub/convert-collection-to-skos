@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/89dec7c3-d92c-456d-a0b0-b8b61a7625c9",
   "type": "Service",
-  "name": "Vorlieben & Abneigungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38396465633763332d643932632d343536642d613062302d623862363161373632356339",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F89dec7c3-d92c-456d-a0b0-b8b61a7625c9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F89dec7c3-d92c-456d-a0b0-b8b61a7625c9",

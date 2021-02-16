@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9e1b142f-3c9b-4c0a-8a67-d801bb2f863b",
   "type": "Service",
-  "name": "Addition und Subtraktion von Brüchen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39653162313432662d336339622d346330612d386136372d643830316262326638363362",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9e1b142f-3c9b-4c0a-8a67-d801bb2f863b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9e1b142f-3c9b-4c0a-8a67-d801bb2f863b",

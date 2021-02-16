@@ -6,26 +6,17 @@
   "prefLabel": {
     "de": "Satzglieder"
   },
-  "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0b6b7213-cae2-4a42-932b-9664de800116",
-      "prefLabel": {
-        "de": "Satzglieder bestimmen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/47bd13be-7d34-4eb4-bd95-94f4b0e91b35",
-      "prefLabel": {
-        "de": "Tekamolo"
-      }
-    }
-  ],
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0f7d4094-0ebb-4df9-b79e-ed62d4ec197a",
     "prefLabel": {
       "de": "Satzbau"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/28002"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -90,7 +81,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -99,7 +99,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

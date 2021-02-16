@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d8008f84-b9a7-41b7-a9c9-be1fb777cf2f",
   "type": "Service",
-  "name": "Infinitivsatz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64383030386638342d623961372d343162372d613963392d626531666237373763663266",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd8008f84-b9a7-41b7-a9c9-be1fb777cf2f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd8008f84-b9a7-41b7-a9c9-be1fb777cf2f",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/09dbf6d9-4492-4871-87a7-6397404fec20",
   "type": "Service",
-  "name": "Allgemeines Gasgesetz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30396462663664392d343439322d343837312d383761372d363339373430346665633230",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F09dbf6d9-4492-4871-87a7-6397404fec20",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F09dbf6d9-4492-4871-87a7-6397404fec20",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a4cd1d5d-ff8a-4ec3-aba4-859762c763bc",
   "type": "Service",
-  "name": "Schriftlicher Ausdruck",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61346364316435642d666638612d346563332d616261342d383539373632633736336263",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa4cd1d5d-ff8a-4ec3-aba4-859762c763bc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa4cd1d5d-ff8a-4ec3-aba4-859762c763bc",

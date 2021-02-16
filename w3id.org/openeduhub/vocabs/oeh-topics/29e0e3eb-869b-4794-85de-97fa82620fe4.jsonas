@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/29e0e3eb-869b-4794-85de-97fa82620fe4",
   "type": "Service",
-  "name": "Eigenschaften und Nachweisreaktionen von Kohlenhydraten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32396530653365622d383639622d343739342d383564652d393766613832363230666534",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F29e0e3eb-869b-4794-85de-97fa82620fe4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F29e0e3eb-869b-4794-85de-97fa82620fe4",

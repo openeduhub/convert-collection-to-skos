@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9a4e83b7-8eec-4499-a57a-8be1f93f9c7c",
   "type": "Service",
-  "name": "Badminton",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39613465383362372d386565632d343439392d613537612d386265316639336639633763",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9a4e83b7-8eec-4499-a57a-8be1f93f9c7c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9a4e83b7-8eec-4499-a57a-8be1f93f9c7c",

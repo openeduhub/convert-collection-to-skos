@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e0aace5d-d9d3-4d65-8676-566e1e27780d",
   "type": "Service",
-  "name": "Christkönig / Ewigkeitssonntag/ Totensonntag",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65306161636535642d643964332d346436352d383637362d353636653165323737383064",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0aace5d-d9d3-4d65-8676-566e1e27780d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0aace5d-d9d3-4d65-8676-566e1e27780d",

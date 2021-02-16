@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0b597bf2-cf9f-4309-a25a-62a2bfbe8761",
   "type": "Service",
-  "name": "Grenzen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30623539376266322d636639662d343330392d613235612d363261326266626538373631",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b597bf2-cf9f-4309-a25a-62a2bfbe8761",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b597bf2-cf9f-4309-a25a-62a2bfbe8761",

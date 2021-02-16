@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/344bd054-af27-42de-a618-457c4f03cb2d",
   "type": "Service",
-  "name": "Amphibien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33343462643035342d616632372d343264652d613631382d343537633466303363623264",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F344bd054-af27-42de-a618-457c4f03cb2d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F344bd054-af27-42de-a618-457c4f03cb2d",

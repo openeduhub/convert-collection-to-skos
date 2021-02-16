@@ -14,6 +14,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d37dad2f-8838-4143-8667-08b5d082a8c7",
+      "prefLabel": {
+        "de": "Netzwerke / OSI"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8bca47fe-20e0-4186-9bca-1e41e11fede7",
       "prefLabel": {
         "de": "Prozessoren"
@@ -32,21 +38,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d37dad2f-8838-4143-8667-08b5d082a8c7",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ffdd79db-69a0-4b09-b122-2afa89219b17",
       "prefLabel": {
-        "de": "Netzwerke / OSI"
+        "de": "Schaltnetze"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f52ae292-8778-4f02-a73c-447eb63c9763",
       "prefLabel": {
         "de": "Informationsübertragung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ffdd79db-69a0-4b09-b122-2afa89219b17",
-      "prefLabel": {
-        "de": "Schaltnetze"
       }
     }
   ],
@@ -56,6 +56,11 @@
       "de": "Informatik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/320"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -120,7 +125,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -129,7 +143,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

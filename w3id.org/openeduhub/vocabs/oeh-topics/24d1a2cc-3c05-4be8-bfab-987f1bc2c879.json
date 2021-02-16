@@ -29,6 +29,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e60c3255-7243-4854-84cc-31809dd91c78",
+      "prefLabel": {
+        "de": "englische Varietäten"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4208a41e-0b56-4292-9511-9b610a899eb6",
       "prefLabel": {
         "de": "Wortbildung"
@@ -39,12 +45,6 @@
       "prefLabel": {
         "de": "Intonation"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e60c3255-7243-4854-84cc-31809dd91c78",
-      "prefLabel": {
-        "de": "englische Varietäten"
-      }
     }
   ],
   "broader": {
@@ -53,6 +53,11 @@
       "de": "Englisch"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/20001"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -117,7 +122,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -126,7 +140,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

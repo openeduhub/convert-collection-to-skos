@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/61fb59cb-ff81-4e7f-9f23-af8da90d6b93",
   "type": "Service",
-  "name": "Naturalismus",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36316662353963622d666638312d346537662d396632332d616638646139306436623933",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F61fb59cb-ff81-4e7f-9f23-af8da90d6b93",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F61fb59cb-ff81-4e7f-9f23-af8da90d6b93",

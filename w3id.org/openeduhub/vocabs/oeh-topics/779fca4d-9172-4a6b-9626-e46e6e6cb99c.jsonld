@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F779fca4d-9172-4a6b-9626-e46e6e6cb99c",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F779fca4d-9172-4a6b-9626-e46e6e6cb99c",
   "prefLabel": {
-    "de": "Digitalisierungm "
+    "de": "Digitalisierung"
   },
   "narrower": [
     {
@@ -14,15 +14,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/21243fc8-c464-459b-bbe7-277d738271ca",
-      "prefLabel": {
-        "de": "Bildung und Kultur "
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/381dc9bf-8ae1-4682-b821-9f6d05f4aa53",
       "prefLabel": {
         "de": "Medien "
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/21243fc8-c464-459b-bbe7-277d738271ca",
+      "prefLabel": {
+        "de": "Bildung und Kultur "
       }
     },
     {
@@ -40,7 +40,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f29e9c89-7822-4d4a-90e4-316bc7e8e200",
       "prefLabel": {
-        "de": "künstliche Intelligenz "
+        "de": "Künstliche Intelligenz"
       }
     }
   ],
@@ -50,6 +50,11 @@
       "de": "Politische Bildung"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/480"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -114,7 +119,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +137,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

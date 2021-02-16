@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/220cdf4e-65bc-416e-b876-32ebae0acb28",
   "type": "Service",
-  "name": "Leben in der Stadt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32323063646634652d363562632d343136652d623837362d333265626165306163623238",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F220cdf4e-65bc-416e-b876-32ebae0acb28",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F220cdf4e-65bc-416e-b876-32ebae0acb28",

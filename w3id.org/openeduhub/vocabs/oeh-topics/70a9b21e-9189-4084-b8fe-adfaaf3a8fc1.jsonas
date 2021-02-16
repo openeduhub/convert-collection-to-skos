@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/70a9b21e-9189-4084-b8fe-adfaaf3a8fc1",
   "type": "Service",
-  "name": "Vergleich der fernöstlichen Religionen mit den Monotheistischen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37306139623231652d393138392d343038342d623866652d616466616166336138666331",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F70a9b21e-9189-4084-b8fe-adfaaf3a8fc1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F70a9b21e-9189-4084-b8fe-adfaaf3a8fc1",

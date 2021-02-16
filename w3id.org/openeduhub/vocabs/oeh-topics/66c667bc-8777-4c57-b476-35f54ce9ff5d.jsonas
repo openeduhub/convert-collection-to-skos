@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/66c667bc-8777-4c57-b476-35f54ce9ff5d",
   "type": "Service",
-  "name": "Religion",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36366336363762632d383737372d346335372d623437362d333566353463653966663564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F66c667bc-8777-4c57-b476-35f54ce9ff5d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F66c667bc-8777-4c57-b476-35f54ce9ff5d",

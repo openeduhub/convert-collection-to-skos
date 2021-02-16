@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/172b54a3-b9f7-43f2-80b0-a52a55ebe1b9",
   "type": "Service",
-  "name": "Literatur",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31373262353461332d623966372d343366322d383062302d613532613535656265316239",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F172b54a3-b9f7-43f2-80b0-a52a55ebe1b9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F172b54a3-b9f7-43f2-80b0-a52a55ebe1b9",

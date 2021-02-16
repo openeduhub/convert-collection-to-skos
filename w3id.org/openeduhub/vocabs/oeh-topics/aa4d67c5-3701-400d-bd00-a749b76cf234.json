@@ -4,28 +4,28 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Faa4d67c5-3701-400d-bd00-a749b76cf234",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Faa4d67c5-3701-400d-bd00-a749b76cf234",
   "prefLabel": {
-    "de": "Symbolschreibweise"
+    "de": "Einführung in die Symbolschreibweise"
   },
   "definition": {
-    "de": "Formeln sind typisch für die Chemie. Damit beschreiben die Chemiker den Aufbau der kleinsten Teilchen der Stoffe."
+    "de": "Formeln sind typisch für die Chemie. Damit beschreiben Chemiker den Aufbau der kleinsten Teilchen der Stoffe und auch chemische Reaktionen. In diesem Abschnitt stehen Materialien für die Einführung in das Thema und einfache Übungen zur Verfügung."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/58ad7c96-41a9-4fa1-a914-1f4d9c304acd",
       "prefLabel": {
-        "de": "Strukturformeln"
+        "de": "Zeichnen von Strukturformeln / Lewisschreibweise"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8fa1c129-f547-40d0-aa91-1e4467313fd1",
       "prefLabel": {
-        "de": "Reaktionsgleichungen"
+        "de": "Aufstellen von Reaktionsgleichungen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bf34a17b-b472-401c-967a-452a52143a10",
       "prefLabel": {
-        "de": "Elementsymbole"
+        "de": "Grundlagen zu den Elementsymbolen"
       }
     },
     {
@@ -44,9 +44,14 @@
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b25b69f-ad8c-4473-8cb3-3b3d47434380",
     "prefLabel": {
-      "de": "Einführung in die Chemie"
+      "de": "Einführung in das Fach Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -111,7 +116,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +134,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

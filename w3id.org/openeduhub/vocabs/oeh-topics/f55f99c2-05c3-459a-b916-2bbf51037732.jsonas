@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f55f99c2-05c3-459a-b916-2bbf51037732",
   "type": "Service",
-  "name": "Neuseeland",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66353566393963322d303563332d343539612d623931362d326262663531303337373332",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff55f99c2-05c3-459a-b916-2bbf51037732",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff55f99c2-05c3-459a-b916-2bbf51037732",

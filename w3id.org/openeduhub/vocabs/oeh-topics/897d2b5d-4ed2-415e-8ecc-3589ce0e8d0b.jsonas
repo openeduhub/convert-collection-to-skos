@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/897d2b5d-4ed2-415e-8ecc-3589ce0e8d0b",
   "type": "Service",
-  "name": "Rugby",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38393764326235642d346564322d343135652d386563632d333538396365306538643062",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F897d2b5d-4ed2-415e-8ecc-3589ce0e8d0b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F897d2b5d-4ed2-415e-8ecc-3589ce0e8d0b",

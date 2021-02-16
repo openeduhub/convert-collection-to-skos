@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4aa10006-cb51-454c-bce6-cb9152215adc",
   "type": "Service",
-  "name": "Hockey",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34616131303030362d636235312d343534632d626365362d636239313532323135616463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4aa10006-cb51-454c-bce6-cb9152215adc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4aa10006-cb51-454c-bce6-cb9152215adc",

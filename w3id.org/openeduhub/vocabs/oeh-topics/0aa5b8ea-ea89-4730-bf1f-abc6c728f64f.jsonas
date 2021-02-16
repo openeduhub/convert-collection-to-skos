@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0aa5b8ea-ea89-4730-bf1f-abc6c728f64f",
   "type": "Service",
-  "name": "False Friends",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30616135623865612d656138392d343733302d626631662d616263366337323866363466",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0aa5b8ea-ea89-4730-bf1f-abc6c728f64f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0aa5b8ea-ea89-4730-bf1f-abc6c728f64f",

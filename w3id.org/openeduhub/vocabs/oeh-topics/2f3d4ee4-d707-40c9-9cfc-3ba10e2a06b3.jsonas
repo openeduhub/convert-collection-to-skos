@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2f3d4ee4-d707-40c9-9cfc-3ba10e2a06b3",
   "type": "Service",
-  "name": "Mit dem Wörterbuch arbeiten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32663364346565342d643730372d343063392d396366632d336261313065326130366233",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2f3d4ee4-d707-40c9-9cfc-3ba10e2a06b3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2f3d4ee4-d707-40c9-9cfc-3ba10e2a06b3",

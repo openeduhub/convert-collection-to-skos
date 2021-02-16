@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/574ba19d-73c8-4dcb-bd93-911af74afdce",
   "type": "Service",
-  "name": "Condicional ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35373462613139642d373363382d346463622d626439332d393131616637346166646365",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F574ba19d-73c8-4dcb-bd93-911af74afdce",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F574ba19d-73c8-4dcb-bd93-911af74afdce",

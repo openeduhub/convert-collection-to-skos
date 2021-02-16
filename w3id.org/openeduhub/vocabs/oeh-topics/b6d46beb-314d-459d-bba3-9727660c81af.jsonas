@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b6d46beb-314d-459d-bba3-9727660c81af",
   "type": "Service",
-  "name": "Carbonsäuren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62366434366265622d333134642d343539642d626261332d393732373636306338316166",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb6d46beb-314d-459d-bba3-9727660c81af",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb6d46beb-314d-459d-bba3-9727660c81af",

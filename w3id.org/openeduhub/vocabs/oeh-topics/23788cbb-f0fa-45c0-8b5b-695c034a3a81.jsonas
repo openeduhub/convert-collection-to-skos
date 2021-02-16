@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/23788cbb-f0fa-45c0-8b5b-695c034a3a81",
   "type": "Service",
-  "name": "Vergleich",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32333738386362622d663066612d343563302d386235622d363935633033346133613831",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F23788cbb-f0fa-45c0-8b5b-695c034a3a81",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F23788cbb-f0fa-45c0-8b5b-695c034a3a81",

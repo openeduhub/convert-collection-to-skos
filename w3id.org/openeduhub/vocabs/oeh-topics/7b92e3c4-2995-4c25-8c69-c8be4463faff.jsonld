@@ -6,23 +6,26 @@
   "prefLabel": {
     "de": "Aussprache"
   },
+  "definition": {
+    "de": "Wie werden im Deutschen die Umlaute ä, ö und ü ausgesprochen? Nicht nur das solltest du von Anfang an trainieren. Hier findest du alle wichtigen Informationen und Materialien zur Aussprache und Betonung. Dann wirst du bald sprechen wie die Muttersprachler:innen."
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/16213c03-b70c-48e1-ba0e-e1b2a21f1581",
       "prefLabel": {
-        "de": "Intonation, Pausen & Rhythmus"
+        "de": "Intonation, Pausen und Rhythmus"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5b19a6ad-7b55-4c35-a057-60afd5932bac",
       "prefLabel": {
-        "de": "Betonung & Akzentuierung"
+        "de": "Betonung und Akzentuierung"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bc7f1596-da87-4ffb-99b8-0927d682d8ef",
       "prefLabel": {
-        "de": "Laute & Buchstaben"
+        "de": "Laute und Buchstaben"
       }
     },
     {
@@ -38,6 +41,11 @@
       "de": "Deutsch als Zweitsprache"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/28002"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -102,7 +110,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +128,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/99c9eb8e-a5d2-40ef-8ef9-1b4f10956c86",
   "type": "Service",
-  "name": "Vokabeln lernen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39396339656238652d613564322d343065662d386566392d316234663130393536633836",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F99c9eb8e-a5d2-40ef-8ef9-1b4f10956c86",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F99c9eb8e-a5d2-40ef-8ef9-1b4f10956c86",

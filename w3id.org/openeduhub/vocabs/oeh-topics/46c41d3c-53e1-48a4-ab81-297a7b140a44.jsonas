@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/46c41d3c-53e1-48a4-ab81-297a7b140a44",
   "type": "Service",
-  "name": "Jahreszeiten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34366334316433632d353365312d343861342d616238312d323937613762313430613434",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F46c41d3c-53e1-48a4-ab81-297a7b140a44",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F46c41d3c-53e1-48a4-ab81-297a7b140a44",

@@ -7,14 +7,19 @@
     "de": "Eigenschaften der  Kohlenwasserstoffe"
   },
   "definition": {
-    "de": "Die Kohlenwasserstoffe sind im allgemeinen recht reaktionsträge, was vor allem darauf beruht, dass sie keine Dipole sind. Eine längere Kohlenstoff-Kette und Mehrfachbindungen bewirken eine erhöhte Reaktivität."
+    "de": "Die Kohlenwasserstoffe sind im allgemeinen recht reaktionsträge, was vor allem darauf beruht, dass sie keine Dipole sind. Eine längere Kohlenstoff-Kette und Mehrfachbindungen bewirken eine erhöhte Reaktivität. Auf die Molekülstruktur lassen sich darüber hinaus Eigenschaften wie Siedepunkt und Löslichkeit zurückführen."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c97a8c29-75b5-46a2-a328-e2754eca928f",
     "prefLabel": {
-      "de": "Kohlenwasserstoffe"
+      "de": "Die Kohlenwasserstoffe als Grundstoffe in der Organischen Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

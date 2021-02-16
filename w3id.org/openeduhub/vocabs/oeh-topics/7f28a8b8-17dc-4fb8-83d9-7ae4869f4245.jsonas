@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7f28a8b8-17dc-4fb8-83d9-7ae4869f4245",
   "type": "Service",
-  "name": "Auslautverhärtung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37663238613862382d313764632d346662382d383364392d376165343836396634323435",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7f28a8b8-17dc-4fb8-83d9-7ae4869f4245",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7f28a8b8-17dc-4fb8-83d9-7ae4869f4245",

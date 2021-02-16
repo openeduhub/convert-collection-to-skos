@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5b19a6ad-7b55-4c35-a057-60afd5932bac",
   "type": "Service",
-  "name": "Betonung & Akzentuierung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35623139613661642d376235352d346333352d613035372d363061666435393332626163",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5b19a6ad-7b55-4c35-a057-60afd5932bac",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5b19a6ad-7b55-4c35-a057-60afd5932bac",

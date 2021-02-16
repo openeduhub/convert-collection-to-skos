@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7b868420-ad6e-487b-a9bf-036d5f3ab748",
   "type": "Service",
-  "name": "Hauptsätze & Satzreihen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37623836383432302d616436652d343837622d613962662d303336643566336162373438",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7b868420-ad6e-487b-a9bf-036d5f3ab748",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7b868420-ad6e-487b-a9bf-036d5f3ab748",

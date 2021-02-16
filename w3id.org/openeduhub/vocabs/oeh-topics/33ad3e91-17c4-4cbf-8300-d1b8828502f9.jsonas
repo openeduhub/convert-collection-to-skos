@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/33ad3e91-17c4-4cbf-8300-d1b8828502f9",
   "type": "Service",
-  "name": "gesellschaftliches Zusammenleben",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33336164336539312d313763342d346362662d383330302d643162383832383530326639",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F33ad3e91-17c4-4cbf-8300-d1b8828502f9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F33ad3e91-17c4-4cbf-8300-d1b8828502f9",

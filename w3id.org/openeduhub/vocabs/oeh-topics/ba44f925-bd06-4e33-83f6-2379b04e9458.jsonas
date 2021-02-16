@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ba44f925-bd06-4e33-83f6-2379b04e9458",
   "type": "Service",
-  "name": "Bildraum / Perspektive",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62613434663932352d626430362d346533332d383366362d323337396230346539343538",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fba44f925-bd06-4e33-83f6-2379b04e9458",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fba44f925-bd06-4e33-83f6-2379b04e9458",

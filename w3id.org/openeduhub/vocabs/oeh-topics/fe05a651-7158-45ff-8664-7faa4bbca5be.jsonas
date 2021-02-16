@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/fe05a651-7158-45ff-8664-7faa4bbca5be",
   "type": "Service",
-  "name": "Präpositionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66653035613635312d373135382d343566662d383636342d376661613462626361356265",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffe05a651-7158-45ff-8664-7faa4bbca5be",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffe05a651-7158-45ff-8664-7faa4bbca5be",

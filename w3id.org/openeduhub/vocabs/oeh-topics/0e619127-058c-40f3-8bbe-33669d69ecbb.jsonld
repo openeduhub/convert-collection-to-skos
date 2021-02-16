@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0e619127-058c-40f3-8bbe-33669d69ecbb",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0e619127-058c-40f3-8bbe-33669d69ecbb",
   "prefLabel": {
-    "de": "Stoffeigenschaft Dichte"
+    "de": "Die Stoffeigenschaft \"Dichte\""
   },
   "definition": {
-    "de": "Die Bestimmung der Dichte dient im Labor meist der praktischen Anwendung von Messmethoden. Später ist die Formel für Berechnungen in der Stöchiometrie wichtig."
+    "de": "Die Bestimmung der Dichte eines Stoffes dient im Labor meist der praktischen Anwendung von Messmethoden. Aber auch in der Praxis, zum Beispiel in Apotheken, ist sie wichtig, um die Reinheit eines Stoffes zu untersuchen. Später ist die Formel für Berechnungen in der Stöchiometrie wichtig."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3d589846-67e0-45d1-869c-7b94d0538e0a",
@@ -15,6 +15,11 @@
       "de": "Stoffe und Stoffeigenschaften"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

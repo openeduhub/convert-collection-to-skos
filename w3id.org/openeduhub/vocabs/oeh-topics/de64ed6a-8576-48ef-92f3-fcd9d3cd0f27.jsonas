@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/de64ed6a-8576-48ef-92f3-fcd9d3cd0f27",
   "type": "Service",
-  "name": "Klettern",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64653634656436612d383537362d343865662d393266332d666364396433636430663237",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fde64ed6a-8576-48ef-92f3-fcd9d3cd0f27",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fde64ed6a-8576-48ef-92f3-fcd9d3cd0f27",

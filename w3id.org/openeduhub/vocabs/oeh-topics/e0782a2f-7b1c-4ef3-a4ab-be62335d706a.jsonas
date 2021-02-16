@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e0782a2f-7b1c-4ef3-a4ab-be62335d706a",
   "type": "Service",
-  "name": "Alphabet, Aussprache und Rechtschreibung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65303738326132662d376231632d346566332d613461622d626536323333356437303661",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0782a2f-7b1c-4ef3-a4ab-be62335d706a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0782a2f-7b1c-4ef3-a4ab-be62335d706a",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f431df90-3652-4d76-8b3b-c79094fb4d42",
   "type": "Service",
-  "name": "Aktiv und Passiv",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66343331646639302d333635322d346437362d386233622d633739303934666234643432",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff431df90-3652-4d76-8b3b-c79094fb4d42",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff431df90-3652-4d76-8b3b-c79094fb4d42",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/82ac77be-ca58-4898-95ba-6a1f5e62764f",
   "type": "Service",
-  "name": "Kodierung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38326163373762652d636135382d343839382d393562612d366131663565363237363466",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F82ac77be-ca58-4898-95ba-6a1f5e62764f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F82ac77be-ca58-4898-95ba-6a1f5e62764f",

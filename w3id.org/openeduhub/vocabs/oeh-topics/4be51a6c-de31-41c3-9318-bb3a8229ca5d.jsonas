@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4be51a6c-de31-41c3-9318-bb3a8229ca5d",
   "type": "Service",
-  "name": "Eigenschaften der  Kohlenwasserstoffe",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34626535316136632d646533312d343163332d393331382d626233613832323963613564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4be51a6c-de31-41c3-9318-bb3a8229ca5d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4be51a6c-de31-41c3-9318-bb3a8229ca5d",

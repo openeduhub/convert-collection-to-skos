@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c9f7ae63-cf45-4edc-b056-64f4a427a651",
   "type": "Service",
-  "name": "Parkour",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63396637616536332d636634352d346564632d623035362d363466346134323761363531",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc9f7ae63-cf45-4edc-b056-64f4a427a651",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc9f7ae63-cf45-4edc-b056-64f4a427a651",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/840bedc5-f0fe-4d09-9cfb-dd7d3a60bee0",
   "type": "Service",
-  "name": "Sicherheit im Netz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38343062656463352d663066652d346430392d396366622d646437643361363062656530",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F840bedc5-f0fe-4d09-9cfb-dd7d3a60bee0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F840bedc5-f0fe-4d09-9cfb-dd7d3a60bee0",

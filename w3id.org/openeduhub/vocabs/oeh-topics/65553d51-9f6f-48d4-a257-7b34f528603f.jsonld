@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F65553d51-9f6f-48d4-a257-7b34f528603f",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F65553d51-9f6f-48d4-a257-7b34f528603f",
   "prefLabel": {
-    "de": "Verfahren zur Verarbeitung von Kunststoff"
+    "de": "Verfahren zur Verarbeitung von Kunststoffen"
   },
   "definition": {
-    "de": "Die meisten Verfahren zur Verarbeitung von Kunststoffen beruht auf dem Erhitzen und Verformen des Materials."
+    "de": "Die meisten Verfahren zur Verarbeitung von Kunststoffen beruht auf dem Erhitzen und Verformen des Materials. Welche Verfahren für einen bestimmten Kunststoff möglich sind, hängt in hohem Maße von der molekularen Struktur des jeweiligen Kunststoffes ab."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5828c294-98bb-45fc-9784-ce22c6368a27",
     "prefLabel": {
-      "de": "Kunststoffe"
+      "de": "Kunststoffe - langkettige (organische) Moleküle"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

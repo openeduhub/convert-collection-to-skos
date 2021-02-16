@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ffbe9280-b5f1-41ac-8350-18678a86ef54",
   "type": "Service",
-  "name": "Geschichtliche Entwicklung der Elektrochemie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66666265393238302d623566312d343161632d383335302d313836373861383665663534",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fffbe9280-b5f1-41ac-8350-18678a86ef54",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fffbe9280-b5f1-41ac-8350-18678a86ef54",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c40449ef-f229-4ab3-acda-65a29b16c532",
   "type": "Service",
-  "name": "Benennung der Alkohole",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63343034343965662d663232392d346162332d616364612d363561323962313663353332",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc40449ef-f229-4ab3-acda-65a29b16c532",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc40449ef-f229-4ab3-acda-65a29b16c532",

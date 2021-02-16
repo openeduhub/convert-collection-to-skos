@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2dabe258-f91e-4573-8217-ffd25d3bd72e",
   "type": "Service",
-  "name": "Hörbücher und Hörspiele",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32646162653235382d663931652d343537332d383231372d666664323564336264373265",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2dabe258-f91e-4573-8217-ffd25d3bd72e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2dabe258-f91e-4573-8217-ffd25d3bd72e",

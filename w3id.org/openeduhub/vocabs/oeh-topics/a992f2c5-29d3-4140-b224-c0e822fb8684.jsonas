@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a992f2c5-29d3-4140-b224-c0e822fb8684",
   "type": "Service",
-  "name": "Proteine und Enzyme",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61393932663263352d323964332d343134302d623232342d633065383232666238363834",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa992f2c5-29d3-4140-b224-c0e822fb8684",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa992f2c5-29d3-4140-b224-c0e822fb8684",

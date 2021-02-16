@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a00959ca-f8b7-4ed9-835d-69a71217e7b9",
   "type": "Service",
-  "name": "Vorgänge im Zellkern",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61303039353963612d663862372d346564392d383335642d363961373132313765376239",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa00959ca-f8b7-4ed9-835d-69a71217e7b9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa00959ca-f8b7-4ed9-835d-69a71217e7b9",

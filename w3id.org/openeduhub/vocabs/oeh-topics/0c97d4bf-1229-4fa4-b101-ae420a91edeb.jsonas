@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0c97d4bf-1229-4fa4-b101-ae420a91edeb",
   "type": "Service",
-  "name": "Säugetiere",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30633937643462662d313232392d346661342d623130312d616534323061393165646562",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0c97d4bf-1229-4fa4-b101-ae420a91edeb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0c97d4bf-1229-4fa4-b101-ae420a91edeb",

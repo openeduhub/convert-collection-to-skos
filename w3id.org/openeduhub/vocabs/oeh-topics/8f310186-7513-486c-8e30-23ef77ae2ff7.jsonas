@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8f310186-7513-486c-8e30-23ef77ae2ff7",
   "type": "Service",
-  "name": "Körperreaktionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38663331303138362d373531332d343836632d386533302d323365663737616532666637",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8f310186-7513-486c-8e30-23ef77ae2ff7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8f310186-7513-486c-8e30-23ef77ae2ff7",

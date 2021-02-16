@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d3320cfd-6214-4fd2-875b-2a047789746b",
   "type": "Service",
-  "name": "Mensch als Geschöpf Gottes",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64333332306366642d363231342d346664322d383735622d326130343737383937343662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd3320cfd-6214-4fd2-875b-2a047789746b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd3320cfd-6214-4fd2-875b-2a047789746b",

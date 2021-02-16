@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/99ebc893-a7e2-4bef-9d17-192bf23e6b5d",
   "type": "Service",
-  "name": "Fragesatz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39396562633839332d613765322d346265662d396431372d313932626632336536623564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F99ebc893-a7e2-4bef-9d17-192bf23e6b5d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F99ebc893-a7e2-4bef-9d17-192bf23e6b5d",

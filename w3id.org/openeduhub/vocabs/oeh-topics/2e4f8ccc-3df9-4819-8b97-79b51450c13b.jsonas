@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2e4f8ccc-3df9-4819-8b97-79b51450c13b",
   "type": "Service",
-  "name": "Leseverstehen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32653466386363632d336466392d343831392d386239372d373962353134353063313362",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2e4f8ccc-3df9-4819-8b97-79b51450c13b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2e4f8ccc-3df9-4819-8b97-79b51450c13b",

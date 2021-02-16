@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b9c6e9d5-64e1-412c-8906-8b1ceafd165a",
   "type": "Service",
-  "name": "Grundwert",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62396336653964352d363465312d343132632d383930362d386231636561666431363561",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb9c6e9d5-64e1-412c-8906-8b1ceafd165a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb9c6e9d5-64e1-412c-8906-8b1ceafd165a",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0b3a729c-b006-499c-8da9-251657fbe52b",
   "type": "Service",
-  "name": "Kernphysik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30623361373239632d623030362d343939632d386461392d323531363537666265353262",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b3a729c-b006-499c-8da9-251657fbe52b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b3a729c-b006-499c-8da9-251657fbe52b",

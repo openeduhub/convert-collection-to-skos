@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/33704629-690e-4348-ad0f-b611af174678",
   "type": "Service",
-  "name": "Orientalischer Tanz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33333730343632392d363930652d343334382d616430662d623631316166313734363738",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F33704629-690e-4348-ad0f-b611af174678",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F33704629-690e-4348-ad0f-b611af174678",

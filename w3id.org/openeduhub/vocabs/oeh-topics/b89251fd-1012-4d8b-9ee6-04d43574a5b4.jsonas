@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b89251fd-1012-4d8b-9ee6-04d43574a5b4",
   "type": "Service",
-  "name": "Dialektische Erörterung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62383932353166642d313031322d346438622d396565362d303464343335373461356234",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb89251fd-1012-4d8b-9ee6-04d43574a5b4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb89251fd-1012-4d8b-9ee6-04d43574a5b4",

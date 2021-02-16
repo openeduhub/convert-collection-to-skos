@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/59607635-6ff9-4d55-ba07-c1ae329aece9",
   "type": "Service",
-  "name": "Zeitungen und Zeitschriften",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35393630373633352d366666392d346435352d626130372d633161653332396165636539",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F59607635-6ff9-4d55-ba07-c1ae329aece9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F59607635-6ff9-4d55-ba07-c1ae329aece9",

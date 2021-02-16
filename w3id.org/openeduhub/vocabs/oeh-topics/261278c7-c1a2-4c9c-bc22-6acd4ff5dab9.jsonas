@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/261278c7-c1a2-4c9c-bc22-6acd4ff5dab9",
   "type": "Service",
-  "name": "Fahrrad",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32363132373863372d633161322d346339632d626332322d366163643466663564616239",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F261278c7-c1a2-4c9c-bc22-6acd4ff5dab9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F261278c7-c1a2-4c9c-bc22-6acd4ff5dab9",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f7b13ebc-e389-497a-accf-3a19a1bee6dd",
   "type": "Service",
-  "name": "Moderne",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66376231336562632d653338392d343937612d616363662d336131396131626565366464",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff7b13ebc-e389-497a-accf-3a19a1bee6dd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff7b13ebc-e389-497a-accf-3a19a1bee6dd",

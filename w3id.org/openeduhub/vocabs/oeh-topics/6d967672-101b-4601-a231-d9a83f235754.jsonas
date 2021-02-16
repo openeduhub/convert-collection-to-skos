@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6d967672-101b-4601-a231-d9a83f235754",
   "type": "Service",
-  "name": "Textkodierung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36643936373637322d313031622d343630312d613233312d643961383366323335373534",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6d967672-101b-4601-a231-d9a83f235754",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6d967672-101b-4601-a231-d9a83f235754",

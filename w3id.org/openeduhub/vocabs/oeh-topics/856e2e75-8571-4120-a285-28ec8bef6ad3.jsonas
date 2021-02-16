@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/856e2e75-8571-4120-a285-28ec8bef6ad3",
   "type": "Service",
-  "name": "Kunststoffe aus nachwachsenden Rohstoffen/biologisch abbaubar",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38353665326537352d383537312d343132302d613238352d323865633862656636616433",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F856e2e75-8571-4120-a285-28ec8bef6ad3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F856e2e75-8571-4120-a285-28ec8bef6ad3",

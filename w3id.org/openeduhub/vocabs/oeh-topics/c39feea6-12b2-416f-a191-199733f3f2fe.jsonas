@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c39feea6-12b2-416f-a191-199733f3f2fe",
   "type": "Service",
-  "name": "Baumdiagramm und Pfadregel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63333966656561362d313262322d343136662d613139312d313939373333663366326665",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc39feea6-12b2-416f-a191-199733f3f2fe",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc39feea6-12b2-416f-a191-199733f3f2fe",

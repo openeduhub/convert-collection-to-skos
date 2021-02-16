@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0b96f153-9077-4d9b-9a2c-12f24c8fb29a",
   "type": "Service",
-  "name": "Verdauung von Fetten und Ölen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30623936663135332d393037372d346439622d396132632d313266323463386662323961",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b96f153-9077-4d9b-9a2c-12f24c8fb29a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b96f153-9077-4d9b-9a2c-12f24c8fb29a",

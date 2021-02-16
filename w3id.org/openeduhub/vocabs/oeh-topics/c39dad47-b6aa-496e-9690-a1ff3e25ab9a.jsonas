@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c39dad47-b6aa-496e-9690-a1ff3e25ab9a",
   "type": "Service",
-  "name": "Europa und Migration",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63333964616434372d623661612d343936652d393639302d613166663365323561623961",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc39dad47-b6aa-496e-9690-a1ff3e25ab9a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc39dad47-b6aa-496e-9690-a1ff3e25ab9a",

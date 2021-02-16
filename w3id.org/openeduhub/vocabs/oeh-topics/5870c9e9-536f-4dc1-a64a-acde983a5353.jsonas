@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5870c9e9-536f-4dc1-a64a-acde983a5353",
   "type": "Service",
-  "name": "Geografische Namen ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35383730633965392d353336662d346463312d613634612d616364653938336135333533",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5870c9e9-536f-4dc1-a64a-acde983a5353",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5870c9e9-536f-4dc1-a64a-acde983a5353",

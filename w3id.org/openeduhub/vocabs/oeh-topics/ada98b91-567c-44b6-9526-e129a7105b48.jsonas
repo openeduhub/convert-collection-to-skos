@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ada98b91-567c-44b6-9526-e129a7105b48",
   "type": "Service",
-  "name": "Speerwurf",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61646139386239312d353637632d343462362d393532362d653132396137313035623438",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fada98b91-567c-44b6-9526-e129a7105b48",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fada98b91-567c-44b6-9526-e129a7105b48",

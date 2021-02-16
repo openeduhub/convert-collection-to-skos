@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/bcdfd259-4f25-4a6f-b9bd-d3294684405a",
   "type": "Service",
-  "name": "interkulturelle Kommunikation ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62636466643235392d346632352d346136662d623962642d643332393436383434303561",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbcdfd259-4f25-4a6f-b9bd-d3294684405a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbcdfd259-4f25-4a6f-b9bd-d3294684405a",

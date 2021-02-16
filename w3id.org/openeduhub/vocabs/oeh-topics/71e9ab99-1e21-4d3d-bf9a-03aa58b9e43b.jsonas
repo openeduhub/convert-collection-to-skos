@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/71e9ab99-1e21-4d3d-bf9a-03aa58b9e43b",
   "type": "Service",
-  "name": "außerschulische Lernorte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37316539616239392d316532312d346433642d626639612d303361613538623965343362",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F71e9ab99-1e21-4d3d-bf9a-03aa58b9e43b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F71e9ab99-1e21-4d3d-bf9a-03aa58b9e43b",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3f59befc-4059-4f53-a35b-53945c8f199e",
   "type": "Service",
-  "name": "Nachhaltige Rohstoffgewinnung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33663539626566632d343035392d346635332d613335622d353339343563386631393965",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3f59befc-4059-4f53-a35b-53945c8f199e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3f59befc-4059-4f53-a35b-53945c8f199e",

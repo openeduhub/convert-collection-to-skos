@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/16387238-440f-4904-80b4-5d50c9e100df",
   "type": "Service",
-  "name": "Mitbestimmung in der Schule ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31363338373233382d343430662d343930342d383062342d356435306339653130306466",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F16387238-440f-4904-80b4-5d50c9e100df",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F16387238-440f-4904-80b4-5d50c9e100df",

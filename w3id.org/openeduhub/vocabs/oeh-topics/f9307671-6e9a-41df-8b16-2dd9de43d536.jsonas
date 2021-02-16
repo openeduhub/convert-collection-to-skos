@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f9307671-6e9a-41df-8b16-2dd9de43d536",
   "type": "Service",
-  "name": "Computer / AI Kunst",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66393330373637312d366539612d343164662d386231362d326464396465343364353336",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff9307671-6e9a-41df-8b16-2dd9de43d536",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff9307671-6e9a-41df-8b16-2dd9de43d536",

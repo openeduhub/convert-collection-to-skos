@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1194cf9f-19d5-41d6-ac43-7a08890fcbde",
   "type": "Service",
-  "name": "Verschmutzung von Natur und Umwelt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31313934636639662d313964352d343164362d616334332d376130383839306663626465",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1194cf9f-19d5-41d6-ac43-7a08890fcbde",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1194cf9f-19d5-41d6-ac43-7a08890fcbde",

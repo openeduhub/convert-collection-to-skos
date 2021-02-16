@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3ad81f6e-7f96-41a7-851f-0064d623e4b5",
   "type": "Service",
-  "name": "Sinussatz und Kosinussatz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33616438316636652d376639362d343161372d383531662d303036346436323365346235",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3ad81f6e-7f96-41a7-851f-0064d623e4b5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3ad81f6e-7f96-41a7-851f-0064d623e4b5",

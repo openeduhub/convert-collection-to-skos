@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4208a41e-0b56-4292-9511-9b610a899eb6",
   "type": "Service",
-  "name": "Wortbildung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34323038613431652d306235362d343239322d393531312d396236313061383939656236",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4208a41e-0b56-4292-9511-9b610a899eb6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4208a41e-0b56-4292-9511-9b610a899eb6",

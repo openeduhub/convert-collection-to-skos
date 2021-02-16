@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e6e5e9ca-ced1-4a29-894d-4aa78ace8e10",
   "type": "Service",
-  "name": "Große Vokalharmonie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65366535653963612d636564312d346132392d383934642d346161373861636538653130",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe6e5e9ca-ced1-4a29-894d-4aa78ace8e10",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe6e5e9ca-ced1-4a29-894d-4aa78ace8e10",

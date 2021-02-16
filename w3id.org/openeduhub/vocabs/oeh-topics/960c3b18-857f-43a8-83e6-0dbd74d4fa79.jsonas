@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/960c3b18-857f-43a8-83e6-0dbd74d4fa79",
   "type": "Service",
-  "name": "Pragmatische Texte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39363063336231382d383537662d343361382d383365362d306462643734643466613739",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F960c3b18-857f-43a8-83e6-0dbd74d4fa79",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F960c3b18-857f-43a8-83e6-0dbd74d4fa79",

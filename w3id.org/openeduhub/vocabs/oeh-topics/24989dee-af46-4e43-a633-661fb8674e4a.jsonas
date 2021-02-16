@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/24989dee-af46-4e43-a633-661fb8674e4a",
   "type": "Service",
-  "name": "Angemessen fragen und sich entschuldigen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32343938396465652d616634362d346534332d613633332d363631666238363734653461",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F24989dee-af46-4e43-a633-661fb8674e4a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F24989dee-af46-4e43-a633-661fb8674e4a",

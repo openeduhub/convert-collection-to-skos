@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b96f153-9077-4d9b-9a2c-12f24c8fb29a",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b96f153-9077-4d9b-9a2c-12f24c8fb29a",
   "prefLabel": {
-    "de": "Verdauung von Fetten und Ölen"
+    "de": "Verdauung und Bedeutung als Nahrungsmittel"
   },
   "definition": {
-    "de": "Fette und Öle haben eine wichtige Bedeutung in der Nahrung."
+    "de": "Fette und Öle haben eine wichtige Bedeutung in der Nahrung. Sie sind Energielieferant - und dienen im Körper selbst als Energiespeicher."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d3354fb0-f36d-4c41-ab5e-3023c8dfdd9d",
     "prefLabel": {
-      "de": "Fette und Öle"
+      "de": "Fette und Öle - Ester langkettiger Carbonsäuren"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7bd86d3e-e752-4993-add6-d451ca8c901a",
   "type": "Service",
-  "name": "Freizeit und Sport",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37626438366433652d653735322d343939332d616464362d643435316361386339303161",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7bd86d3e-e752-4993-add6-d451ca8c901a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7bd86d3e-e752-4993-add6-d451ca8c901a",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3226d864-f5b5-433f-871f-cc254749cab1",
   "type": "Service",
-  "name": "Menschenrechte ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33323236643836342d663562352d343333662d383731662d636332353437343963616231",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3226d864-f5b5-433f-871f-cc254749cab1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3226d864-f5b5-433f-871f-cc254749cab1",

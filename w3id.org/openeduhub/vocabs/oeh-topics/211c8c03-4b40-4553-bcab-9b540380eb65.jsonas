@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/211c8c03-4b40-4553-bcab-9b540380eb65",
   "type": "Service",
-  "name": "Prinzipien der digitalen Welt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32313163386330332d346234302d343535332d626361622d396235343033383065623635",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F211c8c03-4b40-4553-bcab-9b540380eb65",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F211c8c03-4b40-4553-bcab-9b540380eb65",

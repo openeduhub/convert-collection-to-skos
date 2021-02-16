@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6eedd853-c997-40bc-af22-f89137b29434",
   "type": "Service",
-  "name": "Gesprächsmodelle",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36656564643835332d633939372d343062632d616632322d663839313337623239343334",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6eedd853-c997-40bc-af22-f89137b29434",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6eedd853-c997-40bc-af22-f89137b29434",

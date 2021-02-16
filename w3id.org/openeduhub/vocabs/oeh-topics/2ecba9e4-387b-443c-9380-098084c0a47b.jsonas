@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2ecba9e4-387b-443c-9380-098084c0a47b",
   "type": "Service",
-  "name": "Wirkung der Botschaft von Tod und Auferweckung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32656362613965342d333837622d343433632d393338302d303938303834633061343762",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2ecba9e4-387b-443c-9380-098084c0a47b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2ecba9e4-387b-443c-9380-098084c0a47b",

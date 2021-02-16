@@ -16,7 +16,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4d1b503f-7bde-459d-b01e-add1e1867ae0",
       "prefLabel": {
-        "de": "Die Uhr"
+        "de": "Zeiten"
       }
     },
     {
@@ -28,7 +28,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/aaa64ef2-e856-4702-962f-f1ffc8d48889",
       "prefLabel": {
-        "de": "Muster"
+        "de": "Muster und Formen"
       }
     },
     {
@@ -44,6 +44,11 @@
       "de": "Mathematik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/380"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -108,7 +113,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +131,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

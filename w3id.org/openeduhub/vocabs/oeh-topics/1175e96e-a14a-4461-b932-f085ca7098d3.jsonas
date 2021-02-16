@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1175e96e-a14a-4461-b932-f085ca7098d3",
   "type": "Service",
-  "name": "Structured Query Language (SQL)",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31313735653936652d613134612d343436312d623933322d663038356361373039386433",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1175e96e-a14a-4461-b932-f085ca7098d3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1175e96e-a14a-4461-b932-f085ca7098d3",

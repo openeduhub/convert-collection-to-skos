@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/76ee1a17-6cd7-4ecb-970c-36088176d36a",
   "type": "Service",
-  "name": "Spezialkunststoffe",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37366565316131372d366364372d346563622d393730632d333630383831373664333661",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F76ee1a17-6cd7-4ecb-970c-36088176d36a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F76ee1a17-6cd7-4ecb-970c-36088176d36a",

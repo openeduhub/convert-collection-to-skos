@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b72d90d8-50e5-4c26-a625-e964bc07f3ce",
   "type": "Service",
-  "name": "Indefinitpronomen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62373264393064382d353065352d346332362d613632352d653936346263303766336365",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb72d90d8-50e5-4c26-a625-e964bc07f3ce",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb72d90d8-50e5-4c26-a625-e964bc07f3ce",

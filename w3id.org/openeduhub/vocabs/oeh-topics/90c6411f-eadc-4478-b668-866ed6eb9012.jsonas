@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/90c6411f-eadc-4478-b668-866ed6eb9012",
   "type": "Service",
-  "name": "Räumliche und ebene Geometrie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39306336343131662d656164632d343437382d623636382d383636656436656239303132",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F90c6411f-eadc-4478-b668-866ed6eb9012",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F90c6411f-eadc-4478-b668-866ed6eb9012",

@@ -8,60 +8,6 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/1556b4de-fdbb-4576-a68e-2c12ab053a29",
-      "prefLabel": {
-        "de": "Tiere"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/1c43eb80-50c0-4ecc-988a-52a5857d514d",
-      "prefLabel": {
-        "de": "Ökologie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/220f48a8-4b53-4179-919d-7cd238ed567e",
-      "prefLabel": {
-        "de": "Mikrobiologie und Pilze"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/22991f3f-4782-4fb2-a369-b51722688206",
-      "prefLabel": {
-        "de": "Physiologie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2e674483-0eae-4088-b51a-c4f4bbf86bcc",
-      "prefLabel": {
-        "de": "Evolution"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5780f825-0d8d-4473-903f-6fe4eec137f8",
-      "prefLabel": {
-        "de": "Zellbiologie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6a7e03c7-c71a-4e7d-a271-11a3831ee364",
-      "prefLabel": {
-        "de": "Vererbung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/873d62a5-362b-4b58-a618-28d4dec06324",
-      "prefLabel": {
-        "de": "Pflanzen "
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d55d6139-982a-472b-ad78-ded266ce8a25",
-      "prefLabel": {
-        "de": "allgemeine Biologie"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/dd41301d-4f93-4820-be90-280df6b01093",
       "prefLabel": {
         "de": "Mensch"
@@ -72,6 +18,71 @@
       "prefLabel": {
         "de": "Verhaltensbiologie"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2e674483-0eae-4088-b51a-c4f4bbf86bcc",
+      "prefLabel": {
+        "de": "Evolution"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/1556b4de-fdbb-4576-a68e-2c12ab053a29",
+      "prefLabel": {
+        "de": "Tiere"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/220f48a8-4b53-4179-919d-7cd238ed567e",
+      "prefLabel": {
+        "de": "Mikrobiologie und Pilze"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6a7e03c7-c71a-4e7d-a271-11a3831ee364",
+      "prefLabel": {
+        "de": "Vererbung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d55d6139-982a-472b-ad78-ded266ce8a25",
+      "prefLabel": {
+        "de": "allgemeine Biologie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/22991f3f-4782-4fb2-a369-b51722688206",
+      "prefLabel": {
+        "de": "Physiologie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5780f825-0d8d-4473-903f-6fe4eec137f8",
+      "prefLabel": {
+        "de": "Zellbiologie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bc2784a8-531e-4605-91cb-80e1161505e9",
+      "prefLabel": {
+        "de": "Bienen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/1c43eb80-50c0-4ecc-988a-52a5857d514d",
+      "prefLabel": {
+        "de": "Ökologie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/873d62a5-362b-4b58-a618-28d4dec06324",
+      "prefLabel": {
+        "de": "Pflanzen "
+      }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/080"
     }
   ],
   "inScheme": {
@@ -141,7 +152,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -150,7 +170,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

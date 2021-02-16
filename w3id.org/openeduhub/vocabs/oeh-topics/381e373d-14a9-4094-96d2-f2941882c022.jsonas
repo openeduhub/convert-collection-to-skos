@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/381e373d-14a9-4094-96d2-f2941882c022",
   "type": "Service",
-  "name": "Kleidung und Accessoires",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33383165333733642d313461392d343039342d393664322d663239343138383263303232",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F381e373d-14a9-4094-96d2-f2941882c022",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F381e373d-14a9-4094-96d2-f2941882c022",

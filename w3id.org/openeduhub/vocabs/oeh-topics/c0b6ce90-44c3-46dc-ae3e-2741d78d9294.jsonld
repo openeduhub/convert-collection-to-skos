@@ -4,28 +4,28 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0b6ce90-44c3-46dc-ae3e-2741d78d9294",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0b6ce90-44c3-46dc-ae3e-2741d78d9294",
   "prefLabel": {
-    "de": "Periodensystem"
+    "de": "Das Periodensystem"
   },
   "definition": {
-    "de": "Das Periodensystem ist eine geordnete Liste aller chemischen Elemente, die in Zeilen und Spalten einsortiert sind."
+    "de": "Das Periodensystem ist eine geordnete Liste aller chemischen Elemente, welche nach steigender Kernladung (Ordnungszahl) aufgeführt sind. Dabei sind die Elemente bestimmten Gruppen \n(Spalten) und Perioden (Zeilen) zugeordnet. \nBesonders die Zusammenhänge zwischen den Elementen einer Gruppe sollten in diesem Themengebiet eine zentrale Rolle spielen."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/031ba2ca-92f4-4a76-88bb-bc85d9bb08ae",
       "prefLabel": {
-        "de": "Struktur des Periodensystems"
+        "de": "Die Struktur des Periodensystems"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/16821ab5-2563-45d8-967a-964731c3f49b",
       "prefLabel": {
-        "de": "Zusammenhang Periodensystem und Atombau"
+        "de": "Der Zusammenhang Periodensystem und Atombau"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2ae338a9-bb65-4a59-b30a-5287bdbc9026",
       "prefLabel": {
-        "de": "Elektronegativität und Periodensystem"
+        "de": "Die Elektronegativität und das Periodensystem"
       }
     },
     {
@@ -37,13 +37,13 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8b3bc77e-07fa-4bbe-add1-ae449c3679ee",
       "prefLabel": {
-        "de": "Historische Entwicklung des Periodensystems"
+        "de": "Die Historische Entwicklung des Periodensystems"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d2cbbdb9-baaa-4a89-bd10-56e8857b2af0",
       "prefLabel": {
-        "de": "Nebengruppenelemente"
+        "de": "Die Nebengruppenelemente"
       }
     },
     {
@@ -56,9 +56,14 @@
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3c18febc-4513-47c4-b2bc-ca8af0494964",
     "prefLabel": {
-      "de": "Anorganische Chemie"
+      "de": "Die Anorganische Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -123,7 +128,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -132,7 +146,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

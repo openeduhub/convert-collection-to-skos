@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/24847eeb-e4cf-464f-af10-5a0f8739ce79",
   "type": "Service",
-  "name": "Körper & Gesundheit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32343834376565622d653463662d343634662d616631302d356130663837333963653739",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F24847eeb-e4cf-464f-af10-5a0f8739ce79",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F24847eeb-e4cf-464f-af10-5a0f8739ce79",

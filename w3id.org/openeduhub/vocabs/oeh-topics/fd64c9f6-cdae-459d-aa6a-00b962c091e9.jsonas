@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/fd64c9f6-cdae-459d-aa6a-00b962c091e9",
   "type": "Service",
-  "name": "Urheber- und Nutzungsrecht sowie Quellendokumentation",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66643634633966362d636461652d343539642d616136612d303062393632633039316539",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffd64c9f6-cdae-459d-aa6a-00b962c091e9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffd64c9f6-cdae-459d-aa6a-00b962c091e9",

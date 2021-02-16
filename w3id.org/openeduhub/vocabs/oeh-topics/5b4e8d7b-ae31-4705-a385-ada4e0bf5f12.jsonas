@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5b4e8d7b-ae31-4705-a385-ada4e0bf5f12",
   "type": "Service",
-  "name": "Gärung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35623465386437622d616533312d343730352d613338352d616461346530626635663132",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5b4e8d7b-ae31-4705-a385-ada4e0bf5f12",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5b4e8d7b-ae31-4705-a385-ada4e0bf5f12",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/12667089-2a9e-426a-9022-3cd41ff2eb53",
   "type": "Service",
-  "name": "Verbaladverbien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31323636373038392d326139652d343236612d393032322d336364343166663265623533",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F12667089-2a9e-426a-9022-3cd41ff2eb53",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F12667089-2a9e-426a-9022-3cd41ff2eb53",

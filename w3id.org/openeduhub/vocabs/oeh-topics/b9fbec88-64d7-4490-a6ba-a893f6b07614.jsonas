@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b9fbec88-64d7-4490-a6ba-a893f6b07614",
   "type": "Service",
-  "name": "Advent",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62396662656338382d363464372d343439302d613662612d613839336636623037363134",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb9fbec88-64d7-4490-a6ba-a893f6b07614",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb9fbec88-64d7-4490-a6ba-a893f6b07614",

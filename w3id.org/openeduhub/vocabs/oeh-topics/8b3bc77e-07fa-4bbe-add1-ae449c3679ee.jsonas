@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8b3bc77e-07fa-4bbe-add1-ae449c3679ee",
   "type": "Service",
-  "name": "Historische Entwicklung des Periodensystems",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38623362633737652d303766612d346262652d616464312d616534343963333637396565",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8b3bc77e-07fa-4bbe-add1-ae449c3679ee",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8b3bc77e-07fa-4bbe-add1-ae449c3679ee",

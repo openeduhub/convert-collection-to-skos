@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a58a5980-b2e2-4961-897f-6dd810b29cfa",
   "type": "Service",
-  "name": "Audiobearbeitung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61353861353938302d623265322d343936312d383937662d366464383130623239636661",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa58a5980-b2e2-4961-897f-6dd810b29cfa",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa58a5980-b2e2-4961-897f-6dd810b29cfa",

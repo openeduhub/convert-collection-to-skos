@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0b0a9878-1a6d-4cf0-9540-2c2d8adfcbfb",
   "type": "Service",
-  "name": "Verkehrsmittel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30623061393837382d316136642d346366302d393534302d326332643861646663626662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b0a9878-1a6d-4cf0-9540-2c2d8adfcbfb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b0a9878-1a6d-4cf0-9540-2c2d8adfcbfb",

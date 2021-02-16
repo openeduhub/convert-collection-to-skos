@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5709e139-6ebe-4f52-82c0-319cd6d1aa40",
   "type": "Service",
-  "name": "unregelmäßige Verben",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35373039653133392d366562652d346635322d383263302d333139636436643161613430",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5709e139-6ebe-4f52-82c0-319cd6d1aa40",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5709e139-6ebe-4f52-82c0-319cd6d1aa40",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/bb66ebea-8dcf-4887-8f09-6b6b6ae6204a",
   "type": "Service",
-  "name": "Evolutionstheorien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62623636656265612d386463662d343838372d386630392d366236623661653632303461",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbb66ebea-8dcf-4887-8f09-6b6b6ae6204a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbb66ebea-8dcf-4887-8f09-6b6b6ae6204a",

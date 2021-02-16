@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cdfa3d09-a605-46d5-b814-f9845a810e1f",
   "type": "Service",
-  "name": "Softwaretechnik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63646661336430392d613630352d343664352d623831342d663938343561383130653166",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcdfa3d09-a605-46d5-b814-f9845a810e1f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcdfa3d09-a605-46d5-b814-f9845a810e1f",

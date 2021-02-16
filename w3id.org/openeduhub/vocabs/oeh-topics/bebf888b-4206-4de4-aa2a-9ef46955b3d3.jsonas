@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/bebf888b-4206-4de4-aa2a-9ef46955b3d3",
   "type": "Service",
-  "name": "Meditation",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62656266383838622d343230362d346465342d616132612d396566343639353562336433",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbebf888b-4206-4de4-aa2a-9ef46955b3d3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbebf888b-4206-4de4-aa2a-9ef46955b3d3",

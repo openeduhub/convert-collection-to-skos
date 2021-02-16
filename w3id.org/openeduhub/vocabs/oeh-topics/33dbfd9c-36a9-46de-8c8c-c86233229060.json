@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F33dbfd9c-36a9-46de-8c8c-c86233229060",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F33dbfd9c-36a9-46de-8c8c-c86233229060",
   "prefLabel": {
-    "de": "Massenwirkungsgesetz"
+    "de": "Einführung und Anwendung des Massenwirkungsgesetzes"
   },
   "definition": {
-    "de": "Das Massenwirkungsgesetz beschreibt die Lage von Gleichgewichtsreaktionen anhand der Konzentrationen der Reaktanden, deren Quotient einen konstanten Wert einnehmen."
+    "de": "Das Massenwirkungsgesetz beschreibt die Lage von Gleichgewichtsreaktionen anhand der Konzentrationen der Reaktanden, deren Quotient einen konstanten Wert einnehmen.\n\nDies spielt bei vielen chemischen Vorgängen eine Rolle, auch bei der Löslichkeit von Salzen."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/436337e4-e651-48dc-aad4-6e76d34809bc",
@@ -15,6 +15,11 @@
       "de": "Stöchiometrie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

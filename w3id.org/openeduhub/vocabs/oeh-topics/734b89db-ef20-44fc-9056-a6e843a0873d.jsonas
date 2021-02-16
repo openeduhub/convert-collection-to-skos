@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/734b89db-ef20-44fc-9056-a6e843a0873d",
   "type": "Service",
-  "name": "ethische Modelle",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37333462383964622d656632302d343466632d393035362d613665383433613038373364",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F734b89db-ef20-44fc-9056-a6e843a0873d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F734b89db-ef20-44fc-9056-a6e843a0873d",

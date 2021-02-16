@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a1b8163c-2d3d-4c4f-8ef8-37dd846539b2",
   "type": "Service",
-  "name": "Glühelektrischer Effekt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61316238313633632d326433642d346334662d386566382d333764643834363533396232",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa1b8163c-2d3d-4c4f-8ef8-37dd846539b2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa1b8163c-2d3d-4c4f-8ef8-37dd846539b2",

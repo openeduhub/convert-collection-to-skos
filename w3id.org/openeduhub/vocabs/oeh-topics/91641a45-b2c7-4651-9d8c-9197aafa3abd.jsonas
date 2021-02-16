@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/91641a45-b2c7-4651-9d8c-9197aafa3abd",
   "type": "Service",
-  "name": "Verben",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39313634316134352d623263372d343635312d396438632d393139376161666133616264",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F91641a45-b2c7-4651-9d8c-9197aafa3abd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F91641a45-b2c7-4651-9d8c-9197aafa3abd",

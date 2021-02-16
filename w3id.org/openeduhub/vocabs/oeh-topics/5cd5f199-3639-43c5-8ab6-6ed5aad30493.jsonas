@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5cd5f199-3639-43c5-8ab6-6ed5aad30493",
   "type": "Service",
-  "name": "Feste, Bräuche und Traditionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35636435663139392d333633392d343363352d386162362d366564356161643330343933",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5cd5f199-3639-43c5-8ab6-6ed5aad30493",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5cd5f199-3639-43c5-8ab6-6ed5aad30493",

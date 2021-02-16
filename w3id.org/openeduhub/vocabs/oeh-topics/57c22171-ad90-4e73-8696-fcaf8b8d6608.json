@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F57c22171-ad90-4e73-8696-fcaf8b8d6608",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F57c22171-ad90-4e73-8696-fcaf8b8d6608",
   "prefLabel": {
-    "de": "Bildung für Nachhaltige Entwicklung (BNE)"
+    "de": "Die 17 Ziele für nachhaltige Entwicklung"
   },
   "definition": {
-    "de": "Als Antwort auf die Herausforderungen der Zukunft hat sich die Weltgemeinschaft im Jahr 2015 im Rahmen der Agenda 2030 17 Ziele für eine nachhaltige Entwicklung gesetzt. Bildung für Nachhaltige Entwicklung (BNE) ist Teil der Umsetzung von Ziel 4 \"Hochwertige Bildung\" und beabsichtigt junge Menschen mit entsprechenden Kompetenzen auszustatten, damit sie die Zukunft nachhaltig und lebenswert gestallten können. Somit ist BNE zugleich Treiber für alle anderen Entwicklungsziele und die gesamte Agenda 2030."
+    "de": "Für eine gerechtere Welt und lebenswerte Zukunft - Im Jahr 2015 haben die Staaten der Vereinten Nationen die 17 Ziele für eine nachhaltige Entwicklung als Antwort auf die Herausforderungen der Zukunft verabschiedet. Als Lerngegenstand eignen sich die Nachhaltigkeitsziele besonders gut zur Förderung von Zukunftskompetenzen (wie Weltoffenheit und verantwortliches Handeln) und für partizipative Lernmethoden wie Projektlernen, Lernlabors und Stationenlernen. Hier findest du spannende Materialien, Projektideen und digitale Tools, um das Thema in den Schulunterricht zu integrieren oder einfach mehr darüber zu erfahren."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d0ed50e6-a49f-4566-8f3b-c545cdf75067",
@@ -15,6 +15,11 @@
       "de": "Nachhaltigkeit"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/64018"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

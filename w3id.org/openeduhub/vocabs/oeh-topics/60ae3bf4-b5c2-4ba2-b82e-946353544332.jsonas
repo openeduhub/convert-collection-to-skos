@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/60ae3bf4-b5c2-4ba2-b82e-946353544332",
   "type": "Service",
-  "name": "Rezension",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36306165336266342d623563322d346261322d623832652d393436333533353434333332",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F60ae3bf4-b5c2-4ba2-b82e-946353544332",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F60ae3bf4-b5c2-4ba2-b82e-946353544332",

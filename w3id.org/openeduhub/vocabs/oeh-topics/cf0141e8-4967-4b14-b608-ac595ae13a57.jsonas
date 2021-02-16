@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cf0141e8-4967-4b14-b608-ac595ae13a57",
   "type": "Service",
-  "name": "Altes Testament",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63663031343165382d343936372d346231342d623630382d616335393561653133613537",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcf0141e8-4967-4b14-b608-ac595ae13a57",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcf0141e8-4967-4b14-b608-ac595ae13a57",

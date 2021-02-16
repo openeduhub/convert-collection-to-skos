@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5229ab44-2fe4-4d24-a8d2-6a0b91acba03",
   "type": "Service",
-  "name": "Laute und Buchstaben\n ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35323239616234342d326665342d346432342d613864322d366130623931616362613033",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5229ab44-2fe4-4d24-a8d2-6a0b91acba03",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5229ab44-2fe4-4d24-a8d2-6a0b91acba03",

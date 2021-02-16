@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a8371599-e9ec-48d4-b33c-f50277b8d483",
   "type": "Service",
-  "name": "Galerie Schülerarbeiten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61383337313539392d653965632d343864342d623333632d663530323737623864343833",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa8371599-e9ec-48d4-b33c-f50277b8d483",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa8371599-e9ec-48d4-b33c-f50277b8d483",

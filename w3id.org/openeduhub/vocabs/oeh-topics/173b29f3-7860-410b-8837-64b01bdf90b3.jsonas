@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/173b29f3-7860-410b-8837-64b01bdf90b3",
   "type": "Service",
-  "name": "Basketball",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31373362323966332d373836302d343130622d383833372d363462303162646639306233",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F173b29f3-7860-410b-8837-64b01bdf90b3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F173b29f3-7860-410b-8837-64b01bdf90b3",

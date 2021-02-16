@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e0797183-e11b-47cb-91bd-44e24d7786dc",
   "type": "Service",
-  "name": "Besonderheiten bei der Fotosynthese ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65303739373138332d653131622d343763622d393162642d343465323464373738366463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0797183-e11b-47cb-91bd-44e24d7786dc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0797183-e11b-47cb-91bd-44e24d7786dc",

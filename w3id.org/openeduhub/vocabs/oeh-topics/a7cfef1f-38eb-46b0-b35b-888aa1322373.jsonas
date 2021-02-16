@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a7cfef1f-38eb-46b0-b35b-888aa1322373",
   "type": "Service",
-  "name": "Kunstwerke",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61376366656631662d333865622d343662302d623335622d383838616131333232333733",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa7cfef1f-38eb-46b0-b35b-888aa1322373",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa7cfef1f-38eb-46b0-b35b-888aa1322373",

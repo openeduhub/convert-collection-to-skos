@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/71269247-a2a5-4bf3-aa70-948a2e16da05",
   "type": "Service",
-  "name": "Spuren von Religiosität und Bibel im Sport",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37313236393234372d613261352d346266332d616137302d393438613265313664613035",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F71269247-a2a5-4bf3-aa70-948a2e16da05",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F71269247-a2a5-4bf3-aa70-948a2e16da05",

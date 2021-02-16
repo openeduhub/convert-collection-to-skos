@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/207b9f2f-2e4a-4360-93a2-c39598e6f559",
   "type": "Service",
-  "name": "Aussprache",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32303762396632662d326534612d343336302d393361322d633339353938653666353539",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F207b9f2f-2e4a-4360-93a2-c39598e6f559",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F207b9f2f-2e4a-4360-93a2-c39598e6f559",

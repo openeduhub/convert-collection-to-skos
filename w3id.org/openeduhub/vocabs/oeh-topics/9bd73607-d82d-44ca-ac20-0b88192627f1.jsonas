@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9bd73607-d82d-44ca-ac20-0b88192627f1",
   "type": "Service",
-  "name": "Objektsatz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39626437333630372d643832642d343463612d616332302d306238383139323632376631",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9bd73607-d82d-44ca-ac20-0b88192627f1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9bd73607-d82d-44ca-ac20-0b88192627f1",

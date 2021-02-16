@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/dec1042f-ca5e-4b26-a2f3-423160464946",
   "type": "Service",
-  "name": "Satzschlusszeichen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64656331303432662d636135652d346232362d613266332d343233313630343634393436",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdec1042f-ca5e-4b26-a2f3-423160464946",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdec1042f-ca5e-4b26-a2f3-423160464946",

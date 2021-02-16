@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3871cf0a-ba39-4457-b710-c585f892beca",
   "type": "Service",
-  "name": "Betriebssysteme",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33383731636630612d626133392d343435372d623731302d633538356638393262656361",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3871cf0a-ba39-4457-b710-c585f892beca",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3871cf0a-ba39-4457-b710-c585f892beca",

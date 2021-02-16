@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9a8f5251-f921-47ea-9e56-5b1d852a8416",
   "type": "Service",
-  "name": "Ausbreitung von Samen und Früchten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39613866353235312d663932312d343765612d396535362d356231643835326138343136",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9a8f5251-f921-47ea-9e56-5b1d852a8416",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9a8f5251-f921-47ea-9e56-5b1d852a8416",

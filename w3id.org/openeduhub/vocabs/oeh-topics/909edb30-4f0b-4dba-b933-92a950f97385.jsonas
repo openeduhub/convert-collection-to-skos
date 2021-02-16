@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/909edb30-4f0b-4dba-b933-92a950f97385",
   "type": "Service",
-  "name": "Elektrolyseverfahren zur Herstellung von Metallen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39303965646233302d346630622d346462612d623933332d393261393530663937333835",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F909edb30-4f0b-4dba-b933-92a950f97385",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F909edb30-4f0b-4dba-b933-92a950f97385",

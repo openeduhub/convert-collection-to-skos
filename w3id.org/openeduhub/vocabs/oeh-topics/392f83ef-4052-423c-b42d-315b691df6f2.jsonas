@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/392f83ef-4052-423c-b42d-315b691df6f2",
   "type": "Service",
-  "name": "Reaktionsmechanismen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33393266383365662d343035322d343233632d623432642d333135623639316466366632",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F392f83ef-4052-423c-b42d-315b691df6f2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F392f83ef-4052-423c-b42d-315b691df6f2",

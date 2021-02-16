@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8e5d25b2-4390-4d72-addf-78856f9c3ecf",
   "type": "Service",
-  "name": "Puffersysteme",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38653564323562322d343339302d346437322d616464662d373838353666396333656366",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8e5d25b2-4390-4d72-addf-78856f9c3ecf",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8e5d25b2-4390-4d72-addf-78856f9c3ecf",

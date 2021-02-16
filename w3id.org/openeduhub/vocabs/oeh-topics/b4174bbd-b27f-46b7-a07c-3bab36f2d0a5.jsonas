@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b4174bbd-b27f-46b7-a07c-3bab36f2d0a5",
   "type": "Service",
-  "name": "Farben und Formen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62343137346262642d623237662d343662372d613037632d336261623336663264306135",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb4174bbd-b27f-46b7-a07c-3bab36f2d0a5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb4174bbd-b27f-46b7-a07c-3bab36f2d0a5",

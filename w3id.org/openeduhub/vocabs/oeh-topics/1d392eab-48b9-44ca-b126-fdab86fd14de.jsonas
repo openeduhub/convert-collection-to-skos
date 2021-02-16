@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1d392eab-48b9-44ca-b126-fdab86fd14de",
   "type": "Service",
-  "name": "Novelle",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31643339326561622d343862392d343463612d623132362d666461623836666431346465",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1d392eab-48b9-44ca-b126-fdab86fd14de",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1d392eab-48b9-44ca-b126-fdab86fd14de",

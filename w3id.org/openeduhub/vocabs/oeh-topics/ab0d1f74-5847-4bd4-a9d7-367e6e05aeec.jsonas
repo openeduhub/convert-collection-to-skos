@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ab0d1f74-5847-4bd4-a9d7-367e6e05aeec",
   "type": "Service",
-  "name": "Schreiben",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61623064316637342d353834372d346264342d613964372d333637653665303561656563",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fab0d1f74-5847-4bd4-a9d7-367e6e05aeec",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fab0d1f74-5847-4bd4-a9d7-367e6e05aeec",

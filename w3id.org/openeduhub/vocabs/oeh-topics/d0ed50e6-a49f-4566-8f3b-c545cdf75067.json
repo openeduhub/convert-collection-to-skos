@@ -11,21 +11,15 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/18d26ebb-d29d-42ed-8dbe-134ada4f785b",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/98a88451-718e-4bf8-958b-00630ac66b66",
       "prefLabel": {
-        "de": "Umwelt und Natur"
+        "de": "Konsum und Produktion"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/57c22171-ad90-4e73-8696-fcaf8b8d6608",
       "prefLabel": {
-        "de": "Bildung für Nachhaltige Entwicklung (BNE)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/98a88451-718e-4bf8-958b-00630ac66b66",
-      "prefLabel": {
-        "de": "Konsum und Produktion"
+        "de": "Die 17 Ziele für nachhaltige Entwicklung"
       }
     },
     {
@@ -33,6 +27,17 @@
       "prefLabel": {
         "de": "Gesellschaft und Mensch (demnächst verfügbar)"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/18d26ebb-d29d-42ed-8dbe-134ada4f785b",
+      "prefLabel": {
+        "de": "Umwelt und Natur"
+      }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/64018"
     }
   ],
   "inScheme": {
@@ -102,7 +107,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +125,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

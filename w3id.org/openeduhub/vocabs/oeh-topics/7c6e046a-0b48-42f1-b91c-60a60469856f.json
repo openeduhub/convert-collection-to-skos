@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7c6e046a-0b48-42f1-b91c-60a60469856f",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7c6e046a-0b48-42f1-b91c-60a60469856f",
   "prefLabel": {
-    "de": "Massenverhältnisse mit Reaktionsgleichungen berechnen"
+    "de": "Massenverhältnisse in Reaktionsgleichungen berechnen"
   },
   "definition": {
-    "de": "Das Aufstellen und Ausgleichen von Reaktionsgleichungen ist für stöchiometrische Berechnungen eine Grundvoraussetzung. Damit können dann anhand der Massenverhältnisse Berechnungen vorgenommen werden."
+    "de": "Das Aufstellen und Ausgleichen von Reaktionsgleichungen ist für stöchiometrische Berechnungen eine Grundvoraussetzung. Damit können dann anhand der Massenverhältnisse Berechnungen vorgenommen werden. Dabei kann man ohne Kenntnisse zu der Stoffmenge Berechnungen vornehmen.\n\nDie Idee beruht auf den chemischen Grundgesetzen, die hier aber nicht betrachtet werden."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/436337e4-e651-48dc-aad4-6e76d34809bc",
@@ -15,6 +15,11 @@
       "de": "Stöchiometrie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

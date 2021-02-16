@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c6de9e8a-1595-4cb5-9f3f-bf8d2acd6e9f",
   "type": "Service",
-  "name": "Prophetie als Kritik an Gesellschaft und Individuen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63366465396538612d313539352d346362352d396633662d626638643261636436653966",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc6de9e8a-1595-4cb5-9f3f-bf8d2acd6e9f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc6de9e8a-1595-4cb5-9f3f-bf8d2acd6e9f",

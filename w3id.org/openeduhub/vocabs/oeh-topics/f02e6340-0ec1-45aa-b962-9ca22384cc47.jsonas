@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f02e6340-0ec1-45aa-b962-9ca22384cc47",
   "type": "Service",
-  "name": "Gedicht",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66303265363334302d306563312d343561612d623936322d396361323233383463633437",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff02e6340-0ec1-45aa-b962-9ca22384cc47",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff02e6340-0ec1-45aa-b962-9ca22384cc47",

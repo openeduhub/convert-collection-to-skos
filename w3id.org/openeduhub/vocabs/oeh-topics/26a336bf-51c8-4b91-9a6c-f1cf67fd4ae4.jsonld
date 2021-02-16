@@ -8,15 +8,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/01c46536-d69e-49b1-a49d-ec7cc5f04508",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7b92e3c4-2995-4c25-8c69-c8be4463faff",
       "prefLabel": {
-        "de": "Interkulturelle Kompetenzen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0f7d4094-0ebb-4df9-b79e-ed62d4ec197a",
-      "prefLabel": {
-        "de": "Satzbau"
+        "de": "Aussprache"
       }
     },
     {
@@ -32,22 +26,33 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cdf69a29-0886-4fb7-b9f8-39dca4f02e78",
+      "prefLabel": {
+        "de": "Kommunikatives"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5137f3ce-927c-4085-b731-54271c6df347",
       "prefLabel": {
         "de": "Rechtschreibung"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7b92e3c4-2995-4c25-8c69-c8be4463faff",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/01c46536-d69e-49b1-a49d-ec7cc5f04508",
       "prefLabel": {
-        "de": "Aussprache"
+        "de": "Interkulturelles"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cdf69a29-0886-4fb7-b9f8-39dca4f02e78",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/79589113-2330-4a46-9104-6da9edf227ae",
       "prefLabel": {
-        "de": "Sprachdidaktik"
+        "de": "Methodisches"
       }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/28002"
     }
   ],
   "inScheme": {
@@ -117,7 +122,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -126,7 +140,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

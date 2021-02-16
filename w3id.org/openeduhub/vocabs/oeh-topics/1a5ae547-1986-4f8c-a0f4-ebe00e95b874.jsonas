@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1a5ae547-1986-4f8c-a0f4-ebe00e95b874",
   "type": "Service",
-  "name": "Rechtsextremismus ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31613561653534372d313938362d346638632d613066342d656265303065393562383734",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1a5ae547-1986-4f8c-a0f4-ebe00e95b874",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1a5ae547-1986-4f8c-a0f4-ebe00e95b874",

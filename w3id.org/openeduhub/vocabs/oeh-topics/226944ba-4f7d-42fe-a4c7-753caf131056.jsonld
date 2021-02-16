@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F226944ba-4f7d-42fe-a4c7-753caf131056",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F226944ba-4f7d-42fe-a4c7-753caf131056",
   "prefLabel": {
-    "de": "Historische Entwicklung des Teilchenmodells"
+    "de": "Grundlagen und Historische Entwicklung des Teilchenmodells"
   },
   "definition": {
-    "de": "Wie sind die Philosophen der Antike auf das Teilchenmodell gekommen und wie hat es sich entwickelt?"
+    "de": "Schon in der Antike spekulierten Philosphen darüber, dass alle Stoffe aus kleinen Teilchen aufgebaut sind. Hier geht es darum, wie sich diese Vorstellung historisch entwickelt hat - ohne bereits auf die Struktur von Atomen einzugehen."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f75eec46-f7a9-44b3-ad2a-1fee76a3b1a3",
     "prefLabel": {
-      "de": "Teilchenmodell"
+      "de": "Einführung in das Teilchenmodell"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

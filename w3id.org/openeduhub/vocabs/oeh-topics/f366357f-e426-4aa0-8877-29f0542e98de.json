@@ -7,14 +7,19 @@
     "de": "Benennung von Carbonsäuren"
   },
   "definition": {
-    "de": "Neben einer systematischen Benennung über die Homologe Reihe der Alkane, haben viele Carbonsäuren Trivialnamen, die sich aus einem typischen Vorkommen ergeben."
+    "de": "Neben einer systematischen Benennung über die homologe Reihe der Alkane, haben viele Carbonsäuren Trivialnamen, die sich aus ihrem typischen Vorkommen ergeben.\n\nHier werden einige Säuren und deren Anwendung vorgestellt."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b6d46beb-314d-459d-bba3-9727660c81af",
     "prefLabel": {
-      "de": "Carbonsäuren"
+      "de": "Carbonsäuren - Organische Säuren"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

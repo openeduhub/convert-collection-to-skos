@@ -11,9 +11,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/37e52144-ac0f-4622-b03c-9cea7749d8a5",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ce676ca8-0810-4348-adf8-14e2f9ad64f8",
       "prefLabel": {
-        "de": "Thermodynamik"
+        "de": "Typen von Bindungen"
       }
     },
     {
@@ -23,21 +23,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/37e52144-ac0f-4622-b03c-9cea7749d8a5",
+      "prefLabel": {
+        "de": "Die Thermodynamik"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/63daf3d9-b673-4da0-b1ba-0fad4a58d335",
       "prefLabel": {
-        "de": "Atommodelle"
+        "de": "Verschiedene Atommodelle in der Chemie"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/66925fc0-0c09-493b-b526-cae9b94575de",
       "prefLabel": {
-        "de": "Zwischenmolekulare Kräfte"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ce676ca8-0810-4348-adf8-14e2f9ad64f8",
-      "prefLabel": {
-        "de": "Bindungen"
+        "de": "Die zwischenmolekulare Kräfte bei Molekülen"
       }
     }
   ],
@@ -47,6 +47,11 @@
       "de": "Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -111,7 +116,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +134,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

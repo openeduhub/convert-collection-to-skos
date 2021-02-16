@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6224c75c-2d8a-4e2c-b152-f144ed651621",
   "type": "Service",
-  "name": "Potenzgesetze",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36323234633735632d326438612d346532632d623135322d663134346564363531363231",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6224c75c-2d8a-4e2c-b152-f144ed651621",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6224c75c-2d8a-4e2c-b152-f144ed651621",

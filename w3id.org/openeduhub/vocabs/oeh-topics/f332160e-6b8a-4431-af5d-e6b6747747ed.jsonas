@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f332160e-6b8a-4431-af5d-e6b6747747ed",
   "type": "Service",
-  "name": "Land- und Bodenverschmutzung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66333332313630652d366238612d343433312d616635642d653662363734373734376564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff332160e-6b8a-4431-af5d-e6b6747747ed",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff332160e-6b8a-4431-af5d-e6b6747747ed",

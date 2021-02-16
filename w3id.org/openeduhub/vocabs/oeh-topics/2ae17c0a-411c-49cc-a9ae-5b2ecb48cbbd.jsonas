@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2ae17c0a-411c-49cc-a9ae-5b2ecb48cbbd",
   "type": "Service",
-  "name": "nicht-religiöse Weltanschauungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32616531376330612d343131632d343963632d613961652d356232656362343863626264",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2ae17c0a-411c-49cc-a9ae-5b2ecb48cbbd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2ae17c0a-411c-49cc-a9ae-5b2ecb48cbbd",

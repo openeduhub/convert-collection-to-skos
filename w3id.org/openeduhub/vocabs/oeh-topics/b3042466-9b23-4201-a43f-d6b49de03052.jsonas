@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b3042466-9b23-4201-a43f-d6b49de03052",
   "type": "Service",
-  "name": "Leben am Stadtrand",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62333034323436362d396232332d343230312d613433662d643662343964653033303532",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb3042466-9b23-4201-a43f-d6b49de03052",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb3042466-9b23-4201-a43f-d6b49de03052",

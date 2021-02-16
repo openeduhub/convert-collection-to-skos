@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ea364b9a-0c0e-4384-b5b3-5449896a2981",
   "type": "Service",
-  "name": "Türkei als Urlaubsland",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65613336346239612d306330652d343338342d623562332d353434393839366132393831",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fea364b9a-0c0e-4384-b5b3-5449896a2981",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fea364b9a-0c0e-4384-b5b3-5449896a2981",

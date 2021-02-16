@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/96a16444-a5c1-4bdb-a93e-ced1aa5498d8",
   "type": "Service",
-  "name": "Elektromagnetismus",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39366131363434342d613563312d346264622d613933652d636564316161353439386438",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F96a16444-a5c1-4bdb-a93e-ced1aa5498d8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F96a16444-a5c1-4bdb-a93e-ced1aa5498d8",

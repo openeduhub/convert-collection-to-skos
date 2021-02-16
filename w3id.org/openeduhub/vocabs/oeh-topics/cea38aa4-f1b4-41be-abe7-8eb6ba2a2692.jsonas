@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cea38aa4-f1b4-41be-abe7-8eb6ba2a2692",
   "type": "Service",
-  "name": "Atom und Molekül / Element und Verbindung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63656133386161342d663162342d343162652d616265372d386562366261326132363932",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcea38aa4-f1b4-41be-abe7-8eb6ba2a2692",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcea38aa4-f1b4-41be-abe7-8eb6ba2a2692",

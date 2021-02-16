@@ -8,45 +8,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/01bf8638-752f-4389-aab7-9bd2206c7737",
-      "prefLabel": {
-        "de": "Natur und Umwelt"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/33ad3e91-17c4-4cbf-8300-d1b8828502f9",
       "prefLabel": {
         "de": "gesellschaftliches Zusammenleben"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/40a39fba-aaa5-4472-a5d4-ab2181d44367",
-      "prefLabel": {
-        "de": "Das bin ich"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/43428eda-d699-41ba-a18e-1f6d3bd6c4d7",
-      "prefLabel": {
-        "de": "Wohnen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/47c2327d-30c7-4faf-9997-ce7d8416c428",
-      "prefLabel": {
-        "de": "Geschichte"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e9006fd-a5ba-4b2d-a4de-d4b7897212e7",
-      "prefLabel": {
-        "de": "soziale Beziehungen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6df3a6f2-b78e-4c31-9488-e5eeb56de746",
-      "prefLabel": {
-        "de": "Globalisierung"
       }
     },
     {
@@ -56,15 +20,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/74b68453-477f-4b56-93be-e954d1a75412",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d4969ae3-0dc3-48c6-9441-c35326a1c631",
       "prefLabel": {
-        "de": "Grundwortschatz"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/77d3c94f-c438-48f9-82b9-e650f22dc7b0",
-      "prefLabel": {
-        "de": "Kultur und Traditionen"
+        "de": "Arbeitswelt"
       }
     },
     {
@@ -74,27 +32,69 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b610d6bd-255d-4d61-a9e2-d85794a0bf44",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/74b68453-477f-4b56-93be-e954d1a75412",
       "prefLabel": {
-        "de": "Medien"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c0ac6271-2990-4b86-8982-2b917b91400b",
-      "prefLabel": {
-        "de": "Wissenschaft und Technik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d4969ae3-0dc3-48c6-9441-c35326a1c631",
-      "prefLabel": {
-        "de": "Arbeitswelt"
+        "de": "Grundwortschatz"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d9406932-88c8-4d98-97c1-e6019d6a4544",
       "prefLabel": {
         "de": "Schule und Ausbildung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/40a39fba-aaa5-4472-a5d4-ab2181d44367",
+      "prefLabel": {
+        "de": "Das bin ich"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e9006fd-a5ba-4b2d-a4de-d4b7897212e7",
+      "prefLabel": {
+        "de": "soziale Beziehungen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/47c2327d-30c7-4faf-9997-ce7d8416c428",
+      "prefLabel": {
+        "de": "Geschichte"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/77d3c94f-c438-48f9-82b9-e650f22dc7b0",
+      "prefLabel": {
+        "de": "Kultur und Traditionen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/43428eda-d699-41ba-a18e-1f6d3bd6c4d7",
+      "prefLabel": {
+        "de": "Wohnen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b610d6bd-255d-4d61-a9e2-d85794a0bf44",
+      "prefLabel": {
+        "de": "Medien"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6df3a6f2-b78e-4c31-9488-e5eeb56de746",
+      "prefLabel": {
+        "de": "Globalisierung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/01bf8638-752f-4389-aab7-9bd2206c7737",
+      "prefLabel": {
+        "de": "Natur und Umwelt"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c0ac6271-2990-4b86-8982-2b917b91400b",
+      "prefLabel": {
+        "de": "Wissenschaft und Technik"
       }
     }
   ],
@@ -104,6 +104,11 @@
       "de": "Englisch"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/20001"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -168,7 +173,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -177,7 +191,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

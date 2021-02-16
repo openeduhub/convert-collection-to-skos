@@ -8,15 +8,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0d4c206e-1198-4ad5-87dc-9f0637ef7e9f",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a6790e5f-1062-4692-a4ce-8d560d124a4a",
       "prefLabel": {
-        "de": "Grammatik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/558013f8-03c0-441c-a88e-d2db7eb96744",
-      "prefLabel": {
-        "de": "Fertigkeiten und Kompetenzen"
+        "de": "interkulturelle Themen"
       }
     },
     {
@@ -26,9 +20,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a6790e5f-1062-4692-a4ce-8d560d124a4a",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0d4c206e-1198-4ad5-87dc-9f0637ef7e9f",
       "prefLabel": {
-        "de": "interkulturelle Themen"
+        "de": "Grammatik"
       }
     },
     {
@@ -36,6 +30,17 @@
       "prefLabel": {
         "de": "Alphabet, Aussprache und Rechtschreibung"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/558013f8-03c0-441c-a88e-d2db7eb96744",
+      "prefLabel": {
+        "de": "Fertigkeiten und Kompetenzen"
+      }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/20008"
     }
   ],
   "inScheme": {
@@ -105,7 +110,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -114,7 +128,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

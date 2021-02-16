@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0b1181fe-a29b-4930-903a-9cbdf2c77edb",
   "type": "Service",
-  "name": "Sternbeobachtung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30623131383166652d613239622d343933302d393033612d396362646632633737656462",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b1181fe-a29b-4930-903a-9cbdf2c77edb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0b1181fe-a29b-4930-903a-9cbdf2c77edb",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/135553ea-bad0-4dbb-8c4b-e9b91b22579e",
   "type": "Service",
-  "name": "Gedichtformen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31333535353365612d626164302d346462622d386334622d653962393162323235373965",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F135553ea-bad0-4dbb-8c4b-e9b91b22579e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F135553ea-bad0-4dbb-8c4b-e9b91b22579e",

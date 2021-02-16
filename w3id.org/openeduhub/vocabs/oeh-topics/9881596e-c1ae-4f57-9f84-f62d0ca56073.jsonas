@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9881596e-c1ae-4f57-9f84-f62d0ca56073",
   "type": "Service",
-  "name": "Bedingte Wahrscheinlichkeit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39383831353936652d633161652d346635372d396638342d663632643063613536303733",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9881596e-c1ae-4f57-9f84-f62d0ca56073",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9881596e-c1ae-4f57-9f84-f62d0ca56073",

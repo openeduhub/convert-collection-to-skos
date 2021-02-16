@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cb4da717-e9c4-487f-a403-514dc14e5d8e",
   "type": "Service",
-  "name": "Tagesablauf",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63623464613731372d653963342d343837662d613430332d353134646331346535643865",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcb4da717-e9c4-487f-a403-514dc14e5d8e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcb4da717-e9c4-487f-a403-514dc14e5d8e",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1f71f8d4-f7d3-40ea-8175-9328b448a6ba",
   "type": "Service",
-  "name": "Fehlbarkeit, Schuld und Sünde",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31663731663864342d663764332d343065612d383137352d393332386234343861366261",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1f71f8d4-f7d3-40ea-8175-9328b448a6ba",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1f71f8d4-f7d3-40ea-8175-9328b448a6ba",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/518aec00-f05b-49a7-bbfa-8f0f861a71a1",
   "type": "Service",
-  "name": "Waveboard",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35313861656330302d663035622d343961372d626266612d386630663836316137316131",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F518aec00-f05b-49a7-bbfa-8f0f861a71a1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F518aec00-f05b-49a7-bbfa-8f0f861a71a1",

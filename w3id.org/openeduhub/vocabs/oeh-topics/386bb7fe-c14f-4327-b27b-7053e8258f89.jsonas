@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/386bb7fe-c14f-4327-b27b-7053e8258f89",
   "type": "Service",
-  "name": "Beschleuniger",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33383662623766652d633134662d343332372d623237622d373035336538323538663839",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F386bb7fe-c14f-4327-b27b-7053e8258f89",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F386bb7fe-c14f-4327-b27b-7053e8258f89",

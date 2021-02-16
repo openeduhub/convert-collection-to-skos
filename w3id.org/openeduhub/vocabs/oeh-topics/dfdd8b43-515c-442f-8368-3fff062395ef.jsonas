@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/dfdd8b43-515c-442f-8368-3fff062395ef",
   "type": "Service",
-  "name": "Redewendungen & Sprichwörter",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64666464386234332d353135632d343432662d383336382d336666663036323339356566",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdfdd8b43-515c-442f-8368-3fff062395ef",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdfdd8b43-515c-442f-8368-3fff062395ef",

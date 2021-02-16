@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8a54a6e5-461b-4e79-b9fb-957228ffa4d5",
   "type": "Service",
-  "name": "Wirtschaft",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38613534613665352d343631622d346537392d623966622d393537323238666661346435",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8a54a6e5-461b-4e79-b9fb-957228ffa4d5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8a54a6e5-461b-4e79-b9fb-957228ffa4d5",

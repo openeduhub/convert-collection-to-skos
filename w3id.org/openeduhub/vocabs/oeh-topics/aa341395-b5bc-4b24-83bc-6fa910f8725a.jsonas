@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/aa341395-b5bc-4b24-83bc-6fa910f8725a",
   "type": "Service",
-  "name": "Berufsbilder",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61613334313339352d623562632d346232342d383362632d366661393130663837323561",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Faa341395-b5bc-4b24-83bc-6fa910f8725a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Faa341395-b5bc-4b24-83bc-6fa910f8725a",

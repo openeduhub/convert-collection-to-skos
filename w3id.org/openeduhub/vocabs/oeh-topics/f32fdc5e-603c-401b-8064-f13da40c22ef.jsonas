@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f32fdc5e-603c-401b-8064-f13da40c22ef",
   "type": "Service",
-  "name": "Abweichungen von der Vokalharmonie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66333266646335652d363033632d343031622d383036342d663133646134306332326566",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff32fdc5e-603c-401b-8064-f13da40c22ef",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff32fdc5e-603c-401b-8064-f13da40c22ef",

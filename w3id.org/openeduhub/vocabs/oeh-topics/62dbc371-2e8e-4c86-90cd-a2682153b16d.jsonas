@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/62dbc371-2e8e-4c86-90cd-a2682153b16d",
   "type": "Service",
-  "name": "Relativitätstheorie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36326462633337312d326538652d346338362d393063642d613236383231353362313664",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62dbc371-2e8e-4c86-90cd-a2682153b16d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62dbc371-2e8e-4c86-90cd-a2682153b16d",

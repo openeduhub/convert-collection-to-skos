@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/da77c781-c61e-444e-8b3b-ffbfc8c5fe2f",
   "type": "Service",
-  "name": "Bernoulli-Experimente und Binomialverteilung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64613737633738312d633631652d343434652d386233622d666662666338633566653266",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fda77c781-c61e-444e-8b3b-ffbfc8c5fe2f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fda77c781-c61e-444e-8b3b-ffbfc8c5fe2f",

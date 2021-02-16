@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9af82208-b25e-47fc-b6bc-ff6076ff4dea",
   "type": "Service",
-  "name": "Lokativ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39616638323230382d623235652d343766632d623662632d666636303736666634646561",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9af82208-b25e-47fc-b6bc-ff6076ff4dea",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9af82208-b25e-47fc-b6bc-ff6076ff4dea",

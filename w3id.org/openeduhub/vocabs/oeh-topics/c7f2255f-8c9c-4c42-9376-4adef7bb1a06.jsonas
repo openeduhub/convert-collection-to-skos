@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c7f2255f-8c9c-4c42-9376-4adef7bb1a06",
   "type": "Service",
-  "name": "Wiederholungszahlen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63376632323535662d386339632d346334322d393337362d346164656637626231613036",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7f2255f-8c9c-4c42-9376-4adef7bb1a06",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7f2255f-8c9c-4c42-9376-4adef7bb1a06",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/56d35ccf-265d-4ddd-85b5-89d2d4749a80",
   "type": "Service",
-  "name": "Aerobic",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35366433356363662d323635642d346464642d383562352d383964326434373439613830",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F56d35ccf-265d-4ddd-85b5-89d2d4749a80",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F56d35ccf-265d-4ddd-85b5-89d2d4749a80",

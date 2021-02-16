@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/bd34de8d-d084-4e2c-aa7d-e40f2e54e1e8",
   "type": "Service",
-  "name": "Modellierung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62643334646538642d643038342d346532632d616137642d653430663265353465316538",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbd34de8d-d084-4e2c-aa7d-e40f2e54e1e8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbd34de8d-d084-4e2c-aa7d-e40f2e54e1e8",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/395864a0-732d-434e-b6d1-c6a865bfb651",
   "type": "Service",
-  "name": "Eigenschaften von Säuren und Basen/Laugen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33393538363461302d373332642d343334652d623664312d633661383635626662363531",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F395864a0-732d-434e-b6d1-c6a865bfb651",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F395864a0-732d-434e-b6d1-c6a865bfb651",

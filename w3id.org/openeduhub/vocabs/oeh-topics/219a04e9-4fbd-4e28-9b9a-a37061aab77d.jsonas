@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/219a04e9-4fbd-4e28-9b9a-a37061aab77d",
   "type": "Service",
-  "name": "Peripherie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32313961303465392d346662642d346532382d396239612d613337303631616162373764",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F219a04e9-4fbd-4e28-9b9a-a37061aab77d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F219a04e9-4fbd-4e28-9b9a-a37061aab77d",

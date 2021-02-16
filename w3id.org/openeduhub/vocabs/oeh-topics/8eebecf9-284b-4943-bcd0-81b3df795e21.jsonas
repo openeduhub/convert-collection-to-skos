@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8eebecf9-284b-4943-bcd0-81b3df795e21",
   "type": "Service",
-  "name": "Textsorten der Bibel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38656562656366392d323834622d343934332d626364302d383162336466373935653231",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8eebecf9-284b-4943-bcd0-81b3df795e21",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8eebecf9-284b-4943-bcd0-81b3df795e21",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/50f614a3-a2ff-4663-b308-f8af9ffc25cb",
   "type": "Service",
-  "name": "Videoformate",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35306636313461332d613266662d343636332d623330382d663861663966666332356362",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F50f614a3-a2ff-4663-b308-f8af9ffc25cb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F50f614a3-a2ff-4663-b308-f8af9ffc25cb",

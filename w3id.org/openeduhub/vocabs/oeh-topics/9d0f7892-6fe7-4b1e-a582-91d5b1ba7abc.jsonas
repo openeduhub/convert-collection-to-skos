@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9d0f7892-6fe7-4b1e-a582-91d5b1ba7abc",
   "type": "Service",
-  "name": "Negation",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39643066373839322d366665372d346231652d613538322d393164356231626137616263",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9d0f7892-6fe7-4b1e-a582-91d5b1ba7abc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9d0f7892-6fe7-4b1e-a582-91d5b1ba7abc",

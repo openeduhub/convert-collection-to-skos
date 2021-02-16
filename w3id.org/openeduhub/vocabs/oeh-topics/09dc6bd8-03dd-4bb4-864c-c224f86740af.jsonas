@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/09dc6bd8-03dd-4bb4-864c-c224f86740af",
   "type": "Service",
-  "name": "Mechanische Schwingungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30396463366264382d303364642d346262342d383634632d633232346638363734306166",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F09dc6bd8-03dd-4bb4-864c-c224f86740af",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F09dc6bd8-03dd-4bb4-864c-c224f86740af",

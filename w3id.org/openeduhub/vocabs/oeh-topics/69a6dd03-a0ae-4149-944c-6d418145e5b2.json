@@ -7,14 +7,19 @@
     "de": "Spektroskopieverfahren"
   },
   "definition": {
-    "de": "Mit Spektroskopie bezeichnet man physikalische Methoden für qualitativen Analysen, die Strahlung aufgrund von Stoffeigenschaften zerlegen oder abschwächen. Die sich ergebende Darstellung wird Spektrum genannt."
+    "de": "Mit Spektroskopie bezeichnet man physikalische Methoden für Analysen, die Strahlung aufgrund von Stoffeigenschaften zerlegen oder abschwächen. Die sich ergebende Darstellung wird Spektrum genannt."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4384893e-1e13-4c9d-970b-29e69cc2a87c",
     "prefLabel": {
-      "de": "Analytikverfahren"
+      "de": "Analytische Verfahren in der  Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

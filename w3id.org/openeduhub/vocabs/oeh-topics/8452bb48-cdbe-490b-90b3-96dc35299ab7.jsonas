@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8452bb48-cdbe-490b-90b3-96dc35299ab7",
   "type": "Service",
-  "name": "Nachweis  für Aldehyde und Ketone",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38343532626234382d636462652d343930622d393062332d393664633335323939616237",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8452bb48-cdbe-490b-90b3-96dc35299ab7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8452bb48-cdbe-490b-90b3-96dc35299ab7",

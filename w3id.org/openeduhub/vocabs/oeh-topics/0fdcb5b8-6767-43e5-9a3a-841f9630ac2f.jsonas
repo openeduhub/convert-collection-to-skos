@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0fdcb5b8-6767-43e5-9a3a-841f9630ac2f",
   "type": "Service",
-  "name": "Meinungsbildung und Massenmedien ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30666463623562382d363736372d343365352d396133612d383431663936333061633266",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0fdcb5b8-6767-43e5-9a3a-841f9630ac2f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0fdcb5b8-6767-43e5-9a3a-841f9630ac2f",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d9cc463a-9619-4ead-9437-9592abf00229",
   "type": "Service",
-  "name": "Hooksches Gesetz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64396363343633612d393631392d346561642d393433372d393539326162663030323239",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd9cc463a-9619-4ead-9437-9592abf00229",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd9cc463a-9619-4ead-9437-9592abf00229",

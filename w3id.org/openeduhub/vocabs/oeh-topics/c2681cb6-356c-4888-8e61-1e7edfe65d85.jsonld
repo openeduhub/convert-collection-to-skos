@@ -4,16 +4,16 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc2681cb6-356c-4888-8e61-1e7edfe65d85",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc2681cb6-356c-4888-8e61-1e7edfe65d85",
   "prefLabel": {
-    "de": "Sicherheit"
+    "de": "Sicherheit in den Chemie-Räumen"
   },
   "definition": {
-    "de": "Sicherheit in den Chemie-Räumen, im Chemie-Labor und bei der Nutzung von Chemikalien im Alltag"
+    "de": "Das Thema Sicherheit ist für jeden Chemie-Lehrer eine Selbstverständlichkeit. Nicht zu Unrecht muss das Thema sogar inzwischen zweimal im Schuljahr mit den Schülern:innen besprochen werden.\nHier gibt es allgemeine Materialien zur Sicherheit im Labor und bei der Nutzung von Chemikalien im Alltag."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/400abe18-2e1b-48ae-9a7b-f1ab6aa42728",
       "prefLabel": {
-        "de": "GHS-Piktogramme"
+        "de": "GHS-Piktogramme und Gefahrensymbole"
       }
     },
     {
@@ -32,9 +32,14 @@
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b25b69f-ad8c-4473-8cb3-3b3d47434380",
     "prefLabel": {
-      "de": "Einführung in die Chemie"
+      "de": "Einführung in das Fach Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -99,7 +104,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -108,7 +122,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

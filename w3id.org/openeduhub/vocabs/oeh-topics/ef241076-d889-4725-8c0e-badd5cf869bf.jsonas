@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ef241076-d889-4725-8c0e-badd5cf869bf",
   "type": "Service",
-  "name": "Herstellung von Säuren und Laugen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65663234313037362d643838392d343732352d386330652d626164643563663836396266",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fef241076-d889-4725-8c0e-badd5cf869bf",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fef241076-d889-4725-8c0e-badd5cf869bf",

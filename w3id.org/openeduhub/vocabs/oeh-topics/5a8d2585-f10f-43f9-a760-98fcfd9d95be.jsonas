@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5a8d2585-f10f-43f9-a760-98fcfd9d95be",
   "type": "Service",
-  "name": "Schöpfungsglaube",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35613864323538352d663130662d343366392d613736302d393866636664396439356265",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5a8d2585-f10f-43f9-a760-98fcfd9d95be",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5a8d2585-f10f-43f9-a760-98fcfd9d95be",

@@ -22,13 +22,13 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/294101d7-c02b-4e6b-90a8-f3c2d0e26995",
       "prefLabel": {
-        "de": "Modale Präpositionen"
+        "de": "modale Präpositionen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/47ec0049-15b8-4127-8220-a42a9d7732d2",
       "prefLabel": {
-        "de": "Kausale Präpositionen"
+        "de": "kausale Präpositionen"
       }
     },
     {
@@ -40,7 +40,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/945b436d-8d97-47b3-8d9d-19f2ec092fe3",
       "prefLabel": {
-        "de": "Lokale Präpositionen"
+        "de": "lokale Präpositionen"
       }
     },
     {
@@ -52,7 +52,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f96c0dd9-0542-4546-9408-6bd127e9babf",
       "prefLabel": {
-        "de": "Temporale Präpositionen"
+        "de": "temporale Präpositionen"
       }
     }
   ],
@@ -62,6 +62,11 @@
       "de": "Grammatik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/28002"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -126,7 +131,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +149,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

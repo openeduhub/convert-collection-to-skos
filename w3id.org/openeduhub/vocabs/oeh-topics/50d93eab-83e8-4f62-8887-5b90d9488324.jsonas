@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/50d93eab-83e8-4f62-8887-5b90d9488324",
   "type": "Service",
-  "name": "Kräfte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35306439336561622d383365382d346636322d383838372d356239306439343838333234",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F50d93eab-83e8-4f62-8887-5b90d9488324",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F50d93eab-83e8-4f62-8887-5b90d9488324",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b320d3ad-fd2a-412d-b5bb-629874b3bff9",
   "type": "Service",
-  "name": "Partizip 2",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62333230643361642d666432612d343132642d623562622d363239383734623362666639",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb320d3ad-fd2a-412d-b5bb-629874b3bff9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb320d3ad-fd2a-412d-b5bb-629874b3bff9",

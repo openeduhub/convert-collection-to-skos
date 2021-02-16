@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/75e8f063-3c23-44ec-9e65-8ee37180bd2d",
   "type": "Service",
-  "name": "elektronische Signatur",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37356538663036332d336332332d343465632d396536352d386565333731383062643264",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F75e8f063-3c23-44ec-9e65-8ee37180bd2d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F75e8f063-3c23-44ec-9e65-8ee37180bd2d",

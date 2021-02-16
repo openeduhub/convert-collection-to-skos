@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/13a2d669-272d-4e18-92e7-c6cff9434d8d",
   "type": "Service",
-  "name": "Kausaladverbien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31336132643636392d323732642d346531382d393265372d633663666639343334643864",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F13a2d669-272d-4e18-92e7-c6cff9434d8d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F13a2d669-272d-4e18-92e7-c6cff9434d8d",

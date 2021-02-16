@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e0eefd37-cb11-449b-b7a4-c4f02104c5be",
   "type": "Service",
-  "name": "Legierung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65306565666433372d636231312d343439622d623761342d633466303231303463356265",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0eefd37-cb11-449b-b7a4-c4f02104c5be",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0eefd37-cb11-449b-b7a4-c4f02104c5be",

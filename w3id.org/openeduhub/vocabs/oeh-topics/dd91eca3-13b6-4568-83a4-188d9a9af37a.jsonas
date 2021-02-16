@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/dd91eca3-13b6-4568-83a4-188d9a9af37a",
   "type": "Service",
-  "name": "Benennung der Kohlenwasserstoffe",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64643931656361332d313362362d343536382d383361342d313838643961396166333761",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdd91eca3-13b6-4568-83a4-188d9a9af37a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdd91eca3-13b6-4568-83a4-188d9a9af37a",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/43211b38-a430-43fd-b70f-8d0a9d6f1e81",
   "type": "Service",
-  "name": "Reitsport",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34333231316233382d613433302d343366642d623730662d386430613964366631653831",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F43211b38-a430-43fd-b70f-8d0a9d6f1e81",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F43211b38-a430-43fd-b70f-8d0a9d6f1e81",

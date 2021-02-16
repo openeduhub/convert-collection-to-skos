@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/15804388-a34e-4093-a999-1b313bc9e96b",
   "type": "Service",
-  "name": "Quadratische Gleichungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31353830343338382d613334652d343039332d613939392d316233313362633965393662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F15804388-a34e-4093-a999-1b313bc9e96b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F15804388-a34e-4093-a999-1b313bc9e96b",

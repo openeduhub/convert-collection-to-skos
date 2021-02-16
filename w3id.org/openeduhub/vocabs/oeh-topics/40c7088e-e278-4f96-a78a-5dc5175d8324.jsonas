@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/40c7088e-e278-4f96-a78a-5dc5175d8324",
   "type": "Service",
-  "name": "Eigenschaften von Estern",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34306337303838652d653237382d346639362d613738612d356463353137356438333234",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F40c7088e-e278-4f96-a78a-5dc5175d8324",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F40c7088e-e278-4f96-a78a-5dc5175d8324",

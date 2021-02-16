@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/998f0a83-f928-400b-be4a-ac609b2dc878",
   "type": "Service",
-  "name": "Teilchenphysik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39393866306138332d663932382d343030622d626534612d616336303962326463383738",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F998f0a83-f928-400b-be4a-ac609b2dc878",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F998f0a83-f928-400b-be4a-ac609b2dc878",

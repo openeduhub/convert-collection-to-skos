@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/59917461-de90-4ed4-b141-6d63e763f3fb",
   "type": "Service",
-  "name": "Theorien internationaler Politik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35393931373436312d646539302d346564342d623134312d366436336537363366336662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F59917461-de90-4ed4-b141-6d63e763f3fb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F59917461-de90-4ed4-b141-6d63e763f3fb",

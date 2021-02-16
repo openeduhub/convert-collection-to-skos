@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d3354fb0-f36d-4c41-ab5e-3023c8dfdd9d",
   "type": "Service",
-  "name": "Fette und Öle",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64333335346662302d663336642d346334312d616235652d333032336338646664643964",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd3354fb0-f36d-4c41-ab5e-3023c8dfdd9d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd3354fb0-f36d-4c41-ab5e-3023c8dfdd9d",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/da7842e7-36b9-415c-ae10-f4dd7be234ca",
   "type": "Service",
-  "name": "Kritik üben und Kommentieren ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64613738343265372d333662392d343135632d616531302d663464643762653233346361",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fda7842e7-36b9-415c-ae10-f4dd7be234ca",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fda7842e7-36b9-415c-ae10-f4dd7be234ca",

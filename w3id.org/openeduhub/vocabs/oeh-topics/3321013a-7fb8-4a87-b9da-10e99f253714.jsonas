@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3321013a-7fb8-4a87-b9da-10e99f253714",
   "type": "Service",
-  "name": "Grand Challenges",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33333231303133612d376662382d346138372d623964612d313065393966323533373134",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3321013a-7fb8-4a87-b9da-10e99f253714",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3321013a-7fb8-4a87-b9da-10e99f253714",

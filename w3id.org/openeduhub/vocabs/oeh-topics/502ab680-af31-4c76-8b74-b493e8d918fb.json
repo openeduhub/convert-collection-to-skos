@@ -7,13 +7,13 @@
     "de": "Kernchemie"
   },
   "definition": {
-    "de": "Die Kernchemie ist ein Grenzgebiet zur Physik und befasst sich mit Vorgängen, bei denen sich die Atomkerne verändern."
+    "de": "Die Kernchemie ist ein Grenzgebiet zur Physik und befasst sich mit Vorgängen, bei denen sich die Atomkerne verändern. \nDazu werden die verschiedenen Strahlungsarten, die alpha-, beta- und gamma-Strahlung näher betrachtet.\nDiese Vorgänge können erst verstanden werden, wenn das Kern-Hülle-Modell bereits bekannt ist."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/37d68f14-9332-4be2-8b4d-2555f8ef9269",
       "prefLabel": {
-        "de": "Isotope"
+        "de": "Isotope / Nuklide"
       }
     },
     {
@@ -32,9 +32,14 @@
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3c18febc-4513-47c4-b2bc-ca8af0494964",
     "prefLabel": {
-      "de": "Anorganische Chemie"
+      "de": "Die Anorganische Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -99,7 +104,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -108,7 +122,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

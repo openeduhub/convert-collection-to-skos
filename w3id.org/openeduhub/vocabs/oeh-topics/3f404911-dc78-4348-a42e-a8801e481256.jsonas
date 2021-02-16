@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3f404911-dc78-4348-a42e-a8801e481256",
   "type": "Service",
-  "name": "Abfalltrennung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33663430343931312d646337382d343334382d613432652d613838303165343831323536",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3f404911-dc78-4348-a42e-a8801e481256",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3f404911-dc78-4348-a42e-a8801e481256",

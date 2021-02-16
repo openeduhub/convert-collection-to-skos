@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/25d1e65b-48b1-41dc-ae67-e6559825de9e",
   "type": "Service",
-  "name": "Sprachmittlung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32356431653635622d343862312d343164632d616536372d653635353938323564653965",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F25d1e65b-48b1-41dc-ae67-e6559825de9e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F25d1e65b-48b1-41dc-ae67-e6559825de9e",

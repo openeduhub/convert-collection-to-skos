@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7b7d676c-8ea6-4dc4-a76c-01befe4d4596",
   "type": "Service",
-  "name": "Digitale Gesellschaft (mit) gestalten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37623764363736632d386561362d346463342d613736632d303162656665346434353936",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7b7d676c-8ea6-4dc4-a76c-01befe4d4596",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7b7d676c-8ea6-4dc4-a76c-01befe4d4596",

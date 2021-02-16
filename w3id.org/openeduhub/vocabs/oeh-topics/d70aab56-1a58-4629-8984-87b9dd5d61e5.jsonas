@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d70aab56-1a58-4629-8984-87b9dd5d61e5",
   "type": "Service",
-  "name": "Jonglage",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64373061616235362d316135382d343632392d383938342d383762396464356436316535",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd70aab56-1a58-4629-8984-87b9dd5d61e5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd70aab56-1a58-4629-8984-87b9dd5d61e5",

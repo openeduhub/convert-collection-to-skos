@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ead640c9-55f9-4d6b-adc5-8e05157ba99a",
   "type": "Service",
-  "name": "Routinen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65616436343063392d353566392d346436622d616463352d386530353135376261393961",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fead640c9-55f9-4d6b-adc5-8e05157ba99a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fead640c9-55f9-4d6b-adc5-8e05157ba99a",

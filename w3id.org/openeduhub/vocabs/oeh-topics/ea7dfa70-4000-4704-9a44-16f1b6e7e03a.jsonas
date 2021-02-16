@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ea7dfa70-4000-4704-9a44-16f1b6e7e03a",
   "type": "Service",
-  "name": "Fernöstliche Weltreligionen (im Vergleich zu monotheistischen)",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65613764666137302d343030302d343730342d396134342d313666316236653765303361",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fea7dfa70-4000-4704-9a44-16f1b6e7e03a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fea7dfa70-4000-4704-9a44-16f1b6e7e03a",

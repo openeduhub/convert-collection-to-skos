@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e922a40a-2dd2-432a-ab8e-a6783cd6e8f2",
   "type": "Service",
-  "name": "Alkohole",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65393232613430612d326464322d343332612d616238652d613637383363643665386632",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe922a40a-2dd2-432a-ab8e-a6783cd6e8f2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe922a40a-2dd2-432a-ab8e-a6783cd6e8f2",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b1f6195a-ae17-42a4-ac76-e6cb1767b2d5",
   "type": "Service",
-  "name": "Jesus im Vergleich zu Hinduimus",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62316636313935612d616531372d343261342d616337362d653663623137363762326435",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb1f6195a-ae17-42a4-ac76-e6cb1767b2d5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb1f6195a-ae17-42a4-ac76-e6cb1767b2d5",

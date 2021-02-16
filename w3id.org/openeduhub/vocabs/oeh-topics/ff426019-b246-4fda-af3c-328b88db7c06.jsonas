@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ff426019-b246-4fda-af3c-328b88db7c06",
   "type": "Service",
-  "name": "Theater-Hintergrundwissen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66663432363031392d623234362d346664612d616633632d333238623838646237633036",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fff426019-b246-4fda-af3c-328b88db7c06",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fff426019-b246-4fda-af3c-328b88db7c06",

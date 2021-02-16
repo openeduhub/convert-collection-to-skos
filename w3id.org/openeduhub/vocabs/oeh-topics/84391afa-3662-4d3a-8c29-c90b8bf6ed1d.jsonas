@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/84391afa-3662-4d3a-8c29-c90b8bf6ed1d",
   "type": "Service",
-  "name": "christliche Projekte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38343339316166612d333636322d346433612d386332392d633930623862663665643164",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F84391afa-3662-4d3a-8c29-c90b8bf6ed1d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F84391afa-3662-4d3a-8c29-c90b8bf6ed1d",

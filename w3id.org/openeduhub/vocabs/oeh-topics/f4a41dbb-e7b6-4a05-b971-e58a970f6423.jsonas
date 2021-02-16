@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f4a41dbb-e7b6-4a05-b971-e58a970f6423",
   "type": "Service",
-  "name": "Sportgeschichte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66346134316462622d653762362d346130352d623937312d653538613937306636343233",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff4a41dbb-e7b6-4a05-b971-e58a970f6423",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff4a41dbb-e7b6-4a05-b971-e58a970f6423",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e0f3a9ac-154e-4565-a390-9ab971df9554",
   "type": "Service",
-  "name": "Goldener Schnitt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65306633613961632d313534652d343536352d613339302d396162393731646639353534",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0f3a9ac-154e-4565-a390-9ab971df9554",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0f3a9ac-154e-4565-a390-9ab971df9554",

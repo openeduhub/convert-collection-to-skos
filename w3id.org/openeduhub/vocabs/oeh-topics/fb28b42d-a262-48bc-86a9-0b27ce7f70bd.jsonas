@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/fb28b42d-a262-48bc-86a9-0b27ce7f70bd",
   "type": "Service",
-  "name": "Satz des Thales",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66623238623432642d613236322d343862632d383661392d306232376365376637306264",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffb28b42d-a262-48bc-86a9-0b27ce7f70bd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffb28b42d-a262-48bc-86a9-0b27ce7f70bd",

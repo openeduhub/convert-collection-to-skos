@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/de33b3a8-bdc5-4ff5-9f0e-536f1b30ebe5",
   "type": "Service",
-  "name": "Aufführungsanalyse ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64653333623361382d626463352d346666352d396630652d353336663162333065626535",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fde33b3a8-bdc5-4ff5-9f0e-536f1b30ebe5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fde33b3a8-bdc5-4ff5-9f0e-536f1b30ebe5",

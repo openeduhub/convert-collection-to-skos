@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/54d3176e-84e0-49da-bb08-00aaae3eaeb5",
   "type": "Service",
-  "name": "Filme",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35346433313736652d383465302d343964612d626230382d303061616165336561656235",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F54d3176e-84e0-49da-bb08-00aaae3eaeb5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F54d3176e-84e0-49da-bb08-00aaae3eaeb5",

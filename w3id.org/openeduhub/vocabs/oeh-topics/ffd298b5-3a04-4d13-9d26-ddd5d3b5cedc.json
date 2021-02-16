@@ -14,27 +14,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/489de96f-0c29-4bfb-a080-b84a6d2410e5",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e3b5df81-eb3e-4a97-af21-2b0b9b1fb4d1",
       "prefLabel": {
-        "de": "Globalisierung und internationale Politik "
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6259b9d1-6cc0-4aa1-a6a4-e8222930d994",
-      "prefLabel": {
-        "de": "sozialer Wandel "
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6e658ab3-b7f2-4344-98fa-f7618dabef5a",
-      "prefLabel": {
-        "de": "soziale Gerechtigkeit "
+        "de": "Erinnerungsarbeit "
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/779fca4d-9172-4a6b-9626-e46e6e6cb99c",
       "prefLabel": {
-        "de": "Digitalisierungm "
+        "de": "Digitalisierung"
       }
     },
     {
@@ -50,10 +38,27 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e3b5df81-eb3e-4a97-af21-2b0b9b1fb4d1",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6259b9d1-6cc0-4aa1-a6a4-e8222930d994",
       "prefLabel": {
-        "de": "Erinnerungsarbeit "
+        "de": "sozialer Wandel "
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/489de96f-0c29-4bfb-a080-b84a6d2410e5",
+      "prefLabel": {
+        "de": "Globalisierung und internationale Politik "
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6e658ab3-b7f2-4344-98fa-f7618dabef5a",
+      "prefLabel": {
+        "de": "soziale Gerechtigkeit "
+      }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/480"
     }
   ],
   "inScheme": {
@@ -123,7 +128,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -132,7 +146,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

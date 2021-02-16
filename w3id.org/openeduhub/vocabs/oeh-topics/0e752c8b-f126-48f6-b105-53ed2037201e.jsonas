@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0e752c8b-f126-48f6-b105-53ed2037201e",
   "type": "Service",
-  "name": "Halbmetalle",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30653735326338622d663132362d343866362d623130352d353365643230333732303165",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0e752c8b-f126-48f6-b105-53ed2037201e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0e752c8b-f126-48f6-b105-53ed2037201e",

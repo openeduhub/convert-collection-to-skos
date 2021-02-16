@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b3b06bf5-07cc-4385-9969-544a518531bd",
   "type": "Service",
-  "name": "Lyrisches Ich",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62336230366266352d303763632d343338352d393936392d353434613531383533316264",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb3b06bf5-07cc-4385-9969-544a518531bd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb3b06bf5-07cc-4385-9969-544a518531bd",

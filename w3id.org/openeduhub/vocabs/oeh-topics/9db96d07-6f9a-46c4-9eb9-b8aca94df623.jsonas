@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9db96d07-6f9a-46c4-9eb9-b8aca94df623",
   "type": "Service",
-  "name": "Scanning",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39646239366430372d366639612d343663342d396562392d623861636139346466363233",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9db96d07-6f9a-46c4-9eb9-b8aca94df623",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9db96d07-6f9a-46c4-9eb9-b8aca94df623",

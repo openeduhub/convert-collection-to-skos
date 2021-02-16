@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3dffbe33-ad32-481a-9fc2-b65c1b12854c",
   "type": "Service",
-  "name": "Molekulargenetik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33646666626533332d616433322d343831612d396663322d623635633162313238353463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3dffbe33-ad32-481a-9fc2-b65c1b12854c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3dffbe33-ad32-481a-9fc2-b65c1b12854c",

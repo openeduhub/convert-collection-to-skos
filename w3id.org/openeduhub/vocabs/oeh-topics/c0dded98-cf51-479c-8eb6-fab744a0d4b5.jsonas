@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c0dded98-cf51-479c-8eb6-fab744a0d4b5",
   "type": "Service",
-  "name": "Mündlicher Ausdruck",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63306464656439382d636635312d343739632d386562362d666162373434613064346235",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0dded98-cf51-479c-8eb6-fab744a0d4b5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0dded98-cf51-479c-8eb6-fab744a0d4b5",

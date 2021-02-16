@@ -19,13 +19,13 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/33dbfd9c-36a9-46de-8c8c-c86233229060",
       "prefLabel": {
-        "de": "Massenwirkungsgesetz"
+        "de": "Einführung und Anwendung des Massenwirkungsgesetzes"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3e9877db-44ab-45fc-92a7-a703f1bdf7dc",
       "prefLabel": {
-        "de": "Satz von Avogadro"
+        "de": "Der Satz von Avogadro"
       }
     },
     {
@@ -43,13 +43,13 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7c6e046a-0b48-42f1-b91c-60a60469856f",
       "prefLabel": {
-        "de": "Massenverhältnisse mit Reaktionsgleichungen berechnen"
+        "de": "Massenverhältnisse in Reaktionsgleichungen berechnen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bf47dbfd-5094-4d20-a2b8-dba6c6d192f8",
       "prefLabel": {
-        "de": "Stoffmenge / Mol"
+        "de": "Die Größe Stoffmenge und das Mol"
       }
     }
   ],
@@ -59,6 +59,11 @@
       "de": "Allgemeine Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -123,7 +128,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -132,7 +146,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

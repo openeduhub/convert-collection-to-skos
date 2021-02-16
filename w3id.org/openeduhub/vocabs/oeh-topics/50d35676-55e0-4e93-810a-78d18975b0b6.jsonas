@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/50d35676-55e0-4e93-810a-78d18975b0b6",
   "type": "Service",
-  "name": "Umgang mit Texten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35306433353637362d353565302d346539332d383130612d373864313839373562306236",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F50d35676-55e0-4e93-810a-78d18975b0b6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F50d35676-55e0-4e93-810a-78d18975b0b6",

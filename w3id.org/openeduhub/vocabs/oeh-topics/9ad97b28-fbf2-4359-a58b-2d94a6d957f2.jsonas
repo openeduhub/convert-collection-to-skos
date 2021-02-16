@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9ad97b28-fbf2-4359-a58b-2d94a6d957f2",
   "type": "Service",
-  "name": "Gesundheit und Krankheit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39616439376232382d666266322d343335392d613538622d326439346136643935376632",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9ad97b28-fbf2-4359-a58b-2d94a6d957f2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9ad97b28-fbf2-4359-a58b-2d94a6d957f2",

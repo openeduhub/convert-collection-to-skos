@@ -7,14 +7,19 @@
     "de": "Gewinnung und Abbau von Erzen"
   },
   "definition": {
-    "de": "Der Abbau von Erzen zur Metallgewinnung hat eine lange Tradition."
+    "de": "Der Abbau von Erzen zur Metallgewinnung hat eine lange Tradition.\n\nHier geht es nur um die Abbauverfahren, nicht aber um Methoden zur Metallgewinnung aus den Erzen!"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e70f939-765d-47cd-ab24-ea5621baec14",
     "prefLabel": {
-      "de": "Metalle und Erze"
+      "de": "Metalle und die Gewinnung aus Erzen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

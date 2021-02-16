@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/43e61ef7-558f-4098-9d02-965490249588",
   "type": "Service",
-  "name": "regionale Identitäten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34336536316566372d353538662d343039382d396430322d393635343930323439353838",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F43e61ef7-558f-4098-9d02-965490249588",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F43e61ef7-558f-4098-9d02-965490249588",

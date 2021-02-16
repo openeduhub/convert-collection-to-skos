@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f9604871-2305-443d-92d4-97691afa992e",
   "type": "Service",
-  "name": "Reformation",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66393630343837312d323330352d343433642d393264342d393736393161666139393265",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff9604871-2305-443d-92d4-97691afa992e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff9604871-2305-443d-92d4-97691afa992e",

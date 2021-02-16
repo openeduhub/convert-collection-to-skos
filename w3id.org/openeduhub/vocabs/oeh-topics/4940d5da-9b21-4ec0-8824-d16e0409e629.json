@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Chemie"
   },
+  "definition": {
+    "de": "Bild-Quelle und -Lizenz: Bild von deepakrit auf Pixabay"
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0f98878d-4bf8-4ed5-933b-c0ad0d36263e",
@@ -14,21 +17,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3c18febc-4513-47c4-b2bc-ca8af0494964",
-      "prefLabel": {
-        "de": "Anorganische Chemie"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/52de12fa-79ad-455c-95ae-d191f8e897d8",
       "prefLabel": {
-        "de": "Organische Chemie"
+        "de": "Die Organische Chemie"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b25b69f-ad8c-4473-8cb3-3b3d47434380",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3c18febc-4513-47c4-b2bc-ca8af0494964",
       "prefLabel": {
-        "de": "Einführung in die Chemie"
+        "de": "Die Anorganische Chemie"
       }
     },
     {
@@ -36,6 +33,17 @@
       "prefLabel": {
         "de": "Allgemeine Chemie"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b25b69f-ad8c-4473-8cb3-3b3d47434380",
+      "prefLabel": {
+        "de": "Einführung in das Fach Chemie"
+      }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
     }
   ],
   "inScheme": {
@@ -105,7 +113,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -114,7 +131,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

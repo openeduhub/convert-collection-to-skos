@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5a32bc25-c70d-44b9-a9fe-175dcb5279db",
   "type": "Service",
-  "name": "Umgang mit Informationen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35613332626332352d633730642d343462392d613966652d313735646362353237396462",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5a32bc25-c70d-44b9-a9fe-175dcb5279db",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5a32bc25-c70d-44b9-a9fe-175dcb5279db",

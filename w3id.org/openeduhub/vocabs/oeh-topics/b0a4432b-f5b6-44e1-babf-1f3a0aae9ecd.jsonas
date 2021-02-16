@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b0a4432b-f5b6-44e1-babf-1f3a0aae9ecd",
   "type": "Service",
-  "name": "Wegbeschreibung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62306134343332622d663562362d343465312d626162662d316633613061616539656364",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb0a4432b-f5b6-44e1-babf-1f3a0aae9ecd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb0a4432b-f5b6-44e1-babf-1f3a0aae9ecd",

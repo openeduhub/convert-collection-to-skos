@@ -8,21 +8,21 @@
   },
   "narrower": [
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/43de42f5-706e-4e84-8112-8d2b946ae089",
+      "prefLabel": {
+        "de": "Demokratie in Deutschland "
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/1a5ae547-1986-4f8c-a0f4-ebe00e95b874",
       "prefLabel": {
-        "de": "Rechtsextremismus "
+        "de": "Extremismus"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3226d864-f5b5-433f-871f-cc254749cab1",
       "prefLabel": {
         "de": "Menschenrechte "
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/43de42f5-706e-4e84-8112-8d2b946ae089",
-      "prefLabel": {
-        "de": "Demokratie in Deutschland "
       }
     },
     {
@@ -44,6 +44,11 @@
       "de": "Politische Bildung"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/480"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -108,7 +113,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +131,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

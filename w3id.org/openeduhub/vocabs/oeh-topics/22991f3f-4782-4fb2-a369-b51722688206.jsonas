@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/22991f3f-4782-4fb2-a369-b51722688206",
   "type": "Service",
-  "name": "Physiologie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32323939316633662d343738322d346662322d613336392d623531373232363838323036",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F22991f3f-4782-4fb2-a369-b51722688206",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F22991f3f-4782-4fb2-a369-b51722688206",

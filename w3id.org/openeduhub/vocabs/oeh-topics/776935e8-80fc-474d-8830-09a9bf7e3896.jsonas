@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/776935e8-80fc-474d-8830-09a9bf7e3896",
   "type": "Service",
-  "name": "typisch Türkisches",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37373639333565382d383066632d343734642d383833302d303961396266376533383936",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F776935e8-80fc-474d-8830-09a9bf7e3896",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F776935e8-80fc-474d-8830-09a9bf7e3896",

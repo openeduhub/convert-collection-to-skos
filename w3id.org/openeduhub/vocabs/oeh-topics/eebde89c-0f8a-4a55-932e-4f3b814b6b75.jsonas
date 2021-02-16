@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/eebde89c-0f8a-4a55-932e-4f3b814b6b75",
   "type": "Service",
-  "name": "Schulsysteme",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65656264653839632d306638612d346135352d393332652d346633623831346236623735",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Feebde89c-0f8a-4a55-932e-4f3b814b6b75",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Feebde89c-0f8a-4a55-932e-4f3b814b6b75",

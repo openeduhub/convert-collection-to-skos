@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9acee240-1cc9-4a91-801b-4d2994d37f39",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9acee240-1cc9-4a91-801b-4d2994d37f39",
   "prefLabel": {
-    "de": "Van der Waals-Kräfte"
+    "de": "Die \"Van der Waals\"-Kräfte bei unpolaren Molekülen"
   },
   "definition": {
-    "de": "Die Van-der-Waals-Kräfte beruhen auf einer temporären Ungleichverteilung der Elektronen in den Atomen und Molekülen."
+    "de": "Die Van-der-Waals-Kräfte beruhen auf einer temporären Ungleichverteilung der Elektronen in den Atomen und Molekülen.  Sie sind zwar schwach, aber viele alltägliche Effekte beruhen darauf."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/66925fc0-0c09-493b-b526-cae9b94575de",
     "prefLabel": {
-      "de": "Zwischenmolekulare Kräfte"
+      "de": "Die zwischenmolekulare Kräfte bei Molekülen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

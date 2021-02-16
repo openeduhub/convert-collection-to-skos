@@ -9,12 +9,25 @@
   "definition": {
     "de": "08. OER Kompetenz- Entwicklung ___________________________________ Konzepte und Maßnahmen, um OER-förderliche Kompetenzen bei verschiedenen Zielgruppen zu entwickeln\n___________________________________ \n\nBeispiele: Konzepte für Qualifizierungen und Sensibilisierungen, Beschreibung von Zielgruppen (Personas), nötige Kompetenzen je Zielgruppe\n\n© Bildrechte: Flickr education process Thomas Morris"
   },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ab1894ef-e326-4214-8ca0-586f6f9e860c",
+      "prefLabel": {
+        "de": "OER Coaching Kit"
+      }
+    }
+  ],
   "broader": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a87c092d-e3b5-43ef-81db-757ab1967646",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9375d38b-1add-4f12-94c5-6979a01ff945",
     "prefLabel": {
-      "de": "Open Educational Resources (OER)"
+      "de": "OER im Detail"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/720"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +92,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +110,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

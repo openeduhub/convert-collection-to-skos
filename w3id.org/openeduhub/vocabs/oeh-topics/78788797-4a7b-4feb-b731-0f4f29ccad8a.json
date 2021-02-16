@@ -10,11 +10,16 @@
     "de": "Hier werden OER Schritt für Schritt erklärt – mit vertiefenden Informationen und Übungen.\n\nKlickt die Materialien der Reihe nach durch. Ihr erhaltet einen Überblick und ein Basistraining zu den Themen: Was sind OER? Wie finde und erstelle sie? Und wie kann ich meine OER mit anderen teilen?\n\n\"Start\" by jakeandlindsay is licensed under CC BY 2.0"
   },
   "broader": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a87c092d-e3b5-43ef-81db-757ab1967646",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/788e258c-5b3f-48d0-8458-ebd97a0f1a9e",
     "prefLabel": {
-      "de": "Open Educational Resources (OER)"
+      "de": "OER verstehen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/720"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

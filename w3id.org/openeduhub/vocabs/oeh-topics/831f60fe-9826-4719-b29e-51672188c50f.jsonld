@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F831f60fe-9826-4719-b29e-51672188c50f",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F831f60fe-9826-4719-b29e-51672188c50f",
   "prefLabel": {
-    "de": "Ether"
+    "de": "Ether - Isomere der Alkohole"
   },
   "definition": {
-    "de": "Ether haben die gleiche Summenformel wie Alkohole unterscheiden sich aber in den Eigenschaften, da das Sauerstoffatom zwischen zwei Kohlenstoff-Atomen gebunden ist."
+    "de": "Ether haben die gleiche Summenformel wie Alkohole. Sie unterscheiden sich aber in den Eigenschaften, da das Sauerstoffatom zwischen zwei Kohlenstoff-Atomen gebunden ist.\nDas führt dazu, dass die Ether weniger polar sind, andere Stoffeigenschaften aufweisen als die Alkohole und andere Reaktionen eingehen."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/52de12fa-79ad-455c-95ae-d191f8e897d8",
     "prefLabel": {
-      "de": "Organische Chemie"
+      "de": "Die Organische Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

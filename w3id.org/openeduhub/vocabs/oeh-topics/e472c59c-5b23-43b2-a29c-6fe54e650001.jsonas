@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e472c59c-5b23-43b2-a29c-6fe54e650001",
   "type": "Service",
-  "name": "Nominalisierungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65343732633539632d356232332d343362322d613239632d366665353465363530303031",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe472c59c-5b23-43b2-a29c-6fe54e650001",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe472c59c-5b23-43b2-a29c-6fe54e650001",

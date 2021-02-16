@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/24d056e2-cc2b-46d4-9a73-d8e24d2fef96",
   "type": "Service",
-  "name": "Wissenschaft und Glaube als unterschiedliche Zugänge zur Deutung der Wirklichkeit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32346430353665322d636332622d343664342d396137332d643865323464326665663936",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F24d056e2-cc2b-46d4-9a73-d8e24d2fef96",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F24d056e2-cc2b-46d4-9a73-d8e24d2fef96",

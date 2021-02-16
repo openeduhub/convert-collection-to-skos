@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f52ae292-8778-4f02-a73c-447eb63c9763",
   "type": "Service",
-  "name": "Informationsübertragung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66353261653239322d383737382d346630322d613733632d343437656236336339373633",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff52ae292-8778-4f02-a73c-447eb63c9763",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff52ae292-8778-4f02-a73c-447eb63c9763",

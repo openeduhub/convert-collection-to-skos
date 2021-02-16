@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d4b4195c-3fa2-4802-9282-78010a877c6e",
   "type": "Service",
-  "name": "Bauchemie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64346234313935632d336661322d343830322d393238322d373830313061383737633665",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd4b4195c-3fa2-4802-9282-78010a877c6e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd4b4195c-3fa2-4802-9282-78010a877c6e",

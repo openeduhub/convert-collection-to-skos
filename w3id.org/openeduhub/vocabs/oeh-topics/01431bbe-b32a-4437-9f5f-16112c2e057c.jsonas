@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/01431bbe-b32a-4437-9f5f-16112c2e057c",
   "type": "Service",
-  "name": "Australien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30313433316262652d623332612d343433372d396635662d313631313263326530353763",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F01431bbe-b32a-4437-9f5f-16112c2e057c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F01431bbe-b32a-4437-9f5f-16112c2e057c",

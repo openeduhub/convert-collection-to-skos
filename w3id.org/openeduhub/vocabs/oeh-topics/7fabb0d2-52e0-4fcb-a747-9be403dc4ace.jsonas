@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7fabb0d2-52e0-4fcb-a747-9be403dc4ace",
   "type": "Service",
-  "name": "Erwartungswert und Standardabweichung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37666162623064322d353265302d346663622d613734372d396265343033646334616365",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7fabb0d2-52e0-4fcb-a747-9be403dc4ace",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7fabb0d2-52e0-4fcb-a747-9be403dc4ace",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7fccdc6c-dc31-40c4-8a4b-6cf0b55b433c",
   "type": "Service",
-  "name": "Negative Zahlen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37666363646336632d646333312d343063342d386134622d366366306235356234333363",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7fccdc6c-dc31-40c4-8a4b-6cf0b55b433c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7fccdc6c-dc31-40c4-8a4b-6cf0b55b433c",

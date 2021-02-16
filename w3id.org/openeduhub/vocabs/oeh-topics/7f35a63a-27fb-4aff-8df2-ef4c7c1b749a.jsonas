@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7f35a63a-27fb-4aff-8df2-ef4c7c1b749a",
   "type": "Service",
-  "name": "Klimawandel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37663335613633612d323766622d346166662d386466322d656634633763316237343961",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7f35a63a-27fb-4aff-8df2-ef4c7c1b749a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7f35a63a-27fb-4aff-8df2-ef4c7c1b749a",

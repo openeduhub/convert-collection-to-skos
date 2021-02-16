@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/81be8023-7faa-4c16-ad09-d9600d3f21ec",
   "type": "Service",
-  "name": "Wetter / Klima",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38316265383032332d376661612d346331362d616430392d643936303064336632316563",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F81be8023-7faa-4c16-ad09-d9600d3f21ec",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F81be8023-7faa-4c16-ad09-d9600d3f21ec",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/569d5874-e891-436c-8556-146359ab1a48",
   "type": "Service",
-  "name": "Nachweisreaktionen für Eiweiße und Aminosäuren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35363964353837342d653839312d343336632d383535362d313436333539616231613438",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F569d5874-e891-436c-8556-146359ab1a48",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F569d5874-e891-436c-8556-146359ab1a48",

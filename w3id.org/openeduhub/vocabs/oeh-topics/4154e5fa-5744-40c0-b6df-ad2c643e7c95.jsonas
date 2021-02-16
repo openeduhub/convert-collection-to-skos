@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4154e5fa-5744-40c0-b6df-ad2c643e7c95",
   "type": "Service",
-  "name": "Fußball",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34313534653566612d353734342d343063302d623664662d616432633634336537633935",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4154e5fa-5744-40c0-b6df-ad2c643e7c95",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4154e5fa-5744-40c0-b6df-ad2c643e7c95",

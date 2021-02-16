@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c5addb17-2acd-41e9-9d97-b60f5a64adfa",
   "type": "Service",
-  "name": "innere Energie / Wärmekapazität",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63356164646231372d326163642d343165392d396439372d623630663561363461646661",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc5addb17-2acd-41e9-9d97-b60f5a64adfa",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc5addb17-2acd-41e9-9d97-b60f5a64adfa",

@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb26be4c4-1563-4a05-b909-322b3d6dae15",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb26be4c4-1563-4a05-b909-322b3d6dae15",
   "prefLabel": {
-    "de": "Katalysator"
+    "de": "Der Katalysator in der Chemie und im Alltag"
   },
   "definition": {
-    "de": "In der Chemie ist ein Katalysator ein Stoff, der die Reaktionsgeschwindigkeit durch die Verringerung der Aktivierungsenergie erhöht. Dies spielt bei vielen technischen Prozessen eine wichtige Rolle, um überhaupt eine Reaktion zu ermöglichen."
+    "de": "In der Chemie ist ein Katalysator ein Stoff, der die Reaktionsgeschwindigkeit durch die Verringerung der Aktivierungsenergie erhöht. Dies spielt bei vielen technischen Prozessen eine wichtige Rolle, um überhaupt eine Reaktion zu ermöglichen. \n\nDie Erforschung von neuen Katalysatoren ist ein wichtiger Forschungszweig in der Verfahrentechnik. Ein Thema, das genauer erst in der Oberstufe erklärbar ist."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/37e52144-ac0f-4622-b03c-9cea7749d8a5",
     "prefLabel": {
-      "de": "Thermodynamik"
+      "de": "Die Thermodynamik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -8,9 +8,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/50d93eab-83e8-4f62-8887-5b90d9488324",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/877c65b8-78c3-46b3-9eb1-86f1083cbfbe",
       "prefLabel": {
-        "de": "Kräfte"
+        "de": "Bewegungen"
       }
     },
     {
@@ -20,9 +20,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/877c65b8-78c3-46b3-9eb1-86f1083cbfbe",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/50d93eab-83e8-4f62-8887-5b90d9488324",
       "prefLabel": {
-        "de": "Bewegungen"
+        "de": "Kräfte"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b16a309b-0edf-4b0a-83f3-2ca765cad0f2",
+      "prefLabel": {
+        "de": "Masse, Volumen, Dichte"
       }
     },
     {
@@ -35,12 +41,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a188f17a-5705-4a30-bd42-ae39d6ed0432",
       "prefLabel": {
         "de": "Impuls"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b16a309b-0edf-4b0a-83f3-2ca765cad0f2",
-      "prefLabel": {
-        "de": "Masse, Volumen, Dichte"
       }
     },
     {
@@ -68,6 +68,11 @@
       "de": "Physik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/460"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -132,7 +137,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +155,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

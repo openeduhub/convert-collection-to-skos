@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/75d86572-b700-482e-9365-c6b497a619b8",
   "type": "Service",
-  "name": "Brustschwimmen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37356438363537322d623730302d343832652d393336352d633662343937613631396238",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F75d86572-b700-482e-9365-c6b497a619b8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F75d86572-b700-482e-9365-c6b497a619b8",

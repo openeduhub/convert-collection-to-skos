@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/dd7db17a-212f-4a31-983b-c388e20b0690",
   "type": "Service",
-  "name": "Periodische Dezimalzahlen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64643764623137612d323132662d346133312d393833622d633338386532306230363930",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdd7db17a-212f-4a31-983b-c388e20b0690",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdd7db17a-212f-4a31-983b-c388e20b0690",

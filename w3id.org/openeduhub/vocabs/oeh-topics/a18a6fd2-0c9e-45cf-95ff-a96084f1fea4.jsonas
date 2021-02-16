@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a18a6fd2-0c9e-45cf-95ff-a96084f1fea4",
   "type": "Service",
-  "name": "Jesu Tod und Auferstehung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61313861366664322d306339652d343563662d393566662d613936303834663166656134",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa18a6fd2-0c9e-45cf-95ff-a96084f1fea4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa18a6fd2-0c9e-45cf-95ff-a96084f1fea4",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0e1bb2bd-f1a4-4946-a280-d12d512eb0e4",
   "type": "Service",
-  "name": "Herz und Blutkreislauf",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30653162623262642d663161342d343934362d613238302d643132643531326562306534",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0e1bb2bd-f1a4-4946-a280-d12d512eb0e4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0e1bb2bd-f1a4-4946-a280-d12d512eb0e4",

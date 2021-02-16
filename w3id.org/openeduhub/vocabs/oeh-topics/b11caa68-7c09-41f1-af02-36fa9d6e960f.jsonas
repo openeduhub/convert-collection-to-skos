@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b11caa68-7c09-41f1-af02-36fa9d6e960f",
   "type": "Service",
-  "name": "Garde- und Schautanz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62313163616136382d376330392d343166312d616630322d333666613964366539363066",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb11caa68-7c09-41f1-af02-36fa9d6e960f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb11caa68-7c09-41f1-af02-36fa9d6e960f",

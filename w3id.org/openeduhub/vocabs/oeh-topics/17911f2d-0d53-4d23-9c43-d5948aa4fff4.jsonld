@@ -4,16 +4,16 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F17911f2d-0d53-4d23-9c43-d5948aa4fff4",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F17911f2d-0d53-4d23-9c43-d5948aa4fff4",
   "prefLabel": {
-    "de": "Eiweiße"
+    "de": "Eiweiße - die Bausteine des Lebens"
   },
   "definition": {
-    "de": "Eiweiße, auch Proteine genannt, sind eine biologische Makromoleküle, die aus Aminosäuren aufgebaut sind. Sie sind die Grundbausteine der Zellen."
+    "de": "Eiweiße, auch Proteine genannt, sind biologische Makromoleküle, die aus Aminosäuren aufgebaut sind. Sie sind die Grundbausteine der Zellen."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2b9e3d15-c8f4-408a-9316-11d93c7d97c5",
       "prefLabel": {
-        "de": "Aminosäuren"
+        "de": "Aminosäuren - die Grundbausteine der Eiweiße"
       }
     },
     {
@@ -31,22 +31,27 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/65980847-b112-40f8-b8d6-c5b6875dc3d4",
       "prefLabel": {
-        "de": "Verdauung von Eiweißen"
+        "de": "Verdauung und Bedeutung als Nahrungsmittel"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/de17a259-f5d5-4266-82e4-fa50f185388e",
       "prefLabel": {
-        "de": "Struktur von Eiweiße"
+        "de": "Struktur von Eiweißen"
       }
     }
   ],
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/52de12fa-79ad-455c-95ae-d191f8e897d8",
     "prefLabel": {
-      "de": "Organische Chemie"
+      "de": "Die Organische Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -111,7 +116,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +134,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

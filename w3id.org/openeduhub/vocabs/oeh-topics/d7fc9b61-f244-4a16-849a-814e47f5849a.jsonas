@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d7fc9b61-f244-4a16-849a-814e47f5849a",
   "type": "Service",
-  "name": "Wasser - Trinkwasser und mehr",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64376663396236312d663234342d346131362d383439612d383134653437663538343961",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd7fc9b61-f244-4a16-849a-814e47f5849a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd7fc9b61-f244-4a16-849a-814e47f5849a",

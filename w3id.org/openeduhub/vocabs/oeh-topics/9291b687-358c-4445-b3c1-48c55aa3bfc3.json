@@ -7,7 +7,7 @@
     "de": "Nomen"
   },
   "definition": {
-    "de": "He, she, it, das 's' muss mit! Erste Regel im Englischunterricht, klar. Aber wann benutze ich since oder for? Wann das Simple Past, wann das Present Perfect? Und was ist nochmal das Gerundium? Hier geht es darum, die englische Grammatik zu verstehen."
+    "de": "Hier geht es um Substantive im Englischen, darum, wie ihr den Plural bildet und wann eigentlich das Genitiv-Apostroph angehängt wird."
   },
   "narrower": [
     {
@@ -47,6 +47,11 @@
       "de": "Grammatik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/20001"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -111,7 +116,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +134,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

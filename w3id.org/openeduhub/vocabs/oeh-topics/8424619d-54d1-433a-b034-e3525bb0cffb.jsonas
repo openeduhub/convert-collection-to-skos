@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8424619d-54d1-433a-b034-e3525bb0cffb",
   "type": "Service",
-  "name": "Begrüßung und Verabschiedung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38343234363139642d353464312d343333612d623033342d653335323562623063666662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8424619d-54d1-433a-b034-e3525bb0cffb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8424619d-54d1-433a-b034-e3525bb0cffb",

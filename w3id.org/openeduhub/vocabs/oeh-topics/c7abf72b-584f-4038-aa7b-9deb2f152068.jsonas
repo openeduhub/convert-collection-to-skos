@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c7abf72b-584f-4038-aa7b-9deb2f152068",
   "type": "Service",
-  "name": "Storyboard",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63376162663732622d353834662d343033382d616137622d396465623266313532303638",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7abf72b-584f-4038-aa7b-9deb2f152068",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7abf72b-584f-4038-aa7b-9deb2f152068",

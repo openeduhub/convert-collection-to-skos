@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d7e3eb23-7ab6-450a-b690-d4e61a817149",
   "type": "Service",
-  "name": "Pronomen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64376533656232332d376162362d343530612d623639302d643465363161383137313439",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd7e3eb23-7ab6-450a-b690-d4e61a817149",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd7e3eb23-7ab6-450a-b690-d4e61a817149",

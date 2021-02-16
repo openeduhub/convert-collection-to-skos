@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/97523b4f-587f-41d2-b635-d29b5289b16b",
   "type": "Service",
-  "name": "reflexive Verben",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39373532336234662d353837662d343164322d623633352d643239623532383962313662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F97523b4f-587f-41d2-b635-d29b5289b16b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F97523b4f-587f-41d2-b635-d29b5289b16b",

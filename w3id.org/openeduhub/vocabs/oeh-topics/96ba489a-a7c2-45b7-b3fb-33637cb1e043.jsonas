@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/96ba489a-a7c2-45b7-b3fb-33637cb1e043",
   "type": "Service",
-  "name": "Adverbialsatz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39366261343839612d613763322d343562372d623366622d333336333763623165303433",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F96ba489a-a7c2-45b7-b3fb-33637cb1e043",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F96ba489a-a7c2-45b7-b3fb-33637cb1e043",

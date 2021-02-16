@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a6800a2e-ce72-406f-8d08-b9f3b92ae8fd",
   "type": "Service",
-  "name": "Quantenmechanisches Atommodell",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61363830306132652d636537322d343036662d386430382d623966336239326165386664",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa6800a2e-ce72-406f-8d08-b9f3b92ae8fd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa6800a2e-ce72-406f-8d08-b9f3b92ae8fd",

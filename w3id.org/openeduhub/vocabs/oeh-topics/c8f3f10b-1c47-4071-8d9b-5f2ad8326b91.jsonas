@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c8f3f10b-1c47-4071-8d9b-5f2ad8326b91",
   "type": "Service",
-  "name": "Dilemmageschichten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63386633663130622d316334372d343037312d386439622d356632616438333236623931",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc8f3f10b-1c47-4071-8d9b-5f2ad8326b91",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc8f3f10b-1c47-4071-8d9b-5f2ad8326b91",

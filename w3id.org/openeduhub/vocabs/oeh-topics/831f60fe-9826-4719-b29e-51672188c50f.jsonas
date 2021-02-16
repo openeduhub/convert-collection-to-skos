@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/831f60fe-9826-4719-b29e-51672188c50f",
   "type": "Service",
-  "name": "Ether",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38333166363066652d393832362d343731392d623239652d353136373231383863353066",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F831f60fe-9826-4719-b29e-51672188c50f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F831f60fe-9826-4719-b29e-51672188c50f",

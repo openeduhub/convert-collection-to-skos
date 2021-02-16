@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b71f94dc-1178-482d-984a-1522facedddd",
   "type": "Service",
-  "name": "Bedeutung von Algorithmen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62373166393464632d313137382d343832642d393834612d313532326661636564646464",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb71f94dc-1178-482d-984a-1522facedddd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb71f94dc-1178-482d-984a-1522facedddd",

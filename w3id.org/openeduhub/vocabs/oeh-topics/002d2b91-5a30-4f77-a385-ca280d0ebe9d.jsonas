@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/002d2b91-5a30-4f77-a385-ca280d0ebe9d",
   "type": "Service",
-  "name": "Interrogativbegleiter",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30303264326239312d356133302d346637372d613338352d636132383064306562653964",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F002d2b91-5a30-4f77-a385-ca280d0ebe9d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F002d2b91-5a30-4f77-a385-ca280d0ebe9d",

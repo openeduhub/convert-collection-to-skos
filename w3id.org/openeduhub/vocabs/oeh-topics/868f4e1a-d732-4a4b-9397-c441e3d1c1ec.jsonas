@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/868f4e1a-d732-4a4b-9397-c441e3d1c1ec",
   "type": "Service",
-  "name": "Aldehyde und Ketone",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38363866346531612d643733322d346134622d393339372d633434316533643163316563",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F868f4e1a-d732-4a4b-9397-c441e3d1c1ec",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F868f4e1a-d732-4a4b-9397-c441e3d1c1ec",

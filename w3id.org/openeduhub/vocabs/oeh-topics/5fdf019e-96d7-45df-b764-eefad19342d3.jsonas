@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5fdf019e-96d7-45df-b764-eefad19342d3",
   "type": "Service",
-  "name": "Zeit im Jahreskreis",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35666466303139652d393664372d343564662d623736342d656566616431393334326433",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5fdf019e-96d7-45df-b764-eefad19342d3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5fdf019e-96d7-45df-b764-eefad19342d3",

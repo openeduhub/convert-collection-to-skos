@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/12d8712c-6480-4b43-b6a3-28e7f7eebec8",
   "type": "Service",
-  "name": "Spuren von Religiosität und Bibel im Film",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31326438373132632d363438302d346234332d623661332d323865376637656562656338",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F12d8712c-6480-4b43-b6a3-28e7f7eebec8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F12d8712c-6480-4b43-b6a3-28e7f7eebec8",

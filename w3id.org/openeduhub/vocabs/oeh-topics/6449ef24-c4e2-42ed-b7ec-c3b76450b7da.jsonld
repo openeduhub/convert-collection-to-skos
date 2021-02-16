@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6449ef24-c4e2-42ed-b7ec-c3b76450b7da",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6449ef24-c4e2-42ed-b7ec-c3b76450b7da",
   "prefLabel": {
-    "de": "Stoffklassen"
+    "de": "Stoffklassen als Einteilung von Stoffen"
   },
   "definition": {
-    "de": "Untersucht man verschiedene Stoffe, so zeigt sich, dass viele Stoffe ähnliche Kombinationen von EIgenschaften besitzen. Man ordnet sie einer Stoffklasse zu."
+    "de": "Untersucht man verschiedene Stoffe, so zeigt sich, dass viele Stoffe ähnliche Kombinationen von Eigenschaften besitzen. Man ordnet sie einer Stoffklasse zu. Umgekehrt kann man aufgrund der Zuordnung eines Stoffes zu einer Stoffklasse auch bestimmte Eigenschaft voraussetzen."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3d589846-67e0-45d1-869c-7b94d0538e0a",
@@ -15,6 +15,11 @@
       "de": "Stoffe und Stoffeigenschaften"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

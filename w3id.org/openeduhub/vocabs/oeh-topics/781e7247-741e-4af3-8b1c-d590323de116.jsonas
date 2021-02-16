@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/781e7247-741e-4af3-8b1c-d590323de116",
   "type": "Service",
-  "name": "Südafrika",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37383165373234372d373431652d346166332d386231632d643539303332336465313136",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F781e7247-741e-4af3-8b1c-d590323de116",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F781e7247-741e-4af3-8b1c-d590323de116",

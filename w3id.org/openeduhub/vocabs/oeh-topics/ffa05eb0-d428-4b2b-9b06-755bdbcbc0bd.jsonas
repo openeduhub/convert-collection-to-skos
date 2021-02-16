@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ffa05eb0-d428-4b2b-9b06-755bdbcbc0bd",
   "type": "Service",
-  "name": "Mechanische Energie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66666130356562302d643432382d346232622d396230362d373535626462636263306264",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fffa05eb0-d428-4b2b-9b06-755bdbcbc0bd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fffa05eb0-d428-4b2b-9b06-755bdbcbc0bd",

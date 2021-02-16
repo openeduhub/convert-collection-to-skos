@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/30e57f8b-fc54-4e69-8b02-19a4b3976dc6",
   "type": "Service",
-  "name": "Fastenzeit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33306535376638622d666335342d346536392d386230322d313961346233393736646336",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F30e57f8b-fc54-4e69-8b02-19a4b3976dc6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F30e57f8b-fc54-4e69-8b02-19a4b3976dc6",

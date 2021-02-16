@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5e4474ab-c884-43e1-a599-7c6e2f33196e",
   "type": "Service",
-  "name": "soziale Medien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35653434373461622d633838342d343365312d613539392d376336653266333331393665",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5e4474ab-c884-43e1-a599-7c6e2f33196e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5e4474ab-c884-43e1-a599-7c6e2f33196e",

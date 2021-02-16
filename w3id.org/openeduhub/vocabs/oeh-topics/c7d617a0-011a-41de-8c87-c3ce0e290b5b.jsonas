@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c7d617a0-011a-41de-8c87-c3ce0e290b5b",
   "type": "Service",
-  "name": "Asymmetrische Verschlüsselung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63376436313761302d303131612d343164652d386338372d633363653065323930623562",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7d617a0-011a-41de-8c87-c3ce0e290b5b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7d617a0-011a-41de-8c87-c3ce0e290b5b",

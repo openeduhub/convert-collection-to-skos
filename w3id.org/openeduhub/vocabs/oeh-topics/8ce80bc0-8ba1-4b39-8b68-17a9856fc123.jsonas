@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8ce80bc0-8ba1-4b39-8b68-17a9856fc123",
   "type": "Service",
-  "name": "Present Progressive",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38636538306263302d386261312d346233392d386236382d313761393835366663313233",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8ce80bc0-8ba1-4b39-8b68-17a9856fc123",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8ce80bc0-8ba1-4b39-8b68-17a9856fc123",

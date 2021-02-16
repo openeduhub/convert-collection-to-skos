@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0c74d7c4-2ea3-4e58-8f1b-6d8f88891ea9",
   "type": "Service",
-  "name": "Infinitiv",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30633734643763342d326561332d346535382d386631622d366438663838383931656139",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0c74d7c4-2ea3-4e58-8f1b-6d8f88891ea9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0c74d7c4-2ea3-4e58-8f1b-6d8f88891ea9",

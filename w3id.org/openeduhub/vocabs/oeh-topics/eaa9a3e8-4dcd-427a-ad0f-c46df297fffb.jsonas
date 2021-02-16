@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/eaa9a3e8-4dcd-427a-ad0f-c46df297fffb",
   "type": "Service",
-  "name": "Korbball",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65616139613365382d346463642d343237612d616430662d633436646632393766666662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Feaa9a3e8-4dcd-427a-ad0f-c46df297fffb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Feaa9a3e8-4dcd-427a-ad0f-c46df297fffb",

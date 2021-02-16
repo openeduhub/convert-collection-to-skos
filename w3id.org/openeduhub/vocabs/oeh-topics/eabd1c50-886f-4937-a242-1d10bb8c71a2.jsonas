@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/eabd1c50-886f-4937-a242-1d10bb8c71a2",
   "type": "Service",
-  "name": "Winkelfunktionen am Einheitskreis",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65616264316335302d383836662d343933372d613234322d316431306262386337316132",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Feabd1c50-886f-4937-a242-1d10bb8c71a2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Feabd1c50-886f-4937-a242-1d10bb8c71a2",

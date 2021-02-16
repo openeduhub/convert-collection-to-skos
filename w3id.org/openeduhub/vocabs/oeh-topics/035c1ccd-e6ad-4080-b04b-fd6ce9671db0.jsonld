@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F035c1ccd-e6ad-4080-b04b-fd6ce9671db0",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F035c1ccd-e6ad-4080-b04b-fd6ce9671db0",
   "prefLabel": {
-    "de": "Bindungstyp Komplexbindung"
+    "de": "Der Bindungstyp Komplexbindung"
   },
   "definition": {
-    "de": "Die Komplexchemie befasst sich mit Verbindungen, bei denen ein Zentralteilchen von mehreren Liganden umgeben sind, die durch Bindungen halten, die ähnlich der Atombindungen sind."
+    "de": "Die Komplexchemie befasst sich mit Verbindungen, bei denen ein Zentralteilchen von mehreren Liganden umgeben sind, die durch Bindungen halten, die ähnlich der Atombindungen sind. Das Thema wird meist erst in der Oberstufe und eher in Leistungskursen betrachtet."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ce676ca8-0810-4348-adf8-14e2f9ad64f8",
     "prefLabel": {
-      "de": "Bindungen"
+      "de": "Typen von Bindungen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

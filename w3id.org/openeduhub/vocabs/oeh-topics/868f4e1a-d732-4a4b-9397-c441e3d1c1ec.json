@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F868f4e1a-d732-4a4b-9397-c441e3d1c1ec",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F868f4e1a-d732-4a4b-9397-c441e3d1c1ec",
   "prefLabel": {
-    "de": "Aldehyde und Ketone"
+    "de": "Aldehyde und Ketone - Oxidationsprodukte von Alkoholen"
   },
   "definition": {
-    "de": "Aldehyde und Ketone sind Oxidationsprodukte von primären und sekundären Alkoholen."
+    "de": "Aldehyde und Ketone sind Oxidationsprodukte von primären und sekundären Alkoholen.\n\nHier gibt es eine neue funktionelle Gruppe, bei der der Sauerstoff mit einer Doppelbindung an die Kohlenstoff-Kette gebunden ist.\n\nZucker sind spezielle Aldehyde, dazu gibt es ein eigenes Unterthema."
   },
   "narrower": [
     {
@@ -25,16 +25,21 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8452bb48-cdbe-490b-90b3-96dc35299ab7",
       "prefLabel": {
-        "de": "Nachweis  für Aldehyde und Ketone"
+        "de": "Nachweisverfahren  für Aldehyde und Ketone"
       }
     }
   ],
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/52de12fa-79ad-455c-95ae-d191f8e897d8",
     "prefLabel": {
-      "de": "Organische Chemie"
+      "de": "Die Organische Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -99,7 +104,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -108,7 +122,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

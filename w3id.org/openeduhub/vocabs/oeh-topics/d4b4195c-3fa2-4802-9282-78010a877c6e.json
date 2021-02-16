@@ -4,7 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd4b4195c-3fa2-4802-9282-78010a877c6e",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd4b4195c-3fa2-4802-9282-78010a877c6e",
   "prefLabel": {
-    "de": "Bauchemie"
+    "de": "Chemie auf dem Bau"
+  },
+  "definition": {
+    "de": "Zahlreiche Hilfsmittel auf dem Bau sind chemischer Natur. Von Beton über Kleber bis hin zu Imprägnierungsmitteln für Oberflächen ist die Auswahl groß."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0f98878d-4bf8-4ed5-933b-c0ad0d36263e",
@@ -12,6 +15,11 @@
       "de": "Chemie und Umwelt"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -76,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

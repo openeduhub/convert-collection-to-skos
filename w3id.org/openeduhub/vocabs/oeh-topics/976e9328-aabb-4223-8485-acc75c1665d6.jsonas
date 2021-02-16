@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/976e9328-aabb-4223-8485-acc75c1665d6",
   "type": "Service",
-  "name": "Wechselwirkung zwischen Lebewesen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39373665393332382d616162622d343232332d383438352d616363373563313636356436",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F976e9328-aabb-4223-8485-acc75c1665d6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F976e9328-aabb-4223-8485-acc75c1665d6",

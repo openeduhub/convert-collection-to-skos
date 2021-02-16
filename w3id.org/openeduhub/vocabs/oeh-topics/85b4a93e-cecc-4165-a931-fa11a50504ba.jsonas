@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/85b4a93e-cecc-4165-a931-fa11a50504ba",
   "type": "Service",
-  "name": "Wärmekraftmaschinen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38356234613933652d636563632d343136352d613933312d666131316135303530346261",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F85b4a93e-cecc-4165-a931-fa11a50504ba",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F85b4a93e-cecc-4165-a931-fa11a50504ba",

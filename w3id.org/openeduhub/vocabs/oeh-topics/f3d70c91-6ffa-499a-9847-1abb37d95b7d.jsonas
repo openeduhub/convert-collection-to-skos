@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f3d70c91-6ffa-499a-9847-1abb37d95b7d",
   "type": "Service",
-  "name": "Einfluss der Massenmedien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66336437306339312d366666612d343939612d393834372d316162623337643935623764",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff3d70c91-6ffa-499a-9847-1abb37d95b7d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff3d70c91-6ffa-499a-9847-1abb37d95b7d",

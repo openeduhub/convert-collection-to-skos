@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b0ebbc42-1a2e-4b1e-93c1-759b87b37365",
   "type": "Service",
-  "name": "Plansequenz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62306562626334322d316132652d346231652d393363312d373539623837623337333635",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb0ebbc42-1a2e-4b1e-93c1-759b87b37365",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb0ebbc42-1a2e-4b1e-93c1-759b87b37365",

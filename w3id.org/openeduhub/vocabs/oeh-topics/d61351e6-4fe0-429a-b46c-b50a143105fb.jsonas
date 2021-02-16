@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d61351e6-4fe0-429a-b46c-b50a143105fb",
   "type": "Service",
-  "name": "Reflexivpronomen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64363133353165362d346665302d343239612d623436632d623530613134333130356662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd61351e6-4fe0-429a-b46c-b50a143105fb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd61351e6-4fe0-429a-b46c-b50a143105fb",

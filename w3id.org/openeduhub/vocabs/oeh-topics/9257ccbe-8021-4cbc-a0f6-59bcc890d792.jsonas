@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9257ccbe-8021-4cbc-a0f6-59bcc890d792",
   "type": "Service",
-  "name": "Rock'n'Roll",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39323537636362652d383032312d346362632d613066362d353962636338393064373932",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9257ccbe-8021-4cbc-a0f6-59bcc890d792",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9257ccbe-8021-4cbc-a0f6-59bcc890d792",

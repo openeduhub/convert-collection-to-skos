@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0f14bedc-89f7-4d97-b995-86f502a2597c",
   "type": "Service",
-  "name": "Nebensätze ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30663134626564632d383966372d346439372d623939352d383666353032613235393763",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0f14bedc-89f7-4d97-b995-86f502a2597c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0f14bedc-89f7-4d97-b995-86f502a2597c",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/47e6b1d9-8bb6-411c-be11-ece5736c739a",
   "type": "Service",
-  "name": "Grundlagen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34376536623164392d386262362d343131632d626531312d656365353733366337333961",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F47e6b1d9-8bb6-411c-be11-ece5736c739a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F47e6b1d9-8bb6-411c-be11-ece5736c739a",

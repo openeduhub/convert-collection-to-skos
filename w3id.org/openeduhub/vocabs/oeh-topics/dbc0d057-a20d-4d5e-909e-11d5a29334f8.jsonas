@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/dbc0d057-a20d-4d5e-909e-11d5a29334f8",
   "type": "Service",
-  "name": "amerikanisches Englisch",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64626330643035372d613230642d346435652d393039652d313164356132393333346638",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdbc0d057-a20d-4d5e-909e-11d5a29334f8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdbc0d057-a20d-4d5e-909e-11d5a29334f8",

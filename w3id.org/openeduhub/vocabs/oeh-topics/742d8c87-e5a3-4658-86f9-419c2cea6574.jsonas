@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/742d8c87-e5a3-4658-86f9-419c2cea6574",
   "type": "Service",
-  "name": "Informatik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37343264386338372d653561332d343635382d383666392d343139633263656136353734",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F742d8c87-e5a3-4658-86f9-419c2cea6574",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F742d8c87-e5a3-4658-86f9-419c2cea6574",

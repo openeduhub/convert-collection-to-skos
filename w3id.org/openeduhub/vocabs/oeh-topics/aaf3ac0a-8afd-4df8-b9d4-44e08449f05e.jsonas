@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/aaf3ac0a-8afd-4df8-b9d4-44e08449f05e",
   "type": "Service",
-  "name": "Fehlformen des Gottesglaubens",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61616633616330612d386166642d346466382d623964342d343465303834343966303565",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Faaf3ac0a-8afd-4df8-b9d4-44e08449f05e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Faaf3ac0a-8afd-4df8-b9d4-44e08449f05e",

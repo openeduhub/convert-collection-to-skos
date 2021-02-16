@@ -7,7 +7,7 @@
     "de": "Verwendung von Säuren und Basen/Laugen"
   },
   "definition": {
-    "de": "Die typischen Reaktionen von Säuren und Basen werden in verschiedenen Gebieten der Industrie und im Haushalt angwendet."
+    "de": "Die typischen Reaktionen von Säuren und Basen werden in verschiedenen Gebieten der Industrie und im Haushalt angewendet.\n\nHier geht es eher um den praktischen Aspekt."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9f082eef-2f86-4007-bbf0-45690cec45a4",
@@ -15,6 +15,11 @@
       "de": "Säuren, Basen und Laugen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

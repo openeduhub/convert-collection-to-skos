@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a71fdfd4-78de-4ea5-a900-0e7fe4d29b50",
   "type": "Service",
-  "name": "Present Perfect Progressive",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61373166646664342d373864652d346561352d613930302d306537666534643239623530",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa71fdfd4-78de-4ea5-a900-0e7fe4d29b50",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa71fdfd4-78de-4ea5-a900-0e7fe4d29b50",

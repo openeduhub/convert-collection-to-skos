@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/228ff85c-5c24-4820-8801-ce57484914df",
   "type": "Service",
-  "name": "weitere Organellen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32323866663835632d356332342d343832302d383830312d636535373438343931346466",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F228ff85c-5c24-4820-8801-ce57484914df",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F228ff85c-5c24-4820-8801-ce57484914df",

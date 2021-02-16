@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b4db6a78-30b5-4a2d-bbeb-0b588aff76e1",
   "type": "Service",
-  "name": "Luftverschmutzung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62346462366137382d333062352d346132642d626265622d306235383861666637366531",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb4db6a78-30b5-4a2d-bbeb-0b588aff76e1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb4db6a78-30b5-4a2d-bbeb-0b588aff76e1",

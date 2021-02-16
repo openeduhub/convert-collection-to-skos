@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2995aba9-c096-49a1-bc00-ddee517d7437",
   "type": "Service",
-  "name": "phonetisches Alphabet",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32393935616261392d633039362d343961312d626330302d646465653531376437343337",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2995aba9-c096-49a1-bc00-ddee517d7437",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2995aba9-c096-49a1-bc00-ddee517d7437",

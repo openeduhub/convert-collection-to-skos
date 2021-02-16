@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e532054a-1cca-4453-89c8-bdc5408f3917",
   "type": "Service",
-  "name": "Lebensentwürfe",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65353332303534612d316363612d343435332d383963382d626463353430386633393137",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe532054a-1cca-4453-89c8-bdc5408f3917",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe532054a-1cca-4453-89c8-bdc5408f3917",

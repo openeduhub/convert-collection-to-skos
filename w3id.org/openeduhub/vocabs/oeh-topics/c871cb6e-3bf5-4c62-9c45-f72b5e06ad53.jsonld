@@ -9,12 +9,25 @@
   "definition": {
     "de": "06. Software, Tools und Prozesse ___________________________________ Materialien, Praxisbeispiele, Konzepte zu OER-förderlichen Infrastrukturen, Softwarewerkzeugen und Prozessen. ___________________________________ \n\nBeispiele: OER-geeignete Autorenwerkzeuge, LMS-Erweiterungen, Repositorien, Referatorien, Metadaten, Lizenzassistent, Bildungsbereich-übergreifende IT-Vernetzungslösungen\n\n\"App Store icon\" by BasBoerman is licensed under CC BY-NC 2.0"
   },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b0e2d58a-08c5-409f-b800-3c7769e31566",
+      "prefLabel": {
+        "de": "Metadaten im Edu-Bereich"
+      }
+    }
+  ],
   "broader": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a87c092d-e3b5-43ef-81db-757ab1967646",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9375d38b-1add-4f12-94c5-6979a01ff945",
     "prefLabel": {
-      "de": "Open Educational Resources (OER)"
+      "de": "OER im Detail"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/720"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +92,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +110,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

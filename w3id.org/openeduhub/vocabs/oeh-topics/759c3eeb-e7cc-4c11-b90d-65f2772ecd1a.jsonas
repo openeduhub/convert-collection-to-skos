@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/759c3eeb-e7cc-4c11-b90d-65f2772ecd1a",
   "type": "Service",
-  "name": "Verbalperiphrasen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37353963336565622d653763632d346331312d623930642d363566323737326563643161",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F759c3eeb-e7cc-4c11-b90d-65f2772ecd1a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F759c3eeb-e7cc-4c11-b90d-65f2772ecd1a",

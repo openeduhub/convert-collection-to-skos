@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b3e6e602-8233-4f2e-9279-ec69ad837b8b",
   "type": "Service",
-  "name": "Nominal- und Verbalstil",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62336536653630322d383233332d346632652d393237392d656336396164383337623862",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb3e6e602-8233-4f2e-9279-ec69ad837b8b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb3e6e602-8233-4f2e-9279-ec69ad837b8b",

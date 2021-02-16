@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4ee0d965-2e15-4fa1-9f27-cf4012d5ccba",
   "type": "Service",
-  "name": "Farben",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34656530643936352d326531352d346661312d396632372d636634303132643563636261",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4ee0d965-2e15-4fa1-9f27-cf4012d5ccba",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4ee0d965-2e15-4fa1-9f27-cf4012d5ccba",

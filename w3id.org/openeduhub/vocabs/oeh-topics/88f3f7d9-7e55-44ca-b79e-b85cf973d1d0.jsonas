@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/88f3f7d9-7e55-44ca-b79e-b85cf973d1d0",
   "type": "Service",
-  "name": "Die eulersche Zahl e",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38386633663764392d376535352d343463612d623739652d623835636639373364316430",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F88f3f7d9-7e55-44ca-b79e-b85cf973d1d0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F88f3f7d9-7e55-44ca-b79e-b85cf973d1d0",

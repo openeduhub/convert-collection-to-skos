@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/91004a0b-1625-49e0-b2d4-b9fa1546d55f",
   "type": "Service",
-  "name": "Aussage-, Frage- und Ausrufesätze",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39313030346130622d313632352d343965302d623264342d623966613135343664353566",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F91004a0b-1625-49e0-b2d4-b9fa1546d55f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F91004a0b-1625-49e0-b2d4-b9fa1546d55f",

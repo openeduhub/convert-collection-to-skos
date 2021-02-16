@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cd0b40a5-20bd-4f83-a234-c52e1a995dd9",
   "type": "Service",
-  "name": "Satzzeichen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63643062343061352d323062642d346638332d613233342d633532653161393935646439",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcd0b40a5-20bd-4f83-a234-c52e1a995dd9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcd0b40a5-20bd-4f83-a234-c52e1a995dd9",

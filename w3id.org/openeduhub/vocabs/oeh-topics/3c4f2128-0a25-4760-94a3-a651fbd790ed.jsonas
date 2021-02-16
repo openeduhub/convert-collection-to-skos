@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3c4f2128-0a25-4760-94a3-a651fbd790ed",
   "type": "Service",
-  "name": "Stammbaumanalysen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33633466323132382d306132352d343736302d393461332d613635316662643739306564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3c4f2128-0a25-4760-94a3-a651fbd790ed",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3c4f2128-0a25-4760-94a3-a651fbd790ed",

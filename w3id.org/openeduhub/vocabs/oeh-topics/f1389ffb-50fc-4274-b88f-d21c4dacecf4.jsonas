@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f1389ffb-50fc-4274-b88f-d21c4dacecf4",
   "type": "Service",
-  "name": "Sinnangebote und Orientierungshilfen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66313338396666622d353066632d343237342d623838662d643231633464616365636634",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff1389ffb-50fc-4274-b88f-d21c4dacecf4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff1389ffb-50fc-4274-b88f-d21c4dacecf4",

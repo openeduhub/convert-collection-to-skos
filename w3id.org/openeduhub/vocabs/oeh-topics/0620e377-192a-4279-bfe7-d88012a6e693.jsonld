@@ -7,14 +7,19 @@
     "de": "Reaktionstypen von Aromaten"
   },
   "definition": {
-    "de": "Im Gegensatz zu anderen Verbindungen mit Doppelbindungen neigen Aromaten eher zu Substitutionsreaktionen. Einige Reaktionen sind typische für Aromaten."
+    "de": "Im Gegensatz zu anderen Verbindungen mit Doppelbindungen neigen Aromaten eher zu Substitutionsreaktionen als zu Additionsreaktionen. Einige Reaktionen sind typisch für Aromaten."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7c95b151-1db4-4e55-b958-80082eba8209",
     "prefLabel": {
-      "de": "Aromaten"
+      "de": "Aromaten - Ringe mit delokalisierten Elektronensystemen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

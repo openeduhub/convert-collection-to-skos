@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2ed5e61a-3f75-4d02-a4b9-0c4f3dd8be32",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2ed5e61a-3f75-4d02-a4b9-0c4f3dd8be32",
   "prefLabel": {
-    "de": "Berechnungen pH - Wert"
+    "de": "Berechnungen von pH - Werten"
   },
   "definition": {
-    "de": "Die Berechnungen beruhen auf dem Massenwirkungsgesetz und der Konzentration der Säure/Base."
+    "de": "Die Berechnungen beruhen auf dem Massenwirkungsgesetz und der Konzentration der Säure/Base.\n\nEs gibt Überschneidungen zum Thema \"Stöchiometrie\" in der \"Allgemeinen Chemie\"."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9f082eef-2f86-4007-bbf0-45690cec45a4",
@@ -15,6 +15,11 @@
       "de": "Säuren, Basen und Laugen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

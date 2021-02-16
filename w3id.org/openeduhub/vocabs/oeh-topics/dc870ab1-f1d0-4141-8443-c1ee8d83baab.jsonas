@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/dc870ab1-f1d0-4141-8443-c1ee8d83baab",
   "type": "Service",
-  "name": "Profile der Propheten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64633837306162312d663164302d343134312d383434332d633165653864383362616162",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdc870ab1-f1d0-4141-8443-c1ee8d83baab",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdc870ab1-f1d0-4141-8443-c1ee8d83baab",

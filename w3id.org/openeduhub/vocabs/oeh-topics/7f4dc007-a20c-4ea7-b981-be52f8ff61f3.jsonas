@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7f4dc007-a20c-4ea7-b981-be52f8ff61f3",
   "type": "Service",
-  "name": "Verdauung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37663464633030372d613230632d346561372d623938312d626535326638666636316633",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7f4dc007-a20c-4ea7-b981-be52f8ff61f3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7f4dc007-a20c-4ea7-b981-be52f8ff61f3",

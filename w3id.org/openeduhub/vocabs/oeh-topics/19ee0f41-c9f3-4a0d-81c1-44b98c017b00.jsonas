@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/19ee0f41-c9f3-4a0d-81c1-44b98c017b00",
   "type": "Service",
-  "name": "Innerer Monolog",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31396565306634312d633966332d346130642d383163312d343462393863303137623030",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F19ee0f41-c9f3-4a0d-81c1-44b98c017b00",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F19ee0f41-c9f3-4a0d-81c1-44b98c017b00",

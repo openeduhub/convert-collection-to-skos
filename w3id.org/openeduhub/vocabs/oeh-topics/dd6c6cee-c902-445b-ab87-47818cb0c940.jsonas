@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/dd6c6cee-c902-445b-ab87-47818cb0c940",
   "type": "Service",
-  "name": "Prozentwert",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64643663366365652d633930322d343435622d616238372d343738313863623063393430",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdd6c6cee-c902-445b-ab87-47818cb0c940",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdd6c6cee-c902-445b-ab87-47818cb0c940",

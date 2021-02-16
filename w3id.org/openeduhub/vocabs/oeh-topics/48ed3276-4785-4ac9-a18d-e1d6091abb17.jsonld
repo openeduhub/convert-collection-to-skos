@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F48ed3276-4785-4ac9-a18d-e1d6091abb17",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F48ed3276-4785-4ac9-a18d-e1d6091abb17",
   "prefLabel": {
-    "de": "Reaktionen der Alkohole"
+    "de": "Andere Reaktionen der Alkohole"
   },
   "definition": {
-    "de": "Reaktionen von Alkohol finden meist mit der OH-Gruppe oder dem benachbarten C-Atom statt."
+    "de": "Reaktionen unter Beteiligung von Alkoholen finden meist an der OH-Gruppe oder dem benachbarten Kohlenstoffatom statt.\nAußer Redoxreaktionen können auch andere Reaktionen stattfinden, wie zum Beispiel die Bildung von Estern."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e922a40a-2dd2-432a-ab8e-a6783cd6e8f2",
     "prefLabel": {
-      "de": "Alkohole"
+      "de": "Alkohole - Kohlenwasserstoffe mit einer OH-Gruppe"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

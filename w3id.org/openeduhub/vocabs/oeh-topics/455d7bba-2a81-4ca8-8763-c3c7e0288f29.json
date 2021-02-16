@@ -7,14 +7,19 @@
     "de": "Einzelne Hauptgruppen und ihre Elemente"
   },
   "definition": {
-    "de": "Die Hauptgruppen zeichnen sich dadurch aus, dass die enthaltenen Elemente sich in ihren Eigenschaften sehr ähneln oder systematisch verändern."
+    "de": "Die Hauptgruppen zeichnen sich dadurch aus, dass die enthaltenen Elemente sich in ihren Eigenschaften sehr ähneln oder systematisch verändern.\n\nDas unterscheidet sie auch von den Nebengruppen, bei denen alle Elemente recht ähnliche Eigenschaften haben."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c0b6ce90-44c3-46dc-ae3e-2741d78d9294",
     "prefLabel": {
-      "de": "Periodensystem"
+      "de": "Das Periodensystem"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

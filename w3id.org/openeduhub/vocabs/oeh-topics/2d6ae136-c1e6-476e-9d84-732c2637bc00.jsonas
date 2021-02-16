@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2d6ae136-c1e6-476e-9d84-732c2637bc00",
   "type": "Service",
-  "name": "Normalverteilung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32643661653133362d633165362d343736652d396438342d373332633236333762633030",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2d6ae136-c1e6-476e-9d84-732c2637bc00",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2d6ae136-c1e6-476e-9d84-732c2637bc00",

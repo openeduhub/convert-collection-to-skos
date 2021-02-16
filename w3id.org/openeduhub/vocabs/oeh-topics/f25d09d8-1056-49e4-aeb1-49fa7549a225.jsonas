@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f25d09d8-1056-49e4-aeb1-49fa7549a225",
   "type": "Service",
-  "name": "Rückenschwimmen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66323564303964382d313035362d343965342d616562312d343966613735343961323235",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff25d09d8-1056-49e4-aeb1-49fa7549a225",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff25d09d8-1056-49e4-aeb1-49fa7549a225",

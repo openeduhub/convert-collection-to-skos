@@ -4,22 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc6e28216-77f9-4e56-8f05-c85ee2a6991f",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc6e28216-77f9-4e56-8f05-c85ee2a6991f",
   "prefLabel": {
-    "de": "Einführung in Chemische Reaktionen"
+    "de": "Einführung in die Betrachtung chemischer Reaktionen"
   },
   "definition": {
-    "de": "Nach der Betrachtung der Stoffeigenschaften werden Vorgänge untersucht bei der neue Stoffe mit anderen Eigenschaften entstehen."
+    "de": "Nach der Betrachtung der Stoffeigenschaften werden Vorgänge untersucht, bei der neue Stoffe mit anderen Eigenschaften entstehen.\nEs geht darum zu verstehen, woran du chemische Reaktionen erkennen kannst und was das mit der Teilchenebene zu tun."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3c52e959-fc3e-463e-89a7-377ffe7d17d7",
       "prefLabel": {
-        "de": "Änderung der Stoffeigenschaften"
+        "de": "Stoffvernichtung und Stoffneubildung"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/52c86ca6-0969-4f33-ae83-74d3d086638b",
       "prefLabel": {
-        "de": "Chemische Grundgesetze"
+        "de": "Die chemischen Grundgesetze"
       }
     },
     {
@@ -31,16 +31,21 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b7299f9-31f5-477d-b10e-18a465295bdd",
       "prefLabel": {
-        "de": "Reaktionen mit Sauerstoff"
+        "de": "Die Reaktionen mit Sauerstoff genauer betrachtet"
       }
     }
   ],
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b25b69f-ad8c-4473-8cb3-3b3d47434380",
     "prefLabel": {
-      "de": "Einführung in die Chemie"
+      "de": "Einführung in das Fach Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -105,7 +110,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -114,7 +128,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

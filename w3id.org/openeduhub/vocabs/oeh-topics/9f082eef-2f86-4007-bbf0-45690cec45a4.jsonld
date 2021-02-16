@@ -7,19 +7,19 @@
     "de": "Säuren, Basen und Laugen"
   },
   "definition": {
-    "de": "Die Definition von Säuren und Basen/Laugen beruhen auf den Sinneseindrücken die sie erzeugen. Dahinter stecken aber klar definierte chemische Eigenschaften."
+    "de": "Säuren und Basen/Laugen finden in vielen Bereichen des Lebenalltags der Lernenden Verwendung. Die Definition von Säuren und Basen/Laugen beruhen auf den Sinneseindrücken, welche sie erzeugen. Dahinter stecken aber klar definierte chemische Eigenschaften. \n\nIn diesem Themengebiet werden bereits behandelte Teilgebiete der Chemie wieder aufgegriffen, wie zum Beispiel die Salze. \n\nEin großes Augenmerk liegt auf der Vermittlung der Säure-Base-Reaktion, der Neutralisation. Dazu wird der pH-Wert und Indikatoren zur Hilfe genommen und näher beleutet."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/190e487b-b71d-4e87-a499-f1e1f8c96378",
       "prefLabel": {
-        "de": "Neutralisationsreaktionen und Salze"
+        "de": "Neutralisationsreaktionen und Salzbildung"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2ed5e61a-3f75-4d02-a4b9-0c4f3dd8be32",
       "prefLabel": {
-        "de": "Berechnungen pH - Wert"
+        "de": "Berechnungen von pH - Werten"
       }
     },
     {
@@ -31,7 +31,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8e5d25b2-4390-4d72-addf-78856f9c3ecf",
       "prefLabel": {
-        "de": "Puffersysteme"
+        "de": "Betrachtung von Puffersystemen"
       }
     },
     {
@@ -43,7 +43,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a3b49414-8436-48f2-ae7d-009de9a4f3af",
       "prefLabel": {
-        "de": "Autoprotolyse"
+        "de": "Die Autoprotolyse als Eigenschaften von Wasser"
       }
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e61e9c39-4a20-42fb-a786-2c3bd001ed29",
       "prefLabel": {
-        "de": "pH-Wert"
+        "de": "Der pH-Wert als Eigenschaften von Lösungen"
       }
     },
     {
@@ -74,9 +74,14 @@
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3c18febc-4513-47c4-b2bc-ca8af0494964",
     "prefLabel": {
-      "de": "Anorganische Chemie"
+      "de": "Die Anorganische Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -141,7 +146,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -150,7 +164,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

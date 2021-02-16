@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b99bbfef-f17b-4bb5-9f17-b442fbfb3dce",
   "type": "Service",
-  "name": "Foto",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62393962626665662d663137622d346262352d396631372d623434326662666233646365",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb99bbfef-f17b-4bb5-9f17-b442fbfb3dce",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb99bbfef-f17b-4bb5-9f17-b442fbfb3dce",

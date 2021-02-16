@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ebe18f72-ec94-407e-b700-a852c74ffd9d",
   "type": "Service",
-  "name": "Deterministisches Chaos",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65626531386637322d656339342d343037652d623730302d613835326337346666643964",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Febe18f72-ec94-407e-b700-a852c74ffd9d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Febe18f72-ec94-407e-b700-a852c74ffd9d",

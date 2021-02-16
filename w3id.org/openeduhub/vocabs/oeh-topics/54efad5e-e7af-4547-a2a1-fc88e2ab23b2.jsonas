@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/54efad5e-e7af-4547-a2a1-fc88e2ab23b2",
   "type": "Service",
-  "name": "Gebäude",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35346566616435652d653761662d343534372d613261312d666338386532616232336232",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F54efad5e-e7af-4547-a2a1-fc88e2ab23b2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F54efad5e-e7af-4547-a2a1-fc88e2ab23b2",

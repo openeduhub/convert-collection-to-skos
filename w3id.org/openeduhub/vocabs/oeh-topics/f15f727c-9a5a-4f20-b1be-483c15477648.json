@@ -6,71 +6,38 @@
   "prefLabel": {
     "de": "Analytische Geometrie"
   },
+  "definition": {
+    "de": "\"Rechnen statt zeichnen\" ist das Motto der Analytischen Geometrie und damit ist sie zur Grundlage  vieler moderner Technologien geworden: Von der Gafik heutiger Computerspiele, über rechnergestützte Konstruktionsverfahren bis zum GPS-gestützten Navigationssystem."
+  },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0a5332ae-0a10-452c-9c1d-73466b9fdb49",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2b4c089d-47d8-4f94-a20a-ba903ddceead",
       "prefLabel": {
-        "de": "Der Begriff des Vektors"
+        "de": "Vektorrechnung"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/32d6a520-8708-438f-8079-239a204c3bae",
-      "prefLabel": {
-        "de": "Betrag eines Vektors"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/500808db-d098-42b5-bd2d-effa5c5e36eb",
-      "prefLabel": {
-        "de": "Lineare Abhängigkeit / Unabhängigkeit"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/740b7931-0e70-4bec-8766-f1340acae5b0",
-      "prefLabel": {
-        "de": "Multiplikation eines Vektors mit einer Zahl"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8ddd7572-dab1-429a-b90e-ac90e3164f93",
-      "prefLabel": {
-        "de": "Geometrische Abbildungen und Matrizen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9186ba08-ed26-41e7-8d28-5035f2294bb3",
-      "prefLabel": {
-        "de": "Lineare Gleichungssysteme"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a951f979-d27e-44d5-97ad-2bfc967f08f2",
-      "prefLabel": {
-        "de": "Punkte und Vektoren im Koordinatensystem"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/aa79f5bc-d5e8-4d47-8739-2ce15741e60f",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bbe4c199-3c8a-4211-8592-4ed48a62179f",
       "prefLabel": {
         "de": "Geraden und Ebenen"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c2fe8b51-89c6-42d4-9d37-51624c4ff7fd",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2c66dafb-26c6-4d1a-be3b-c14ffde8eb54",
       "prefLabel": {
-        "de": "Addition und Subtraktion von Vektoren"
+        "de": "Das Cartesische Koordinatensystem"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c4f9577a-9aef-4187-9db5-713f256bf3b2",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/51e7c36b-c24b-43dd-8a9d-0d8493b96306",
       "prefLabel": {
-        "de": "Winkel und Abstände"
+        "de": "Abstände"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d3344e6d-66f1-4827-81ee-a6cd6e9a61bc",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b52087e6-a5c6-4b21-942b-bb63519444b1",
       "prefLabel": {
-        "de": "Vektorprodukt"
+        "de": "Winkel zwischen Vektoren, Ebenen, Geraden"
       }
     }
   ],
@@ -80,6 +47,11 @@
       "de": "Mathematik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/380"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -144,7 +116,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -153,7 +134,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

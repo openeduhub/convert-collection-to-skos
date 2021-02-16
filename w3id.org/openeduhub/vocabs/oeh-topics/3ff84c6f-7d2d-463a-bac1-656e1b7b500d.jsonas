@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3ff84c6f-7d2d-463a-bac1-656e1b7b500d",
   "type": "Service",
-  "name": "Symbolverständnis",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33666638346336662d376432642d343633612d626163312d363536653162376235303064",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3ff84c6f-7d2d-463a-bac1-656e1b7b500d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3ff84c6f-7d2d-463a-bac1-656e1b7b500d",

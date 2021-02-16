@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6ca166e5-b03b-4739-add3-72f452956857",
   "type": "Service",
-  "name": "Gasaustausch",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36636131363665352d623033622d343733392d616464332d373266343532393536383537",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6ca166e5-b03b-4739-add3-72f452956857",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6ca166e5-b03b-4739-add3-72f452956857",

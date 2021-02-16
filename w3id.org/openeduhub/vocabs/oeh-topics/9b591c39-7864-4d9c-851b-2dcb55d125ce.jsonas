@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9b591c39-7864-4d9c-851b-2dcb55d125ce",
   "type": "Service",
-  "name": "Vierfeldertafel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39623539316333392d373836342d346439632d383531622d326463623535643132356365",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b591c39-7864-4d9c-851b-2dcb55d125ce",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b591c39-7864-4d9c-851b-2dcb55d125ce",

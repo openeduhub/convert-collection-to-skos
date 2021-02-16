@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a1fe1824-94c6-4692-afc0-eaaa1e917f07",
   "type": "Service",
-  "name": "Hochsprung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61316665313832342d393463362d343639322d616663302d656161613165393137663037",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa1fe1824-94c6-4692-afc0-eaaa1e917f07",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa1fe1824-94c6-4692-afc0-eaaa1e917f07",

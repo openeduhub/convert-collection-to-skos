@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/01ee3851-864f-4989-a572-877072f5ec31",
   "type": "Service",
-  "name": "Präpositionen mit Dativ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30316565333835312d383634662d343938392d613537322d383737303732663565633331",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F01ee3851-864f-4989-a572-877072f5ec31",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F01ee3851-864f-4989-a572-877072f5ec31",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b0a8297f-02a8-4893-920a-7de4f829efcb",
   "type": "Service",
-  "name": "Film und filmische Darstellungsmittel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62306138323937662d303261382d343839332d393230612d376465346638323965666362",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb0a8297f-02a8-4893-920a-7de4f829efcb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb0a8297f-02a8-4893-920a-7de4f829efcb",

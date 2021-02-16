@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e0dbb6ba-d00a-4bf5-a348-c32726dd9e6a",
   "type": "Service",
-  "name": "gemeinsame Verantwortung der Religionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65306462623662612d643030612d346266352d613334382d633332373236646439653661",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0dbb6ba-d00a-4bf5-a348-c32726dd9e6a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0dbb6ba-d00a-4bf5-a348-c32726dd9e6a",

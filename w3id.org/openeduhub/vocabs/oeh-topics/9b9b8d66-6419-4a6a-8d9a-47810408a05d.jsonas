@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9b9b8d66-6419-4a6a-8d9a-47810408a05d",
   "type": "Service",
-  "name": "Chemie in der Landwirtschaft",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39623962386436362d363431392d346136612d386439612d343738313034303861303564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b9b8d66-6419-4a6a-8d9a-47810408a05d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b9b8d66-6419-4a6a-8d9a-47810408a05d",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9c76a698-8268-4e84-90d9-6b50c29999c0",
   "type": "Service",
-  "name": "Unix / Linux",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39633736613639382d383236382d346538342d393064392d366235306332393939396330",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9c76a698-8268-4e84-90d9-6b50c29999c0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9c76a698-8268-4e84-90d9-6b50c29999c0",

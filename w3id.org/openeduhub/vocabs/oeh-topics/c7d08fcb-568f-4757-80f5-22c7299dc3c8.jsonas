@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c7d08fcb-568f-4757-80f5-22c7299dc3c8",
   "type": "Service",
-  "name": "Physikalische Konstanten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63376430386663622d353638662d343735372d383066352d323263373239396463336338",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7d08fcb-568f-4757-80f5-22c7299dc3c8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7d08fcb-568f-4757-80f5-22c7299dc3c8",

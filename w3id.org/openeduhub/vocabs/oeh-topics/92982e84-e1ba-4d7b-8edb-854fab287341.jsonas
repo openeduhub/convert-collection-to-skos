@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/92982e84-e1ba-4d7b-8edb-854fab287341",
   "type": "Service",
-  "name": "Spuren von Religiosität und Bibel in der Werbung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39323938326538342d653162612d346437622d386564622d383534666162323837333431",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F92982e84-e1ba-4d7b-8edb-854fab287341",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F92982e84-e1ba-4d7b-8edb-854fab287341",

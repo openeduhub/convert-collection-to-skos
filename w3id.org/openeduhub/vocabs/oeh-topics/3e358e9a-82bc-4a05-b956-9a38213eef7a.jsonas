@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3e358e9a-82bc-4a05-b956-9a38213eef7a",
   "type": "Service",
-  "name": "Symbiose",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33653335386539612d383262632d346130352d623935362d396133383231336565663761",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3e358e9a-82bc-4a05-b956-9a38213eef7a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3e358e9a-82bc-4a05-b956-9a38213eef7a",

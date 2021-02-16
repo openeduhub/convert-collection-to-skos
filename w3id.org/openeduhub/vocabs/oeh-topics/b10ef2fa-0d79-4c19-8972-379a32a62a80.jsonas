@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b10ef2fa-0d79-4c19-8972-379a32a62a80",
   "type": "Service",
-  "name": "Phenole",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62313065663266612d306437392d346331392d383937322d333739613332613632613830",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb10ef2fa-0d79-4c19-8972-379a32a62a80",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb10ef2fa-0d79-4c19-8972-379a32a62a80",

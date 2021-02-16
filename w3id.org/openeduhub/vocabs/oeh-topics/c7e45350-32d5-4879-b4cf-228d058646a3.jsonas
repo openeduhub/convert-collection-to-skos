@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c7e45350-32d5-4879-b4cf-228d058646a3",
   "type": "Service",
-  "name": "Hören und Sehen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63376534353335302d333264352d343837392d623463662d323238643035383634366133",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7e45350-32d5-4879-b4cf-228d058646a3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7e45350-32d5-4879-b4cf-228d058646a3",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6793e4d2-3997-4434-9ef3-294676377636",
   "type": "Service",
-  "name": "Daten organisieren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36373933653464322d333939372d343433342d396566332d323934363736333737363336",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6793e4d2-3997-4434-9ef3-294676377636",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6793e4d2-3997-4434-9ef3-294676377636",

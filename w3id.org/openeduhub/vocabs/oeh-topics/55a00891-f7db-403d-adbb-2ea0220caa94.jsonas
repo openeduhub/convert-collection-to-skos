@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/55a00891-f7db-403d-adbb-2ea0220caa94",
   "type": "Service",
-  "name": "Kegelschnitte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35356130303839312d663764622d343033642d616462622d326561303232306361613934",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F55a00891-f7db-403d-adbb-2ea0220caa94",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F55a00891-f7db-403d-adbb-2ea0220caa94",

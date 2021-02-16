@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/77d771ef-8dea-445b-aef1-25558dd93891",
   "type": "Service",
-  "name": "Stochastische Unabhängigkeit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37376437373165662d386465612d343435622d616566312d323535353864643933383931",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F77d771ef-8dea-445b-aef1-25558dd93891",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F77d771ef-8dea-445b-aef1-25558dd93891",

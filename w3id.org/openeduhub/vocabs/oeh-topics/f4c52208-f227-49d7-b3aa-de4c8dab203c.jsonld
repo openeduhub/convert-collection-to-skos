@@ -20,12 +20,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/86e090fe-3123-45cc-b339-cd4ab0715a08",
-      "prefLabel": {
-        "de": "Eingeschlossene Flächen berechnen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8c88cce4-1fd3-4118-9d6b-108a2a2b0614",
       "prefLabel": {
         "de": "Numerische Integration"
@@ -48,12 +42,6 @@
       "prefLabel": {
         "de": "Hauptsatz der Analysis"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e7acb387-9684-4941-aeb8-6231dc30aad2",
-      "prefLabel": {
-        "de": "Stammfunktionen bilden"
-      }
     }
   ],
   "broader": {
@@ -62,6 +50,11 @@
       "de": "Analysis"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/380"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -126,7 +119,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +137,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

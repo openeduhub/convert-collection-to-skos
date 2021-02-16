@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f6240331-65bb-473d-a0fe-acc0b1acf215",
   "type": "Service",
-  "name": "Allerheiligen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66363234303333312d363562622d343733642d613066652d616363306231616366323135",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff6240331-65bb-473d-a0fe-acc0b1acf215",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff6240331-65bb-473d-a0fe-acc0b1acf215",

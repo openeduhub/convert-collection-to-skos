@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/098b5196-b1c9-41c5-b9c5-beee4d682ef2",
   "type": "Service",
-  "name": "Singular und Plural",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30393862353139362d623163392d343163352d623963352d626565653464363832656632",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F098b5196-b1c9-41c5-b9c5-beee4d682ef2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F098b5196-b1c9-41c5-b9c5-beee4d682ef2",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b95d437d-ea48-460b-b470-26db00517e4a",
   "type": "Service",
-  "name": "Present Perfect",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62393564343337642d656134382d343630622d623437302d323664623030353137653461",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb95d437d-ea48-460b-b470-26db00517e4a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb95d437d-ea48-460b-b470-26db00517e4a",

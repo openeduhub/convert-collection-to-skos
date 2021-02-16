@@ -6,12 +6,20 @@
   "prefLabel": {
     "de": "Geologie und Mineralogie"
   },
+  "definition": {
+    "de": "Während man die Mineralogie als Teilgebiet der Chemie ansehen kann, die sich mit der Entstehung und den Eigenschaften von Mineralen beschäftigt, geht es bei die Geologie eher um die Gesteine als Bestandteile der Erdkruste und wie sie sich über die Zeit hinweg verändert haben.\n\nBeides sind Fachgebiete, die eine Verbindung zum Bergbau haben."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0f98878d-4bf8-4ed5-933b-c0ad0d36263e",
     "prefLabel": {
       "de": "Chemie und Umwelt"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -76,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e234eda6-f058-4cea-a13d-8cb272c206ca",
   "type": "Service",
-  "name": "Possessivpronomen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65323334656461362d663035382d346365612d613133642d386362323732633230366361",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe234eda6-f058-4cea-a13d-8cb272c206ca",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe234eda6-f058-4cea-a13d-8cb272c206ca",

@@ -7,14 +7,19 @@
     "de": "Laborgeräte und ihre Handhabung"
   },
   "definition": {
-    "de": "Die Namen der Geräte und wie man damit umgeht, müssen gelernt werden."
+    "de": "Die Namen der Geräte und wie man damit umgeht, müssen gelernt werden. In diesem Abschnitt gibt es dazu Bilder der Laborgeräte, Arbeitsblätter, Anleitungen zur Nutzung und spezielle Verfahren im Labor."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4874dbbf-dc28-4adf-9bbb-3617ea21c309",
     "prefLabel": {
-      "de": "Laborwissen"
+      "de": "Wissen für die Arbeit im Labor"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

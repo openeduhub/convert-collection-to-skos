@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f4c52208-f227-49d7-b3aa-de4c8dab203c",
   "type": "Service",
-  "name": "Integralrechnung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66346335323230382d663232372d343964372d623361612d646534633864616232303363",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff4c52208-f227-49d7-b3aa-de4c8dab203c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff4c52208-f227-49d7-b3aa-de4c8dab203c",

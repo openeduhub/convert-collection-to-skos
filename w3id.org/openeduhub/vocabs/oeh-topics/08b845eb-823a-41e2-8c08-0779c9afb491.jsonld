@@ -7,7 +7,7 @@
     "de": "Trennverfahren und Gemische"
   },
   "definition": {
-    "de": "Mit Hilfe der Stoffeigenschaften kann man Gemische auftrennen. Je nach Gemischkomponenten nutzt man verschiedene Trennmethoden."
+    "de": "Mit Hilfe der Stoffeigenschaften kann man Gemische auftrennen. Je nach Gemischkomponenten nutzt man verschiedene Trennmethoden.\nHier findest du zudem Informationen zur Anwendung der Trennverfahren im Alltag."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3d589846-67e0-45d1-869c-7b94d0538e0a",
@@ -15,6 +15,11 @@
       "de": "Stoffe und Stoffeigenschaften"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

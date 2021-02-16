@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1957605b-0284-40c0-b88a-f6691390e08e",
   "type": "Service",
-  "name": "Suffix",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31393537363035622d303238342d343063302d623838612d663636393133393065303865",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1957605b-0284-40c0-b88a-f6691390e08e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1957605b-0284-40c0-b88a-f6691390e08e",

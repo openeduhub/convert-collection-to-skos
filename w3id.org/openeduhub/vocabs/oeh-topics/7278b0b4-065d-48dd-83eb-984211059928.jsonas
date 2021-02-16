@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7278b0b4-065d-48dd-83eb-984211059928",
   "type": "Service",
-  "name": "Interjektionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37323738623062342d303635642d343864642d383365622d393834323131303539393238",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7278b0b4-065d-48dd-83eb-984211059928",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7278b0b4-065d-48dd-83eb-984211059928",

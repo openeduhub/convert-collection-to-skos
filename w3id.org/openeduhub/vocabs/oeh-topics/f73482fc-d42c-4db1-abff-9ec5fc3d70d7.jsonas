@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f73482fc-d42c-4db1-abff-9ec5fc3d70d7",
   "type": "Service",
-  "name": "Rope Skipping",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66373334383266632d643432632d346462312d616266662d396563356663336437306437",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff73482fc-d42c-4db1-abff-9ec5fc3d70d7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff73482fc-d42c-4db1-abff-9ec5fc3d70d7",

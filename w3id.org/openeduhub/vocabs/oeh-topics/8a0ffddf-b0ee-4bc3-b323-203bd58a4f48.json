@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8a0ffddf-b0ee-4bc3-b323-203bd58a4f48",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8a0ffddf-b0ee-4bc3-b323-203bd58a4f48",
   "prefLabel": {
-    "de": "Reaktionsgeschwindigkeit"
+    "de": "Betrachtung der Reaktionsgeschwindigkeit"
   },
   "definition": {
-    "de": "Mit Hilfe von verschiedenen quantitativen Methoden kann man die Reaktionsgeschwindigkeit bestimmten. Die Reaktionsgeschwindigkeit ist dabei meist auch von der Konzentration der beteiligten Stoffe abhängig."
+    "de": "Mit Hilfe von verschiedenen quantitativen Methoden kann man die Reaktionsgeschwindigkeit bestimmen. Die Reaktionsgeschwindigkeit ist dabei meist auch von der Konzentration der beteiligten Stoffe abhängig. Hier spielt Mathematik eine gewichtige Rolle!\n\nEin wichtiges Thema, bei dem die Reaktionsgeschwindigkeit von Bedeutung ist, ist das Massenwirkungsgesetz. Das wird aber genauer im Bereich \"Allgemeine Chemie\" -\"Stöchiometrie\" betrachtet."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/37e52144-ac0f-4622-b03c-9cea7749d8a5",
     "prefLabel": {
-      "de": "Thermodynamik"
+      "de": "Die Thermodynamik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

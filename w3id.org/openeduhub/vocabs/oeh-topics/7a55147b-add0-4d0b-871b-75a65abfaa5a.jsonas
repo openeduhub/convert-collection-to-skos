@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7a55147b-add0-4d0b-871b-75a65abfaa5a",
   "type": "Service",
-  "name": "dass/das",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37613535313437622d616464302d346430622d383731622d373561363561626661613561",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7a55147b-add0-4d0b-871b-75a65abfaa5a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7a55147b-add0-4d0b-871b-75a65abfaa5a",

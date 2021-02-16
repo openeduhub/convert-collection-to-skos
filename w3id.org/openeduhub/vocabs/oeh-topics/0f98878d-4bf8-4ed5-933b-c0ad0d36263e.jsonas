@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0f98878d-4bf8-4ed5-933b-c0ad0d36263e",
   "type": "Service",
-  "name": "Chemie und Umwelt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30663938383738642d346266382d346564352d393333622d633061643064333632363365",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0f98878d-4bf8-4ed5-933b-c0ad0d36263e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0f98878d-4bf8-4ed5-933b-c0ad0d36263e",

@@ -7,7 +7,7 @@
     "de": "Kernreaktionen"
   },
   "definition": {
-    "de": "Neben dem Radioaktiven Zerfall gibt es weitere Kernreaktionen, wie zum Beispielen in Sternen oder künstlich herbeigeführte."
+    "de": "Neben dem Radioaktiven Zerfall gibt es weitere Kernreaktionen, wie zum Beispielen in Sternen stattfindende Kernfusionen oder künstlich herbeigeführter Kernzerfall durch Beschuss mit Kernteilchen. \n\nAuch bei dem Thema handelt sich eher um ein Thema der Physik, die Chemie betrachtet vor allem das Kern-Hülle-Modell."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/502ab680-af31-4c76-8b74-b493e8d918fb",
@@ -15,6 +15,11 @@
       "de": "Kernchemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

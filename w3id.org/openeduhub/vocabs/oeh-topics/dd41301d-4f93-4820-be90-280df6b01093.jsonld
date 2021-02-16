@@ -20,9 +20,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/19530295-f02b-4cc4-9019-561a2a6fe983",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/624ebf43-5ab9-4cf3-a942-d3bd03d3339a",
       "prefLabel": {
-        "de": "Sinnesorgane und Nervensystem"
+        "de": "Sexualität"
       }
     },
     {
@@ -32,15 +32,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/624ebf43-5ab9-4cf3-a942-d3bd03d3339a",
-      "prefLabel": {
-        "de": "Sexualität"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/652abd77-b5e9-4ca8-a2ac-607798431c32",
       "prefLabel": {
         "de": "Ernährung und Verdauung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/19530295-f02b-4cc4-9019-561a2a6fe983",
+      "prefLabel": {
+        "de": "Sinnesorgane und Nervensystem"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f5209796-bc77-4f8b-b0ce-cc99a0c61411",
+      "prefLabel": {
+        "de": "Atmung"
       }
     },
     {
@@ -54,12 +60,6 @@
       "prefLabel": {
         "de": "Körperbau und Bewegung"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f5209796-bc77-4f8b-b0ce-cc99a0c61411",
-      "prefLabel": {
-        "de": "Atmung"
-      }
     }
   ],
   "broader": {
@@ -68,6 +68,11 @@
       "de": "Biologie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/080"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -132,7 +137,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +155,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

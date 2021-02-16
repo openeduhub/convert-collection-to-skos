@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7fdc3457-d775-4a57-994d-7dcc336520cc",
   "type": "Service",
-  "name": "Textnachrichten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37666463333435372d643737352d346135372d393934642d376463633333363532306363",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7fdc3457-d775-4a57-994d-7dcc336520cc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7fdc3457-d775-4a57-994d-7dcc336520cc",

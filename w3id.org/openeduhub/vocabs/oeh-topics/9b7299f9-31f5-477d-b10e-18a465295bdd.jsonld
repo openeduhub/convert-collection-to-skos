@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b7299f9-31f5-477d-b10e-18a465295bdd",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b7299f9-31f5-477d-b10e-18a465295bdd",
   "prefLabel": {
-    "de": "Reaktionen mit Sauerstoff"
+    "de": "Die Reaktionen mit Sauerstoff genauer betrachtet"
   },
   "definition": {
-    "de": "Reaktionen mit Sauerstoff sind die ersten Reaktionen, die man etwas systematischer betrachtet. Sie lassen sich gut beobachten und bieten Anlass etwas Neues zu lernen."
+    "de": "Reaktionen mit Sauerstoff sind die ersten Reaktionen, die man etwas systematischer betrachtet. Sie lassen sich gut beobachten und bieten Anlass etwas Neues zu lernen.\n\nReaktionen mit Sauerstoff sind auch sehr alltäglich. Sie spielen bei Feuer, beim Rosten und vielem mehr eine Rolle."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c6e28216-77f9-4e56-8f05-c85ee2a6991f",
     "prefLabel": {
-      "de": "Einführung in Chemische Reaktionen"
+      "de": "Einführung in die Betrachtung chemischer Reaktionen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

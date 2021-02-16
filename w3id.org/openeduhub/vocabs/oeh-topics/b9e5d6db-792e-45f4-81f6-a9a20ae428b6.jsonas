@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b9e5d6db-792e-45f4-81f6-a9a20ae428b6",
   "type": "Service",
-  "name": "Kunststücke",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62396535643664622d373932652d343566342d383166362d613961323061653432386236",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb9e5d6db-792e-45f4-81f6-a9a20ae428b6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb9e5d6db-792e-45f4-81f6-a9a20ae428b6",

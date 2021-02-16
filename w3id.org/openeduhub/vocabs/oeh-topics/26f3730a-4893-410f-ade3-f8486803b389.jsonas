@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/26f3730a-4893-410f-ade3-f8486803b389",
   "type": "Service",
-  "name": "Fantasy und Märchen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32366633373330612d343839332d343130662d616465332d663834383638303362333839",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F26f3730a-4893-410f-ade3-f8486803b389",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F26f3730a-4893-410f-ade3-f8486803b389",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b3fa96d7-e6f6-43d1-9449-dfd4b8204270",
   "type": "Service",
-  "name": "Lebensgeschichten gläubiger Menschen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62336661393664372d653666362d343364312d393434392d646664346238323034323730",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb3fa96d7-e6f6-43d1-9449-dfd4b8204270",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb3fa96d7-e6f6-43d1-9449-dfd4b8204270",

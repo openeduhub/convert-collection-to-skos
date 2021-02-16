@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4add9733-b02e-46b6-97f6-115faeeed4ee",
   "type": "Service",
-  "name": "verschiedene Formen des Lernens",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34616464393733332d623032652d343662362d393766362d313135666165656564346565",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4add9733-b02e-46b6-97f6-115faeeed4ee",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4add9733-b02e-46b6-97f6-115faeeed4ee",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/86a0b893-7dc1-44ca-8a01-9c319e68f086",
   "type": "Service",
-  "name": "Die logische Programmiersprache PROLOG",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38366130623839332d376463312d343463612d386130312d396333313965363866303836",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F86a0b893-7dc1-44ca-8a01-9c319e68f086",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F86a0b893-7dc1-44ca-8a01-9c319e68f086",

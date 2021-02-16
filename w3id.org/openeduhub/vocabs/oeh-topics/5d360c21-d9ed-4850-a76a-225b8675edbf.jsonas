@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5d360c21-d9ed-4850-a76a-225b8675edbf",
   "type": "Service",
-  "name": "Drucker",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35643336306332312d643965642d343835302d613736612d323235623836373565646266",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5d360c21-d9ed-4850-a76a-225b8675edbf",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5d360c21-d9ed-4850-a76a-225b8675edbf",

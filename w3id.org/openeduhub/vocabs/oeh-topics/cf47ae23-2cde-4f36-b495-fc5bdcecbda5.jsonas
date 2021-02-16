@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cf47ae23-2cde-4f36-b495-fc5bdcecbda5",
   "type": "Service",
-  "name": "Perfecto vs. Indefinido",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63663437616532332d326364652d346633362d623439352d666335626463656362646135",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcf47ae23-2cde-4f36-b495-fc5bdcecbda5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcf47ae23-2cde-4f36-b495-fc5bdcecbda5",

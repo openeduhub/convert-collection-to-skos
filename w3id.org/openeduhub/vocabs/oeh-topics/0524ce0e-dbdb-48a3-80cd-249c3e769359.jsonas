@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0524ce0e-dbdb-48a3-80cd-249c3e769359",
   "type": "Service",
-  "name": "Röntgen-Strahlung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30353234636530652d646264622d343861332d383063642d323439633365373639333539",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0524ce0e-dbdb-48a3-80cd-249c3e769359",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0524ce0e-dbdb-48a3-80cd-249c3e769359",

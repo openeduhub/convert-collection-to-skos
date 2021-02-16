@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7a890fd0-02a1-4409-86e7-4aa7a34d5acf",
   "type": "Service",
-  "name": "Geschichte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37613839306664302d303261312d343430392d383665372d346161376133346435616366",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7a890fd0-02a1-4409-86e7-4aa7a34d5acf",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7a890fd0-02a1-4409-86e7-4aa7a34d5acf",

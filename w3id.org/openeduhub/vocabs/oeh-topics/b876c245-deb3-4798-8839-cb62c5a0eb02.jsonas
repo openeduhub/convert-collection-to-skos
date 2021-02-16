@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b876c245-deb3-4798-8839-cb62c5a0eb02",
   "type": "Service",
-  "name": "Typografie und Schrift",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62383736633234352d646562332d343739382d383833392d636236326335613065623032",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb876c245-deb3-4798-8839-cb62c5a0eb02",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb876c245-deb3-4798-8839-cb62c5a0eb02",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3df4367d-f94e-4380-bba3-30e1ec17d52d",
   "type": "Service",
-  "name": "Christentum als kulturprägende Kraft",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33646634333637642d663934652d343338302d626261332d333065316563313764353264",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3df4367d-f94e-4380-bba3-30e1ec17d52d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3df4367d-f94e-4380-bba3-30e1ec17d52d",

@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F16821ab5-2563-45d8-967a-964731c3f49b",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F16821ab5-2563-45d8-967a-964731c3f49b",
   "prefLabel": {
-    "de": "Zusammenhang Periodensystem und Atombau"
+    "de": "Der Zusammenhang Periodensystem und Atombau"
   },
   "definition": {
-    "de": "Der Aufbau des Periodensystems hängt eng mit dem Atombau zusammen."
+    "de": "Der Aufbau des Periodensystems hängt eng mit dem Atombau zusammen.\n\nDas muss man lernen, damit man die Verteilung der Elektronen im Atom kennt und damit erklären kann, wie ein Atom reagiert und welche Bindungen eingegangen werden.\n\nDie Bindungstypen werden im Bereich \"Allgemeine Chemie\" betrachtet."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c0b6ce90-44c3-46dc-ae3e-2741d78d9294",
     "prefLabel": {
-      "de": "Periodensystem"
+      "de": "Das Periodensystem"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

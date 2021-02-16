@@ -8,15 +8,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2defd71f-3bf0-4dac-9303-720c602f0b20",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b02a62fb-73f5-471b-9f75-205d71b3cf8a",
       "prefLabel": {
-        "de": "Buchstaben schreiben "
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/354a535e-70a9-48a5-9c1f-1ecc762a1558",
-      "prefLabel": {
-        "de": "Appellative Texte"
+        "de": "Argumentieren "
       }
     },
     {
@@ -26,27 +20,33 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5d86eba1-bf6f-487d-a73d-783ab166bc02",
-      "prefLabel": {
-        "de": "Formelle Texte"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8fe04278-c880-43c6-813a-36d25a0ecbdf",
-      "prefLabel": {
-        "de": "Zusammenfassen "
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/abf484fc-6b87-4775-9940-8a71dd46c19a",
       "prefLabel": {
         "de": "Schreibprozess (Planen, Formulieren, Überarbeiten)"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b02a62fb-73f5-471b-9f75-205d71b3cf8a",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2defd71f-3bf0-4dac-9303-720c602f0b20",
       "prefLabel": {
-        "de": "Argumentieren "
+        "de": "Buchstaben schreiben "
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5d86eba1-bf6f-487d-a73d-783ab166bc02",
+      "prefLabel": {
+        "de": "Formelle Texte"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/354a535e-70a9-48a5-9c1f-1ecc762a1558",
+      "prefLabel": {
+        "de": "Appellative Texte"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8fe04278-c880-43c6-813a-36d25a0ecbdf",
+      "prefLabel": {
+        "de": "Zusammenfassen "
       }
     },
     {
@@ -62,6 +62,11 @@
       "de": "Deutsch"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/120"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -126,7 +131,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +149,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

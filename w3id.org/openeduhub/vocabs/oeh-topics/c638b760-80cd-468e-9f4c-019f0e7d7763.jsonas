@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c638b760-80cd-468e-9f4c-019f0e7d7763",
   "type": "Service",
-  "name": "Struktur und Eigenschaften von Kunststoffen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63363338623736302d383063642d343638652d396634632d303139663065376437373633",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc638b760-80cd-468e-9f4c-019f0e7d7763",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc638b760-80cd-468e-9f4c-019f0e7d7763",

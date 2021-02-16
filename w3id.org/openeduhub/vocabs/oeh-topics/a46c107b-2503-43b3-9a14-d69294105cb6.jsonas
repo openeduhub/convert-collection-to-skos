@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a46c107b-2503-43b3-9a14-d69294105cb6",
   "type": "Service",
-  "name": "Sprachlernstrategien, Lern- und Arbeitstechniken",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61343663313037622d323530332d343362332d396131342d643639323934313035636236",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa46c107b-2503-43b3-9a14-d69294105cb6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa46c107b-2503-43b3-9a14-d69294105cb6",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/18bc7c0d-b1d6-4b36-b76d-aaab01f4cac2",
   "type": "Service",
-  "name": "Potenzen mit gebrochenen Exponenten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31386263376330642d623164362d346233362d623736642d616161623031663463616332",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F18bc7c0d-b1d6-4b36-b76d-aaab01f4cac2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F18bc7c0d-b1d6-4b36-b76d-aaab01f4cac2",

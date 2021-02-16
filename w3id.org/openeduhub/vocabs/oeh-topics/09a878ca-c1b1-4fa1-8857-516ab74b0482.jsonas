@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/09a878ca-c1b1-4fa1-8857-516ab74b0482",
   "type": "Service",
-  "name": "Zahlen bis 100",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30396138373863612d633162312d346661312d383835372d353136616237346230343832",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F09a878ca-c1b1-4fa1-8857-516ab74b0482",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F09a878ca-c1b1-4fa1-8857-516ab74b0482",

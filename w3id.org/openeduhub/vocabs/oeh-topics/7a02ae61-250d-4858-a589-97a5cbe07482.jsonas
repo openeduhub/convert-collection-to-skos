@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7a02ae61-250d-4858-a589-97a5cbe07482",
   "type": "Service",
-  "name": "Magnetfeld",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37613032616536312d323530642d343835382d613538392d393761356362653037343832",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7a02ae61-250d-4858-a589-97a5cbe07482",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7a02ae61-250d-4858-a589-97a5cbe07482",

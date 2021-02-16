@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a455f899-a3cb-4bc3-93ad-699ad9cd7403",
   "type": "Service",
-  "name": "Elektrisches Feld",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61343535663839392d613363622d346263332d393361642d363939616439636437343033",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa455f899-a3cb-4bc3-93ad-699ad9cd7403",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa455f899-a3cb-4bc3-93ad-699ad9cd7403",

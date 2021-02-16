@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3a7f858d-b929-42a8-af32-67cfdfe1edf8",
   "type": "Service",
-  "name": "Geschichte der Informatik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33613766383538642d623932392d343261382d616633322d363763666466653165646638",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3a7f858d-b929-42a8-af32-67cfdfe1edf8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3a7f858d-b929-42a8-af32-67cfdfe1edf8",

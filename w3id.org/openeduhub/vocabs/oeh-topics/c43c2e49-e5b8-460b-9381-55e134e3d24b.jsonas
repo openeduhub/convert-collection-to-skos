@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c43c2e49-e5b8-460b-9381-55e134e3d24b",
   "type": "Service",
-  "name": "religiöse Lebensgestaltung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63343363326534392d653562382d343630622d393338312d353565313334653364323462",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc43c2e49-e5b8-460b-9381-55e134e3d24b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc43c2e49-e5b8-460b-9381-55e134e3d24b",

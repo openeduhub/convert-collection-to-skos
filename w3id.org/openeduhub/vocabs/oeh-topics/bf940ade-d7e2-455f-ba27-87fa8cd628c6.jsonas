@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/bf940ade-d7e2-455f-ba27-87fa8cd628c6",
   "type": "Service",
-  "name": "Fantastische Architektur",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62663934306164652d643765322d343535662d626132372d383766613863643632386336",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbf940ade-d7e2-455f-ba27-87fa8cd628c6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbf940ade-d7e2-455f-ba27-87fa8cd628c6",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/98412501-86ec-44b2-8920-cb63fa29f1c3",
   "type": "Service",
-  "name": "Getrennt- und Zusammenschreibung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39383431323530312d383665632d343462322d383932302d636236336661323966316333",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F98412501-86ec-44b2-8920-cb63fa29f1c3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F98412501-86ec-44b2-8920-cb63fa29f1c3",

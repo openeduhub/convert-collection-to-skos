@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F76ee1a17-6cd7-4ecb-970c-36088176d36a",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F76ee1a17-6cd7-4ecb-970c-36088176d36a",
   "prefLabel": {
-    "de": "Spezialkunststoffe"
+    "de": "Kunststoffe für spezielle Anwendungen"
   },
   "definition": {
-    "de": "Wichtige Aspekte bei den speziellen Kunststoffen, die teilweise immer mehr Bedeutung bekommen, werden durch spezielle funktionelle Gruppen im Molekül erreicht."
+    "de": "Wichtige Eigenschaften der speziellen Kunststoffe, die teilweise immer mehr Bedeutung bekommen, werden durch spezielle funktionelle Gruppen im Molekül erreicht.\n\nEin Beispiel für Spezialkunststoffe sind die Aramide, die besonders stabil sind oder die Superabsorber, die in Windeln verwendet werden."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5828c294-98bb-45fc-9784-ce22c6368a27",
     "prefLabel": {
-      "de": "Kunststoffe"
+      "de": "Kunststoffe - langkettige (organische) Moleküle"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1e7da05a-c1ff-4c33-93c1-44d582dd8931",
   "type": "Service",
-  "name": "3D-Druck",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31653764613035612d633166662d346333332d393363312d343464353832646438393331",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1e7da05a-c1ff-4c33-93c1-44d582dd8931",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1e7da05a-c1ff-4c33-93c1-44d582dd8931",

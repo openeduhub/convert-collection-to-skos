@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/90d0b857-f9c8-4ecf-8745-54a53fab37ed",
   "type": "Service",
-  "name": "Podcasts",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39306430623835372d663963382d346563662d383734352d353461353366616233376564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F90d0b857-f9c8-4ecf-8745-54a53fab37ed",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F90d0b857-f9c8-4ecf-8745-54a53fab37ed",

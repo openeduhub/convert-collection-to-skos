@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a1532273-bd9f-4ad5-a3ea-e47742c0e460",
   "type": "Service",
-  "name": "Grammatikübersichten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61313533323237332d626439662d346164352d613365612d653437373432633065343630",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa1532273-bd9f-4ad5-a3ea-e47742c0e460",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa1532273-bd9f-4ad5-a3ea-e47742c0e460",

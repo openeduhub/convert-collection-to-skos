@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9b471432-43fd-42dc-a170-7f587a663e01",
   "type": "Service",
-  "name": "Silben und Silbentrennung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39623437313433322d343366642d343264632d613137302d376635383761363633653031",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b471432-43fd-42dc-a170-7f587a663e01",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b471432-43fd-42dc-a170-7f587a663e01",

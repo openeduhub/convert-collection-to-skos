@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1305f136-e994-4982-b244-cf1d62c74f63",
   "type": "Service",
-  "name": "Krav Maga",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31333035663133362d653939342d343938322d623234342d636631643632633734663633",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1305f136-e994-4982-b244-cf1d62c74f63",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1305f136-e994-4982-b244-cf1d62c74f63",

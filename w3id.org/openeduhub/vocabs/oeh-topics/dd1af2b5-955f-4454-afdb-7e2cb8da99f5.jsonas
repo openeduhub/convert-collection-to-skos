@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/dd1af2b5-955f-4454-afdb-7e2cb8da99f5",
   "type": "Service",
-  "name": "weitere Sinnesorgane",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64643161663262352d393535662d343435342d616664622d376532636238646139396635",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdd1af2b5-955f-4454-afdb-7e2cb8da99f5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdd1af2b5-955f-4454-afdb-7e2cb8da99f5",

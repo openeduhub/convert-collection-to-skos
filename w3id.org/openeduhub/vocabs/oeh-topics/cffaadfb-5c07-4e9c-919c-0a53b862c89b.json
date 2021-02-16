@@ -8,9 +8,21 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6a03cfed-26f8-4936-8ca1-5ef36a81e795",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/dcd35083-8050-4767-a890-e64e3b624322",
       "prefLabel": {
-        "de": "Wortarten"
+        "de": "Wortbildung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f5d7932f-d500-4141-a4be-ef10bd5292ae",
+      "prefLabel": {
+        "de": "Satzarten"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f3089575-2c0c-4538-bc80-dcdfd4592d92",
+      "prefLabel": {
+        "de": "Wortschatz und Wortkunde"
       }
     },
     {
@@ -26,21 +38,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/dcd35083-8050-4767-a890-e64e3b624322",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6a03cfed-26f8-4936-8ca1-5ef36a81e795",
       "prefLabel": {
-        "de": "Wortbildung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f3089575-2c0c-4538-bc80-dcdfd4592d92",
-      "prefLabel": {
-        "de": "Wortschatz und Wortkunde"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f5d7932f-d500-4141-a4be-ef10bd5292ae",
-      "prefLabel": {
-        "de": "Satzarten"
+        "de": "Wortarten"
       }
     }
   ],
@@ -50,6 +50,11 @@
       "de": "Deutsch"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/120"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -114,7 +119,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +137,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

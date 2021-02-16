@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/63d5ef93-c74f-44db-aea0-3078e62252af",
   "type": "Service",
-  "name": "Indicativo",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36336435656639332d633734662d343464622d616561302d333037386536323235326166",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F63d5ef93-c74f-44db-aea0-3078e62252af",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F63d5ef93-c74f-44db-aea0-3078e62252af",

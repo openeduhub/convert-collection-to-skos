@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/257ef6ea-9b36-4729-86a0-606eebf3a2eb",
   "type": "Service",
-  "name": "Konditionalgefüge",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32353765663665612d396233362d343732392d383661302d363036656562663361326562",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F257ef6ea-9b36-4729-86a0-606eebf3a2eb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F257ef6ea-9b36-4729-86a0-606eebf3a2eb",

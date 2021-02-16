@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d8062d65-407a-490a-8b03-9c733486ba8f",
   "type": "Service",
-  "name": "christliche Hoffnung auf ein Leben nach dem Tod",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64383036326436352d343037612d343930612d386230332d396337333334383662613866",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd8062d65-407a-490a-8b03-9c733486ba8f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd8062d65-407a-490a-8b03-9c733486ba8f",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/76e74e92-9392-412a-a3f7-168daa58d730",
   "type": "Service",
-  "name": "Uhrzeit &  Zahlen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37366537346539322d393339322d343132612d613366372d313638646161353864373330",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F76e74e92-9392-412a-a3f7-168daa58d730",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F76e74e92-9392-412a-a3f7-168daa58d730",

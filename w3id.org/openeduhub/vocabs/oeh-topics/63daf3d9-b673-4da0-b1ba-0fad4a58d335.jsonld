@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F63daf3d9-b673-4da0-b1ba-0fad4a58d335",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F63daf3d9-b673-4da0-b1ba-0fad4a58d335",
   "prefLabel": {
-    "de": "Atommodelle"
+    "de": "Verschiedene Atommodelle in der Chemie"
   },
   "definition": {
-    "de": "Man lernt im Chemie-Unterricht nach und nach genauere Atommodelle kennen, um immer mehr Phänomene erklären zu können."
+    "de": "Man lernt im Chemie-Unterricht nach und nach genauere Atommodelle kennen, um immer mehr Phänomene erklären zu können.\n\nIn diesem Abschnitt sind die Materialien zu den einzelnen Atommodell-Varianten getrennt aufgeführt.\n\nDas Thema \"Periodensystem\" wird im Abschnitt \"Anorganische Chemie\" genauer betrachtet, auch wenn die Grundlage für dessen Aufbau die Atommodelle sind."
   },
   "narrower": [
     {
@@ -49,7 +49,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/eb7e165b-31ee-4d0f-8077-eadf73251019",
       "prefLabel": {
-        "de": "Orbitalmodell"
+        "de": "Einführung in das Orbitalmodell"
       }
     }
   ],
@@ -59,6 +59,11 @@
       "de": "Allgemeine Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -123,7 +128,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -132,7 +146,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

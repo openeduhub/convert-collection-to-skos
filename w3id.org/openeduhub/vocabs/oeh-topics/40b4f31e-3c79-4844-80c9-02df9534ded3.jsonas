@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/40b4f31e-3c79-4844-80c9-02df9534ded3",
   "type": "Service",
-  "name": "Leserbrief",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34306234663331652d336337392d343834342d383063392d303264663935333464656433",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F40b4f31e-3c79-4844-80c9-02df9534ded3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F40b4f31e-3c79-4844-80c9-02df9534ded3",

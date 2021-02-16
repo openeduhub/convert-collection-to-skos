@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/62f66abc-0330-4251-97f3-01e3cf382a63",
   "type": "Service",
-  "name": "Handlungen und Körpersprache",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36326636366162632d303333302d343235312d393766332d303165336366333832613633",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62f66abc-0330-4251-97f3-01e3cf382a63",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62f66abc-0330-4251-97f3-01e3cf382a63",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/98af161e-b32c-4d9c-ad76-b8811ddfa2db",
   "type": "Service",
-  "name": "Gerundium",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39386166313631652d623332632d346439632d616437362d623838313164646661326462",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F98af161e-b32c-4d9c-ad76-b8811ddfa2db",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F98af161e-b32c-4d9c-ad76-b8811ddfa2db",

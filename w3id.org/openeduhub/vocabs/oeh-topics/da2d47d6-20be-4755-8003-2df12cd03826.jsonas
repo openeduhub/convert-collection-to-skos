@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/da2d47d6-20be-4755-8003-2df12cd03826",
   "type": "Service",
-  "name": "Maße und Gewichte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64613264343764362d323062652d343735352d383030332d326466313263643033383236",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fda2d47d6-20be-4755-8003-2df12cd03826",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fda2d47d6-20be-4755-8003-2df12cd03826",

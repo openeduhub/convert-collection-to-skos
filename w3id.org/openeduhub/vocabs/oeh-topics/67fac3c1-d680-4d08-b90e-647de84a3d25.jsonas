@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/67fac3c1-d680-4d08-b90e-647de84a3d25",
   "type": "Service",
-  "name": "Stapel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36376661633363312d643638302d346430382d623930652d363437646538346133643235",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F67fac3c1-d680-4d08-b90e-647de84a3d25",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F67fac3c1-d680-4d08-b90e-647de84a3d25",

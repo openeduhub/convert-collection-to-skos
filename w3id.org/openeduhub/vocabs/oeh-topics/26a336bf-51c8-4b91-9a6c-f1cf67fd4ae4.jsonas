@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/26a336bf-51c8-4b91-9a6c-f1cf67fd4ae4",
   "type": "Service",
-  "name": "Deutsch als Zweitsprache",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32366133333662662d353163382d346239312d396136632d663163663637666434616534",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F26a336bf-51c8-4b91-9a6c-f1cf67fd4ae4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F26a336bf-51c8-4b91-9a6c-f1cf67fd4ae4",

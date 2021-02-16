@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8735e175-43a6-4240-b98c-625f6087b05f",
   "type": "Service",
-  "name": "Eigenschaften von Carbonsäuren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38373335653137352d343361362d343234302d623938632d363235663630383762303566",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8735e175-43a6-4240-b98c-625f6087b05f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8735e175-43a6-4240-b98c-625f6087b05f",

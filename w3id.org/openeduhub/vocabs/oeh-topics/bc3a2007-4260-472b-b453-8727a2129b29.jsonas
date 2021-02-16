@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/bc3a2007-4260-472b-b453-8727a2129b29",
   "type": "Service",
-  "name": "Geschichte des Vereinigten Königreichs",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62633361323030372d343236302d343732622d623435332d383732376132313239623239",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbc3a2007-4260-472b-b453-8727a2129b29",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbc3a2007-4260-472b-b453-8727a2129b29",

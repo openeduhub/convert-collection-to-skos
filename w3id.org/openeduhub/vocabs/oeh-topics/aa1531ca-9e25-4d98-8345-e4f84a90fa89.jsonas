@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/aa1531ca-9e25-4d98-8345-e4f84a90fa89",
   "type": "Service",
-  "name": "existentielle Anfragen an Gott bzw. den Gottesglauben",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61613135333163612d396532352d346439382d383334352d653466383461393066613839",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Faa1531ca-9e25-4d98-8345-e4f84a90fa89",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Faa1531ca-9e25-4d98-8345-e4f84a90fa89",

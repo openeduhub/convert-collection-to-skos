@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/14c45a72-8439-4309-946e-f762bc9feeba",
   "type": "Service",
-  "name": "Temperatur im Teilchenmodell",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31346334356137322d383433392d343330392d393436652d663736326263396665656261",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F14c45a72-8439-4309-946e-f762bc9feeba",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F14c45a72-8439-4309-946e-f762bc9feeba",

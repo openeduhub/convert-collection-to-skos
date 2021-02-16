@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd2cbbdb9-baaa-4a89-bd10-56e8857b2af0",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd2cbbdb9-baaa-4a89-bd10-56e8857b2af0",
   "prefLabel": {
-    "de": "Nebengruppenelemente"
+    "de": "Die Nebengruppenelemente"
   },
   "definition": {
-    "de": "Im Gegensatz zu den Elementen der Hauptgruppen, sind die Nebengruppen-Elemente sich insgesamt recht ähnlich, weil alle ein oder zwei Außenelektronen haben. Es sind alles Metalle ."
+    "de": "Im Gegensatz zu den Elementen der Hauptgruppen, sind die Nebengruppen-Elemente sich insgesamt recht ähnlich, weil alle ein oder zwei Außenelektronen haben. Es sind alles Metalle .\n\nEinige der Nebengruppenelemente sind zwar selten, habe aber eine große technische Bedeutung."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c0b6ce90-44c3-46dc-ae3e-2741d78d9294",
     "prefLabel": {
-      "de": "Periodensystem"
+      "de": "Das Periodensystem"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5d72d24b-2947-4d7a-8432-eb9b379433c1",
   "type": "Service",
-  "name": "Sitzball",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35643732643234622d323934372d346437612d383433322d656239623337393433336331",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5d72d24b-2947-4d7a-8432-eb9b379433c1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5d72d24b-2947-4d7a-8432-eb9b379433c1",

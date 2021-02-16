@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3f19b11d-dce1-4973-8ca5-9a3e5cba23f1",
   "type": "Service",
-  "name": "Akkusativ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33663139623131642d646365312d343937332d386361352d396133653563626132336631",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3f19b11d-dce1-4973-8ca5-9a3e5cba23f1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3f19b11d-dce1-4973-8ca5-9a3e5cba23f1",

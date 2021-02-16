@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/00f8d5eb-c9e6-46c1-8a70-11780e85e526",
   "type": "Service",
-  "name": "Windows",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30306638643565622d633965362d343663312d386137302d313137383065383565353236",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F00f8d5eb-c9e6-46c1-8a70-11780e85e526",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F00f8d5eb-c9e6-46c1-8a70-11780e85e526",

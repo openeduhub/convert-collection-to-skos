@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/24be41f5-3d74-4c7f-958e-86a09f11a49e",
   "type": "Service",
-  "name": "Höflichkeitsfloskeln",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32346265343166352d336437342d346337662d393538652d383661303966313161343965",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F24be41f5-3d74-4c7f-958e-86a09f11a49e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F24be41f5-3d74-4c7f-958e-86a09f11a49e",

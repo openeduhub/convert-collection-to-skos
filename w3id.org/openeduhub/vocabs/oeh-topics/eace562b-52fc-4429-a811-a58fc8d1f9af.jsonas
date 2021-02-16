@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/eace562b-52fc-4429-a811-a58fc8d1f9af",
   "type": "Service",
-  "name": "MariaDB",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65616365353632622d353266632d343432392d613831312d613538666338643166396166",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Feace562b-52fc-4429-a811-a58fc8d1f9af",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Feace562b-52fc-4429-a811-a58fc8d1f9af",

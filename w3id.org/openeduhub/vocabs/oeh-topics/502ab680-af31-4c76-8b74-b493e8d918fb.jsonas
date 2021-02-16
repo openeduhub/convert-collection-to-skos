@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/502ab680-af31-4c76-8b74-b493e8d918fb",
   "type": "Service",
-  "name": "Kernchemie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35303261623638302d616633312d346337362d386237342d623439336538643931386662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F502ab680-af31-4c76-8b74-b493e8d918fb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F502ab680-af31-4c76-8b74-b493e8d918fb",

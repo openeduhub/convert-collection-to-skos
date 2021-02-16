@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d085cdc5-a9ec-4ee4-b75f-aa170928dd58",
   "type": "Service",
-  "name": "Gedichtvergleich",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64303835636463352d613965632d346565342d623735662d616131373039323864643538",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd085cdc5-a9ec-4ee4-b75f-aa170928dd58",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd085cdc5-a9ec-4ee4-b75f-aa170928dd58",

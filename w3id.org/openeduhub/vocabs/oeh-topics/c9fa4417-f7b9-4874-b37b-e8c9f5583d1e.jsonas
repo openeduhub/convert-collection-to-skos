@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c9fa4417-f7b9-4874-b37b-e8c9f5583d1e",
   "type": "Service",
-  "name": "Lineare Funktionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63396661343431372d663762392d343837342d623337622d653863396635353833643165",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc9fa4417-f7b9-4874-b37b-e8c9f5583d1e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc9fa4417-f7b9-4874-b37b-e8c9f5583d1e",

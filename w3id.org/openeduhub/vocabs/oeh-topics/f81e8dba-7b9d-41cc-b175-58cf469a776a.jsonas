@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f81e8dba-7b9d-41cc-b175-58cf469a776a",
   "type": "Service",
-  "name": "Fünf-Schritt-Methode",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66383165386462612d376239642d343163632d623137352d353863663436396137373661",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff81e8dba-7b9d-41cc-b175-58cf469a776a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff81e8dba-7b9d-41cc-b175-58cf469a776a",

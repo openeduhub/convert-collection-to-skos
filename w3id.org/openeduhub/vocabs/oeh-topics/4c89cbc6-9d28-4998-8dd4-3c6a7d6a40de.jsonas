@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4c89cbc6-9d28-4998-8dd4-3c6a7d6a40de",
   "type": "Service",
-  "name": "Evolutionsfaktoren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34633839636263362d396432382d343939382d386464342d336336613764366134306465",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4c89cbc6-9d28-4998-8dd4-3c6a7d6a40de",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4c89cbc6-9d28-4998-8dd4-3c6a7d6a40de",

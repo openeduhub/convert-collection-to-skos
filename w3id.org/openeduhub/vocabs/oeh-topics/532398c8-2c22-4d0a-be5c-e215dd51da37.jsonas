@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/532398c8-2c22-4d0a-be5c-e215dd51da37",
   "type": "Service",
-  "name": "Chromatographie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35333233393863382d326332322d346430612d626535632d653231356464353164613337",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F532398c8-2c22-4d0a-be5c-e215dd51da37",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F532398c8-2c22-4d0a-be5c-e215dd51da37",

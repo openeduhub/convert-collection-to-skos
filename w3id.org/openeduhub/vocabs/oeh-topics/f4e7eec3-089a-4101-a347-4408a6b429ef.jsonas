@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f4e7eec3-089a-4101-a347-4408a6b429ef",
   "type": "Service",
-  "name": "Chloroplasten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66346537656563332d303839612d343130312d613334372d343430386136623432396566",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff4e7eec3-089a-4101-a347-4408a6b429ef",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff4e7eec3-089a-4101-a347-4408a6b429ef",

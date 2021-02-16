@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e0052508-a4a7-4aec-8f81-4bbe1cda2ecd",
   "type": "Service",
-  "name": "Dissimilation",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65303035323530382d613461372d346165632d386638312d346262653163646132656364",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0052508-a4a7-4aec-8f81-4bbe1cda2ecd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0052508-a4a7-4aec-8f81-4bbe1cda2ecd",

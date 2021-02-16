@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7eb26d5f-e0a9-46c1-99bc-a76943d5f6a8",
   "type": "Service",
-  "name": "Historische Atommodelle",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37656232366435662d653061392d343663312d393962632d613736393433643566366138",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7eb26d5f-e0a9-46c1-99bc-a76943d5f6a8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7eb26d5f-e0a9-46c1-99bc-a76943d5f6a8",

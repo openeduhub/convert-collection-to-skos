@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a546d231-d4b0-4b42-944d-c060f3973301",
   "type": "Service",
-  "name": "Lesarten der Bibel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61353436643233312d643462302d346234322d393434642d633036306633393733333031",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa546d231-d4b0-4b42-944d-c060f3973301",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa546d231-d4b0-4b42-944d-c060f3973301",

@@ -8,27 +8,27 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3dffbe33-ad32-481a-9fc2-b65c1b12854c",
-      "prefLabel": {
-        "de": "Molekulargenetik"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6330e1c8-9df0-42b6-b9f1-cebb9ae02a40",
       "prefLabel": {
         "de": "angewandte Genetik"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6a056296-51fa-4df8-b3e0-eabb64e261c1",
-      "prefLabel": {
-        "de": "Epigenetik"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8a98e4d0-e143-401e-a44b-f7ddd1f66c50",
       "prefLabel": {
         "de": "klassische Genetik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3dffbe33-ad32-481a-9fc2-b65c1b12854c",
+      "prefLabel": {
+        "de": "Molekulargenetik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6a056296-51fa-4df8-b3e0-eabb64e261c1",
+      "prefLabel": {
+        "de": "Epigenetik"
       }
     }
   ],
@@ -38,6 +38,11 @@
       "de": "Biologie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/080"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -102,7 +107,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +125,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

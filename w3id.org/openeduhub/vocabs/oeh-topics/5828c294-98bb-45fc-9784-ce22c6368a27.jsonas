@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5828c294-98bb-45fc-9784-ce22c6368a27",
   "type": "Service",
-  "name": "Kunststoffe",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35383238633239342d393862622d343566632d393738342d636532326336333638613237",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5828c294-98bb-45fc-9784-ce22c6368a27",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5828c294-98bb-45fc-9784-ce22c6368a27",

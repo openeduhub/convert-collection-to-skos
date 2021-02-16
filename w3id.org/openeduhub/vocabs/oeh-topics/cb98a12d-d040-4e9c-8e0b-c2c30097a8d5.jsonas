@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cb98a12d-d040-4e9c-8e0b-c2c30097a8d5",
   "type": "Service",
-  "name": "Teilbarkeitsregeln",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63623938613132642d643034302d346539632d386530622d633263333030393761386435",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcb98a12d-d040-4e9c-8e0b-c2c30097a8d5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcb98a12d-d040-4e9c-8e0b-c2c30097a8d5",

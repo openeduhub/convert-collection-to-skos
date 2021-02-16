@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8be67366-0153-4674-8009-eb9fd472fda6",
   "type": "Service",
-  "name": "Scheitelpunktsform der Parabelgleichung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38626536373336362d303135332d343637342d383030392d656239666434373266646136",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8be67366-0153-4674-8009-eb9fd472fda6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8be67366-0153-4674-8009-eb9fd472fda6",

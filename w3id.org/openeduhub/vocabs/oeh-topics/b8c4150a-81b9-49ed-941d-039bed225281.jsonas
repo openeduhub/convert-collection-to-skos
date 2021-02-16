@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b8c4150a-81b9-49ed-941d-039bed225281",
   "type": "Service",
-  "name": "Wärmetransport",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62386334313530612d383162392d343965642d393431642d303339626564323235323831",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb8c4150a-81b9-49ed-941d-039bed225281",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb8c4150a-81b9-49ed-941d-039bed225281",

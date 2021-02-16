@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/16213c03-b70c-48e1-ba0e-e1b2a21f1581",
   "type": "Service",
-  "name": "Intonation, Pausen & Rhythmus",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31363231336330332d623730632d343865312d626130652d653162326132316631353831",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F16213c03-b70c-48e1-ba0e-e1b2a21f1581",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F16213c03-b70c-48e1-ba0e-e1b2a21f1581",

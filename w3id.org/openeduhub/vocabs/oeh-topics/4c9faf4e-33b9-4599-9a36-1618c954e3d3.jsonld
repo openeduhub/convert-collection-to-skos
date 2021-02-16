@@ -8,15 +8,15 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/094ac215-80b7-495f-b303-b6066b2f417a",
-      "prefLabel": {
-        "de": "Adjektive und Adverbien"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/34ba4af6-510e-477d-bf11-df0a77e75d32",
       "prefLabel": {
         "de": "Quantifiers oder Zahlworte"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9291b687-358c-4445-b3c1-48c55aa3bfc3",
+      "prefLabel": {
+        "de": "Nomen"
       }
     },
     {
@@ -26,9 +26,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9291b687-358c-4445-b3c1-48c55aa3bfc3",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/094ac215-80b7-495f-b303-b6066b2f417a",
       "prefLabel": {
-        "de": "Nomen"
+        "de": "Adjektive und Adverbien"
       }
     },
     {
@@ -50,6 +50,11 @@
       "de": "Englisch"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/20001"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -114,7 +119,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +137,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

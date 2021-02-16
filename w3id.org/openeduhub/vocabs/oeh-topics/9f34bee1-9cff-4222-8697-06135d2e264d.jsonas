@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9f34bee1-9cff-4222-8697-06135d2e264d",
   "type": "Service",
-  "name": "Grundgleichung der Mechanik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39663334626565312d396366662d343232322d383639372d303631333564326532363464",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9f34bee1-9cff-4222-8697-06135d2e264d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9f34bee1-9cff-4222-8697-06135d2e264d",

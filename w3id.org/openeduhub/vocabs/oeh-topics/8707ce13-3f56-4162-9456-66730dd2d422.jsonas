@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8707ce13-3f56-4162-9456-66730dd2d422",
   "type": "Service",
-  "name": "Barock",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38373037636531332d336635362d343136322d393435362d363637333064643264343232",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8707ce13-3f56-4162-9456-66730dd2d422",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8707ce13-3f56-4162-9456-66730dd2d422",

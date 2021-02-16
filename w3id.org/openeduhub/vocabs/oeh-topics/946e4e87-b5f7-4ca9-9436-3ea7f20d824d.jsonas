@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/946e4e87-b5f7-4ca9-9436-3ea7f20d824d",
   "type": "Service",
-  "name": "Authentifikation und Verlässlichkeit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39343665346538372d623566372d346361392d393433362d336561376632306438323464",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F946e4e87-b5f7-4ca9-9436-3ea7f20d824d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F946e4e87-b5f7-4ca9-9436-3ea7f20d824d",

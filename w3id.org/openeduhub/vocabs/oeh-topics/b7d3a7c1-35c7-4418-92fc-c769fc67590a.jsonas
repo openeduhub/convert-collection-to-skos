@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b7d3a7c1-35c7-4418-92fc-c769fc67590a",
   "type": "Service",
-  "name": "Adjektive",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62376433613763312d333563372d343431382d393266632d633736396663363735393061",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb7d3a7c1-35c7-4418-92fc-c769fc67590a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb7d3a7c1-35c7-4418-92fc-c769fc67590a",

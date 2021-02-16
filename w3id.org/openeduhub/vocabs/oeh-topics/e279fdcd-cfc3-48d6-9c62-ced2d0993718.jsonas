@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e279fdcd-cfc3-48d6-9c62-ced2d0993718",
   "type": "Service",
-  "name": "Capoeira",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65323739666463642d636663332d343864362d396336322d636564326430393933373138",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe279fdcd-cfc3-48d6-9c62-ced2d0993718",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe279fdcd-cfc3-48d6-9c62-ced2d0993718",

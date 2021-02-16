@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c0e36e08-0593-4ac8-9ecd-1bab273e46c9",
   "type": "Service",
-  "name": "Maschinelles Lernen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63306533366530382d303539332d346163382d396563642d316261623237336534366339",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0e36e08-0593-4ac8-9ecd-1bab273e46c9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0e36e08-0593-4ac8-9ecd-1bab273e46c9",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7716f7b8-7830-484a-b5c6-d4747bc1a877",
   "type": "Service",
-  "name": "Geschichte der Physik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37373136663762382d373833302d343834612d623563362d643437343762633161383737",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7716f7b8-7830-484a-b5c6-d4747bc1a877",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7716f7b8-7830-484a-b5c6-d4747bc1a877",

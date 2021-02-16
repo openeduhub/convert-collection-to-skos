@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/47b010a2-2c1c-4bf9-b987-df7494586b4d",
   "type": "Service",
-  "name": "Weihnachtskreis",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34376230313061322d326331632d346266392d623938372d646637343934353836623464",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F47b010a2-2c1c-4bf9-b987-df7494586b4d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F47b010a2-2c1c-4bf9-b987-df7494586b4d",

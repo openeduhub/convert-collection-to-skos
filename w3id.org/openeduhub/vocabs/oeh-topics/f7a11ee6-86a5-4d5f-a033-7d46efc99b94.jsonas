@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f7a11ee6-86a5-4d5f-a033-7d46efc99b94",
   "type": "Service",
-  "name": "Abbildungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66376131316565362d383661352d346435662d613033332d376434366566633939623934",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff7a11ee6-86a5-4d5f-a033-7d46efc99b94",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff7a11ee6-86a5-4d5f-a033-7d46efc99b94",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5c5410c2-9f92-455e-9ba1-0136b9e264bc",
   "type": "Service",
-  "name": "Körperkontakt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35633534313063322d396639322d343535652d396261312d303133366239653236346263",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5c5410c2-9f92-455e-9ba1-0136b9e264bc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5c5410c2-9f92-455e-9ba1-0136b9e264bc",

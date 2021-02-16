@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ac94bbcd-1ff3-4476-ab8e-f4512c094d5d",
   "type": "Service",
-  "name": "Kickboxen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61633934626263642d316666332d343437362d616238652d663435313263303934643564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fac94bbcd-1ff3-4476-ab8e-f4512c094d5d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fac94bbcd-1ff3-4476-ab8e-f4512c094d5d",

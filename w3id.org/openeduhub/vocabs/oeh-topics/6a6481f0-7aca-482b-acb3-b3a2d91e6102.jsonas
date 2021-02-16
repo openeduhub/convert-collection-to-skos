@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6a6481f0-7aca-482b-acb3-b3a2d91e6102",
   "type": "Service",
-  "name": "Tennis",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36613634383166302d376163612d343832622d616362332d623361326439316536313032",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6a6481f0-7aca-482b-acb3-b3a2d91e6102",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6a6481f0-7aca-482b-acb3-b3a2d91e6102",

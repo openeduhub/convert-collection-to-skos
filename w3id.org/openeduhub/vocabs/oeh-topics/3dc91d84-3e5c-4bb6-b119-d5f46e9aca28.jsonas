@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3dc91d84-3e5c-4bb6-b119-d5f46e9aca28",
   "type": "Service",
-  "name": "Verantwortung im Konflikt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33646339316438342d336535632d346262362d623131392d643566343665396163613238",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3dc91d84-3e5c-4bb6-b119-d5f46e9aca28",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3dc91d84-3e5c-4bb6-b119-d5f46e9aca28",

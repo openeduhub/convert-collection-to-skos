@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e005317a-abed-4332-a016-95b2263e19ae",
   "type": "Service",
-  "name": "Johannes der Täufer",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65303035333137612d616265642d343333322d613031362d393562323236336531396165",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe005317a-abed-4332-a016-95b2263e19ae",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe005317a-abed-4332-a016-95b2263e19ae",

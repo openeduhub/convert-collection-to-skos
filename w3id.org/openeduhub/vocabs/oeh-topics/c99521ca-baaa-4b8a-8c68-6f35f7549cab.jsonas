@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c99521ca-baaa-4b8a-8c68-6f35f7549cab",
   "type": "Service",
-  "name": "Messen, Steuern & Regeln",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63393935323163612d626161612d346238612d386336382d366633356637353439636162",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc99521ca-baaa-4b8a-8c68-6f35f7549cab",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc99521ca-baaa-4b8a-8c68-6f35f7549cab",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f72ae122-b382-4228-bfea-36ad56194357",
   "type": "Service",
-  "name": "Gestalten von Szenen und Stücken",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66373261653132322d623338322d343232382d626665612d333661643536313934333537",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff72ae122-b382-4228-bfea-36ad56194357",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff72ae122-b382-4228-bfea-36ad56194357",

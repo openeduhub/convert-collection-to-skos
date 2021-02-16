@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cc4c2812-0587-46b1-863f-397a33acee26",
   "type": "Service",
-  "name": "Hörverstehen und Hörsehverstehen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63633463323831322d303538372d343662312d383633662d333937613333616365653236",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcc4c2812-0587-46b1-863f-397a33acee26",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcc4c2812-0587-46b1-863f-397a33acee26",

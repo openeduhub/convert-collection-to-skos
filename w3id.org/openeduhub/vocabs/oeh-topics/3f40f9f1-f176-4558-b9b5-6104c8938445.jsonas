@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3f40f9f1-f176-4558-b9b5-6104c8938445",
   "type": "Service",
-  "name": "Künstliche Neuronale Netze",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33663430663966312d663137362d343535382d623962352d363130346338393338343435",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3f40f9f1-f176-4558-b9b5-6104c8938445",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3f40f9f1-f176-4558-b9b5-6104c8938445",

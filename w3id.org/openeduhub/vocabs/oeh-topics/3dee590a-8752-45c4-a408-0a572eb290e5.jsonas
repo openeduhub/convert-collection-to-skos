@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3dee590a-8752-45c4-a408-0a572eb290e5",
   "type": "Service",
-  "name": "Partnerschaft und sexuelle Selbstbestimmung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33646565353930612d383735322d343563342d613430382d306135373265623239306535",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3dee590a-8752-45c4-a408-0a572eb290e5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3dee590a-8752-45c4-a408-0a572eb290e5",

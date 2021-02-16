@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/075b89e5-b627-409e-8210-35b6a4f0f65f",
   "type": "Service",
-  "name": "Twirling",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30373562383965352d623632372d343039652d383231302d333562366134663066363566",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F075b89e5-b627-409e-8210-35b6a4f0f65f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F075b89e5-b627-409e-8210-35b6a4f0f65f",

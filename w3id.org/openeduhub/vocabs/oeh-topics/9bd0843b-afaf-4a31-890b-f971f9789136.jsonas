@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9bd0843b-afaf-4a31-890b-f971f9789136",
   "type": "Service",
-  "name": "Gedichtvortrag",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39626430383433622d616661662d346133312d383930622d663937316639373839313336",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9bd0843b-afaf-4a31-890b-f971f9789136",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9bd0843b-afaf-4a31-890b-f971f9789136",

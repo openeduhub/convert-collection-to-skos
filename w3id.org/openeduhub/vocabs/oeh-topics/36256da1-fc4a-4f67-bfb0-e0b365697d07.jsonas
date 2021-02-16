@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/36256da1-fc4a-4f67-bfb0-e0b365697d07",
   "type": "Service",
-  "name": "Menschsein und die Suche nach Gott",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33363235366461312d666334612d346636372d626662302d653062333635363937643037",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F36256da1-fc4a-4f67-bfb0-e0b365697d07",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F36256da1-fc4a-4f67-bfb0-e0b365697d07",

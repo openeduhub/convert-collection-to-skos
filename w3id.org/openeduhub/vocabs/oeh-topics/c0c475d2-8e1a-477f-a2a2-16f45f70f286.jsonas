@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c0c475d2-8e1a-477f-a2a2-16f45f70f286",
   "type": "Service",
-  "name": "Praktische Informatik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63306334373564322d386531612d343737662d613261322d313666343566373066323836",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0c475d2-8e1a-477f-a2a2-16f45f70f286",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0c475d2-8e1a-477f-a2a2-16f45f70f286",

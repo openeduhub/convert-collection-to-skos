@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0228507a-b526-4d0b-872e-1c6c13355b1f",
   "type": "Service",
-  "name": "Futur I",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30323238353037612d623532362d346430622d383732652d316336633133333535623166",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0228507a-b526-4d0b-872e-1c6c13355b1f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0228507a-b526-4d0b-872e-1c6c13355b1f",

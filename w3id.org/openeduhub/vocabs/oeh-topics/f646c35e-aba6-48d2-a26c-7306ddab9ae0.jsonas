@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f646c35e-aba6-48d2-a26c-7306ddab9ae0",
   "type": "Service",
-  "name": "Wiedergabe des deutschen Futur II im Türkischen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66363436633335652d616261362d343864322d613236632d373330366464616239616530",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff646c35e-aba6-48d2-a26c-7306ddab9ae0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff646c35e-aba6-48d2-a26c-7306ddab9ae0",

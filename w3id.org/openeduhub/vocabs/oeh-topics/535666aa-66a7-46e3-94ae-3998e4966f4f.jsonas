@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/535666aa-66a7-46e3-94ae-3998e4966f4f",
   "type": "Service",
-  "name": "Temporaladverbien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35333536363661612d363661372d343665332d393461652d333939386534393636663466",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F535666aa-66a7-46e3-94ae-3998e4966f4f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F535666aa-66a7-46e3-94ae-3998e4966f4f",

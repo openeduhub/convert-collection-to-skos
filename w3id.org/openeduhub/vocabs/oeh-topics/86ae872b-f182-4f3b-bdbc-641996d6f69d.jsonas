@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/86ae872b-f182-4f3b-bdbc-641996d6f69d",
   "type": "Service",
-  "name": "Boogie-Woogie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38366165383732622d663138322d346633622d626462632d363431393936643666363964",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F86ae872b-f182-4f3b-bdbc-641996d6f69d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F86ae872b-f182-4f3b-bdbc-641996d6f69d",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c7f10995-1437-4047-9fdb-b4bb60b0efcf",
   "type": "Service",
-  "name": "Reisen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63376631303939352d313433372d343034372d396664622d623462623630623065666366",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7f10995-1437-4047-9fdb-b4bb60b0efcf",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7f10995-1437-4047-9fdb-b4bb60b0efcf",

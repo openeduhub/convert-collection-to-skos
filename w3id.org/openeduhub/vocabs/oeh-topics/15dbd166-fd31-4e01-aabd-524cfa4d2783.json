@@ -14,6 +14,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e3cf68db-5a28-4abb-87b9-2ba86c68a696",
+      "prefLabel": {
+        "de": "Fähigkeiten und Kompetenzen"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/350a0734-a52d-4d1e-9249-5e19f216da2f",
       "prefLabel": {
         "de": "Themen und Wortschatz"
@@ -24,12 +30,11 @@
       "prefLabel": {
         "de": "Grammatik"
       }
-    },
+    }
+  ],
+  "relatedMatch": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e3cf68db-5a28-4abb-87b9-2ba86c68a696",
-      "prefLabel": {
-        "de": "Fähigkeiten und Kompetenzen"
-      }
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/20001"
     }
   ],
   "inScheme": {
@@ -99,7 +104,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -108,7 +122,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

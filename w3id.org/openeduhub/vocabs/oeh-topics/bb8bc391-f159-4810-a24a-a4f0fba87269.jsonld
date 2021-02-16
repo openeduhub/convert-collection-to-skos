@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbb8bc391-f159-4810-a24a-a4f0fba87269",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbb8bc391-f159-4810-a24a-a4f0fba87269",
   "prefLabel": {
-    "de": "Eigenschaften Metalle"
+    "de": "Die Eigenschaften der Metalle"
   },
   "definition": {
-    "de": "Bei den Metallen kann man die Eigenschaften durch ein sogenannte Metallbindung erklären, die das ganze Metallstück umfasst."
+    "de": "Bei den Metallen kann man die Eigenschaften durch ein sogenannte Metallbindung erklären, die das ganze Metallstück umfasst.\n\nDie Metalle bilden eine Stoffklasse von Stoffen, die sehr ähnliche Eigenschaften haben, wie die Stromleitfähigkeit. Nur wenige sind dagegen magnetisch."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e70f939-765d-47cd-ab24-ea5621baec14",
     "prefLabel": {
-      "de": "Metalle und Erze"
+      "de": "Metalle und die Gewinnung aus Erzen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -4,28 +4,19 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F79b406c8-ae08-43a6-acfc-9da2aa8bf807",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F79b406c8-ae08-43a6-acfc-9da2aa8bf807",
   "prefLabel": {
-    "de": "Hörenverstehen & Hör- / Sehverstehen"
+    "de": "Hören und Sehen"
   },
-  "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2aaef4c1-282b-4037-b505-1fe9c76b4100",
-      "prefLabel": {
-        "de": "Hörtraining"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b3a7ff93-eff8-401b-88db-d506daeca472",
-      "prefLabel": {
-        "de": "Hörstile"
-      }
-    }
-  ],
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cdf69a29-0886-4fb7-b9f8-39dca4f02e78",
     "prefLabel": {
-      "de": "Sprachdidaktik"
+      "de": "Kommunikatives"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/28002"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -90,7 +81,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -99,7 +99,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe034495d-91ce-4483-b386-0595f8f5931b",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe034495d-91ce-4483-b386-0595f8f5931b",
   "prefLabel": {
-    "de": "Waschmittelzusätze und ihre Funktion"
+    "de": "Waschmittel, Waschmittelzusätze und ihre Funktion"
   },
   "definition": {
-    "de": "Waschmittel enthalten neben den waschaktiven Substanzen inzwischen viele Hilfsmittel."
+    "de": "Waschmittel enthalten neben den waschaktiven Substanzen inzwischen viele Hilfsmittel mit unterschiedlichen Funktionen: Von Bleichmitteln über Duftstoffe bis hin zu optischen Aufhellern."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/117e5c0c-7a7e-453d-91a5-1b657d30a265",
@@ -15,6 +15,11 @@
       "de": "Tenside, Seife und Waschmittel"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

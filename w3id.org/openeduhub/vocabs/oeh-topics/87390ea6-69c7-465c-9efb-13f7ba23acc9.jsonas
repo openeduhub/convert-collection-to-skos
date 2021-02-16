@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/87390ea6-69c7-465c-9efb-13f7ba23acc9",
   "type": "Service",
-  "name": "Elektromagnetische Schwingungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38373339306561362d363963372d343635632d396566622d313366376261323361636339",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F87390ea6-69c7-465c-9efb-13f7ba23acc9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F87390ea6-69c7-465c-9efb-13f7ba23acc9",

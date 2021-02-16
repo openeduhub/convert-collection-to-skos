@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/742ab88e-ccb9-4888-82ff-2482edfce44d",
   "type": "Service",
-  "name": "Theater und Theatergruppen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37343261623838652d636362392d343838382d383266662d323438326564666365343464",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F742ab88e-ccb9-4888-82ff-2482edfce44d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F742ab88e-ccb9-4888-82ff-2482edfce44d",

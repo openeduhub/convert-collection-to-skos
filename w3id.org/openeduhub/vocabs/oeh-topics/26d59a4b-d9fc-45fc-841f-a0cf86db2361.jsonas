@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/26d59a4b-d9fc-45fc-841f-a0cf86db2361",
   "type": "Service",
-  "name": "Methoden",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32366435396134622d643966632d343566632d383431662d613063663836646232333631",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F26d59a4b-d9fc-45fc-841f-a0cf86db2361",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F26d59a4b-d9fc-45fc-841f-a0cf86db2361",

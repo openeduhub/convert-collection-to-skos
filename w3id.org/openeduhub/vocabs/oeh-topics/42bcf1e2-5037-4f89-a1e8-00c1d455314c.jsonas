@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/42bcf1e2-5037-4f89-a1e8-00c1d455314c",
   "type": "Service",
-  "name": "Karwoche",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34326263663165322d353033372d346638392d613165382d303063316434353533313463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F42bcf1e2-5037-4f89-a1e8-00c1d455314c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F42bcf1e2-5037-4f89-a1e8-00c1d455314c",

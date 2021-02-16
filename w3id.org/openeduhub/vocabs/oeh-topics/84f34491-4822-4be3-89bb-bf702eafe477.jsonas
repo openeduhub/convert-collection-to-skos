@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/84f34491-4822-4be3-89bb-bf702eafe477",
   "type": "Service",
-  "name": "Erweiterte Textzusammenfassung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38346633343439312d343832322d346265332d383962622d626637303265616665343737",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F84f34491-4822-4be3-89bb-bf702eafe477",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F84f34491-4822-4be3-89bb-bf702eafe477",

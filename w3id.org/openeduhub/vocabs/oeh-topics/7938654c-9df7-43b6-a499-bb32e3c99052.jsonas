@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7938654c-9df7-43b6-a499-bb32e3c99052",
   "type": "Service",
-  "name": "s-Genitiv",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37393338363534632d396466372d343362362d613439392d626233326533633939303532",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7938654c-9df7-43b6-a499-bb32e3c99052",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7938654c-9df7-43b6-a499-bb32e3c99052",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c8f66219-2dfc-488b-a93a-c7a6d53fff16",
   "type": "Service",
-  "name": "Buß- und Bettag",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63386636363231392d326466632d343838622d613933612d633761366435336666663136",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc8f66219-2dfc-488b-a93a-c7a6d53fff16",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc8f66219-2dfc-488b-a93a-c7a6d53fff16",

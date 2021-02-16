@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/43514950-88f9-4eb7-a86a-e4544162e3b9",
   "type": "Service",
-  "name": "Fabel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34333531343935302d383866392d346562372d613836612d653435343431363265336239",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F43514950-88f9-4eb7-a86a-e4544162e3b9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F43514950-88f9-4eb7-a86a-e4544162e3b9",

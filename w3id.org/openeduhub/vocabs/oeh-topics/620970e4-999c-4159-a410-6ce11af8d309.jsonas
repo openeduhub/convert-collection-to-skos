@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/620970e4-999c-4159-a410-6ce11af8d309",
   "type": "Service",
-  "name": "Wundergeschichten als Hinweise auf das Reich Gottes",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36323039373065342d393939632d343135392d613431302d366365313161663864333039",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F620970e4-999c-4159-a410-6ce11af8d309",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F620970e4-999c-4159-a410-6ce11af8d309",

@@ -8,15 +8,15 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/155d7cf3-41e8-4ba1-bc73-0d594a181372",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f6d2f1fe-349d-460e-b66f-1e551492a243",
       "prefLabel": {
-        "de": "Sporttheorie"
+        "de": "Erlebnissport und Trendsport"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/19469634-f074-4230-aa9e-333e63e10115",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/80f700c3-0603-4092-89b5-2f3af7358222",
       "prefLabel": {
-        "de": "Körperwahrnehmung"
+        "de": "Tanz und Gymnastik"
       }
     },
     {
@@ -32,33 +32,27 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9054b1b6-4ad7-4247-a4a2-c6e7f97d31a0",
+      "prefLabel": {
+        "de": "Ballsport"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5af27fb0-e81f-4f2a-ae26-6955d1221cb8",
       "prefLabel": {
         "de": "Fahren, Rollen, Gleiten"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7bfc5fc7-9f53-4b7d-b655-8dcf9b7a74a7",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/155d7cf3-41e8-4ba1-bc73-0d594a181372",
       "prefLabel": {
-        "de": "Schwimmen"
+        "de": "Sporttheorie"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/80f700c3-0603-4092-89b5-2f3af7358222",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b27c58d1-09fa-4b63-8155-5c1f40895754",
       "prefLabel": {
-        "de": "Tanz und Gymnastik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/85c4b063-6f4c-490a-9842-384385d45ae6",
-      "prefLabel": {
-        "de": "Bewegungskünste"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9054b1b6-4ad7-4247-a4a2-c6e7f97d31a0",
-      "prefLabel": {
-        "de": "Ballsport"
+        "de": "Fitness"
       }
     },
     {
@@ -68,9 +62,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b27c58d1-09fa-4b63-8155-5c1f40895754",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/85c4b063-6f4c-490a-9842-384385d45ae6",
       "prefLabel": {
-        "de": "Fitness und Gymnastik"
+        "de": "Bewegungskünste"
       }
     },
     {
@@ -80,10 +74,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f6d2f1fe-349d-460e-b66f-1e551492a243",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/19469634-f074-4230-aa9e-333e63e10115",
       "prefLabel": {
-        "de": "Erlebnissport und Trendsport"
+        "de": "Körperwahrnehmung"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7bfc5fc7-9f53-4b7d-b655-8dcf9b7a74a7",
+      "prefLabel": {
+        "de": "Schwimmen"
+      }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/600"
     }
   ],
   "inScheme": {
@@ -153,7 +158,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -162,7 +176,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

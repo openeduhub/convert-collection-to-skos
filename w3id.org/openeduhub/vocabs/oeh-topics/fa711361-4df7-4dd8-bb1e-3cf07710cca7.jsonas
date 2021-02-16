@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/fa711361-4df7-4dd8-bb1e-3cf07710cca7",
   "type": "Service",
-  "name": "Aufklärung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66613731313336312d346466372d346464382d626231652d336366303737313063636137",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffa711361-4df7-4dd8-bb1e-3cf07710cca7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffa711361-4df7-4dd8-bb1e-3cf07710cca7",

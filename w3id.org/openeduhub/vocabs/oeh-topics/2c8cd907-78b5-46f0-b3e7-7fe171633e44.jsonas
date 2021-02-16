@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2c8cd907-78b5-46f0-b3e7-7fe171633e44",
   "type": "Service",
-  "name": "Lyrische Texte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32633863643930372d373862352d343666302d623365372d376665313731363333653434",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2c8cd907-78b5-46f0-b3e7-7fe171633e44",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2c8cd907-78b5-46f0-b3e7-7fe171633e44",

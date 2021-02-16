@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/98340603-b0db-4555-8906-c10a781c37ff",
   "type": "Service",
-  "name": "Satzglieder",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39383334303630332d623064622d343535352d383930362d633130613738316333376666",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F98340603-b0db-4555-8906-c10a781c37ff",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F98340603-b0db-4555-8906-c10a781c37ff",

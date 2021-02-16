@@ -7,14 +7,19 @@
     "de": "Atom und Molekül / Element und Verbindung"
   },
   "definition": {
-    "de": "Die Art des kleinsten Teilchen kann unterschiedlich sein. Hier gilt es die Begriffe zu lernen und anwenden zu können. \nWelche Arten von Atomen und wieviele Arten man in einem Stoff und beim kleinsten Teilchen findet, führt zur Einteilung der Stoffe."
+    "de": "Die Art des kleinsten Teilchen kann unterschiedlich sein. So lassen sich Elemente und Verbindungen, Atome und Moleküle anhand experimenteller Befunde unterscheiden. Daraus entwickelt sich eine erste Ordnung für die Vielfalt der Stoffe."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f75eec46-f7a9-44b3-ad2a-1fee76a3b1a3",
     "prefLabel": {
-      "de": "Teilchenmodell"
+      "de": "Einführung in das Teilchenmodell"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

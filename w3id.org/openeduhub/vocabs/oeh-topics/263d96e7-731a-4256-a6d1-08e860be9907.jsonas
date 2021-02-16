@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/263d96e7-731a-4256-a6d1-08e860be9907",
   "type": "Service",
-  "name": "Relevanz des Prophetischen mit Blick auf die Gegenwart",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32363364393665372d373331612d343235362d613664312d303865383630626539393037",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F263d96e7-731a-4256-a6d1-08e860be9907",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F263d96e7-731a-4256-a6d1-08e860be9907",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d2b52e34-3ebc-4433-a11b-de605774ac3f",
   "type": "Service",
-  "name": "Streckung und Verschiebung der Normalparabel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64326235326533342d336562632d343433332d613131622d646536303537373461633366",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd2b52e34-3ebc-4433-a11b-de605774ac3f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd2b52e34-3ebc-4433-a11b-de605774ac3f",

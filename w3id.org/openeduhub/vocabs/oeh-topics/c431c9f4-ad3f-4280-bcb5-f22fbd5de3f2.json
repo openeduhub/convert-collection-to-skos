@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc431c9f4-ad3f-4280-bcb5-f22fbd5de3f2",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc431c9f4-ad3f-4280-bcb5-f22fbd5de3f2",
   "prefLabel": {
-    "de": "Wiegen und Messen"
+    "de": "Verfahren und Geräte zum Wiegen und Messen"
   },
   "definition": {
-    "de": "Die Verfahren und Geräte zur Bestimmung von Volumina und Massen sollen kennengelernt und angewendet werden."
+    "de": "Das Abmessen bestimmter Volumina von Flüssigkeiten und das Abwiegen von Feststoffen sind typische Teilschritte beim Experimentieren. Hier stehen Bilder und Anleitungen zur Verfügung."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4874dbbf-dc28-4adf-9bbb-3617ea21c309",
     "prefLabel": {
-      "de": "Laborwissen"
+      "de": "Wissen für die Arbeit im Labor"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

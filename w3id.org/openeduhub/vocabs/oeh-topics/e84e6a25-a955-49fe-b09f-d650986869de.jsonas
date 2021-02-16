@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e84e6a25-a955-49fe-b09f-d650986869de",
   "type": "Service",
-  "name": "spezielle Ökosysteme",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65383465366132352d613935352d343966652d623039662d643635303938363836396465",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe84e6a25-a955-49fe-b09f-d650986869de",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe84e6a25-a955-49fe-b09f-d650986869de",

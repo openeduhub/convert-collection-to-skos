@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9ee292ff-fdb8-42de-894c-8241dc976728",
   "type": "Service",
-  "name": "Tanzen mit Materialien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39656532393266662d666462382d343264652d383934632d383234316463393736373238",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9ee292ff-fdb8-42de-894c-8241dc976728",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9ee292ff-fdb8-42de-894c-8241dc976728",

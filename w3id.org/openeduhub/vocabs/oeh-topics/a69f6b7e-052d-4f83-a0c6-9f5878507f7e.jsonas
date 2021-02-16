@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a69f6b7e-052d-4f83-a0c6-9f5878507f7e",
   "type": "Service",
-  "name": "Körper und Wohlbefinden",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61363966366237652d303532642d346638332d613063362d396635383738353037663765",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa69f6b7e-052d-4f83-a0c6-9f5878507f7e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa69f6b7e-052d-4f83-a0c6-9f5878507f7e",

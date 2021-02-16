@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6b70b987-7693-461d-8ed1-3fb18effe0eb",
   "type": "Service",
-  "name": "Textverarbeitung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36623730623938372d373639332d343631642d386564312d336662313865666665306562",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6b70b987-7693-461d-8ed1-3fb18effe0eb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6b70b987-7693-461d-8ed1-3fb18effe0eb",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/691d2d7c-0322-4c8c-8104-734812055437",
   "type": "Service",
-  "name": "Lesetechniken",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36393164326437632d303332322d346338632d383130342d373334383132303535343337",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F691d2d7c-0322-4c8c-8104-734812055437",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F691d2d7c-0322-4c8c-8104-734812055437",

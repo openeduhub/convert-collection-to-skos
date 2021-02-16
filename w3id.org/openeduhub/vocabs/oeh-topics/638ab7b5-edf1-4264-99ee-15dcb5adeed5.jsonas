@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/638ab7b5-edf1-4264-99ee-15dcb5adeed5",
   "type": "Service",
-  "name": "Assemblage",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36333861623762352d656466312d343236342d393965652d313564636235616465656435",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F638ab7b5-edf1-4264-99ee-15dcb5adeed5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F638ab7b5-edf1-4264-99ee-15dcb5adeed5",

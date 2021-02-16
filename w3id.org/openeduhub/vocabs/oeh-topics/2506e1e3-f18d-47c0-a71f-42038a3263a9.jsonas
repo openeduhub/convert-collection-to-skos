@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2506e1e3-f18d-47c0-a71f-42038a3263a9",
   "type": "Service",
-  "name": "Schulfächer und Stundenplan",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32353036653165332d663138642d343763302d613731662d343230333861333236336139",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2506e1e3-f18d-47c0-a71f-42038a3263a9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2506e1e3-f18d-47c0-a71f-42038a3263a9",

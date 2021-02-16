@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ac18e9bf-3209-4606-a598-e8e290c9b999",
   "type": "Service",
-  "name": "Grundlagen der Bruchrechnung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61633138653962662d333230392d343630362d613539382d653865323930633962393939",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fac18e9bf-3209-4606-a598-e8e290c9b999",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fac18e9bf-3209-4606-a598-e8e290c9b999",

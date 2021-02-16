@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f172b087-34b5-4239-8ca4-03f71f33ae79",
   "type": "Service",
-  "name": "Wandel von Gottesvorstellungen in der Biografie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66313732623038372d333462352d343233392d386361342d303366373166333361653739",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff172b087-34b5-4239-8ca4-03f71f33ae79",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff172b087-34b5-4239-8ca4-03f71f33ae79",

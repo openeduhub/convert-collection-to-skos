@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d7bdc30e-a6c9-4abd-91de-ecd95b05b51d",
   "type": "Service",
-  "name": "Bogenmaß",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64376264633330652d613663392d346162642d393164652d656364393562303562353164",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd7bdc30e-a6c9-4abd-91de-ecd95b05b51d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd7bdc30e-a6c9-4abd-91de-ecd95b05b51d",

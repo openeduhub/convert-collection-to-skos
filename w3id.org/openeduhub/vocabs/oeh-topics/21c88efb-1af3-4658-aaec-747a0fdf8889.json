@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F21c88efb-1af3-4658-aaec-747a0fdf8889",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F21c88efb-1af3-4658-aaec-747a0fdf8889",
   "prefLabel": {
-    "de": "Wortschatz "
+    "de": "Wortschatz"
   },
   "definition": {
-    "de": "Das Spanische besteht aus einem Wortschatz von geschätzten 100.000 Wörtern. Da gibt es einiges zu tun. Hier findest du tolle Materialien zu wichtigem Wortschatz nach Themen geordnet."
+    "de": "Das Spanische umfasst einen Wortschatz von geschätzten 100.000 Wörtern. Also keine Müdigkeit vortäuschen! Hier findest du tolle Inhalte und Materialien zu wichtigem Wortschatz nach Themen geordnet."
   },
   "narrower": [
     {
@@ -103,7 +103,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a979f667-d220-4a7d-bf57-3d14022ee64d",
       "prefLabel": {
-        "de": "Uhr- und Tageszeit"
+        "de": "Uhrzeit, Tageszeit und tägliche Routine"
       }
     },
     {
@@ -173,6 +173,11 @@
       "de": "Spanisch"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/20007"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -237,7 +242,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -246,7 +260,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

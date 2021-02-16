@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/26c339bc-6183-4f08-bd9e-92d0e41ad0b4",
   "type": "Service",
-  "name": "Reziprokpronomen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32366333333962632d363138332d346630382d626439652d393264306534316164306234",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F26c339bc-6183-4f08-bd9e-92d0e41ad0b4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F26c339bc-6183-4f08-bd9e-92d0e41ad0b4",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/187b0517-12be-4b2b-acbf-e590803d2d16",
   "type": "Service",
-  "name": "Pflanzen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31383762303531372d313262652d346232622d616362662d653539303830336432643136",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F187b0517-12be-4b2b-acbf-e590803d2d16",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F187b0517-12be-4b2b-acbf-e590803d2d16",

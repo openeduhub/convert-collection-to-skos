@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c0ac6271-2990-4b86-8982-2b917b91400b",
   "type": "Service",
-  "name": "Wissenschaft und Technik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63306163363237312d323939302d346238362d383938322d326239313762393134303062",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0ac6271-2990-4b86-8982-2b917b91400b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0ac6271-2990-4b86-8982-2b917b91400b",

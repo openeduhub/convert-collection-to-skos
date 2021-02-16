@@ -7,14 +7,19 @@
     "de": "Chemikalien im Alltag"
   },
   "definition": {
-    "de": "Chemikalien spielen im Alltag eine große Rolle und man sollte auch da wissen wie man damit umgeht."
+    "de": "Im Alltag begegnest du überall Chemikalien. Hier ist es natürlich wichtig, dass du weißt, wie du mit ihnen umgehen musst. Für diesen Zweck findest du hier Arbeitsblätter und Fotos von Alltagschemikalien."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c2681cb6-356c-4888-8e61-1e7edfe65d85",
     "prefLabel": {
-      "de": "Sicherheit"
+      "de": "Sicherheit in den Chemie-Räumen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

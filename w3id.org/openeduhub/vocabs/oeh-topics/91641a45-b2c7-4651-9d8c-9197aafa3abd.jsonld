@@ -8,39 +8,45 @@
   },
   "narrower": [
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/1178cc9f-d507-4347-8c52-3bcdaf787721",
+      "prefLabel": {
+        "de": "Imperativ"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/262df37d-4e0e-4406-819f-3674fab694f1",
       "prefLabel": {
-        "de": "Sein"
+        "de": "sein"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2afb3a7a-0c61-4063-8ddf-586908ecb211",
       "prefLabel": {
-        "de": "Haben"
+        "de": "haben"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3f63dec8-49df-4b6c-b13a-3ce85c5339bc",
       "prefLabel": {
-        "de": "Werden"
+        "de": "werden"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5514ade4-1379-4661-8f7c-7e5c9da0c2c9",
       "prefLabel": {
-        "de": "(In)transitive Verben"
+        "de": "(in)transitive Verben"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/64e0408b-e2a3-4a00-9a9c-362728aa3cdc",
       "prefLabel": {
-        "de": "Reflexive Verben"
+        "de": "reflexive Verben"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9ee050f3-7c7a-47ad-8bfc-1f2700358370",
       "prefLabel": {
-        "de": "(Un)trennbare Verben"
+        "de": "(un)trennbare Verben"
       }
     },
     {
@@ -68,9 +74,15 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e6108661-d132-4d8c-b753-eca61ec1387f",
+      "prefLabel": {
+        "de": "Konjunktiv 2"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f4dd27f8-e796-435c-91a0-4b35feb1e674",
       "prefLabel": {
-        "de": "Partizip 1 "
+        "de": "Partizip 1"
       }
     }
   ],
@@ -80,6 +92,11 @@
       "de": "Grammatik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/28002"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -144,7 +161,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -153,7 +179,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

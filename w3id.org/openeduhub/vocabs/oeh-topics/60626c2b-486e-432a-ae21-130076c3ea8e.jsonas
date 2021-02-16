@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/60626c2b-486e-432a-ae21-130076c3ea8e",
   "type": "Service",
-  "name": "Baseball",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36303632366332622d343836652d343332612d616532312d313330303736633365613865",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F60626c2b-486e-432a-ae21-130076c3ea8e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F60626c2b-486e-432a-ae21-130076c3ea8e",

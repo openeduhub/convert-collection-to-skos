@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/140805bf-7e4e-4d8d-b232-af5dae5c6066",
   "type": "Service",
-  "name": "Aussehen und Charakter",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31343038303562662d376534652d346438642d623233322d616635646165356336303636",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F140805bf-7e4e-4d8d-b232-af5dae5c6066",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F140805bf-7e4e-4d8d-b232-af5dae5c6066",

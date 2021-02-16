@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e050afa5-72ef-41ef-8717-cd5c0b3ffdea",
   "type": "Service",
-  "name": "Informationstext verfassen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65303530616661352d373265662d343165662d383731372d636435633062336666646561",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe050afa5-72ef-41ef-8717-cd5c0b3ffdea",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe050afa5-72ef-41ef-8717-cd5c0b3ffdea",

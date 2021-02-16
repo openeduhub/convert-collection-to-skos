@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e5cb407a-2b5f-421f-80f6-cb9c40d5884f",
   "type": "Service",
-  "name": "Nachhaltigkeit ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65356362343037612d326235662d343231662d383066362d636239633430643538383466",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe5cb407a-2b5f-421f-80f6-cb9c40d5884f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe5cb407a-2b5f-421f-80f6-cb9c40d5884f",

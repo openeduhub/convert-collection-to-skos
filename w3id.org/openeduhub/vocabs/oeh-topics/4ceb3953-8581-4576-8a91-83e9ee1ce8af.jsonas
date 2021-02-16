@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4ceb3953-8581-4576-8a91-83e9ee1ce8af",
   "type": "Service",
-  "name": "Körperhygiene",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34636562333935332d383538312d343537362d386139312d383365396565316365386166",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4ceb3953-8581-4576-8a91-83e9ee1ce8af",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4ceb3953-8581-4576-8a91-83e9ee1ce8af",

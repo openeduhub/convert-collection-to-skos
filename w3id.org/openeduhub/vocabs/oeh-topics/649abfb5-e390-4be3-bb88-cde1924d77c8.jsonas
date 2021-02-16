@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/649abfb5-e390-4be3-bb88-cde1924d77c8",
   "type": "Service",
-  "name": "Musik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36343961626662352d653339302d346265332d626238382d636465313932346437376338",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F649abfb5-e390-4be3-bb88-cde1924d77c8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F649abfb5-e390-4be3-bb88-cde1924d77c8",

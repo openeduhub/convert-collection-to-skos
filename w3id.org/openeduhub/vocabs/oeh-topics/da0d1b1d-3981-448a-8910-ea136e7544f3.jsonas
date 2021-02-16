@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/da0d1b1d-3981-448a-8910-ea136e7544f3",
   "type": "Service",
-  "name": "Interrogativa",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64613064316231642d333938312d343438612d383931302d656131333665373534346633",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fda0d1b1d-3981-448a-8910-ea136e7544f3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fda0d1b1d-3981-448a-8910-ea136e7544f3",

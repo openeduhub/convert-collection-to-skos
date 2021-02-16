@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e3abfa9d-bfeb-47d8-b1b6-07b0614665cc",
   "type": "Service",
-  "name": "Taekwondo",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65336162666139642d626665622d343764382d623162362d303762303631343636356363",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe3abfa9d-bfeb-47d8-b1b6-07b0614665cc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe3abfa9d-bfeb-47d8-b1b6-07b0614665cc",

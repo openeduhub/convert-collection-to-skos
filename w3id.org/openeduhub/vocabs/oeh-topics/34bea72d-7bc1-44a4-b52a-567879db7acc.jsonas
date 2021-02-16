@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/34bea72d-7bc1-44a4-b52a-567879db7acc",
   "type": "Service",
-  "name": "Länder, Nationalitäten; Sprachen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33346265613732642d376263312d343461342d623532612d353637383739646237616363",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F34bea72d-7bc1-44a4-b52a-567879db7acc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F34bea72d-7bc1-44a4-b52a-567879db7acc",

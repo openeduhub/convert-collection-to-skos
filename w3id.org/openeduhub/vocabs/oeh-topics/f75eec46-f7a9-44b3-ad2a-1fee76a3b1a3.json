@@ -4,22 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff75eec46-f7a9-44b3-ad2a-1fee76a3b1a3",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff75eec46-f7a9-44b3-ad2a-1fee76a3b1a3",
   "prefLabel": {
-    "de": "Teilchenmodell"
+    "de": "Einführung in das Teilchenmodell"
   },
   "definition": {
-    "de": "In Chemie nähert man sich den Vorgängen auf atomarer Ebene durch Betrachtung eines einfachen Teilchenmodells."
+    "de": "In Chemie nähert man sich den Vorgängen auf atomarer Ebene oft zunächst durch Betrachtung eines einfachen Teilchenmodells. Hier findest du Bilder, Arbeitsblätter und Infos zu dem Thema."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/226944ba-4f7d-42fe-a4c7-753caf131056",
       "prefLabel": {
-        "de": "Historische Entwicklung des Teilchenmodells"
+        "de": "Grundlagen und Historische Entwicklung des Teilchenmodells"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/602824ec-acbe-434e-b9a7-72931cf703d2",
       "prefLabel": {
-        "de": "Gemische im Teilchenmodell"
+        "de": "Gemische und Trennverfahren im Teilchenmodell"
       }
     },
     {
@@ -38,9 +38,14 @@
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b25b69f-ad8c-4473-8cb3-3b3d47434380",
     "prefLabel": {
-      "de": "Einführung in die Chemie"
+      "de": "Einführung in das Fach Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -105,7 +110,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -114,7 +128,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

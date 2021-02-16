@@ -4,28 +4,33 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F79589113-2330-4a46-9104-6da9edf227ae",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F79589113-2330-4a46-9104-6da9edf227ae",
   "prefLabel": {
-    "de": "Methodische Kompetenzen "
+    "de": "Methodisches"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/75131dd5-79e0-4ae3-a9d1-dd78ddc8ef7b",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7fca8c06-4b79-43f7-8004-9431fb8298ab",
       "prefLabel": {
-        "de": "Umgang mit Medien & Texten"
+        "de": "Sprachlernstrategien, Lern- und Arbeitstechniken"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/caf70960-0111-45c0-b6dc-ca5a1cb941a1",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/b36f20b3-2c16-430b-82a3-d241f955f2c6",
       "prefLabel": {
-        "de": "Sprachenlernen"
+        "de": "Mediennutzung und Medienkompetenz"
       }
     }
   ],
   "broader": {
-    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cdf69a29-0886-4fb7-b9f8-39dca4f02e78",
+    "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/26a336bf-51c8-4b91-9a6c-f1cf67fd4ae4",
     "prefLabel": {
-      "de": "Sprachdidaktik"
+      "de": "Deutsch als Zweitsprache"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/28002"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -90,7 +95,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -99,7 +113,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

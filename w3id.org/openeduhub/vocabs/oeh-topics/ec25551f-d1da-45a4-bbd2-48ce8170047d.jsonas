@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ec25551f-d1da-45a4-bbd2-48ce8170047d",
   "type": "Service",
-  "name": "Religiosität in einer pluralen Gesellschaft",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65633235353531662d643164612d343561342d626264322d343863653831373030343764",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fec25551f-d1da-45a4-bbd2-48ce8170047d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fec25551f-d1da-45a4-bbd2-48ce8170047d",

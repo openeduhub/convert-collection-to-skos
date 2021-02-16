@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/31083b32-fa5f-4814-9825-5b121efcbd3d",
   "type": "Service",
-  "name": "Virtual Reality",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33313038336233322d666135662d343831342d393832352d356231323165666362643364",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F31083b32-fa5f-4814-9825-5b121efcbd3d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F31083b32-fa5f-4814-9825-5b121efcbd3d",

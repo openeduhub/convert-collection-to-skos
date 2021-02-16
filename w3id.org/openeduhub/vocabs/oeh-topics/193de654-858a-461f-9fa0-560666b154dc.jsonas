@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/193de654-858a-461f-9fa0-560666b154dc",
   "type": "Service",
-  "name": "Zusammenleben mit anderen Religionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31393364653635342d383538612d343631662d396661302d353630363636623135346463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F193de654-858a-461f-9fa0-560666b154dc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F193de654-858a-461f-9fa0-560666b154dc",

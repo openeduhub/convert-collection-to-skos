@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/634110dd-7e6f-4e78-b82e-565f9ca52a3a",
   "type": "Service",
-  "name": "TV- und Filmlandschaft",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36333431313064642d376536662d346537382d623832652d353635663963613532613361",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F634110dd-7e6f-4e78-b82e-565f9ca52a3a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F634110dd-7e6f-4e78-b82e-565f9ca52a3a",

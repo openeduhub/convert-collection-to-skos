@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1b46cbdd-9e06-4b9a-9e05-b755dffbb964",
   "type": "Service",
-  "name": "Demonstrativpronomen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31623436636264642d396530362d346239612d396530352d623735356466666262393634",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1b46cbdd-9e06-4b9a-9e05-b755dffbb964",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1b46cbdd-9e06-4b9a-9e05-b755dffbb964",

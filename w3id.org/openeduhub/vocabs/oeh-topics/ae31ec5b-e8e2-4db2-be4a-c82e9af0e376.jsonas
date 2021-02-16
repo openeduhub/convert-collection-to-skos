@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ae31ec5b-e8e2-4db2-be4a-c82e9af0e376",
   "type": "Service",
-  "name": "Lineare Gleichungssysteme",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61653331656335622d653865322d346462322d626534612d633832653961663065333736",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fae31ec5b-e8e2-4db2-be4a-c82e9af0e376",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fae31ec5b-e8e2-4db2-be4a-c82e9af0e376",

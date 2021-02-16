@@ -8,18 +8,6 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4e972329-8d73-4ea8-aaf9-bf40dbb111ad",
-      "prefLabel": {
-        "de": "Produzieren und Präsentieren"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6ee037ac-ad61-4d2a-b168-40b52599dba6",
-      "prefLabel": {
-        "de": "Analysieren und Reflektieren"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7d0c51ba-0a01-40dc-bed5-352c994d2acd",
       "prefLabel": {
         "de": "Informieren und Recherchieren"
@@ -42,6 +30,23 @@
       "prefLabel": {
         "de": "Bedienen und Anwenden"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6ee037ac-ad61-4d2a-b168-40b52599dba6",
+      "prefLabel": {
+        "de": "Analysieren und Reflektieren"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4e972329-8d73-4ea8-aaf9-bf40dbb111ad",
+      "prefLabel": {
+        "de": "Produzieren und Präsentieren"
+      }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/900"
     }
   ],
   "inScheme": {
@@ -111,7 +116,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +134,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

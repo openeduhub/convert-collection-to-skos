@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6649adf5-47cf-446e-a6dd-0678b3a2d124",
   "type": "Service",
-  "name": "Völkerball",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36363439616466352d343763662d343436652d613664642d303637386233613264313234",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6649adf5-47cf-446e-a6dd-0678b3a2d124",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6649adf5-47cf-446e-a6dd-0678b3a2d124",

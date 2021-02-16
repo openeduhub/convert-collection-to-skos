@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e0be90be-69b2-483b-8d28-34de169c8988",
   "type": "Service",
-  "name": "Rechtschreibregeln",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65306265393062652d363962322d343833622d386432382d333464653136396338393838",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0be90be-69b2-483b-8d28-34de169c8988",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe0be90be-69b2-483b-8d28-34de169c8988",

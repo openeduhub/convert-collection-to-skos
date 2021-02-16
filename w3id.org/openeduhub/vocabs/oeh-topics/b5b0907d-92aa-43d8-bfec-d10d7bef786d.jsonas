@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b5b0907d-92aa-43d8-bfec-d10d7bef786d",
   "type": "Service",
-  "name": "Genregulation",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62356230393037642d393261612d343364382d626665632d643130643762656637383664",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb5b0907d-92aa-43d8-bfec-d10d7bef786d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb5b0907d-92aa-43d8-bfec-d10d7bef786d",

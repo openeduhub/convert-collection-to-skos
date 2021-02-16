@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/233d73d3-5c6a-4a29-85a0-388009bfd75b",
   "type": "Service",
-  "name": "Schauspiel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32333364373364332d356336612d346132392d383561302d333838303039626664373562",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F233d73d3-5c6a-4a29-85a0-388009bfd75b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F233d73d3-5c6a-4a29-85a0-388009bfd75b",

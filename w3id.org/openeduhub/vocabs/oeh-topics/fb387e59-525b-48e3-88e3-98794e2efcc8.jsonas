@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/fb387e59-525b-48e3-88e3-98794e2efcc8",
   "type": "Service",
-  "name": "Alltag / Genrebild",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66623338376535392d353235622d343865332d383865332d393837393465326566636338",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffb387e59-525b-48e3-88e3-98794e2efcc8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffb387e59-525b-48e3-88e3-98794e2efcc8",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2a17539e-0803-4801-a318-a5a9eb31af92",
   "type": "Service",
-  "name": "Schule, Fächer & Schulsachen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32613137353339652d303830332d343830312d613331382d613561396562333161663932",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2a17539e-0803-4801-a318-a5a9eb31af92",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2a17539e-0803-4801-a318-a5a9eb31af92",

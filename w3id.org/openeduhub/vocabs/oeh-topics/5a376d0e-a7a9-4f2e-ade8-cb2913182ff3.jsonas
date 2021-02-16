@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5a376d0e-a7a9-4f2e-ade8-cb2913182ff3",
   "type": "Service",
-  "name": "Senkrechte und Parallelen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35613337366430652d613761392d346632652d616465382d636232393133313832666633",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5a376d0e-a7a9-4f2e-ade8-cb2913182ff3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5a376d0e-a7a9-4f2e-ade8-cb2913182ff3",

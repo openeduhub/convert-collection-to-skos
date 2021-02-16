@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/74b68453-477f-4b56-93be-e954d1a75412",
   "type": "Service",
-  "name": "Grundwortschatz",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37346236383435332d343737662d346235362d393362652d653935346431613735343132",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F74b68453-477f-4b56-93be-e954d1a75412",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F74b68453-477f-4b56-93be-e954d1a75412",

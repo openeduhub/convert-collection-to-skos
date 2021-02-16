@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/14f5a98a-4e3f-46ab-a250-07eccdd489af",
   "type": "Service",
-  "name": "Nikolaus von Myra",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31346635613938612d346533662d343661622d613235302d303765636364643438396166",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F14f5a98a-4e3f-46ab-a250-07eccdd489af",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F14f5a98a-4e3f-46ab-a250-07eccdd489af",

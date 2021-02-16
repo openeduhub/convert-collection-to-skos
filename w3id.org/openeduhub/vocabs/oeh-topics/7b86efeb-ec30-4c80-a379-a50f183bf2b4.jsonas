@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7b86efeb-ec30-4c80-a379-a50f183bf2b4",
   "type": "Service",
-  "name": "Ablativ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37623836656665622d656333302d346338302d613337392d613530663138336266326234",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7b86efeb-ec30-4c80-a379-a50f183bf2b4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7b86efeb-ec30-4c80-a379-a50f183bf2b4",

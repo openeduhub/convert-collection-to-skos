@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6a3f5881-cce0-4e8d-b123-26392b3f1c19",
   "type": "Service",
-  "name": "Kunst",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36613366353838312d636365302d346538642d623132332d323633393262336631633139",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6a3f5881-cce0-4e8d-b123-26392b3f1c19",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6a3f5881-cce0-4e8d-b123-26392b3f1c19",

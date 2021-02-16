@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1a186be8-1f83-44ba-81e9-3162b3b61d0e",
   "type": "Service",
-  "name": "Zahlen bis 10",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31613138366265382d316638332d343462612d383165392d333136326233623631643065",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1a186be8-1f83-44ba-81e9-3162b3b61d0e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1a186be8-1f83-44ba-81e9-3162b3b61d0e",

@@ -10,7 +10,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0562d011-58cd-42ba-b140-865df2fb74a4",
       "prefLabel": {
-        "de": "Nominalisierung"
+        "de": "Nominalisierungen"
       }
     },
     {
@@ -52,7 +52,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c326dd6f-b6b0-4bc6-aa9a-a72ac66bd3b5",
       "prefLabel": {
-        "de": "Singular / Plural"
+        "de": "Singular und Plural"
       }
     },
     {
@@ -68,6 +68,11 @@
       "de": "Grammatik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/28002"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -132,7 +137,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +155,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8fa1c129-f547-40d0-aa91-1e4467313fd1",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8fa1c129-f547-40d0-aa91-1e4467313fd1",
   "prefLabel": {
-    "de": "Reaktionsgleichungen"
+    "de": "Aufstellen von Reaktionsgleichungen"
   },
   "definition": {
-    "de": "Chemische Reaktionen lassen sich mit Hilfe von Reaktionsgleichungen genau beschreiben."
+    "de": "Chemische Reaktionen lassen sich mit Hilfe von Reaktionsgleichungen genau beschreiben. Mit entsprechenden Veranschaulichungen wird das verständlicher. Das Aufstellen und Ausgleichen von Reaktionsgleichungen  erfordert jedoch Übung. Möglichkeiten, dies zu üben, finden sich hier."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/aa4d67c5-3701-400d-bd00-a749b76cf234",
     "prefLabel": {
-      "de": "Symbolschreibweise"
+      "de": "Einführung in die Symbolschreibweise"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5b9991dc-3665-41a8-b552-e6546f9217a4",
   "type": "Service",
-  "name": "Kirche in der Neuzeit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35623939393164632d333636352d343161382d623535322d653635343666393231376134",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5b9991dc-3665-41a8-b552-e6546f9217a4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5b9991dc-3665-41a8-b552-e6546f9217a4",

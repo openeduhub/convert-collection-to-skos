@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/52aa5967-f6bf-4128-bf21-f73aa8a55d39",
   "type": "Service",
-  "name": "Tabellen & Übersichten zur Adjektivdeklination",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35326161353936372d663662662d343132382d626632312d663733616138613535643339",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F52aa5967-f6bf-4128-bf21-f73aa8a55d39",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F52aa5967-f6bf-4128-bf21-f73aa8a55d39",

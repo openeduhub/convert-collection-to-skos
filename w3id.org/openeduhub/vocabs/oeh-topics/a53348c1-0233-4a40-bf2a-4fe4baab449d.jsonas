@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a53348c1-0233-4a40-bf2a-4fe4baab449d",
   "type": "Service",
-  "name": "Grundlagen der Prozentrechnung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61353333343863312d303233332d346134302d626632612d346665346261616234343964",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa53348c1-0233-4a40-bf2a-4fe4baab449d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa53348c1-0233-4a40-bf2a-4fe4baab449d",

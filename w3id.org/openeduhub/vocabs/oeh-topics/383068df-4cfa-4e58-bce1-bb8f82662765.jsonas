@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/383068df-4cfa-4e58-bce1-bb8f82662765",
   "type": "Service",
-  "name": "soziales Engagement",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33383330363864662d346366612d346535382d626365312d626238663832363632373635",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F383068df-4cfa-4e58-bce1-bb8f82662765",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F383068df-4cfa-4e58-bce1-bb8f82662765",

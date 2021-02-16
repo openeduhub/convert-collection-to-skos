@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e67d03cd-9408-45de-9894-d6a47705fc38",
   "type": "Service",
-  "name": "Atomarer Energieaustausch",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65363764303363642d393430382d343564652d393839342d643661343737303566633338",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe67d03cd-9408-45de-9894-d6a47705fc38",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe67d03cd-9408-45de-9894-d6a47705fc38",

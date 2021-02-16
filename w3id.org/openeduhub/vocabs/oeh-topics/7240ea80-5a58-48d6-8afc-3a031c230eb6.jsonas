@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7240ea80-5a58-48d6-8afc-3a031c230eb6",
   "type": "Service",
-  "name": "englischsprachige Welt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37323430656138302d356135382d343864362d386166632d336130333163323330656236",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7240ea80-5a58-48d6-8afc-3a031c230eb6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7240ea80-5a58-48d6-8afc-3a031c230eb6",

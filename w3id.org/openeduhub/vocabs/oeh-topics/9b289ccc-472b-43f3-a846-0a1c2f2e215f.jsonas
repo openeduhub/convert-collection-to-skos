@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9b289ccc-472b-43f3-a846-0a1c2f2e215f",
   "type": "Service",
-  "name": "Licht und Schatten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39623238396363632d343732622d343366332d613834362d306131633266326532313566",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b289ccc-472b-43f3-a846-0a1c2f2e215f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b289ccc-472b-43f3-a846-0a1c2f2e215f",

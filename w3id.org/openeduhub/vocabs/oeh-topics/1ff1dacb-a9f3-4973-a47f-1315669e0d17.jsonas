@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1ff1dacb-a9f3-4973-a47f-1315669e0d17",
   "type": "Service",
-  "name": "Schule, Studium und Ausbildung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31666631646163622d613966332d343937332d613437662d313331353636396530643137",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1ff1dacb-a9f3-4973-a47f-1315669e0d17",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1ff1dacb-a9f3-4973-a47f-1315669e0d17",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/95f31e39-7d93-4e18-a6fa-a0b19f995199",
   "type": "Service",
-  "name": "Groß- und Kleinschreibung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39356633316533392d376439332d346531382d613666612d613062313966393935313939",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F95f31e39-7d93-4e18-a6fa-a0b19f995199",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F95f31e39-7d93-4e18-a6fa-a0b19f995199",

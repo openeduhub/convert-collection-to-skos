@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f427eb5f-6d9b-4133-aae7-2ad9f6911a68",
   "type": "Service",
-  "name": "Akustische Schwingungen & Wellen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66343237656235662d366439622d343133332d616165372d326164396636393131613638",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff427eb5f-6d9b-4133-aae7-2ad9f6911a68",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff427eb5f-6d9b-4133-aae7-2ad9f6911a68",

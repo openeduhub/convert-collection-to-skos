@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6cb3e878-ec7a-4fdc-ba9b-4f17d153fe76",
   "type": "Service",
-  "name": "Erfinder und Erfindungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36636233653837382d656337612d346664632d626139622d346631376431353366653736",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6cb3e878-ec7a-4fdc-ba9b-4f17d153fe76",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6cb3e878-ec7a-4fdc-ba9b-4f17d153fe76",

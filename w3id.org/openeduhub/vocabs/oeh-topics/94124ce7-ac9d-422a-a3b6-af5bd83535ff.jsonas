@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/94124ce7-ac9d-422a-a3b6-af5bd83535ff",
   "type": "Service",
-  "name": "Die Alte Kirche",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39343132346365372d616339642d343232612d613362362d616635626438333533356666",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F94124ce7-ac9d-422a-a3b6-af5bd83535ff",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F94124ce7-ac9d-422a-a3b6-af5bd83535ff",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cfbdb53d-5247-456e-9c84-5b623906c112",
   "type": "Service",
-  "name": "Skateboard",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63666264623533642d353234372d343536652d396338342d356236323339303663313132",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcfbdb53d-5247-456e-9c84-5b623906c112",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcfbdb53d-5247-456e-9c84-5b623906c112",

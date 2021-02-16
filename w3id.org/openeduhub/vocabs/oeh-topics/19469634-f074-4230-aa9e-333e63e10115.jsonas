@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/19469634-f074-4230-aa9e-333e63e10115",
   "type": "Service",
-  "name": "Körperwahrnehmung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31393436393633342d663037342d343233302d616139652d333333653633653130313135",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F19469634-f074-4230-aa9e-333e63e10115",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F19469634-f074-4230-aa9e-333e63e10115",

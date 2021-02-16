@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3e052593-b460-44e8-b0ce-386ee790f51b",
   "type": "Service",
-  "name": "Verhaltensökologie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33653035323539332d623436302d343465382d623063652d333836656537393066353162",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3e052593-b460-44e8-b0ce-386ee790f51b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3e052593-b460-44e8-b0ce-386ee790f51b",

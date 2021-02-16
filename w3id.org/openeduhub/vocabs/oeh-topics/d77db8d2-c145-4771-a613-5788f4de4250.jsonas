@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d77db8d2-c145-4771-a613-5788f4de4250",
   "type": "Service",
-  "name": "Wortverlängerungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64373764623864322d633134352d343737312d613631332d353738386634646534323530",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd77db8d2-c145-4771-a613-5788f4de4250",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd77db8d2-c145-4771-a613-5788f4de4250",

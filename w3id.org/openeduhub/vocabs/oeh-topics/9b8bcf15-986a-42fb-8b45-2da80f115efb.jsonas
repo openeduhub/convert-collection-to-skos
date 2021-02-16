@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9b8bcf15-986a-42fb-8b45-2da80f115efb",
   "type": "Service",
-  "name": "Ski und Snowboard",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39623862636631352d393836612d343266622d386234352d326461383066313135656662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b8bcf15-986a-42fb-8b45-2da80f115efb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9b8bcf15-986a-42fb-8b45-2da80f115efb",

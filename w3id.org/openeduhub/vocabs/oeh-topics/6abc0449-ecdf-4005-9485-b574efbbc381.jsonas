@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6abc0449-ecdf-4005-9485-b574efbbc381",
   "type": "Service",
-  "name": "Bluetooth",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36616263303434392d656364662d343030352d393438352d623537346566626263333831",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6abc0449-ecdf-4005-9485-b574efbbc381",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6abc0449-ecdf-4005-9485-b574efbbc381",

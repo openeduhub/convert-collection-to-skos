@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/92f51521-2432-413f-8b85-47ce5e8ebca3",
   "type": "Service",
-  "name": "Modellieren und Programmieren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39326635313532312d323433322d343133662d386238352d343763653565386562636133",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F92f51521-2432-413f-8b85-47ce5e8ebca3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F92f51521-2432-413f-8b85-47ce5e8ebca3",

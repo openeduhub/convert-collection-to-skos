@@ -8,45 +8,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2d34688d-00b6-47f7-8522-31909c2671b4",
-      "prefLabel": {
-        "de": "Arithmetik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/44c952b2-5397-40f7-b9d8-19432fa58eee",
-      "prefLabel": {
-        "de": "Zuordnungen, Funktionen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e7a12b0-2314-4bb0-9fd5-5c067cfb2b3e",
-      "prefLabel": {
-        "de": "Trigonometrie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/80944184-4cf2-4cc0-9a79-4f5b24dd8f48",
-      "prefLabel": {
-        "de": "Klassenarbeiten Primarstufe"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/90c6411f-eadc-4478-b668-866ed6eb9012",
-      "prefLabel": {
-        "de": "Räumliche und ebene Geometrie"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b8c8454-2435-4d30-84c4-60eb03c972d1",
       "prefLabel": {
         "de": "Zahlen bis..."
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ba0dda9d-8c4c-42ab-b28b-4bc673086b98",
-      "prefLabel": {
-        "de": "Grundrechenarten"
       }
     },
     {
@@ -56,9 +20,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c690705e-f69d-40c6-a00b-1482493980bd",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ba0dda9d-8c4c-42ab-b28b-4bc673086b98",
       "prefLabel": {
-        "de": "Muster, Körper, Maße, Zeiten"
+        "de": "Grundrechenarten"
       }
     },
     {
@@ -74,9 +38,45 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e7a12b0-2314-4bb0-9fd5-5c067cfb2b3e",
+      "prefLabel": {
+        "de": "Trigonometrie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c690705e-f69d-40c6-a00b-1482493980bd",
+      "prefLabel": {
+        "de": "Muster, Körper, Maße, Zeiten"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/f15f727c-9a5a-4f20-b1be-483c15477648",
       "prefLabel": {
         "de": "Analytische Geometrie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/526482b1-2b73-4db6-bcfa-96c53f1936ea",
+      "prefLabel": {
+        "de": "Matrizen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/90c6411f-eadc-4478-b668-866ed6eb9012",
+      "prefLabel": {
+        "de": "Räumliche und ebene Geometrie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2d34688d-00b6-47f7-8522-31909c2671b4",
+      "prefLabel": {
+        "de": "Arithmetik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/44c952b2-5397-40f7-b9d8-19432fa58eee",
+      "prefLabel": {
+        "de": "Zuordnungen, Funktionen"
       }
     },
     {
@@ -84,6 +84,11 @@
       "prefLabel": {
         "de": "Terme, Gleichungen, Ungleichungen"
       }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/380"
     }
   ],
   "inScheme": {
@@ -153,7 +158,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -162,7 +176,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

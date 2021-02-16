@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/db109038-d6c2-44c6-ba2a-84a3794bc9e8",
   "type": "Service",
-  "name": "Romane",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64623130393033382d643663322d343463362d626132612d383461333739346263396538",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdb109038-d6c2-44c6-ba2a-84a3794bc9e8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdb109038-d6c2-44c6-ba2a-84a3794bc9e8",

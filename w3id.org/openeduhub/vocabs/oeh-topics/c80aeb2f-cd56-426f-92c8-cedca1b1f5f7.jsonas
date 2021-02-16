@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c80aeb2f-cd56-426f-92c8-cedca1b1f5f7",
   "type": "Service",
-  "name": "OER Nachnutzung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63383061656232662d636435362d343236662d393263382d636564636131623166356637",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc80aeb2f-cd56-426f-92c8-cedca1b1f5f7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc80aeb2f-cd56-426f-92c8-cedca1b1f5f7",

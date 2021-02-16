@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f6169737-9bf4-4092-b4de-71f373e507ec",
   "type": "Service",
-  "name": "Szenisches Spiel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66363136393733372d396266342d343039322d623464652d373166333733653530376563",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff6169737-9bf4-4092-b4de-71f373e507ec",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff6169737-9bf4-4092-b4de-71f373e507ec",

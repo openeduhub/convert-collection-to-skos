@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/383d860f-4078-4457-820a-64d27ffc26a7",
   "type": "Service",
-  "name": "Kernreaktionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33383364383630662d343037382d343435372d383230612d363464323766666332366137",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F383d860f-4078-4457-820a-64d27ffc26a7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F383d860f-4078-4457-820a-64d27ffc26a7",

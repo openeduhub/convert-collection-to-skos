@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c5b8d14f-7c9b-4627-adb4-aaaeeb63abf0",
   "type": "Service",
-  "name": "Multikulturalität",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63356238643134662d376339622d343632372d616462342d616161656562363361626630",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc5b8d14f-7c9b-4627-adb4-aaaeeb63abf0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc5b8d14f-7c9b-4627-adb4-aaaeeb63abf0",

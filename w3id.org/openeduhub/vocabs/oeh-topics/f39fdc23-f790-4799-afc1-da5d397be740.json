@@ -14,6 +14,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3321013a-7fb8-4a87-b9da-10e99f253714",
+      "prefLabel": {
+        "de": "Grand Challenges"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2c8136f7-da1a-46bf-8046-d08fa6641001",
       "prefLabel": {
         "de": "OER"
@@ -23,12 +29,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2e21b6df-22ea-4669-8f2b-804b24403eaa",
       "prefLabel": {
         "de": "Informationelle Selbstbestimmung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3321013a-7fb8-4a87-b9da-10e99f253714",
-      "prefLabel": {
-        "de": "Grand Challenges"
       }
     },
     {
@@ -86,6 +86,11 @@
       "de": "Informatik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/320"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -150,7 +155,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -159,7 +173,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

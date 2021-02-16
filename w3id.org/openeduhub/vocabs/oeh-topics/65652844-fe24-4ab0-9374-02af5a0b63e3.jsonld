@@ -14,6 +14,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e67d03cd-9408-45de-9894-d6a47705fc38",
+      "prefLabel": {
+        "de": "Atomarer Energieaustausch"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7eb26d5f-e0a9-46c1-99bc-a76943d5f6a8",
       "prefLabel": {
         "de": "Historische Atommodelle"
@@ -24,12 +30,6 @@
       "prefLabel": {
         "de": "Quantenmechanisches Atommodell"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e67d03cd-9408-45de-9894-d6a47705fc38",
-      "prefLabel": {
-        "de": "Atomarer Energieaustausch"
-      }
     }
   ],
   "broader": {
@@ -38,6 +38,11 @@
       "de": "Physik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/460"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -102,7 +107,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +125,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

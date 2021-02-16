@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2dc2b44c-5e71-4837-b70c-4cfff486d7e2",
   "type": "Service",
-  "name": "Verlässlichkeit von Software",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32646332623434632d356537312d343833372d623730632d346366666634383664376532",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2dc2b44c-5e71-4837-b70c-4cfff486d7e2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2dc2b44c-5e71-4837-b70c-4cfff486d7e2",

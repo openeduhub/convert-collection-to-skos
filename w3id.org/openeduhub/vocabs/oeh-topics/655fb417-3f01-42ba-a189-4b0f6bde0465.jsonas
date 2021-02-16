@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/655fb417-3f01-42ba-a189-4b0f6bde0465",
   "type": "Service",
-  "name": "Aussprache und Betonung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36353566623431372d336630312d343262612d613138392d346230663662646530343635",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F655fb417-3f01-42ba-a189-4b0f6bde0465",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F655fb417-3f01-42ba-a189-4b0f6bde0465",

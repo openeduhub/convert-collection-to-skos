@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b344e832-9be5-48aa-8c87-80dfd3a06f4c",
   "type": "Service",
-  "name": "Stochastische Prozesse und Matrizen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62333434653833322d396265352d343861612d386338372d383064666433613036663463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb344e832-9be5-48aa-8c87-80dfd3a06f4c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb344e832-9be5-48aa-8c87-80dfd3a06f4c",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5e9006fd-a5ba-4b2d-a4de-d4b7897212e7",
   "type": "Service",
-  "name": "soziale Beziehungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35653930303666642d613562612d346232642d613464652d643462373839373231326537",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5e9006fd-a5ba-4b2d-a4de-d4b7897212e7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5e9006fd-a5ba-4b2d-a4de-d4b7897212e7",

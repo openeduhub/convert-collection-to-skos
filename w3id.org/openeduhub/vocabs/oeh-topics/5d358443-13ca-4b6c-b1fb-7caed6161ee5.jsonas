@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5d358443-13ca-4b6c-b1fb-7caed6161ee5",
   "type": "Service",
-  "name": "Auslandsaufenthalte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35643335383434332d313363612d346236632d623166622d376361656436313631656535",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5d358443-13ca-4b6c-b1fb-7caed6161ee5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5d358443-13ca-4b6c-b1fb-7caed6161ee5",

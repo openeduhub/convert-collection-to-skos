@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/617980ea-63bf-4c5c-905f-11ac6a5079e3",
   "type": "Service",
-  "name": "Bühnenformen ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36313739383065612d363362662d346335632d393035662d313161633661353037396533",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F617980ea-63bf-4c5c-905f-11ac6a5079e3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F617980ea-63bf-4c5c-905f-11ac6a5079e3",

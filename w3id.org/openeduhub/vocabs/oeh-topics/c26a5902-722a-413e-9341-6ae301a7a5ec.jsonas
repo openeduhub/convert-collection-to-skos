@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c26a5902-722a-413e-9341-6ae301a7a5ec",
   "type": "Service",
-  "name": "Tiere",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63323661353930322d373232612d343133652d393334312d366165333031613761356563",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc26a5902-722a-413e-9341-6ae301a7a5ec",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc26a5902-722a-413e-9341-6ae301a7a5ec",

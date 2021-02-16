@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/db2dc3db-e5a4-40ee-a54a-37e47b91f3ac",
   "type": "Service",
-  "name": "Digitalisierung und E-Sport",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64623264633364622d653561342d343065652d613534612d333765343762393166336163",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdb2dc3db-e5a4-40ee-a54a-37e47b91f3ac",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdb2dc3db-e5a4-40ee-a54a-37e47b91f3ac",

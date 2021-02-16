@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2e21b6df-22ea-4669-8f2b-804b24403eaa",
   "type": "Service",
-  "name": "Informationelle Selbstbestimmung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32653231623664662d323265612d343636392d386632622d383034623234343033656161",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2e21b6df-22ea-4669-8f2b-804b24403eaa",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2e21b6df-22ea-4669-8f2b-804b24403eaa",

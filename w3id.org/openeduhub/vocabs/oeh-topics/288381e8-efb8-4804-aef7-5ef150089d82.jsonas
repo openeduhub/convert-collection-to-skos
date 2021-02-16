@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/288381e8-efb8-4804-aef7-5ef150089d82",
   "type": "Service",
-  "name": "Nachrichten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32383833383165382d656662382d343830342d616566372d356566313530303839643832",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F288381e8-efb8-4804-aef7-5ef150089d82",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F288381e8-efb8-4804-aef7-5ef150089d82",

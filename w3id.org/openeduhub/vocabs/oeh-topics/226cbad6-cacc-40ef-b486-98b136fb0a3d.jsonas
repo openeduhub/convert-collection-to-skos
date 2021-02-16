@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/226cbad6-cacc-40ef-b486-98b136fb0a3d",
   "type": "Service",
-  "name": "Polymerisation",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32323663626164362d636163632d343065662d623438362d393862313336666230613364",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F226cbad6-cacc-40ef-b486-98b136fb0a3d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F226cbad6-cacc-40ef-b486-98b136fb0a3d",

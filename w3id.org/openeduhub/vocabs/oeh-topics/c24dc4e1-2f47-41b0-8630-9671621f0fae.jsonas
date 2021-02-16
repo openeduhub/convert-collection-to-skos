@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c24dc4e1-2f47-41b0-8630-9671621f0fae",
   "type": "Service",
-  "name": "Vorkommen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63323464633465312d326634372d343162302d383633302d393637313632316630666165",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc24dc4e1-2f47-41b0-8630-9671621f0fae",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc24dc4e1-2f47-41b0-8630-9671621f0fae",

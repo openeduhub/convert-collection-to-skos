@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/bc5b1f7d-1eab-4300-8122-5d06c6894d22",
   "type": "Service",
-  "name": "Deterministischer endlicher Automat (DEA)",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62633562316637642d316561622d343330302d383132322d356430366336383934643232",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbc5b1f7d-1eab-4300-8122-5d06c6894d22",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbc5b1f7d-1eab-4300-8122-5d06c6894d22",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ae2e16bd-0104-43fd-b1ca-ef458871fc67",
   "type": "Service",
-  "name": "Possessiva",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61653265313662642d303130342d343366642d623163612d656634353838373166633637",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fae2e16bd-0104-43fd-b1ca-ef458871fc67",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fae2e16bd-0104-43fd-b1ca-ef458871fc67",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5728c7d5-1b78-4b07-8637-e2b0c9d9eb8f",
   "type": "Service",
-  "name": "Collage",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35373238633764352d316237382d346230372d383633372d653262306339643965623866",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5728c7d5-1b78-4b07-8637-e2b0c9d9eb8f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5728c7d5-1b78-4b07-8637-e2b0c9d9eb8f",

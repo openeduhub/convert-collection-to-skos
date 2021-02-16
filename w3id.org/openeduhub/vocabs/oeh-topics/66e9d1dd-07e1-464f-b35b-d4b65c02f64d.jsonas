@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/66e9d1dd-07e1-464f-b35b-d4b65c02f64d",
   "type": "Service",
-  "name": "Buddhismus",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36366539643164642d303765312d343634662d623335622d643462363563303266363464",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F66e9d1dd-07e1-464f-b35b-d4b65c02f64d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F66e9d1dd-07e1-464f-b35b-d4b65c02f64d",

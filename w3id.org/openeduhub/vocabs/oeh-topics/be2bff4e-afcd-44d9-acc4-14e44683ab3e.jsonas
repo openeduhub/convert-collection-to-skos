@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/be2bff4e-afcd-44d9-acc4-14e44683ab3e",
   "type": "Service",
-  "name": "Imperativ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62653262666634652d616663642d343464392d616363342d313465343436383361623365",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbe2bff4e-afcd-44d9-acc4-14e44683ab3e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbe2bff4e-afcd-44d9-acc4-14e44683ab3e",

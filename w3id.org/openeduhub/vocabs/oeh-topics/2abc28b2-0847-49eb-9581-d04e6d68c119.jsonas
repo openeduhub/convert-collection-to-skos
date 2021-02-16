@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2abc28b2-0847-49eb-9581-d04e6d68c119",
   "type": "Service",
-  "name": "Modularität",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32616263323862322d303834372d343965622d393538312d643034653664363863313139",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2abc28b2-0847-49eb-9581-d04e6d68c119",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2abc28b2-0847-49eb-9581-d04e6d68c119",

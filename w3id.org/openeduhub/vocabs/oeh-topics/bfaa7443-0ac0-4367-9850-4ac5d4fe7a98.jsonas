@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/bfaa7443-0ac0-4367-9850-4ac5d4fe7a98",
   "type": "Service",
-  "name": "Speicher",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62666161373434332d306163302d343336372d393835302d346163356434666537613938",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbfaa7443-0ac0-4367-9850-4ac5d4fe7a98",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbfaa7443-0ac0-4367-9850-4ac5d4fe7a98",

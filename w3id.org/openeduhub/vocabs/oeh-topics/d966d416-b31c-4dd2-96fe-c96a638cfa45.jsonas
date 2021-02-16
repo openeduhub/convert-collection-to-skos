@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d966d416-b31c-4dd2-96fe-c96a638cfa45",
   "type": "Service",
-  "name": "Befinden",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64393636643431362d623331632d346464322d393666652d633936613633386366613435",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd966d416-b31c-4dd2-96fe-c96a638cfa45",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd966d416-b31c-4dd2-96fe-c96a638cfa45",

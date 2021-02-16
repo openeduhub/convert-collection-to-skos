@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/62857668-5d9b-4ef6-b65e-b77272a72214",
   "type": "Service",
-  "name": "Zusammenschreibung durch Wortbildungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36323835373636382d356439622d346566362d623635652d623737323732613732323134",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62857668-5d9b-4ef6-b65e-b77272a72214",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62857668-5d9b-4ef6-b65e-b77272a72214",

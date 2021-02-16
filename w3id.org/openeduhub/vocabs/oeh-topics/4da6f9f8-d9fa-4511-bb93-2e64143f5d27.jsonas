@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4da6f9f8-d9fa-4511-bb93-2e64143f5d27",
   "type": "Service",
-  "name": "OSI",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34646136663966382d643966612d343531312d626239332d326536343134336635643237",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4da6f9f8-d9fa-4511-bb93-2e64143f5d27",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4da6f9f8-d9fa-4511-bb93-2e64143f5d27",

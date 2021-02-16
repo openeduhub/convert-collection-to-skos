@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/38812ad7-f2f3-4fd7-9d8e-fdf7af416659",
   "type": "Service",
-  "name": "Recycling",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33383831326164372d663266332d346664372d396438652d666466376166343136363539",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F38812ad7-f2f3-4fd7-9d8e-fdf7af416659",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F38812ad7-f2f3-4fd7-9d8e-fdf7af416659",

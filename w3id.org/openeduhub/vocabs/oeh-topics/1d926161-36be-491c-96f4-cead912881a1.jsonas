@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1d926161-36be-491c-96f4-cead912881a1",
   "type": "Service",
-  "name": "Besondere Brüche",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31643932363136312d333662652d343931632d393666342d636561643931323838316131",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1d926161-36be-491c-96f4-cead912881a1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1d926161-36be-491c-96f4-cead912881a1",

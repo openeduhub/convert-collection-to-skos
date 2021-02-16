@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/59ab58b0-ad8f-4792-88b8-bb35c703d0ff",
   "type": "Service",
-  "name": "Haworth-Projektion",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35396162353862302d616438662d343739322d383862382d626233356337303364306666",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F59ab58b0-ad8f-4792-88b8-bb35c703d0ff",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F59ab58b0-ad8f-4792-88b8-bb35c703d0ff",

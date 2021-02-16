@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d8f04a52-70b8-4718-b176-4a1a212b2910",
   "type": "Service",
-  "name": "Datensicherheit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64386630346135322d373062382d343731382d623137362d346131613231326232393130",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd8f04a52-70b8-4718-b176-4a1a212b2910",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd8f04a52-70b8-4718-b176-4a1a212b2910",

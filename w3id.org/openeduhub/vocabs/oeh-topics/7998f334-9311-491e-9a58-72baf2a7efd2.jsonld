@@ -8,6 +8,12 @@
   },
   "narrower": [
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ff426019-b246-4fda-af3c-328b88db7c06",
+      "prefLabel": {
+        "de": "Theater-Hintergrundwissen"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/17f2b2a6-eb4e-493b-9fe4-15968ed74e57",
       "prefLabel": {
         "de": "Texte, Stücke und Musik "
@@ -16,13 +22,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/36f8e701-0ce5-4d3d-9a61-78288df5ab73",
       "prefLabel": {
-        "de": "Spielen und Gestalten "
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3ca9344d-26d5-4632-8a0c-e2eb9ef59bda",
-      "prefLabel": {
-        "de": "Theaterformen und Inszenierungskonzepte"
+        "de": "Spielen und Gestalten"
       }
     },
     {
@@ -32,10 +32,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ff426019-b246-4fda-af3c-328b88db7c06",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3ca9344d-26d5-4632-8a0c-e2eb9ef59bda",
       "prefLabel": {
-        "de": "Theater-Hintergrundwissen"
+        "de": "Theaterformen und Inszenierungskonzepte"
       }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/12002"
     }
   ],
   "inScheme": {
@@ -105,7 +110,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -114,7 +128,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

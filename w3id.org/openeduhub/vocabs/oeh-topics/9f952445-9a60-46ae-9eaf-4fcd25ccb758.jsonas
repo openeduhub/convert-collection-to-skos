@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9f952445-9a60-46ae-9eaf-4fcd25ccb758",
   "type": "Service",
-  "name": "Methoden in der Genetik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39663935323434352d396136302d343661652d396561662d346663643235636362373538",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9f952445-9a60-46ae-9eaf-4fcd25ccb758",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9f952445-9a60-46ae-9eaf-4fcd25ccb758",

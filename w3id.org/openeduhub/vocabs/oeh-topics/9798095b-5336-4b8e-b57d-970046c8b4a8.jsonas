@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9798095b-5336-4b8e-b57d-970046c8b4a8",
   "type": "Service",
-  "name": "Kenntnisse über und eigene Erfahrungen mit Kirche",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39373938303935622d353333362d346238652d623537642d393730303436633862346138",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9798095b-5336-4b8e-b57d-970046c8b4a8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9798095b-5336-4b8e-b57d-970046c8b4a8",

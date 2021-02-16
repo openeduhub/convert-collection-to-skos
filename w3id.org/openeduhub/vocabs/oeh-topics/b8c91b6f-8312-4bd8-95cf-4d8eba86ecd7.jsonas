@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b8c91b6f-8312-4bd8-95cf-4d8eba86ecd7",
   "type": "Service",
-  "name": "Skulptur/Plastik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62386339316236662d383331322d346264382d393563662d346438656261383665636437",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb8c91b6f-8312-4bd8-95cf-4d8eba86ecd7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb8c91b6f-8312-4bd8-95cf-4d8eba86ecd7",

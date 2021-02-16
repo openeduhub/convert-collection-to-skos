@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a4032718-7f59-4eaa-953c-34f5e452b5ca",
   "type": "Service",
-  "name": "Immigration",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61343033323731382d376635392d346561612d393533632d333466356534353262356361",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa4032718-7f59-4eaa-953c-34f5e452b5ca",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa4032718-7f59-4eaa-953c-34f5e452b5ca",

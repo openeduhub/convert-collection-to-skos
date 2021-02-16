@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/795706d6-cc43-4fd9-8c58-7132fd8927df",
   "type": "Service",
-  "name": "Neue Sachlichkeit",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37393537303664362d636334332d346664392d386335382d373133326664383932376466",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F795706d6-cc43-4fd9-8c58-7132fd8927df",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F795706d6-cc43-4fd9-8c58-7132fd8927df",

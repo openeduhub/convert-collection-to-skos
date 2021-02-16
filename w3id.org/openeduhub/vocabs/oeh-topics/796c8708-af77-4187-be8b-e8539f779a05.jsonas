@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/796c8708-af77-4187-be8b-e8539f779a05",
   "type": "Service",
-  "name": "indirekte Rede",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37393663383730382d616637372d343138372d626538622d653835333966373739613035",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F796c8708-af77-4187-be8b-e8539f779a05",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F796c8708-af77-4187-be8b-e8539f779a05",

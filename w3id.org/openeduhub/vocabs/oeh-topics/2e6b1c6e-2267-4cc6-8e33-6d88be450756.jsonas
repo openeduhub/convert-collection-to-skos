@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2e6b1c6e-2267-4cc6-8e33-6d88be450756",
   "type": "Service",
-  "name": "christliches Verständnis von Auferstehung im Vergleich mit anderen Religionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32653662316336652d323236372d346363362d386533332d366438386265343530373536",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2e6b1c6e-2267-4cc6-8e33-6d88be450756",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2e6b1c6e-2267-4cc6-8e33-6d88be450756",

@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F852d7756-a3d2-4e82-8b14-1b9348ebb1c7",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F852d7756-a3d2-4e82-8b14-1b9348ebb1c7",
   "prefLabel": {
-    "de": "Artikel / Begleiter"
+    "de": "Artikel und Begleiter"
   },
   "narrower": [
     {
@@ -16,13 +16,13 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/141c71c8-ccb5-4579-8290-3fba2a3246c9",
       "prefLabel": {
-        "de": "Unbestimmter Artikel"
+        "de": "unbestimmter Artikel"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/288f68e1-cd04-4723-ab2d-aca3274cb157",
       "prefLabel": {
-        "de": "Bestimmter Artikel"
+        "de": "bestimmter Artikel"
       }
     },
     {
@@ -56,6 +56,11 @@
       "de": "Grammatik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/28002"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -120,7 +125,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -129,7 +143,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

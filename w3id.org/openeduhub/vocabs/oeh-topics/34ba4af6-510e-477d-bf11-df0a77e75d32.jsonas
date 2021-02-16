@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/34ba4af6-510e-477d-bf11-df0a77e75d32",
   "type": "Service",
-  "name": "Quantifiers oder Zahlworte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33346261346166362d353130652d343737642d626631312d646630613737653735643332",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F34ba4af6-510e-477d-bf11-df0a77e75d32",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F34ba4af6-510e-477d-bf11-df0a77e75d32",

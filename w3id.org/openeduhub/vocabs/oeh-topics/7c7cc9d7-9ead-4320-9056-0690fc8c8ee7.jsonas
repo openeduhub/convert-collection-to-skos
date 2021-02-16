@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7c7cc9d7-9ead-4320-9056-0690fc8c8ee7",
   "type": "Service",
-  "name": "Verneinung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37633763633964372d396561642d343332302d393035362d303639306663386338656537",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7c7cc9d7-9ead-4320-9056-0690fc8c8ee7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7c7cc9d7-9ead-4320-9056-0690fc8c8ee7",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6f30e5db-9ea5-4c00-83a2-2b65e5096b29",
   "type": "Service",
-  "name": "Geschichte Spaniens und Hispanoamerikas",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36663330653564622d396561352d346330302d383361322d326236356535303936623239",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6f30e5db-9ea5-4c00-83a2-2b65e5096b29",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6f30e5db-9ea5-4c00-83a2-2b65e5096b29",

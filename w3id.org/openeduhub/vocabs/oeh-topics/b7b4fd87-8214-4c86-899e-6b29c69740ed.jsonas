@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b7b4fd87-8214-4c86-899e-6b29c69740ed",
   "type": "Service",
-  "name": "biotische Faktoren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62376234666438372d383231342d346338362d383939652d366232396336393734306564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb7b4fd87-8214-4c86-899e-6b29c69740ed",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb7b4fd87-8214-4c86-899e-6b29c69740ed",

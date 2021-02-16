@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9947e778-e520-40df-b7f3-2cd2bb914302",
   "type": "Service",
-  "name": "Digitale Ethik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39393437653737382d653532302d343064662d623766332d326364326262393134333032",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9947e778-e520-40df-b7f3-2cd2bb914302",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9947e778-e520-40df-b7f3-2cd2bb914302",

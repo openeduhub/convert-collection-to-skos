@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f8b45d22-ac31-43e2-9e01-4dc250ae3f0c",
   "type": "Service",
-  "name": "Züchtung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66386234356432322d616333312d343365322d396530312d346463323530616533663063",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff8b45d22-ac31-43e2-9e01-4dc250ae3f0c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff8b45d22-ac31-43e2-9e01-4dc250ae3f0c",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0bc8207c-cca8-4538-a8b9-ce88cf18c042",
   "type": "Service",
-  "name": "rationaler Diskurs zu Gottesvorstellungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30626338323037632d636361382d343533382d613862392d636538386366313863303432",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0bc8207c-cca8-4538-a8b9-ce88cf18c042",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0bc8207c-cca8-4538-a8b9-ce88cf18c042",

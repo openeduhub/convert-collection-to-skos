@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c169d6b4-5e71-4fd8-8ab8-7bf29f3c1010",
   "type": "Service",
-  "name": "Flächen berechnen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63313639643662342d356537312d346664382d386162382d376266323966336331303130",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc169d6b4-5e71-4fd8-8ab8-7bf29f3c1010",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc169d6b4-5e71-4fd8-8ab8-7bf29f3c1010",

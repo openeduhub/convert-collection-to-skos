@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/652abd77-b5e9-4ca8-a2ac-607798431c32",
   "type": "Service",
-  "name": "Ernährung und Verdauung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36353261626437372d623565392d346361382d613261632d363037373938343331633332",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F652abd77-b5e9-4ca8-a2ac-607798431c32",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F652abd77-b5e9-4ca8-a2ac-607798431c32",

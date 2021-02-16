@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/986605c2-024e-44da-8c77-92fbc3c50268",
   "type": "Service",
-  "name": "Von Gott hören und lesen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39383636303563322d303234652d343464612d386337372d393266626333633530323638",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F986605c2-024e-44da-8c77-92fbc3c50268",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F986605c2-024e-44da-8c77-92fbc3c50268",

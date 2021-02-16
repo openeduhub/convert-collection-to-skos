@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/76e5e8b1-39a9-40df-bf97-315d05bd1949",
   "type": "Service",
-  "name": "Märchen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37366535653862312d333961392d343064662d626639372d333135643035626431393439",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F76e5e8b1-39a9-40df-bf97-315d05bd1949",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F76e5e8b1-39a9-40df-bf97-315d05bd1949",

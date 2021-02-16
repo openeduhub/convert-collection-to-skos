@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8cc3ea73-00ea-4177-9de8-c800daa9758e",
   "type": "Service",
-  "name": "Zeitstrahl",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38636333656137332d303065612d343137372d396465382d633830306461613937353865",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8cc3ea73-00ea-4177-9de8-c800daa9758e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8cc3ea73-00ea-4177-9de8-c800daa9758e",

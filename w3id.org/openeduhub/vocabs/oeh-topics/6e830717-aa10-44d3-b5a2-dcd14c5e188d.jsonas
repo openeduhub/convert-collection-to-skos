@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6e830717-aa10-44d3-b5a2-dcd14c5e188d",
   "type": "Service",
-  "name": "Ursachen des Klimawandels",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36653833303731372d616131302d343464332d623561322d646364313463356531383864",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6e830717-aa10-44d3-b5a2-dcd14c5e188d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6e830717-aa10-44d3-b5a2-dcd14c5e188d",

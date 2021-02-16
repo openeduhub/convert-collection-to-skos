@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/44863211-3748-42be-b2db-d5eb69decf6a",
   "type": "Service",
-  "name": "Naturkatastrophen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34343836333231312d333734382d343262652d623264622d643565623639646563663661",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F44863211-3748-42be-b2db-d5eb69decf6a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F44863211-3748-42be-b2db-d5eb69decf6a",

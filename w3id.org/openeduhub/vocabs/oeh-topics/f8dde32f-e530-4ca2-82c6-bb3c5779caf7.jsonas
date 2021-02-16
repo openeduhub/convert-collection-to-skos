@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f8dde32f-e530-4ca2-82c6-bb3c5779caf7",
   "type": "Service",
-  "name": "Materialgestütztes Informieren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66386464653332662d653533302d346361322d383263362d626233633537373963616637",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff8dde32f-e530-4ca2-82c6-bb3c5779caf7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff8dde32f-e530-4ca2-82c6-bb3c5779caf7",

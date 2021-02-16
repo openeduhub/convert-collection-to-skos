@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe61e9c39-4a20-42fb-a786-2c3bd001ed29",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe61e9c39-4a20-42fb-a786-2c3bd001ed29",
   "prefLabel": {
-    "de": "pH-Wert"
+    "de": "Der pH-Wert als Eigenschaften von Lösungen"
   },
   "definition": {
-    "de": "Der pH-Wert wird als ein Maß für die Säure- bzw. Basenstärke verwendet. Er wird vereinfacht als Messwert mit Hilfe von Indikatoren bestimmt, kann aber auch berechnet werden."
+    "de": "Der pH-Wert wird als ein Maß für die Säure- bzw. Basenstärke verwendet. Er wird vereinfacht als Messwert mit Hilfe von Indikatoren bestimmt, kann aber auch berechnet werden.\n\nHier geht es eher um das Phänomen pH-Wert und Messverfahren."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9f082eef-2f86-4007-bbf0-45690cec45a4",
@@ -15,6 +15,11 @@
       "de": "Säuren, Basen und Laugen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

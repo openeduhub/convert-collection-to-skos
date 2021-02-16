@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9acee240-1cc9-4a91-801b-4d2994d37f39",
   "type": "Service",
-  "name": "Van der Waals-Kräfte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39616365653234302d316363392d346139312d383031622d346432393934643337663339",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9acee240-1cc9-4a91-801b-4d2994d37f39",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9acee240-1cc9-4a91-801b-4d2994d37f39",

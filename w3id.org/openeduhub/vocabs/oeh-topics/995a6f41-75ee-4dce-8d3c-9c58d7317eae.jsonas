@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/995a6f41-75ee-4dce-8d3c-9c58d7317eae",
   "type": "Service",
-  "name": "Raufball",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39393561366634312d373565652d346463652d386433632d396335386437333137656165",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F995a6f41-75ee-4dce-8d3c-9c58d7317eae",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F995a6f41-75ee-4dce-8d3c-9c58d7317eae",

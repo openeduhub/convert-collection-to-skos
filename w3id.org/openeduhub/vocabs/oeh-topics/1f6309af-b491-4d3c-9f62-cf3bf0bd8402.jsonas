@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1f6309af-b491-4d3c-9f62-cf3bf0bd8402",
   "type": "Service",
-  "name": "Weihnachten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31663633303961662d623439312d346433632d396636322d636633626630626438343032",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1f6309af-b491-4d3c-9f62-cf3bf0bd8402",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1f6309af-b491-4d3c-9f62-cf3bf0bd8402",

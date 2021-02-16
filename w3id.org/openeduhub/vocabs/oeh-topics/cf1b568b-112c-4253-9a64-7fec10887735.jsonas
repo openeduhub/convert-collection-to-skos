@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cf1b568b-112c-4253-9a64-7fec10887735",
   "type": "Service",
-  "name": "Expressionismus",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63663162353638622d313132632d343235332d396136342d376665633130383837373335",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcf1b568b-112c-4253-9a64-7fec10887735",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcf1b568b-112c-4253-9a64-7fec10887735",

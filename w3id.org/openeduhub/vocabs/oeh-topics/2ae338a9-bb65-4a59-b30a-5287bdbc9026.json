@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2ae338a9-bb65-4a59-b30a-5287bdbc9026",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2ae338a9-bb65-4a59-b30a-5287bdbc9026",
   "prefLabel": {
-    "de": "Elektronegativität und Periodensystem"
+    "de": "Die Elektronegativität und das Periodensystem"
   },
   "definition": {
-    "de": "Die Wert der Elektronegativtät von einem chemischen Element hängt von Atombau ab. Und das kann im Periodensystem anhand der Einordnung in Gruppen und Perioden abgelesen werden."
+    "de": "Die Wert der Elektronegativtät von einem chemischen Element hängt von Atombau ab. Und das kann im Periodensystem anhand der Einordnung in Gruppen und Perioden abgelesen werden.\n\nDie Betrachtung der Elektronegativität ist wichtig für die Bestimmung vom zwischenmolekularen Wechselwirkungen. Mehr dazu im Bereich \"Allgemeine Chemie\" und \"Zwischenmolekulare Kräfte\""
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c0b6ce90-44c3-46dc-ae3e-2741d78d9294",
     "prefLabel": {
-      "de": "Periodensystem"
+      "de": "Das Periodensystem"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

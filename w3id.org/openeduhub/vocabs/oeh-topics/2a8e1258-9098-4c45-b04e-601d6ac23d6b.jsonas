@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2a8e1258-9098-4c45-b04e-601d6ac23d6b",
   "type": "Service",
-  "name": "Politik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32613865313235382d393039382d346334352d623034652d363031643661633233643662",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2a8e1258-9098-4c45-b04e-601d6ac23d6b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2a8e1258-9098-4c45-b04e-601d6ac23d6b",

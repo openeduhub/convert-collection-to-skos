@@ -14,12 +14,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/636f2fa1-8ed7-4a6a-b173-1740ea39cdc1",
-      "prefLabel": {
-        "de": "Glaubwürdigkeit von Medien "
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c6cff4ce-7054-4ff2-a9e9-d31376224f92",
       "prefLabel": {
         "de": "Plattformen "
@@ -28,16 +22,21 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/e1c6685e-e01d-4204-974c-548e94cfbd55",
       "prefLabel": {
-        "de": "Kommunikation "
+        "de": "Informationen, Nachrichten & Kommunikation"
       }
     }
   ],
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/779fca4d-9172-4a6b-9626-e46e6e6cb99c",
     "prefLabel": {
-      "de": "Digitalisierungm "
+      "de": "Digitalisierung"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/480"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -102,7 +101,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +119,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

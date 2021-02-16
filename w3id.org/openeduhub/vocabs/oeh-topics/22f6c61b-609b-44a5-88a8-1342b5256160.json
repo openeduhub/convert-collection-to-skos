@@ -8,24 +8,6 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/11515ffa-889a-4902-a9ce-ae2da4a4dab7",
-      "prefLabel": {
-        "de": "Sprache der Religionen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/614c0a23-5519-4f11-a8b1-83bc17b7acab",
-      "prefLabel": {
-        "de": "Ausdrucksformen des Glaubens"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c43c2e49-e5b8-460b-9381-55e134e3d24b",
-      "prefLabel": {
-        "de": "religiöse Lebensgestaltung"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ec25551f-d1da-45a4-bbd2-48ce8170047d",
       "prefLabel": {
         "de": "Religiosität in einer pluralen Gesellschaft"
@@ -36,6 +18,24 @@
       "prefLabel": {
         "de": "Spuren von Religiosität und Bibel"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c43c2e49-e5b8-460b-9381-55e134e3d24b",
+      "prefLabel": {
+        "de": "religiöse Lebensgestaltung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/11515ffa-889a-4902-a9ce-ae2da4a4dab7",
+      "prefLabel": {
+        "de": "Sprache der Religionen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/614c0a23-5519-4f11-a8b1-83bc17b7acab",
+      "prefLabel": {
+        "de": "Ausdrucksformen des Glaubens"
+      }
     }
   ],
   "broader": {
@@ -44,6 +44,11 @@
       "de": "Religion"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/520"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -108,7 +113,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +131,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

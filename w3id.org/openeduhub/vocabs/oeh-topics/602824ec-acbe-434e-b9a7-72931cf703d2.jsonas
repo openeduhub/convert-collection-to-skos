@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/602824ec-acbe-434e-b9a7-72931cf703d2",
   "type": "Service",
-  "name": "Gemische im Teilchenmodell",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36303238323465632d616362652d343334652d623961372d373239333163663730336432",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F602824ec-acbe-434e-b9a7-72931cf703d2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F602824ec-acbe-434e-b9a7-72931cf703d2",

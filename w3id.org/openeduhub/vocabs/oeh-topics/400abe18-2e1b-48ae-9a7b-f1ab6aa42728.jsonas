@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/400abe18-2e1b-48ae-9a7b-f1ab6aa42728",
   "type": "Service",
-  "name": "GHS-Piktogramme",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34303061626531382d326531622d343861652d396137622d663161623661613432373238",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F400abe18-2e1b-48ae-9a7b-f1ab6aa42728",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F400abe18-2e1b-48ae-9a7b-f1ab6aa42728",

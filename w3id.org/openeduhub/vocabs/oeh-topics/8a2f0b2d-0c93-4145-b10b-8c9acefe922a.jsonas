@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8a2f0b2d-0c93-4145-b10b-8c9acefe922a",
   "type": "Service",
-  "name": "Wachstums- und Zerfallprozesse",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38613266306232642d306339332d343134352d623130622d386339616365666539323261",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8a2f0b2d-0c93-4145-b10b-8c9acefe922a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8a2f0b2d-0c93-4145-b10b-8c9acefe922a",

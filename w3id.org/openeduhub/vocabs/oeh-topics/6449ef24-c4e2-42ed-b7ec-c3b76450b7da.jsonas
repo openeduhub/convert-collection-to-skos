@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6449ef24-c4e2-42ed-b7ec-c3b76450b7da",
   "type": "Service",
-  "name": "Stoffklassen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36343439656632342d633465322d343265642d623765632d633362373634353062376461",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6449ef24-c4e2-42ed-b7ec-c3b76450b7da",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6449ef24-c4e2-42ed-b7ec-c3b76450b7da",

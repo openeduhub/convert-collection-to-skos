@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/47efdf14-edda-454e-ad3a-a59f4a3b07b9",
   "type": "Service",
-  "name": "Game Design",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34376566646631342d656464612d343534652d616433612d613539663461336230376239",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F47efdf14-edda-454e-ad3a-a59f4a3b07b9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F47efdf14-edda-454e-ad3a-a59f4a3b07b9",

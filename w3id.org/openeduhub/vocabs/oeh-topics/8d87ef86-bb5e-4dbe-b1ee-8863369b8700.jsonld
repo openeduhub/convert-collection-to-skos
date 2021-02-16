@@ -8,6 +8,18 @@
   },
   "narrower": [
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d552fa8b-01a3-41ce-b363-aa8745e087ee",
+      "prefLabel": {
+        "de": "Nachfolge"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a18a6fd2-0c9e-45cf-95ff-a96084f1fea4",
+      "prefLabel": {
+        "de": "Jesu Tod und Auferstehung"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4ac9d143-8a6e-4654-abc7-e083943883e1",
       "prefLabel": {
         "de": "Jesus-Bilder"
@@ -20,27 +32,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a18a6fd2-0c9e-45cf-95ff-a96084f1fea4",
-      "prefLabel": {
-        "de": "Jesu Tod und Auferstehung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a5e96913-ce95-49df-82e2-d61147c96b23",
-      "prefLabel": {
-        "de": "Jesus in seiner Zeit und Umwelt"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/be0cee07-387b-4b96-99f7-32f243be2683",
       "prefLabel": {
         "de": "Person und Botschaft Jesu im Vergleich mit anderen Religionen"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d552fa8b-01a3-41ce-b363-aa8745e087ee",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a5e96913-ce95-49df-82e2-d61147c96b23",
       "prefLabel": {
-        "de": "Nachfolge"
+        "de": "Jesus in seiner Zeit und Umwelt"
       }
     }
   ],
@@ -50,6 +50,11 @@
       "de": "Religion"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/520"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -114,7 +119,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +137,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5291cbf7-8c3e-4e22-a0ec-806e1b061827",
   "type": "Service",
-  "name": "Langstreckenlauf",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35323931636266372d386333652d346532322d613065632d383036653162303631383237",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5291cbf7-8c3e-4e22-a0ec-806e1b061827",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5291cbf7-8c3e-4e22-a0ec-806e1b061827",

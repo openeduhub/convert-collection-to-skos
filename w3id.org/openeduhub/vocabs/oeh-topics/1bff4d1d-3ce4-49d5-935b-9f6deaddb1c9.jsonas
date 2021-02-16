@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1bff4d1d-3ce4-49d5-935b-9f6deaddb1c9",
   "type": "Service",
-  "name": "Arten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31626666346431642d336365342d343964352d393335622d396636646561646462316339",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1bff4d1d-3ce4-49d5-935b-9f6deaddb1c9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1bff4d1d-3ce4-49d5-935b-9f6deaddb1c9",

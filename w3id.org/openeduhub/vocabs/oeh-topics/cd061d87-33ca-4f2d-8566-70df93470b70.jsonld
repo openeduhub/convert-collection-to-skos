@@ -6,12 +6,20 @@
   "prefLabel": {
     "de": "Flächeninhalt eines Dreiecks"
   },
+  "definition": {
+    "de": "Eine elementare Aufgabe besteht darin, den Flächeninhalt eines Dreiecks zu bestimmen. Hier gibt es zu diesem Thema verschiedene Unterrichtsmaterialien."
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c7f85560-af0c-4223-950e-94e9f831254a",
     "prefLabel": {
       "de": "Flächeninhalt und Umfang"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/380"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -76,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d0095c99-3d13-47e8-bcea-e57dfd4a8b56",
   "type": "Service",
-  "name": "Einfache Stromkreise",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64303039356339392d336431332d343765382d626365612d653537646664346138623536",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd0095c99-3d13-47e8-bcea-e57dfd4a8b56",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd0095c99-3d13-47e8-bcea-e57dfd4a8b56",

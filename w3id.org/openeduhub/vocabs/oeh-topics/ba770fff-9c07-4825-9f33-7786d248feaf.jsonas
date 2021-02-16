@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ba770fff-9c07-4825-9f33-7786d248feaf",
   "type": "Service",
-  "name": "Synonyme und Antonyme",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62613737306666662d396330372d343832352d396633332d373738366432343866656166",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fba770fff-9c07-4825-9f33-7786d248feaf",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fba770fff-9c07-4825-9f33-7786d248feaf",

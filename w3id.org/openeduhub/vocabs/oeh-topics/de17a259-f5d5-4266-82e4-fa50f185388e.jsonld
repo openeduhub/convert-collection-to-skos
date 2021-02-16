@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fde17a259-f5d5-4266-82e4-fa50f185388e",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fde17a259-f5d5-4266-82e4-fa50f185388e",
   "prefLabel": {
-    "de": "Struktur von Eiweiße"
+    "de": "Struktur von Eiweißen"
   },
   "definition": {
-    "de": "Eiweiße entstehen durch Kombination von Aminosäure-Molekülen. Deren Reihenfolgen aber auch die räumliche Anordnung des Eiweiß-Makromoleküls bestimmt die Funktion."
+    "de": "Eiweiße entstehen durch die Verknüpfung von Aminosäure-Molekülen mittels Peptid-Bindungen. \n\nDeren Reihenfolgen aber auch die räumliche Anordnung des Eiweiß-Makromoleküls bestimmen die Funktion eines Proteins. Dabei spielen Wasserstoffbrückenbindungen eine Rolle."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/17911f2d-0d53-4d23-9c43-d5948aa4fff4",
     "prefLabel": {
-      "de": "Eiweiße"
+      "de": "Eiweiße - die Bausteine des Lebens"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

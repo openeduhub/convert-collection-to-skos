@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5828c294-98bb-45fc-9784-ce22c6368a27",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5828c294-98bb-45fc-9784-ce22c6368a27",
   "prefLabel": {
-    "de": "Kunststoffe"
+    "de": "Kunststoffe - langkettige (organische) Moleküle"
   },
   "definition": {
-    "de": "Als Kunststoffe bezeichnet man Werkstoffe, die aus sehr langen Ketten bestehen, die man auch als Polymere bezeichnet."
+    "de": "Kohlenstoffverbindungen sind in der Lage, sehr große Moleküle, sogenannte Polymere zu bilden. Technisch bedeutsam sind hier insbesondere die künstlichen Polymere, die Kunststoffe.\n\nMeist sind die langen Ketten Kohlenstoffketten, es gibt aber auch andere Arten, wie die Silikone, bei denen Silicium vorkommt."
   },
   "narrower": [
     {
@@ -19,7 +19,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/38812ad7-f2f3-4fd7-9d8e-fdf7af416659",
       "prefLabel": {
-        "de": "Recycling"
+        "de": "Recycling von Kunststoff-Abfällen"
       }
     },
     {
@@ -31,13 +31,13 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/65553d51-9f6f-48d4-a257-7b34f528603f",
       "prefLabel": {
-        "de": "Verfahren zur Verarbeitung von Kunststoff"
+        "de": "Verfahren zur Verarbeitung von Kunststoffen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/76ee1a17-6cd7-4ecb-970c-36088176d36a",
       "prefLabel": {
-        "de": "Spezialkunststoffe"
+        "de": "Kunststoffe für spezielle Anwendungen"
       }
     },
     {
@@ -62,9 +62,14 @@
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/52de12fa-79ad-455c-95ae-d191f8e897d8",
     "prefLabel": {
-      "de": "Organische Chemie"
+      "de": "Die Organische Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -129,7 +134,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -138,7 +152,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

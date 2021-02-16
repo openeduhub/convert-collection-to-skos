@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2fe7ddc6-d5a5-437b-9670-f13a60c580fd",
   "type": "Service",
-  "name": "Aufzählungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32666537646463362d643561352d343337622d393637302d663133613630633538306664",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2fe7ddc6-d5a5-437b-9670-f13a60c580fd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2fe7ddc6-d5a5-437b-9670-f13a60c580fd",

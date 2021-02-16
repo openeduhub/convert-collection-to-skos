@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d4969ae3-0dc3-48c6-9441-c35326a1c631",
   "type": "Service",
-  "name": "Arbeitswelt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64343936396165332d306463332d343863362d393434312d633335333236613163363331",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd4969ae3-0dc3-48c6-9441-c35326a1c631",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd4969ae3-0dc3-48c6-9441-c35326a1c631",

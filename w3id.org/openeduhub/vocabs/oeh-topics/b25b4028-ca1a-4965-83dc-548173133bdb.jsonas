@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b25b4028-ca1a-4965-83dc-548173133bdb",
   "type": "Service",
-  "name": "Auseinandersetzungen zwischen Staat, Gesellschaft und Kirche",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62323562343032382d636131612d343936352d383364632d353438313733313333626462",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb25b4028-ca1a-4965-83dc-548173133bdb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb25b4028-ca1a-4965-83dc-548173133bdb",

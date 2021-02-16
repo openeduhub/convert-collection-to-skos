@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/20e1de25-bad1-422a-a1db-a8bf61f32d5a",
   "type": "Service",
-  "name": "Mittelstreckenlauf",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32306531646532352d626164312d343232612d613164622d613862663631663332643561",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F20e1de25-bad1-422a-a1db-a8bf61f32d5a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F20e1de25-bad1-422a-a1db-a8bf61f32d5a",

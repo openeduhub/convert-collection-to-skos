@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b85d4072-7f2c-410e-994f-d3df252bb6bf",
   "type": "Service",
-  "name": "Schwangerschaft und Geburt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62383564343037322d376632632d343130652d393934662d643364663235326262366266",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb85d4072-7f2c-410e-994f-d3df252bb6bf",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb85d4072-7f2c-410e-994f-d3df252bb6bf",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3bf11a80-04e0-4681-bac1-7da297300250",
   "type": "Service",
-  "name": "Halloween",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33626631316138302d303465302d343638312d626163312d376461323937333030323530",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3bf11a80-04e0-4681-bac1-7da297300250",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3bf11a80-04e0-4681-bac1-7da297300250",

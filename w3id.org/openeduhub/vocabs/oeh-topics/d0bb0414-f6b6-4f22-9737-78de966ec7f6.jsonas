@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d0bb0414-f6b6-4f22-9737-78de966ec7f6",
   "type": "Service",
-  "name": "Funktionsweise elementarer logischer Schaltungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64306262303431342d663662362d346632322d393733372d373864653936366563376636",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd0bb0414-f6b6-4f22-9737-78de966ec7f6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd0bb0414-f6b6-4f22-9737-78de966ec7f6",

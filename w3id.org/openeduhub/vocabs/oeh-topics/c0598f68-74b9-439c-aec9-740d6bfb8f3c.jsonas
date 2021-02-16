@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c0598f68-74b9-439c-aec9-740d6bfb8f3c",
   "type": "Service",
-  "name": "Zellorganellen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63303539386636382d373462392d343339632d616563392d373430643662666238663363",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0598f68-74b9-439c-aec9-740d6bfb8f3c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc0598f68-74b9-439c-aec9-740d6bfb8f3c",

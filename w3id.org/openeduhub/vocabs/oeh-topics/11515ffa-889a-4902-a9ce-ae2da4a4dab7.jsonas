@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/11515ffa-889a-4902-a9ce-ae2da4a4dab7",
   "type": "Service",
-  "name": "Sprache der Religionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31313531356666612d383839612d343930322d613963652d616532646134613464616237",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F11515ffa-889a-4902-a9ce-ae2da4a4dab7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F11515ffa-889a-4902-a9ce-ae2da4a4dab7",

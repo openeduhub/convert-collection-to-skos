@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4874dbbf-dc28-4adf-9bbb-3617ea21c309",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4874dbbf-dc28-4adf-9bbb-3617ea21c309",
   "prefLabel": {
-    "de": "Laborwissen"
+    "de": "Wissen für die Arbeit im Labor"
   },
   "definition": {
-    "de": "Die Arbeit im Labor erfordert das Erlernen von erweiterten Sicherheitsmaßnahmen und Techniken zum Umgang mit den Laborgeräten."
+    "de": "Die Arbeit im Labor erfordert das Erlernen von erweiterten Sicherheitsmaßnahmen und Techniken zum Umgang mit den Laborgeräten. Dazu gehören auch spezielle Verfahren zum erhitzen/kühlen, abmessen und so weiter.\nIn den Unterabschnitten gibt es für die speziellen Themen eine größere Auswahl an Material."
   },
   "narrower": [
     {
@@ -25,22 +25,27 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c431c9f4-ad3f-4280-bcb5-f22fbd5de3f2",
       "prefLabel": {
-        "de": "Wiegen und Messen"
+        "de": "Verfahren und Geräte zum Wiegen und Messen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ee18dcda-6d0c-4659-b8e5-4b5e47d8ebef",
       "prefLabel": {
-        "de": "Umgang mit dem Gasbrenner"
+        "de": "Erlernen des Umgangs mit dem Gasbrenner"
       }
     }
   ],
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b25b69f-ad8c-4473-8cb3-3b3d47434380",
     "prefLabel": {
-      "de": "Einführung in die Chemie"
+      "de": "Einführung in das Fach Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -105,7 +110,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -114,7 +128,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

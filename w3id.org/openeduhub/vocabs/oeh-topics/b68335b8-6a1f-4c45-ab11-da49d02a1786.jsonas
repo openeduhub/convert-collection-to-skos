@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b68335b8-6a1f-4c45-ab11-da49d02a1786",
   "type": "Service",
-  "name": "Proportionale und antiproportionale Zuordnungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62363833333562382d366131662d346334352d616231312d646134396430326131373836",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb68335b8-6a1f-4c45-ab11-da49d02a1786",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb68335b8-6a1f-4c45-ab11-da49d02a1786",

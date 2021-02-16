@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5432b016-40ef-4fff-a4d1-f856352d6148",
   "type": "Service",
-  "name": "Kritikpunkte der Prophetie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35343332623031362d343065662d346666662d613464312d663835363335326436313438",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5432b016-40ef-4fff-a4d1-f856352d6148",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5432b016-40ef-4fff-a4d1-f856352d6148",

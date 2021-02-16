@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2e610a04-b222-433e-96d7-a42bc06efc5f",
   "type": "Service",
-  "name": "Normalparabel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32653631306130342d623232322d343333652d393664372d613432626330366566633566",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2e610a04-b222-433e-96d7-a42bc06efc5f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2e610a04-b222-433e-96d7-a42bc06efc5f",

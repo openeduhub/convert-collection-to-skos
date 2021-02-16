@@ -8,15 +8,21 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/242ed9a2-f001-4fc6-aed9-888c647f7a6c",
-      "prefLabel": {
-        "de": "3D-Druck"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/3871cf0a-ba39-4457-b710-c585f892beca",
       "prefLabel": {
         "de": "Betriebssysteme"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d4a8bc18-ee4b-4070-9b95-9873d2be366f",
+      "prefLabel": {
+        "de": "Datenbanken"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/242ed9a2-f001-4fc6-aed9-888c647f7a6c",
+      "prefLabel": {
+        "de": "3D-Druck"
       }
     },
     {
@@ -30,12 +36,6 @@
       "prefLabel": {
         "de": "Künstliche Intelligenz (KI)"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d4a8bc18-ee4b-4070-9b95-9873d2be366f",
-      "prefLabel": {
-        "de": "Datenbanken"
-      }
     }
   ],
   "broader": {
@@ -44,6 +44,11 @@
       "de": "Informatik"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/320"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -108,7 +113,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +131,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

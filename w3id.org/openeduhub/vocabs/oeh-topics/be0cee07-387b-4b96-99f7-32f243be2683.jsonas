@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/be0cee07-387b-4b96-99f7-32f243be2683",
   "type": "Service",
-  "name": "Person und Botschaft Jesu im Vergleich mit anderen Religionen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62653063656530372d333837622d346239362d393966372d333266323433626532363833",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbe0cee07-387b-4b96-99f7-32f243be2683",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbe0cee07-387b-4b96-99f7-32f243be2683",

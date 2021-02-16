@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/cb6bee82-a563-4ac3-8c9b-93dfab055ed2",
   "type": "Service",
-  "name": "Evangelien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63623662656538322d613536332d346163332d386339622d393364666162303535656432",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcb6bee82-a563-4ac3-8c9b-93dfab055ed2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fcb6bee82-a563-4ac3-8c9b-93dfab055ed2",

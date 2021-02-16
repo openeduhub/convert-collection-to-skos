@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/117e5c0c-7a7e-453d-91a5-1b657d30a265",
   "type": "Service",
-  "name": "Tenside, Seife und Waschmittel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31313765356330632d376137652d343533642d393161352d316236353764333061323635",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F117e5c0c-7a7e-453d-91a5-1b657d30a265",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F117e5c0c-7a7e-453d-91a5-1b657d30a265",

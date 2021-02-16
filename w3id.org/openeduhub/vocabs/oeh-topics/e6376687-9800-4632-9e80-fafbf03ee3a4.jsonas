@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e6376687-9800-4632-9e80-fafbf03ee3a4",
   "type": "Service",
-  "name": "Fotosynthese",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65363337363638372d393830302d343633322d396538302d666166626630336565336134",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe6376687-9800-4632-9e80-fafbf03ee3a4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe6376687-9800-4632-9e80-fafbf03ee3a4",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1c072a24-f840-49d9-8a1b-16f0ff8ef64c",
   "type": "Service",
-  "name": "Heuristiken",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31633037326132342d663834302d343964392d386131622d313666306666386566363463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1c072a24-f840-49d9-8a1b-16f0ff8ef64c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1c072a24-f840-49d9-8a1b-16f0ff8ef64c",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/95aacaca-190c-4244-9c6b-372791232382",
   "type": "Service",
-  "name": "Kleidung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39356161636163612d313930632d343234342d396336622d333732373931323332333832",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F95aacaca-190c-4244-9c6b-372791232382",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F95aacaca-190c-4244-9c6b-372791232382",

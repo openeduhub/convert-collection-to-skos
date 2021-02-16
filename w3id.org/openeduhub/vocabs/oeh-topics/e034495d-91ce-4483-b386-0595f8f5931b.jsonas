@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e034495d-91ce-4483-b386-0595f8f5931b",
   "type": "Service",
-  "name": "Waschmittelzusätze und ihre Funktion",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65303334343935642d393163652d343438332d623338362d303539356638663539333162",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe034495d-91ce-4483-b386-0595f8f5931b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe034495d-91ce-4483-b386-0595f8f5931b",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d9346909-c145-433a-9821-17885a189a24",
   "type": "Service",
-  "name": "Hund",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64393334363930392d633134352d343333612d393832312d313738383561313839613234",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd9346909-c145-433a-9821-17885a189a24",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd9346909-c145-433a-9821-17885a189a24",

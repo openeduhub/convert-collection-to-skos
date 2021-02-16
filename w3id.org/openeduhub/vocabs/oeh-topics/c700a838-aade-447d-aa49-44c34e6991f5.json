@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc700a838-aade-447d-aa49-44c34e6991f5",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc700a838-aade-447d-aa49-44c34e6991f5",
   "prefLabel": {
-    "de": "Aussprache "
+    "de": "Aussprache"
   },
   "definition": {
-    "de": "Wann wird im Spanischen das R stark gerollt und wann weniger? Nicht nur das solltest du von Anfang an trainieren. Hier findest du alle wichtigen Informationen und Materialien zur Aussprache und Betonung. Dann wirst du bald sprechen wie ein Spanier."
+    "de": "Wann wird im Spanischen das R stark gerollt und wann weniger? Nicht nur das solltest du von Anfang an trainieren. Hier findest du alle wichtigen Informationen und Materialien zur Aussprache und Betonung. Dann wirst du bald sprechen wie die Muttersprachler:innen."
   },
   "narrower": [
     {
@@ -35,6 +35,11 @@
       "de": "Spanisch"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/20007"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -99,7 +104,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -108,7 +122,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b940d7b3-7e30-4bc1-88bb-00fb0fbbdf56",
   "type": "Service",
-  "name": "Jesus als gläubiger Jude",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62393430643762332d376533302d346263312d383862622d303066623066626264663536",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb940d7b3-7e30-4bc1-88bb-00fb0fbbdf56",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb940d7b3-7e30-4bc1-88bb-00fb0fbbdf56",

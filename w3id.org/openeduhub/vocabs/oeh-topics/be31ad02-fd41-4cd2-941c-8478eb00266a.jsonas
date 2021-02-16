@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/be31ad02-fd41-4cd2-941c-8478eb00266a",
   "type": "Service",
-  "name": "Computer und soziale Medien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62653331616430322d666434312d346364322d393431632d383437386562303032363661",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbe31ad02-fd41-4cd2-941c-8478eb00266a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fbe31ad02-fd41-4cd2-941c-8478eb00266a",

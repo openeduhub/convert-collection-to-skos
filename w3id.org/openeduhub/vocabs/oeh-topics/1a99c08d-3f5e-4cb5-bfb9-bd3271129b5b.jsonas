@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1a99c08d-3f5e-4cb5-bfb9-bd3271129b5b",
   "type": "Service",
-  "name": "Kohlenhydrate und Ballaststoffe",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31613939633038642d336635652d346362352d626662392d626433323731313239623562",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1a99c08d-3f5e-4cb5-bfb9-bd3271129b5b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1a99c08d-3f5e-4cb5-bfb9-bd3271129b5b",

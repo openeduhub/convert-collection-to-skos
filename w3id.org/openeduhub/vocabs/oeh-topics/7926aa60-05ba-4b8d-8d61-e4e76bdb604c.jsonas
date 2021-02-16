@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7926aa60-05ba-4b8d-8d61-e4e76bdb604c",
   "type": "Service",
-  "name": "Umlagerungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37393236616136302d303562612d346238642d386436312d653465373662646236303463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7926aa60-05ba-4b8d-8d61-e4e76bdb604c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7926aa60-05ba-4b8d-8d61-e4e76bdb604c",

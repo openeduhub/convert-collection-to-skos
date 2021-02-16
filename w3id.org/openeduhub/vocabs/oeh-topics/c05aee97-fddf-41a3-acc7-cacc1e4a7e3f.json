@@ -7,14 +7,19 @@
     "de": "Atommodell nach Kimball / Kugelwolkenmodell"
   },
   "definition": {
-    "de": "Das Kugelwolkenmodell nach Kimball ist eine Vereinfachung des Orbitalmodells und ermöglicht die Erklärung von vielen Bindungstypen. Dabei sind die Schalen aus Kugelwolken aufgebaut."
+    "de": "Das Kugelwolkenmodell nach Kimball ist eine Erweiterung des Schalenmodells und gleichzeitig eine Vereinfachung des Orbitalmodells. Mit diesem Modell kann an das Zustandekommenvon vielen Bindungstypen und die Winkel in Molekülen erklären. \nGrundprinzip dabei ist, das die Schalen in Kugelwolken unterteilt sind. Dies ist letztendlich die Grundlage für die Lewisschreibweise."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/63daf3d9-b673-4da0-b1ba-0fad4a58d335",
     "prefLabel": {
-      "de": "Atommodelle"
+      "de": "Verschiedene Atommodelle in der Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

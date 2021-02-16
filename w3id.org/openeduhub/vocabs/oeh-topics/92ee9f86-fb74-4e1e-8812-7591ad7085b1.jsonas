@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/92ee9f86-fb74-4e1e-8812-7591ad7085b1",
   "type": "Service",
-  "name": "Weiterführung/ Veränderung von Erzählungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39326565396638362d666237342d346531652d383831322d373539316164373038356231",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F92ee9f86-fb74-4e1e-8812-7591ad7085b1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F92ee9f86-fb74-4e1e-8812-7591ad7085b1",

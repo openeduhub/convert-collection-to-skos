@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ce06f9be-23a8-4c3a-af92-41febaad8615",
   "type": "Service",
-  "name": "Abrahamitische Religionen im Vergleich",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63653036663962652d323361382d346333612d616639322d343166656261616438363135",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fce06f9be-23a8-4c3a-af92-41febaad8615",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fce06f9be-23a8-4c3a-af92-41febaad8615",

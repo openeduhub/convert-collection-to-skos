@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/adc74622-cdb0-4c84-98a0-9179aa7b79b1",
   "type": "Service",
-  "name": "Inszenierungskonzepte ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61646337343632322d636462302d346338342d393861302d393137396161376237396231",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fadc74622-cdb0-4c84-98a0-9179aa7b79b1",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fadc74622-cdb0-4c84-98a0-9179aa7b79b1",

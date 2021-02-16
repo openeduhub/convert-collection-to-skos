@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c9ad9e17-73d6-4402-b5f9-38ed4620b188",
   "type": "Service",
-  "name": "Hammerwurf",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63396164396531372d373364362d343430322d623566392d333865643436323062313838",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc9ad9e17-73d6-4402-b5f9-38ed4620b188",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc9ad9e17-73d6-4402-b5f9-38ed4620b188",

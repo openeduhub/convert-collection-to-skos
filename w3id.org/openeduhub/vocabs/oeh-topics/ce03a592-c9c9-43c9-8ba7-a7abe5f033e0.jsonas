@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ce03a592-c9c9-43c9-8ba7-a7abe5f033e0",
   "type": "Service",
-  "name": "Essen und Trinken",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63653033613539322d633963392d343363392d386261372d613761626535663033336530",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fce03a592-c9c9-43c9-8ba7-a7abe5f033e0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fce03a592-c9c9-43c9-8ba7-a7abe5f033e0",

@@ -7,14 +7,19 @@
     "de": "Eigenschaften von Aldehyden und Ketonen"
   },
   "definition": {
-    "de": "Die funktionelle Gruppe, die bei beiden Stoffgruppen vorkommt ist meist an den Reaktionen beteiligt. Bei den Aldehyden noch das positiv polarisierte H-Atom."
+    "de": "Die Carbonylgruppe ist verantwortlich für die von Aldehyden und Ketonen eingegangenen chemischen Reaktionen. Diese Reaktionen können auch zum Nachweis der Verbindungen genutzt werden!"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/868f4e1a-d732-4a4b-9397-c441e3d1c1ec",
     "prefLabel": {
-      "de": "Aldehyde und Ketone"
+      "de": "Aldehyde und Ketone - Oxidationsprodukte von Alkoholen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

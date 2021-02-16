@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/753c00d1-ab5b-4f41-b28b-337049a3172e",
   "type": "Service",
-  "name": "Elektrische Grundgrößen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37353363303064312d616235622d346634312d623238622d333337303439613331373265",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F753c00d1-ab5b-4f41-b28b-337049a3172e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F753c00d1-ab5b-4f41-b28b-337049a3172e",

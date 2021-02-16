@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/4460f820-634b-415c-a404-2889f17c7aca",
   "type": "Service",
-  "name": "Abstrakte Datentypen / -strukturen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34343630663832302d363334622d343135632d613430342d323838396631376337616361",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4460f820-634b-415c-a404-2889f17c7aca",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F4460f820-634b-415c-a404-2889f17c7aca",

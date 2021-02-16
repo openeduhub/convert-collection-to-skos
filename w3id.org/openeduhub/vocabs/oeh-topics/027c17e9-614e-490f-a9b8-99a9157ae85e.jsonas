@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/027c17e9-614e-490f-a9b8-99a9157ae85e",
   "type": "Service",
-  "name": "Vierecke",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30323763313765392d363134652d343930662d613962382d393961393135376165383565",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F027c17e9-614e-490f-a9b8-99a9157ae85e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F027c17e9-614e-490f-a9b8-99a9157ae85e",

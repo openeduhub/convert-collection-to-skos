@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/75e9442e-88eb-4ba3-97fb-aee4d0c5c34e",
   "type": "Service",
-  "name": "Krieg und Frieden ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37356539343432652d383865622d346261332d393766622d616565346430633563333465",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F75e9442e-88eb-4ba3-97fb-aee4d0c5c34e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F75e9442e-88eb-4ba3-97fb-aee4d0c5c34e",

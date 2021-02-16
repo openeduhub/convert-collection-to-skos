@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a78f3ef3-5626-4b19-9508-d6f16e975885",
   "type": "Service",
-  "name": "zweisprachige Wörterbücher",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61373866336566332d353632362d346231392d393530382d643666313665393735383835",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa78f3ef3-5626-4b19-9508-d6f16e975885",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa78f3ef3-5626-4b19-9508-d6f16e975885",

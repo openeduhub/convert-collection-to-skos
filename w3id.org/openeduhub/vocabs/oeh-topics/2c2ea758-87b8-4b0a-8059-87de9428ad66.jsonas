@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2c2ea758-87b8-4b0a-8059-87de9428ad66",
   "type": "Service",
-  "name": "Theorie (EVA, von Neumann, ..",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32633265613735382d383762382d346230612d383035392d383764653934323861643636",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2c2ea758-87b8-4b0a-8059-87de9428ad66",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2c2ea758-87b8-4b0a-8059-87de9428ad66",

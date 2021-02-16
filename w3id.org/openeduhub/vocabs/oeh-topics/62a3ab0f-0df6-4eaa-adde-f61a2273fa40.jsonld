@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62a3ab0f-0df6-4eaa-adde-f61a2273fa40",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F62a3ab0f-0df6-4eaa-adde-f61a2273fa40",
   "prefLabel": {
-    "de": "Wasserstoffbrückenbindungen"
+    "de": "Die Wasserstoffbrückenbindung"
   },
   "definition": {
-    "de": "Man kann Wasserstoffbrücken als besonders starke Dipol-Dipol-Kräfte ansehen, die zwischen einem stark positiv polarisierten H-Atom und einem freien Elektronenpaar eines anderen Atoms bestehen."
+    "de": "Man kann Wasserstoffbrücken als besonders starke Dipol-Dipol-Kräfte ansehen, die zwischen einem stark positiv polarisierten H-Atom und einem freien Elektronenpaar eines anderen Atoms bestehen.\nSie sind die Grundlage für das Leben, das auf der Erde nur durch die relativ hohe  Siedetemperatur von Wasser möglich ist."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/66925fc0-0c09-493b-b526-cae9b94575de",
     "prefLabel": {
-      "de": "Zwischenmolekulare Kräfte"
+      "de": "Die zwischenmolekulare Kräfte bei Molekülen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -7,7 +7,7 @@
     "de": "Stoffe und Stoffeigenschaften"
   },
   "definition": {
-    "de": "Chemie ist die Wissenschaft, die sich mit den Stoffeigenschaften beschäftigt."
+    "de": "Chemie ist die Wissenschaft, die sich unter anderem mit Stoffen und ihren Eigenschaften beschäftigt.\nIn diesem Abschnitt geht es um einfache Stoffeigenschaften und wie man sie untersucht. Dazu gehören auch die Aggregatzustände und die Übergänge."
   },
   "narrower": [
     {
@@ -19,34 +19,39 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0e619127-058c-40f3-8bbe-33669d69ecbb",
       "prefLabel": {
-        "de": "Stoffeigenschaft Dichte"
+        "de": "Die Stoffeigenschaft \"Dichte\""
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2ae97153-62ca-4bf2-835c-00c6c64783f1",
       "prefLabel": {
-        "de": "Löslichkeit als Stoffeigenschaft"
+        "de": "Die Stoffeigenschaft \"Löslichkeit\""
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/6449ef24-c4e2-42ed-b7ec-c3b76450b7da",
       "prefLabel": {
-        "de": "Stoffklassen"
+        "de": "Stoffklassen als Einteilung von Stoffen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7cc1fa31-f5dc-4ae1-8371-544978e459c9",
       "prefLabel": {
-        "de": "Identifikation unbekannter Stoffe"
+        "de": "Identifikation eines unbekannten Stoffes mit Hilfe von Stoffeigenschaften"
       }
     }
   ],
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b25b69f-ad8c-4473-8cb3-3b3d47434380",
     "prefLabel": {
-      "de": "Einführung in die Chemie"
+      "de": "Einführung in das Fach Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -111,7 +116,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +134,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

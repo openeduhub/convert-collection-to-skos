@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/33604aba-2b1d-4119-8ed0-b5b55957100c",
   "type": "Service",
-  "name": "Kryptoanalyse",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33333630346162612d326231642d343131392d386564302d623562353539353731303063",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F33604aba-2b1d-4119-8ed0-b5b55957100c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F33604aba-2b1d-4119-8ed0-b5b55957100c",

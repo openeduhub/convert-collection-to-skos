@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d0d85dd8-91ef-458c-a61e-673337f218f9",
   "type": "Service",
-  "name": "Reformationstag",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64306438356464382d393165662d343538632d613631652d363733333337663231386639",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd0d85dd8-91ef-458c-a61e-673337f218f9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd0d85dd8-91ef-458c-a61e-673337f218f9",

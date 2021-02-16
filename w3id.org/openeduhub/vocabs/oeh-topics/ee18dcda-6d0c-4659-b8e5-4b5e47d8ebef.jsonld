@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fee18dcda-6d0c-4659-b8e5-4b5e47d8ebef",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fee18dcda-6d0c-4659-b8e5-4b5e47d8ebef",
   "prefLabel": {
-    "de": "Umgang mit dem Gasbrenner"
+    "de": "Erlernen des Umgangs mit dem Gasbrenner"
   },
   "definition": {
-    "de": "Wie man mit einem Gasbrenner im Labor umgeht ist eine wichtiger Lernstoff zu Beginn des Chemieunterrichts."
+    "de": "Der Gasbrenner ist ein wichtiges Arbeitsgerät in Chemielaboren und im Chemieunterricht. Den Umgang mit dem Brenner muss man jedoch lernen. Hier findest du dazu Materialien."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/4874dbbf-dc28-4adf-9bbb-3617ea21c309",
     "prefLabel": {
-      "de": "Laborwissen"
+      "de": "Wissen für die Arbeit im Labor"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

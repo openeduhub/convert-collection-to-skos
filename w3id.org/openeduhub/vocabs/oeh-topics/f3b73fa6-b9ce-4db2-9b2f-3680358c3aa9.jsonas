@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f3b73fa6-b9ce-4db2-9b2f-3680358c3aa9",
   "type": "Service",
-  "name": "Wochentage",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66336237336661362d623963652d346462322d396232662d333638303335386333616139",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff3b73fa6-b9ce-4db2-9b2f-3680358c3aa9",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff3b73fa6-b9ce-4db2-9b2f-3680358c3aa9",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1c43eb80-50c0-4ecc-988a-52a5857d514d",
   "type": "Service",
-  "name": "Ökologie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31633433656238302d353063302d346563632d393838612d353261353835376435313464",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1c43eb80-50c0-4ecc-988a-52a5857d514d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1c43eb80-50c0-4ecc-988a-52a5857d514d",

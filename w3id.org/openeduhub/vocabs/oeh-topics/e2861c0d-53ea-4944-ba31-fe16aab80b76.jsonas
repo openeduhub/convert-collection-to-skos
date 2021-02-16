@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e2861c0d-53ea-4944-ba31-fe16aab80b76",
   "type": "Service",
-  "name": "Komposition",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65323836316330642d353365612d343934342d626133312d666531366161623830623736",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe2861c0d-53ea-4944-ba31-fe16aab80b76",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe2861c0d-53ea-4944-ba31-fe16aab80b76",

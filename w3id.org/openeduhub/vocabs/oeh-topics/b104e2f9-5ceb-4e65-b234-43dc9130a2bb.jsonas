@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b104e2f9-5ceb-4e65-b234-43dc9130a2bb",
   "type": "Service",
-  "name": "Reflexion",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62313034653266392d356365622d346536352d623233342d343364633931333061326262",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb104e2f9-5ceb-4e65-b234-43dc9130a2bb",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb104e2f9-5ceb-4e65-b234-43dc9130a2bb",

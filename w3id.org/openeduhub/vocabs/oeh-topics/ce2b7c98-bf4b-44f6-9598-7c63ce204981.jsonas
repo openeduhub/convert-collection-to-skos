@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ce2b7c98-bf4b-44f6-9598-7c63ce204981",
   "type": "Service",
-  "name": "Umgang mit der Schöpfung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63653262376339382d626634622d343466362d393539382d376336336365323034393831",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fce2b7c98-bf4b-44f6-9598-7c63ce204981",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fce2b7c98-bf4b-44f6-9598-7c63ce204981",

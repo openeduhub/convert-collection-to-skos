@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ce2609a2-c608-420c-843e-55f7061305e5",
   "type": "Service",
-  "name": "Darstellung von Kreuz und Auferstehung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63653236303961322d633630382d343230632d383433652d353566373036313330356535",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fce2609a2-c608-420c-843e-55f7061305e5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fce2609a2-c608-420c-843e-55f7061305e5",

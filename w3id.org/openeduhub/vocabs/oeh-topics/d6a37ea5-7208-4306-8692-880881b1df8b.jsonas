@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d6a37ea5-7208-4306-8692-880881b1df8b",
   "type": "Service",
-  "name": "Weltkunst",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64366133376561352d373230382d343330362d383639322d383830383831623164663862",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd6a37ea5-7208-4306-8692-880881b1df8b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd6a37ea5-7208-4306-8692-880881b1df8b",

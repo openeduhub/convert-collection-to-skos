@@ -8,15 +8,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/131b383f-5c17-48a0-9530-76a6a16116ad",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8818e408-0278-4e7d-874e-b38d6b5039b6",
       "prefLabel": {
-        "de": "Dramatische Texte"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2a3fb08a-fcc3-47d9-bfb3-2bf367cb7a87",
-      "prefLabel": {
-        "de": "Weitere Medien"
+        "de": "Journalistische Texte"
       }
     },
     {
@@ -26,9 +20,27 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/2a3fb08a-fcc3-47d9-bfb3-2bf367cb7a87",
+      "prefLabel": {
+        "de": "Weitere Medien"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cc217ac0-ca5c-4b29-9824-24c9fcf20aa5",
+      "prefLabel": {
+        "de": "Erzählende Texte "
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/58e66666-162e-4673-804f-a9961136311d",
       "prefLabel": {
         "de": "Literaturgeschichte"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/131b383f-5c17-48a0-9530-76a6a16116ad",
+      "prefLabel": {
+        "de": "Dramatische Texte"
       }
     },
     {
@@ -38,21 +50,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/8818e408-0278-4e7d-874e-b38d6b5039b6",
-      "prefLabel": {
-        "de": "Journalistische Texte"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/960c3b18-857f-43a8-83e6-0dbd74d4fa79",
       "prefLabel": {
         "de": "Pragmatische Texte"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/cc217ac0-ca5c-4b29-9824-24c9fcf20aa5",
-      "prefLabel": {
-        "de": "Erzählende Texte "
       }
     }
   ],
@@ -62,6 +62,11 @@
       "de": "Deutsch"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/120"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -126,7 +131,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +149,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

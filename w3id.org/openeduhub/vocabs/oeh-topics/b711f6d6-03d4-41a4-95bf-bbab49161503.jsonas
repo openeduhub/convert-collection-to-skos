@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b711f6d6-03d4-41a4-95bf-bbab49161503",
   "type": "Service",
-  "name": "Adjektivbildung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62373131663664362d303364342d343161342d393562662d626261623439313631353033",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb711f6d6-03d4-41a4-95bf-bbab49161503",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb711f6d6-03d4-41a4-95bf-bbab49161503",

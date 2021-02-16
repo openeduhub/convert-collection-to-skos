@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/49c990d3-3578-4486-ac9f-83c83d075c26",
   "type": "Service",
-  "name": "Dezimalschreibweise",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34396339393064332d333537382d343438362d616339662d383363383364303735633236",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F49c990d3-3578-4486-ac9f-83c83d075c26",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F49c990d3-3578-4486-ac9f-83c83d075c26",

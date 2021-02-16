@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8ec0c039-9a22-4912-b3a1-2a2d1989f4dd",
   "type": "Service",
-  "name": "nichtchristliche Sinnangebote",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38656330633033392d396132322d343931322d623361312d326132643139383966346464",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8ec0c039-9a22-4912-b3a1-2a2d1989f4dd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8ec0c039-9a22-4912-b3a1-2a2d1989f4dd",

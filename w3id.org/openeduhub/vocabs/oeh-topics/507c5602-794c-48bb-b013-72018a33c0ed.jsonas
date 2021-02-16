@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/507c5602-794c-48bb-b013-72018a33c0ed",
   "type": "Service",
-  "name": "Demokratie & Werte",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35303763353630322d373934632d343862622d623031332d373230313861333363306564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F507c5602-794c-48bb-b013-72018a33c0ed",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F507c5602-794c-48bb-b013-72018a33c0ed",

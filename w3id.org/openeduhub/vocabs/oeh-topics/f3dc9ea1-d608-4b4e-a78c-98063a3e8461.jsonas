@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f3dc9ea1-d608-4b4e-a78c-98063a3e8461",
   "type": "Service",
-  "name": "Konnektoren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66336463396561312d643630382d346234652d613738632d393830363361336538343631",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff3dc9ea1-d608-4b4e-a78c-98063a3e8461",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff3dc9ea1-d608-4b4e-a78c-98063a3e8461",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/d8b1849b-26a2-4d08-8dd3-0e0cb733113b",
   "type": "Service",
-  "name": "Menschliches Auge",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64386231383439622d323661322d346430382d386464332d306530636237333331313362",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd8b1849b-26a2-4d08-8dd3-0e0cb733113b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fd8b1849b-26a2-4d08-8dd3-0e0cb733113b",

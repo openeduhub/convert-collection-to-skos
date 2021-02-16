@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/15fce411-54d9-467f-8f35-61ea374a298d",
   "type": "Service",
-  "name": "Biologie",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31356663653431312d353464392d343637662d386633352d363165613337346132393864",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F15fce411-54d9-467f-8f35-61ea374a298d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F15fce411-54d9-467f-8f35-61ea374a298d",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/34ff7431-eaf3-4681-8f92-a1ad7fa3a2ee",
   "type": "Service",
-  "name": "Identität und Beziehung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33346666373433312d656166332d343638312d386639322d613161643766613361326565",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F34ff7431-eaf3-4681-8f92-a1ad7fa3a2ee",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F34ff7431-eaf3-4681-8f92-a1ad7fa3a2ee",

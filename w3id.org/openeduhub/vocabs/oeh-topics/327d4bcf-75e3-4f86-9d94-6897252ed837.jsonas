@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/327d4bcf-75e3-4f86-9d94-6897252ed837",
   "type": "Service",
-  "name": "Islam",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33323764346263662d373565332d346638362d396439342d363839373235326564383337",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F327d4bcf-75e3-4f86-9d94-6897252ed837",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F327d4bcf-75e3-4f86-9d94-6897252ed837",

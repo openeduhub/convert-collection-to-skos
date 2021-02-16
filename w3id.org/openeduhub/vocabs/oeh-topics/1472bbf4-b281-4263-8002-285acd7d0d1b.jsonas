@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1472bbf4-b281-4263-8002-285acd7d0d1b",
   "type": "Service",
-  "name": "Regeln und Netiquette beachten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31343732626266342d623238312d343236332d383030322d323835616364376430643162",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1472bbf4-b281-4263-8002-285acd7d0d1b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1472bbf4-b281-4263-8002-285acd7d0d1b",

@@ -7,14 +7,19 @@
     "de": "Aufbau und Systematik bei der Benennung von Fetten und Ölen"
   },
   "definition": {
-    "de": "Fette und Öle sind Ester von Glycerin mit langkettigen Carbonsäuren. Neben den Einzelnamen spielt bei der Charakterisierung eine Rolle, ob Doppelbindungen vorliegen oder nicht."
+    "de": "Fette und Öle sind Ester von Glycerin mit langkettigen Carbonsäuren, den Fettsäuren. Neben den Einzelnamen spielt bei der Charakterisierung eine Rolle, ob Doppelbindungen vorliegen oder nicht."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d3354fb0-f36d-4c41-ab5e-3023c8dfdd9d",
     "prefLabel": {
-      "de": "Fette und Öle"
+      "de": "Fette und Öle - Ester langkettiger Carbonsäuren"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6870879c-315c-4a6c-b8df-41da285fb4cd",
   "type": "Service",
-  "name": "Kernfusion",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36383730383739632d333135632d346136632d623864662d343164613238356662346364",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6870879c-315c-4a6c-b8df-41da285fb4cd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6870879c-315c-4a6c-b8df-41da285fb4cd",

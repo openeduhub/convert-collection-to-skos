@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/21cfa69d-98d0-4152-90e3-5ed3fd9b4f21",
   "type": "Service",
-  "name": "Trägheitsprinzip",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32316366613639642d393864302d343135322d393065332d356564336664396234663231",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F21cfa69d-98d0-4152-90e3-5ed3fd9b4f21",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F21cfa69d-98d0-4152-90e3-5ed3fd9b4f21",

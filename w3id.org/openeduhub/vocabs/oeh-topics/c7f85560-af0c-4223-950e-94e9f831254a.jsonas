@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c7f85560-af0c-4223-950e-94e9f831254a",
   "type": "Service",
-  "name": "Flächeninhalt und Umfang",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63376638353536302d616630632d343232332d393530652d393465396638333132353461",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7f85560-af0c-4223-950e-94e9f831254a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc7f85560-af0c-4223-950e-94e9f831254a",

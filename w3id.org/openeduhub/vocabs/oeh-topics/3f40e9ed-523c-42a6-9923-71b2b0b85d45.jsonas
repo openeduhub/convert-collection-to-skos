@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/3f40e9ed-523c-42a6-9923-71b2b0b85d45",
   "type": "Service",
-  "name": "eschatologische Bildsprache",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33663430653965642d353233632d343261362d393932332d373162326230623835643435",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3f40e9ed-523c-42a6-9923-71b2b0b85d45",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F3f40e9ed-523c-42a6-9923-71b2b0b85d45",

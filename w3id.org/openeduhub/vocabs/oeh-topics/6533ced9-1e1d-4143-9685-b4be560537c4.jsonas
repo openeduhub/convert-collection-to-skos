@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/6533ced9-1e1d-4143-9685-b4be560537c4",
   "type": "Service",
-  "name": "Leichtmetalle",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36353333636564392d316531642d343134332d393638352d623462653536303533376334",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6533ced9-1e1d-4143-9685-b4be560537c4",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F6533ced9-1e1d-4143-9685-b4be560537c4",

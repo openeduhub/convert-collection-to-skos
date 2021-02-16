@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b1efd772-67b0-443f-9d87-2685f08b75f0",
   "type": "Service",
-  "name": "reguläre Abläufe der Fotosynthese",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62316566643737322d363762302d343433662d396438372d323638356630386237356630",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb1efd772-67b0-443f-9d87-2685f08b75f0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb1efd772-67b0-443f-9d87-2685f08b75f0",

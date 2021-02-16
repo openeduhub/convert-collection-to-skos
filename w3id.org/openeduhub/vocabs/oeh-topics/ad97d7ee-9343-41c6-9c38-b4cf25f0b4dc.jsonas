@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/ad97d7ee-9343-41c6-9c38-b4cf25f0b4dc",
   "type": "Service",
-  "name": "Infektionskrankheiten ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61643937643765652d393334332d343163362d396333382d623463663235663062346463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fad97d7ee-9343-41c6-9c38-b4cf25f0b4dc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fad97d7ee-9343-41c6-9c38-b4cf25f0b4dc",

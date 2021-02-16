@@ -4,17 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb4d5ba4b-ec67-42bf-abc1-5aa06e2b7d76",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb4d5ba4b-ec67-42bf-abc1-5aa06e2b7d76",
   "prefLabel": {
-    "de": "Ionenbindung bei Salzen"
+    "de": "Die Ionenbindung bei Salzen und ihre Auswirkung"
   },
   "definition": {
-    "de": "Die Ionenbindung zwischen verschiedenen geladenen Teilchen beruht auf der elektrostatischen Anziehung. Sie bestimmt die Eigenschaften der Salze."
+    "de": "Die Ionenbindung zwischen verschiedenen geladenen Teilchen beruht auf der elektrostatischen Anziehung. Sie bestimmt die Eigenschaften der Salze.\n\nEs gibt bei diesem Thema Überschneidungen zur Betrachtung des Bindungstypes \"Ionenbindung\" in der \"Allgemeinen Chemie\"."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a3f828d4-1eaa-46c6-9179-5ec68aa73194",
     "prefLabel": {
-      "de": "Salze"
+      "de": "Salze - Ionenverbindungen"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

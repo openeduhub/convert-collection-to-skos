@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5a6add7e-95c4-420e-960e-250bbdbf2f53",
   "type": "Service",
-  "name": "Figurenkonstellation",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35613661646437652d393563342d343230652d393630652d323530626264626632663533",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5a6add7e-95c4-420e-960e-250bbdbf2f53",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5a6add7e-95c4-420e-960e-250bbdbf2f53",

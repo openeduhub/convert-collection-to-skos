@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5690a0a5-ef04-48cb-91cd-944ae6852d61",
   "type": "Service",
-  "name": "Eigenschaften von Aminosäuren und Eiweißen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35363930613061352d656630342d343863622d393163642d393434616536383532643631",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5690a0a5-ef04-48cb-91cd-944ae6852d61",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5690a0a5-ef04-48cb-91cd-944ae6852d61",

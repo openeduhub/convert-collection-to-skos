@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/142227cc-0092-4756-8528-851143e62980",
   "type": "Service",
-  "name": "Wetter",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31343232323763632d303039322d343735362d383532382d383531313433653632393830",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F142227cc-0092-4756-8528-851143e62980",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F142227cc-0092-4756-8528-851143e62980",

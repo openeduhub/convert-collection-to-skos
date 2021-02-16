@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1d318c5b-1222-439c-b0c9-a420408706e3",
   "type": "Service",
-  "name": "Rechnen mit Klammern",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31643331386335622d313232322d343339632d623063392d613432303430383730366533",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1d318c5b-1222-439c-b0c9-a420408706e3",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1d318c5b-1222-439c-b0c9-a420408706e3",

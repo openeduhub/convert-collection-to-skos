@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c6200d4c-443c-4f32-b9d3-e6ff2f362e71",
   "type": "Service",
-  "name": "Brechung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63363230306434632d343433632d346633322d623964332d653666663266333632653731",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc6200d4c-443c-4f32-b9d3-e6ff2f362e71",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc6200d4c-443c-4f32-b9d3-e6ff2f362e71",

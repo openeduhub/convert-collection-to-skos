@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/852d7756-a3d2-4e82-8b14-1b9348ebb1c7",
   "type": "Service",
-  "name": "Artikel / Begleiter",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38353264373735362d613364322d346538322d386231342d316239333438656262316337",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F852d7756-a3d2-4e82-8b14-1b9348ebb1c7",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F852d7756-a3d2-4e82-8b14-1b9348ebb1c7",

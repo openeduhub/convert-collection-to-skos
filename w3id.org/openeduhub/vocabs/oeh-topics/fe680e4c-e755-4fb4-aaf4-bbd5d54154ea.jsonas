@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/fe680e4c-e755-4fb4-aaf4-bbd5d54154ea",
   "type": "Service",
-  "name": "Pyramide",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66653638306534632d653735352d346662342d616166342d626264356435343135346561",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffe680e4c-e755-4fb4-aaf4-bbd5d54154ea",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffe680e4c-e755-4fb4-aaf4-bbd5d54154ea",

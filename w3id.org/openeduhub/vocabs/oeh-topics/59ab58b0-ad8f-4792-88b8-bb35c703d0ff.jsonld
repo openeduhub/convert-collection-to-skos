@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F59ab58b0-ad8f-4792-88b8-bb35c703d0ff",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F59ab58b0-ad8f-4792-88b8-bb35c703d0ff",
   "prefLabel": {
-    "de": "Haworth-Projektion"
+    "de": "Haworth-Projektion für die Darstellung stereoisomerer Kohlenhydrate als Ringe"
   },
   "definition": {
     "de": "Die Haworth-Projekt ist eine Darstellungsweise für ringförmige fünf- und sechsgliedrige Moleküle in ihrer cyclischen Form."
@@ -12,9 +12,14 @@
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/bb6cf13e-6c89-4472-9acc-4a77ec7caa38",
     "prefLabel": {
-      "de": "Kohlenhydrate"
+      "de": "Kohlenhydrate - die Grundlage der Biomasse"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

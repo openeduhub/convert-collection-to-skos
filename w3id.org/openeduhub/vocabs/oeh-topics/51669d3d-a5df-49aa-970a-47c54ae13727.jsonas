@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/51669d3d-a5df-49aa-970a-47c54ae13727",
   "type": "Service",
-  "name": "Außenraum/Plätze",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35313636396433642d613564662d343961612d393730612d343763353461653133373237",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F51669d3d-a5df-49aa-970a-47c54ae13727",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F51669d3d-a5df-49aa-970a-47c54ae13727",

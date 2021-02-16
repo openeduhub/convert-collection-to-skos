@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/50e23e69-7d83-478a-86ba-e1f4918c4c2a",
   "type": "Service",
-  "name": "Sportwissenschaft",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35306532336536392d376438332d343738612d383662612d653166343931386334633261",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F50e23e69-7d83-478a-86ba-e1f4918c4c2a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F50e23e69-7d83-478a-86ba-e1f4918c4c2a",

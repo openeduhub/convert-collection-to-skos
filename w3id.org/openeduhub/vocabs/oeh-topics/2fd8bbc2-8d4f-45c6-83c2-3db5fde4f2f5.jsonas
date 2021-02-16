@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2fd8bbc2-8d4f-45c6-83c2-3db5fde4f2f5",
   "type": "Service",
-  "name": "Tierhaltung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32666438626263322d386434662d343563362d383363322d336462356664653466326635",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2fd8bbc2-8d4f-45c6-83c2-3db5fde4f2f5",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2fd8bbc2-8d4f-45c6-83c2-3db5fde4f2f5",

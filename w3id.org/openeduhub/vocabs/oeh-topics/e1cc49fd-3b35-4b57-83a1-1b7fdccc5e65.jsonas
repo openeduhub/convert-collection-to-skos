@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e1cc49fd-3b35-4b57-83a1-1b7fdccc5e65",
   "type": "Service",
-  "name": "Wetter und Jahreszeiten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65316363343966642d336233352d346235372d383361312d316237666463636335653635",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe1cc49fd-3b35-4b57-83a1-1b7fdccc5e65",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe1cc49fd-3b35-4b57-83a1-1b7fdccc5e65",

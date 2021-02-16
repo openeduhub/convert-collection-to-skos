@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e77e6018-ed29-4e8f-8c5e-dbc1b5acc170",
   "type": "Service",
-  "name": "Karikaturen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65373765363031382d656432392d346538662d386335652d646263316235616363313730",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe77e6018-ed29-4e8f-8c5e-dbc1b5acc170",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe77e6018-ed29-4e8f-8c5e-dbc1b5acc170",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e5321bf7-55c9-437b-b4b8-bee7875d7e06",
   "type": "Service",
-  "name": "Perfekt",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65353332316266372d353563392d343337622d623462382d626565373837356437653036",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe5321bf7-55c9-437b-b4b8-bee7875d7e06",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe5321bf7-55c9-437b-b4b8-bee7875d7e06",

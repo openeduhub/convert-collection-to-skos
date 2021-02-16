@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/b326debf-7e93-4e37-b8f8-7e86c8b0600e",
   "type": "Service",
-  "name": "Verwandschaftsbezeichnungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f62333236646562662d376539332d346533372d623866382d376538366338623036303065",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb326debf-7e93-4e37-b8f8-7e86c8b0600e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fb326debf-7e93-4e37-b8f8-7e86c8b0600e",

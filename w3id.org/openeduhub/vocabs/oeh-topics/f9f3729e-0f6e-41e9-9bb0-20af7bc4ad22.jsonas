@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f9f3729e-0f6e-41e9-9bb0-20af7bc4ad22",
   "type": "Service",
-  "name": "Kirche im Mittelalter",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66396633373239652d306636652d343165392d396262302d323061663762633461643232",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff9f3729e-0f6e-41e9-9bb0-20af7bc4ad22",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff9f3729e-0f6e-41e9-9bb0-20af7bc4ad22",

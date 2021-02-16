@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a427c5e1-2587-415f-bc8d-7208d96d7889",
   "type": "Service",
-  "name": "Nahrungsbeziehungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61343237633565312d323538372d343135662d626338642d373230386439366437383839",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa427c5e1-2587-415f-bc8d-7208d96d7889",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa427c5e1-2587-415f-bc8d-7208d96d7889",

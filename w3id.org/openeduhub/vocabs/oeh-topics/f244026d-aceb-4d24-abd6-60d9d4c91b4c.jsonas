@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f244026d-aceb-4d24-abd6-60d9d4c91b4c",
   "type": "Service",
-  "name": "Sprechen und Zuhören",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66323434303236642d616365622d346432342d616264362d363064396434633931623463",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff244026d-aceb-4d24-abd6-60d9d4c91b4c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff244026d-aceb-4d24-abd6-60d9d4c91b4c",

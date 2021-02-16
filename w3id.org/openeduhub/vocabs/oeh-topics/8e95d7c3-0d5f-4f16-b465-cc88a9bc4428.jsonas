@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8e95d7c3-0d5f-4f16-b465-cc88a9bc4428",
   "type": "Service",
-  "name": "Zahlwörter ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38653935643763332d306435662d346631362d623436352d636338386139626334343238",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8e95d7c3-0d5f-4f16-b465-cc88a9bc4428",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8e95d7c3-0d5f-4f16-b465-cc88a9bc4428",

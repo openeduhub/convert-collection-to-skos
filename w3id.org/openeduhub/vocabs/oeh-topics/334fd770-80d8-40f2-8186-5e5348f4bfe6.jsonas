@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/334fd770-80d8-40f2-8186-5e5348f4bfe6",
   "type": "Service",
-  "name": "Maßeinheiten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33333466643737302d383064382d343066322d383138362d356535333438663462666536",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F334fd770-80d8-40f2-8186-5e5348f4bfe6",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F334fd770-80d8-40f2-8186-5e5348f4bfe6",

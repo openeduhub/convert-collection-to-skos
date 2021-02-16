@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/366ab6ec-1fb8-4458-8ac8-29d7fe982c4f",
   "type": "Service",
-  "name": "Zuspruch und Anspruch Gottes in der Bibel",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33363661623665632d316662382d343435382d386163382d323964376665393832633466",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F366ab6ec-1fb8-4458-8ac8-29d7fe982c4f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F366ab6ec-1fb8-4458-8ac8-29d7fe982c4f",

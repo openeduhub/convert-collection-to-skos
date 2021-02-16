@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/8f73479d-b9bc-4033-8f3d-249a83c3fc87",
   "type": "Service",
-  "name": "Rechenvorteile",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f38663733343739642d623962632d343033332d386633642d323439613833633366633837",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8f73479d-b9bc-4033-8f3d-249a83c3fc87",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F8f73479d-b9bc-4033-8f3d-249a83c3fc87",

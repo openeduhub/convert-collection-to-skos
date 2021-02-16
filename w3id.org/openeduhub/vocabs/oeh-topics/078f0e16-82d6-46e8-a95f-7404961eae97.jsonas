@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/078f0e16-82d6-46e8-a95f-7404961eae97",
   "type": "Service",
-  "name": "Vorlesen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30373866306531362d383264362d343665382d613935662d373430343936316561653937",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F078f0e16-82d6-46e8-a95f-7404961eae97",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F078f0e16-82d6-46e8-a95f-7404961eae97",

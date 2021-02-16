@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/5f4bf1e4-5756-43eb-821c-316aabc5aacc",
   "type": "Service",
-  "name": "Körperspannung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f35663462663165342d353735362d343365622d383231632d333136616162633561616363",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5f4bf1e4-5756-43eb-821c-316aabc5aacc",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F5f4bf1e4-5756-43eb-821c-316aabc5aacc",

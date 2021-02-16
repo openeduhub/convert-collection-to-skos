@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe383a5e7-de42-4ded-86f9-4f04daf2642f",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe383a5e7-de42-4ded-86f9-4f04daf2642f",
   "prefLabel": {
-    "de": "Eliminierung"
+    "de": "Eliminierungsreaktionen"
   },
   "definition": {
     "de": "Eine Eliminierungsreaktion ist die Bezeichnung für eine chemische Reaktionen, bei der aus einem Molekül zwei Atome oder Atomgruppen abgespalten werden. Dabei bilden sich meist Mehrfachbindungen aus."
@@ -12,9 +12,14 @@
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/392f83ef-4052-423c-b42d-315b691df6f2",
     "prefLabel": {
-      "de": "Reaktionsmechanismen"
+      "de": "Reaktionsmechanismen - Auf der Spur der Reaktionswege"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

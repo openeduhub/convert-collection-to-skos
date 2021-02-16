@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/318272e2-e557-417a-8866-0950b8d77479",
   "type": "Service",
-  "name": "Teenager und Jugendkultur",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33313832373265322d653535372d343137612d383836362d303935306238643737343739",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F318272e2-e557-417a-8866-0950b8d77479",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F318272e2-e557-417a-8866-0950b8d77479",

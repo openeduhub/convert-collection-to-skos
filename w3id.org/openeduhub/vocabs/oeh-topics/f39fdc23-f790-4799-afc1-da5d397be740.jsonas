@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f39fdc23-f790-4799-afc1-da5d397be740",
   "type": "Service",
-  "name": "Informatik & Gesellschaft",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66333966646332332d663739302d343739392d616663312d646135643339376265373430",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff39fdc23-f790-4799-afc1-da5d397be740",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff39fdc23-f790-4799-afc1-da5d397be740",

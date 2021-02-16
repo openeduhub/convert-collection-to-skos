@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/0620e377-192a-4279-bfe7-d88012a6e693",
   "type": "Service",
-  "name": "Reaktionstypen von Aromaten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f30363230653337372d313932612d343237392d626665372d643838303132613665363933",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0620e377-192a-4279-bfe7-d88012a6e693",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F0620e377-192a-4279-bfe7-d88012a6e693",

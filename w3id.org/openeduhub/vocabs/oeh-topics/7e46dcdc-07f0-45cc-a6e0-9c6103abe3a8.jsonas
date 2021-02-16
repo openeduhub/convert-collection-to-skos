@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/7e46dcdc-07f0-45cc-a6e0-9c6103abe3a8",
   "type": "Service",
-  "name": "Past Perfect",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f37653436646364632d303766302d343563632d613665302d396336313033616265336138",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7e46dcdc-07f0-45cc-a6e0-9c6103abe3a8",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F7e46dcdc-07f0-45cc-a6e0-9c6103abe3a8",

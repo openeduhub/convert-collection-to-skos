@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/9668051c-24ef-4978-a4ef-8b7fde78982c",
   "type": "Service",
-  "name": "Pädagogisches Material ",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39363638303531632d323465662d343937382d613465662d386237666465373839383263",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9668051c-24ef-4978-a4ef-8b7fde78982c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F9668051c-24ef-4978-a4ef-8b7fde78982c",

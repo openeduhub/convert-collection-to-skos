@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/fc0353ea-7c80-4151-90a1-e7d3f5f54a60",
   "type": "Service",
-  "name": "Minitrampolin",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66633033353365612d376338302d343135312d393061312d653764336635663534613630",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffc0353ea-7c80-4151-90a1-e7d3f5f54a60",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ffc0353ea-7c80-4151-90a1-e7d3f5f54a60",

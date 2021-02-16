@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/627dc6dc-75f9-411d-a92d-e75194bde55d",
   "type": "Service",
-  "name": "Bewerbung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36323764633664632d373566392d343131642d613932642d653735313934626465353564",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F627dc6dc-75f9-411d-a92d-e75194bde55d",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F627dc6dc-75f9-411d-a92d-e75194bde55d",

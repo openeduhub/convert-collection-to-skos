@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/1806954a-660c-4ed2-8f98-37638bd1168c",
   "type": "Service",
-  "name": "Sprechen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f31383036393534612d363630632d346564322d386639382d333736333862643131363863",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1806954a-660c-4ed2-8f98-37638bd1168c",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F1806954a-660c-4ed2-8f98-37638bd1168c",

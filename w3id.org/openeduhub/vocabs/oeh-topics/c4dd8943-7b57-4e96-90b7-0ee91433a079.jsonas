@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c4dd8943-7b57-4e96-90b7-0ee91433a079",
   "type": "Service",
-  "name": "Weimarer Republik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63346464383934332d376235372d346539362d393062372d306565393134333361303739",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc4dd8943-7b57-4e96-90b7-0ee91433a079",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc4dd8943-7b57-4e96-90b7-0ee91433a079",

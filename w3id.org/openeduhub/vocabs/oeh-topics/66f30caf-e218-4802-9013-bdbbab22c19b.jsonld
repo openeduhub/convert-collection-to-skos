@@ -11,9 +11,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/57c8978c-8158-4271-ad4d-ac76c6c7177a",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/57286ea3-4a6f-40c0-9725-25ff7885ca05",
       "prefLabel": {
-        "de": "interkulturelles Lernen"
+        "de": "Musik und Tanz"
       }
     },
     {
@@ -31,13 +31,31 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9f535d31-3d07-40cf-8f51-d372640f3876",
       "prefLabel": {
-        "de": "Spanisch in der Welt"
+        "de": "Spanisch und Regionalsprachen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a2f28fb9-a7be-4daa-abac-d915f7fefae6",
+      "prefLabel": {
+        "de": "Kunst und Architektur"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/baae6af6-5cb1-4f76-962f-90826d8a69d8",
+      "prefLabel": {
+        "de": "Literatur, Film und Theater"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d14e175e-3a31-4ecf-b0f7-781adc653a7a",
+      "prefLabel": {
+        "de": "Landesküchen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/fb12bfc5-aa98-4126-a883-27a441459a24",
       "prefLabel": {
-        "de": "Länder und Leute "
+        "de": "Länder, Leute und Begegnungen"
       }
     }
   ],
@@ -47,6 +65,11 @@
       "de": "Spanisch"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/20007"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -111,7 +134,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +152,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

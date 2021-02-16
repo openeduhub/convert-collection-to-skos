@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/617c7df1-302b-4cad-b137-b09bd44ead42",
   "type": "Service",
-  "name": "Flächeneinheiten",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36313763376466312d333032622d346361642d623133372d623039626434346561643432",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F617c7df1-302b-4cad-b137-b09bd44ead42",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F617c7df1-302b-4cad-b137-b09bd44ead42",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/de17a259-f5d5-4266-82e4-fa50f185388e",
   "type": "Service",
-  "name": "Struktur von Eiweiße",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64653137613235392d663564352d343236362d383265342d666135306631383533383865",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fde17a259-f5d5-4266-82e4-fa50f185388e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fde17a259-f5d5-4266-82e4-fa50f185388e",

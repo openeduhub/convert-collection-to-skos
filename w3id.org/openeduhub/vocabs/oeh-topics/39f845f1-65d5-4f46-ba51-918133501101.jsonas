@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/39f845f1-65d5-4f46-ba51-918133501101",
   "type": "Service",
-  "name": "Ungleichungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33396638343566312d363564352d346634362d626135312d393138313333353031313031",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F39f845f1-65d5-4f46-ba51-918133501101",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F39f845f1-65d5-4f46-ba51-918133501101",

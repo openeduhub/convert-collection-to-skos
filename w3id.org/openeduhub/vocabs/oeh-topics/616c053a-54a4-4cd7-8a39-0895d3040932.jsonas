@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/616c053a-54a4-4cd7-8a39-0895d3040932",
   "type": "Service",
-  "name": "Materialgestützte/ Textgebundene Erörterung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36313663303533612d353461342d346364372d386133392d303839356433303430393332",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F616c053a-54a4-4cd7-8a39-0895d3040932",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F616c053a-54a4-4cd7-8a39-0895d3040932",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/e383a5e7-de42-4ded-86f9-4f04daf2642f",
   "type": "Service",
-  "name": "Eliminierung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f65333833613565372d646534322d346465642d383666392d346630346461663236343266",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe383a5e7-de42-4ded-86f9-4f04daf2642f",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fe383a5e7-de42-4ded-86f9-4f04daf2642f",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/48ab6901-702c-43df-8ab5-a68100eaae01",
   "type": "Service",
-  "name": "Bildschirm",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34386162363930312d373032632d343364662d386162352d613638313030656161653031",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F48ab6901-702c-43df-8ab5-a68100eaae01",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F48ab6901-702c-43df-8ab5-a68100eaae01",

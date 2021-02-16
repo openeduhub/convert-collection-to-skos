@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/def4ef21-87da-48a4-884c-1b9297012d46",
   "type": "Service",
-  "name": "going-to Future",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f64656634656632312d383764612d343861342d383834632d316239323937303132643436",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdef4ef21-87da-48a4-884c-1b9297012d46",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fdef4ef21-87da-48a4-884c-1b9297012d46",

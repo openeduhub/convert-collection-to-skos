@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/c58fdc1a-8bee-4eda-8645-fb039103b793",
   "type": "Service",
-  "name": "Bindestrichschreibung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f63353866646331612d386265652d346564612d383634352d666230333931303362373933",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc58fdc1a-8bee-4eda-8645-fb039103b793",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fc58fdc1a-8bee-4eda-8645-fb039103b793",

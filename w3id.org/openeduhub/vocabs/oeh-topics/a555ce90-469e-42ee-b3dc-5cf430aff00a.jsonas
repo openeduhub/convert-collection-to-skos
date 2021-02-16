@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/a555ce90-469e-42ee-b3dc-5cf430aff00a",
   "type": "Service",
-  "name": "Golf",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f61353535636539302d343639652d343265652d623364632d356366343330616666303061",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa555ce90-469e-42ee-b3dc-5cf430aff00a",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Fa555ce90-469e-42ee-b3dc-5cf430aff00a",

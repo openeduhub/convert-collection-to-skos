@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/63db9aed-914f-4988-a059-dbb290bb1e83",
   "type": "Service",
-  "name": "Pronominaladverbien",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36336462396165642d393134662d343938382d613035392d646262323930626231653833",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F63db9aed-914f-4988-a059-dbb290bb1e83",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F63db9aed-914f-4988-a059-dbb290bb1e83",

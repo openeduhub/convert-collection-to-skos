@@ -8,15 +8,15 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9eff0a6c-0f5b-4f92-ac66-3a4f082ac705",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ffb33d89-6a4d-4eb1-a390-9857b3fbe7fa",
       "prefLabel": {
-        "de": "Zelltypen"
+        "de": "Vorgänge in der Zelle"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a00959ca-f8b7-4ed9-835d-69a71217e7b9",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9eff0a6c-0f5b-4f92-ac66-3a4f082ac705",
       "prefLabel": {
-        "de": "Vorgänge im Zellkern"
+        "de": "Zelltypen"
       }
     },
     {
@@ -26,9 +26,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/ffb33d89-6a4d-4eb1-a390-9857b3fbe7fa",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a00959ca-f8b7-4ed9-835d-69a71217e7b9",
       "prefLabel": {
-        "de": "Vorgänge in der Zelle"
+        "de": "Vorgänge im Zellkern"
       }
     }
   ],
@@ -38,6 +38,11 @@
       "de": "Biologie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/080"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -102,7 +107,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +125,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

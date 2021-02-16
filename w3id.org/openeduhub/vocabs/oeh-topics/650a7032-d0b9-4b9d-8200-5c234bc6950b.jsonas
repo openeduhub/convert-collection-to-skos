@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/650a7032-d0b9-4b9d-8200-5c234bc6950b",
   "type": "Service",
-  "name": "Partizip 1 & 2 als Adjektive",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36353061373033322d643062392d346239642d383230302d356332333462633639353062",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F650a7032-d0b9-4b9d-8200-5c234bc6950b",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F650a7032-d0b9-4b9d-8200-5c234bc6950b",

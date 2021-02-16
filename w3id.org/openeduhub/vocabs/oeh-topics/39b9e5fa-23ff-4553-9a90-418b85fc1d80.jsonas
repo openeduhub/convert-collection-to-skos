@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/39b9e5fa-23ff-4553-9a90-418b85fc1d80",
   "type": "Service",
-  "name": "Gottesvorstellungen",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f33396239653566612d323366662d343535332d396139302d343138623835666331643830",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F39b9e5fa-23ff-4553-9a90-418b85fc1d80",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F39b9e5fa-23ff-4553-9a90-418b85fc1d80",

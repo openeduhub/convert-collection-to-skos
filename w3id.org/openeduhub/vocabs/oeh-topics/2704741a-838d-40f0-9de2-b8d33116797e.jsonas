@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/2704741a-838d-40f0-9de2-b8d33116797e",
   "type": "Service",
-  "name": "Elektrostatik",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f32373034373431612d383338642d343066302d396465322d623864333331313637393765",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2704741a-838d-40f0-9de2-b8d33116797e",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F2704741a-838d-40f0-9de2-b8d33116797e",

@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/92f9aacf-df99-4185-9c24-23f6d2e85f15",
   "type": "Service",
-  "name": "Wohnung und Wohnungseinrichtung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39326639616163662d646639392d343138352d396332342d323366366432653835663135",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F92f9aacf-df99-4185-9c24-23f6d2e85f15",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F92f9aacf-df99-4185-9c24-23f6d2e85f15",

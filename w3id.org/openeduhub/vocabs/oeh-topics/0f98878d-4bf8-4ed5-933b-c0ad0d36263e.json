@@ -6,7 +6,16 @@
   "prefLabel": {
     "de": "Chemie und Umwelt"
   },
+  "definition": {
+    "de": "In diesem Themen gibt Themen, die sich den anderen Hauptthemen nicht richtig zuordnen lassen.\n\nMeist beziehen sie sich auch Chemie im Alltag."
+  },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a71b1f9f-0505-4202-ad7c-d5488ed70cf2",
+      "prefLabel": {
+        "de": "Luft und Luftverschmutzung"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/0f9aded2-edf2-43f9-aed1-00037ca5bdec",
       "prefLabel": {
@@ -38,15 +47,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b9b8d66-6419-4a6a-8d9a-47810408a05d",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/7e21aa86-ee7e-4519-acc2-237e963dd54f",
       "prefLabel": {
-        "de": "Chemie in der Landwirtschaft"
+        "de": "Kohle und Kohlebergbau"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/a71b1f9f-0505-4202-ad7c-d5488ed70cf2",
+      "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/9b9b8d66-6419-4a6a-8d9a-47810408a05d",
       "prefLabel": {
-        "de": "Luft und Luftverschmutzung"
+        "de": "Chemie in der Landwirtschaft"
       }
     },
     {
@@ -70,7 +79,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c7ae5c04-389d-4ef1-9e62-e4fa67202c57",
       "prefLabel": {
-        "de": "Explosivstoffe"
+        "de": "Explosivstoffe - wenn es mal knallen soll"
       }
     },
     {
@@ -82,7 +91,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/d4b4195c-3fa2-4802-9282-78010a877c6e",
       "prefLabel": {
-        "de": "Bauchemie"
+        "de": "Chemie auf dem Bau"
       }
     },
     {
@@ -98,6 +107,11 @@
       "de": "Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -162,7 +176,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -171,7 +194,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

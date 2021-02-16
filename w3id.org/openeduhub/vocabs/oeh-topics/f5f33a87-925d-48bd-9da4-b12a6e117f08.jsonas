@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/f5f33a87-925d-48bd-9da4-b12a6e117f08",
   "type": "Service",
-  "name": "Past Progressive",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f66356633336138372d393235642d343862642d396461342d623132613665313137663038",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff5f33a87-925d-48bd-9da4-b12a6e117f08",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2Ff5f33a87-925d-48bd-9da4-b12a6e117f08",

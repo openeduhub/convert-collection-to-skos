@@ -7,14 +7,19 @@
     "de": "Erdöl und Erdgas - Entstehung, Gewinnung, Verarbeitung"
   },
   "definition": {
-    "de": "Erdöl ist die wichtigsten Quelle für Kohlenwasserstoffe. Es entsteht durch langfristige Umwandlungsprozesse von organischen Stoffen."
+    "de": "Erdöl ist die wichtigsten Quelle für Kohlenwasserstoffe. Erdöl ist ein fossiler Energieträger, der zwar eine große Vielfalt an Chemikalien bereitstellt, gleichzeitig aber auch ökologische Probleme mit sich bringt. Es entsteht durch langfristige Umwandlungsprozesse von organischen Stoffen."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/c97a8c29-75b5-46a2-a328-e2754eca928f",
     "prefLabel": {
-      "de": "Kohlenwasserstoffe"
+      "de": "Die Kohlenwasserstoffe als Grundstoffe in der Organischen Chemie"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/discipline/100"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57",
     "title": {
@@ -79,7 +84,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +102,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

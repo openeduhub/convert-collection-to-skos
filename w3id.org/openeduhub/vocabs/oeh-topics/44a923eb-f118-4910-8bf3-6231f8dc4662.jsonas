@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/44a923eb-f118-4910-8bf3-6231f8dc4662",
   "type": "Service",
-  "name": "Poesie und Lehre",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f34346139323365622d663131382d343931302d386266332d363233316638646334363632",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F44a923eb-f118-4910-8bf3-6231f8dc4662",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F44a923eb-f118-4910-8bf3-6231f8dc4662",

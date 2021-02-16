@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/69a6dd03-a0ae-4149-944c-6d418145e5b2",
   "type": "Service",
-  "name": "Spektroskopieverfahren",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f36396136646430332d613061652d343134392d393434632d366434313831343565356232",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F69a6dd03-a0ae-4149-944c-6d418145e5b2",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F69a6dd03-a0ae-4149-944c-6d418145e5b2",

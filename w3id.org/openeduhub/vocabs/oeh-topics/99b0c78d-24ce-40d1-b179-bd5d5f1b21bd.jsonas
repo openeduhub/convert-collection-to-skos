@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/oeh-topics/99b0c78d-24ce-40d1-b179-bd5d5f1b21bd",
   "type": "Service",
-  "name": "Heiligabend",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6f65682d746f706963732f39396230633738642d323463652d343064312d623137392d626435643566316232316264",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F99b0c78d-24ce-40d1-b179-bd5d5f1b21bd",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Foeh-topics%2F99b0c78d-24ce-40d1-b179-bd5d5f1b21bd",

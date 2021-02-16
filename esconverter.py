@@ -117,7 +117,7 @@ class ESConverter:
                 if "discipline" in tree.keys():
                     for item in tree["discipline"]:
                         # g.add( (item_url, SDO.about, item))
-                        g.add((item_url, SKOS.related, URIRef(item)))
+                        g.add((item_url, SKOS.relatedMatch, URIRef(item)))
 
                 if tree["id"] in topConcepts:
                     g.add((item_url, SKOS.topConceptOf, concept_scheme_url))

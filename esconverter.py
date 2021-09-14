@@ -2,6 +2,16 @@ import requests
 import json
 from rdflib import Namespace, Graph, URIRef, SKOS, RDF, DCTERMS, Literal
 from rdflib.namespace import SDO
+import logging
+from datetime import date
+
+# log to file and stdout
+logging.basicConfig(
+    handlers=[
+        logging.FileHandler(filename='log.log'),
+        logging.StreamHandler()
+    ],
+    level=logging.INFO)
 
 class ESConverter:
     base_url = "https://redaktion.openeduhub.net/edu-sharing/rest/collection/v1/collections/-home-/"
@@ -13,10 +23,15 @@ class ESConverter:
         "children": []
     }
 
+    # activated will just get collections explicitly activated
+    # if empty string also collections not visible 
+    # TODO
+    # deactivated aso fetches collections that are invisible
     editorial_state = [
         "activated",
+        "",
+        "deactivated"
     ]
-
 
     def getRequest(self, url):
         r = requests.get(url,
@@ -38,21 +53,27 @@ class ESConverter:
         response = self.getRequest(url)
 
         collections = []
-        for item in response["collections"]:
-            if any(x in self.editorial_state for x in item["properties"]["ccm:editorial_state"]):
-                collection = {
-                    "id": item["ref"]["id"],
-                    "prefLabel": item["title"],
-                    "keywords": item.get("properties").get("cclom:general_keyword", []),
-                    "discipline": item.get("properties").get("ccm:taxonid", ""),
-                    "educationalContext": item.get("properties").get("ccm:educationalcontext", ""),
-                    "description": item.get("properties").get("cm:description", ""),
-                    "children": []
-                }
-            else:
-                continue
-            collections.append(collection)
-        return collections
+        try:
+            for item in response["collections"]:
+                if any(x in self.editorial_state for x in item["properties"]["ccm:editorial_state"]):
+                    if self.editorial_state == "":
+                        logging.info(f'editorial state is empty for item id {item["ref"]["id"]}')
+                    collection = {
+                        "id": item["ref"]["id"],
+                        "prefLabel": item["title"],
+                        "keywords": item.get("properties").get("cclom:general_keyword", []),
+                        "discipline": item.get("properties").get("ccm:taxonid", ""),
+                        "educationalContext": item.get("properties").get("ccm:educationalcontext", ""),
+                        "description": item.get("properties").get("cm:description", ""),
+                        "children": []
+                    }
+                else:
+                    continue
+                collections.append(collection)
+            return collections
+        except KeyError as e:
+            logging.error(f"No key \"collections\" in response object. Got keys: {response.keys()}. Url: {url}")
+            return collections
 
 
     def get_all_collections(self, url, parent_collection):
@@ -72,8 +93,9 @@ class ESConverter:
 
     def buildGraph(self, data, start_id, collection_name):
         g = Graph()
-        name = collection_name.lower().replace(" ", "-")
-        base_url = URIRef("http://w3id.org/openeduhub/vocabs/oeh-topics/")
+        # name = collection_name.lower().replace(" ", "-")
+        name = "Taxonomie von Lehrplanthemen"
+        base_url = URIRef("http://w3id.org/openeduhub/vocabs/oehTopics/")
         concept_scheme_url = URIRef(
             "http://w3id.org/openeduhub/vocabs/oeh-topics/" + start_id)
         OEHTOPICS = Namespace(base_url)
@@ -81,6 +103,9 @@ class ESConverter:
         g.add((concept_scheme_url, RDF.type, SKOS.ConceptScheme))
         g.add((concept_scheme_url, DCTERMS.creator, Literal(
             "WirLernenOnline Fachportalmanger:innen", lang="de")))
+        g.add((concept_scheme_url, DCTERMS.modified, Literal(
+            date.today().isoformat()
+        )))
         g.add((concept_scheme_url, DCTERMS.title, Literal(collection_name, lang="de")))
 
         # get main items and add them as top concepts

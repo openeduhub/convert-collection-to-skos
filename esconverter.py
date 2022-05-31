@@ -30,7 +30,7 @@ class ESConverter:
     editorial_state = [
         "activated",
         "",
-        "deactivated"
+        # "deactivated"
     ]
 
     def getRequest(self, url):
@@ -106,7 +106,7 @@ class ESConverter:
         g.add((concept_scheme_url, DCTERMS.modified, Literal(
             date.today().isoformat()
         )))
-        g.add((concept_scheme_url, DCTERMS.title, Literal(collection_name, lang="de")))
+        g.add((concept_scheme_url, DCTERMS.title, Literal("Taxonomie von Lehrplanthemen", lang="de")))
 
         # get main items and add them as top concepts
         topConcepts = [concept["id"] for concept in data["children"]]

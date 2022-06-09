@@ -1,17 +1,11 @@
-import requests
-import json
-from rdflib import Namespace, Graph, URIRef, SKOS, RDF, DCTERMS, Literal
-from rdflib.namespace import SDO
-import logging
-from datetime import date
+from datetime import date, datetime
+from pathlib import Path
 
-# log to file and stdout
-logging.basicConfig(
-    handlers=[
-        logging.FileHandler(filename='log.log'),
-        logging.StreamHandler()
-    ],
-    level=logging.INFO)
+import requests
+from rdflib import DCTERMS, RDF, SKOS, Graph, Literal, Namespace, URIRef
+from rdflib.namespace import SDO
+
+from base_logger import logger
 
 class ESConverter:
     base_url = "https://redaktion.openeduhub.net/edu-sharing/rest/collection/v1/collections/-home-/"
@@ -25,7 +19,7 @@ class ESConverter:
 
     # activated will just get collections explicitly activated
     # if empty string also collections not visible 
-    # TODO
+    # TODO add this to env file
     # deactivated aso fetches collections that are invisible
     editorial_state = [
         "activated",
@@ -57,7 +51,7 @@ class ESConverter:
             for item in response["collections"]:
                 if any(x in self.editorial_state for x in item["properties"]["ccm:editorial_state"]):
                     if self.editorial_state == "":
-                        logging.info(f'editorial state is empty for item id {item["ref"]["id"]}')
+                        logger.info(f'editorial state is empty for item id {item["ref"]["id"]}')
                     collection = {
                         "id": item["ref"]["id"],
                         "prefLabel": item["title"],
@@ -72,7 +66,7 @@ class ESConverter:
                 collections.append(collection)
             return collections
         except KeyError as e:
-            logging.error(f"No key \"collections\" in response object. Got keys: {response.keys()}. Url: {url}")
+            logger.error(f"No key \"collections\" in response object. Got keys: {response.keys()}. Url: {url}", e)
             return collections
 
 
@@ -93,11 +87,11 @@ class ESConverter:
 
     def buildGraph(self, data, start_id, collection_name):
         g = Graph()
-        # name = collection_name.lower().replace(" ", "-")
-        name = "Taxonomie von Lehrplanthemen"
+
+        name = collection_name
         base_url = URIRef("http://w3id.org/openeduhub/vocabs/oehTopics/")
         concept_scheme_url = URIRef(
-            "http://w3id.org/openeduhub/vocabs/oeh-topics/" + start_id)
+            "http://w3id.org/openeduhub/vocabs/oehTopics/" + start_id)
         OEHTOPICS = Namespace(base_url)
 
         g.add((concept_scheme_url, RDF.type, SKOS.ConceptScheme))
@@ -106,7 +100,7 @@ class ESConverter:
         g.add((concept_scheme_url, DCTERMS.modified, Literal(
             date.today().isoformat()
         )))
-        g.add((concept_scheme_url, DCTERMS.title, Literal("Taxonomie von Lehrplanthemen", lang="de")))
+        g.add((concept_scheme_url, DCTERMS.title, Literal(collection_name, lang="de")))
 
         # get main items and add them as top concepts
         topConcepts = [concept["id"] for concept in data["children"]]
@@ -116,9 +110,6 @@ class ESConverter:
             item_url = base_url + URIRef(tree["id"])
             if tree["id"] == start_id and len(tree["children"]):
                 for item in tree["children"]:
-                    # child_url = URIRef(base_url + item["id"])
-                    # g.add((base_url, SKOS.narrower, child_url))
-                    # g.add((child_url, SKOS.broader, base_url))
                     parseTree(item)
             else:
                 g.add((item_url, RDF.type, SKOS.Concept))
@@ -141,7 +132,6 @@ class ESConverter:
 
                 if "discipline" in tree.keys():
                     for item in tree["discipline"]:
-                        # g.add( (item_url, SDO.about, item))
                         g.add((item_url, SKOS.relatedMatch, URIRef(item)))
 
                 if tree["id"] in topConcepts:
@@ -159,12 +149,16 @@ class ESConverter:
 
         parseTree(data)
 
-        g.bind("skos", SKOS),
+        g.bind("skos", SKOS)
         g.bind("oeh", OEHTOPICS)
         g.bind("dct", DCTERMS)
         g.bind("sdo", SDO)
 
-        output = g.serialize(format="turtle", base=base_url).decode("utf-8")
+        # make sure data-directory exists
+        Path("data/").mkdir(exist_ok=True)
 
-        with open("data/graph_" + name + ".ttl", "w") as f:
-            f.write(output)
+        filename = f"data/graph_{name}_{datetime.now().isoformat(timespec='seconds')}.ttl"
+
+        g.serialize(destination=filename, format="turtle", base=base_url)
+
+        logger.info(f"Success writing: {filename}")

@@ -1,19 +1,23 @@
 # edu-sharing to SKOS converter
 
-This converter converts the edu-sharing topic collections developed by the Fachportalmanger:innen to SKOS vocabularies.
+This converter converts the edu-sharing topic collections developed by the Fachportalmanger\*innen to SKOS vocabularies.
+
+If you run `python src/main.py` it will also push the vocabularies to a dedicated repository (defined in `.env`) and repeat its run every two hours.
+
+You can also the scripts as standalone (see below)
 
 First install requirements: `pip install -r requirements.txt`.
+Then run scripts depending on what you want.
 
-## `convert-collection-to-skos.py`:
+To run it with docker, first build the container then run it with `docker run --rm convertcollectiontoskos:latest`
+
+
+## `convert_collection_to_skos.py`:
 This will list all topics with their IDs.
 You can then copy one and paste it in the command-line dialog.
 
-## `auto-convert-collection-to-skos`:
-This will take the `ids.json`-file and convert all collections mentioned there.
-Below you find a list of currently available topics.
-After every push a GitHub-Action is triggered.
-It will checkout this repository, and build the vocabularies usind the `ids.json`-file in this repository.
-After that it will get a skohub-vocabs container and publish the vocabulary using GitHub-Pages.
+## `auto_convert_collection_to_skos`:
+This will take the `start_collection_id` from the `env`-file and convert all its children collections.
 
 ## Available Topics and their IDs
 

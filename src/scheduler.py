@@ -19,8 +19,9 @@ def job():
 
 def run_scheduler():
     # execute job every second hour
-    logger.info(f"Job will start at: {datetime.now() + timedelta(minutes=1)}")
-    schedule.every().hour.at(":" + str(datetime.now().minute + 1)).do(job)
+    job_start_time = datetime.now() + timedelta(minutes=1)
+    logger.info(f"Job will start at: {job_start_time.strftime('%I:%M%p')}")
+    schedule.every().hour.at(":" + job_start_time.strftime('%M')).do(job)
 
     while True:
         schedule.run_pending()

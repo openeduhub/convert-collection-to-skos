@@ -2,7 +2,7 @@ from github import Github
 from github import InputGitTreeElement
 
 from base_logger import logger
-from settings import GITHUB_TOKEN, GIT_REPO
+from settings import GITHUB_TOKEN, GIT_REPO, FILENAME_FOR_PUSH
 
 from pathlib import Path
 
@@ -20,14 +20,13 @@ def push_to_github():
 
     repo = g.get_repo(GIT_REPO) # repo name
 
-    file_list = list()
+    file_list = []
     file_list.append(str(latest_graph.absolute()))
-    file_names = [
-        'oehTopics.ttl'
-    ]
+    file_names = []
+    file_names.append(FILENAME_FOR_PUSH)
 
-    commit_message = 'python commit'
-    master_ref = repo.get_git_ref('heads/main')
+    commit_message = 'auto-update oehTopics'
+    master_ref = repo.get_git_ref('heads/master')
     master_sha = master_ref.object.sha
     base_tree = repo.get_git_tree(master_sha)
 
@@ -44,7 +43,7 @@ def push_to_github():
     commit = repo.create_git_commit(commit_message, tree, [parent])
     master_ref.edit(commit.sha)
 
-    logger.info("Push successful")
+    logger.info(f"Push of {FILENAME_FOR_PUSH} to {GIT_REPO} successful")
 
 if __name__ == "__main__":
     push_to_github()

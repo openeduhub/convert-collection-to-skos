@@ -89,9 +89,9 @@ class ESConverter:
         g = Graph()
 
         name = collection_name
-        base_url = URIRef("http://w3id.org/openeduhub/vocabs/oehTopics/")
+        base_url = URIRef("http://w3id.org/openeduhub/vocabs/oeh-topics/")
         concept_scheme_url = URIRef(
-            "http://w3id.org/openeduhub/vocabs/oehTopics/" + start_id)
+            "http://w3id.org/openeduhub/vocabs/oeh-topics/" + start_id)
         OEHTOPICS = Namespace(base_url)
 
         g.add((concept_scheme_url, RDF.type, SKOS.ConceptScheme))

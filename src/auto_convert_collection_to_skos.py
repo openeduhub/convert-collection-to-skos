@@ -14,7 +14,6 @@ def parse_collection_id():
     start_id = START_COLLECTION_ID
     logger.info(f"Starting skos-converter with id {start_id}")
     start_time = datetime.now()
-    print(f"converting id: {start_id}")
     url = base_url + start_id + appendix
 
     result_collection: dict = {

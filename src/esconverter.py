@@ -72,7 +72,7 @@ class ESConverter:
 
     def get_all_collections(self, url, parent_collection):
         for collection in self.getCollection(url):
-            print(f"{collection['id']} : {collection['prefLabel']}")
+            # print(f"{collection['id']} : {collection['prefLabel']}")
             parent_collection["children"].append(collection)
             self.get_all_collections(self.base_url + collection["id"] + self.appendix, collection)
         return parent_collection

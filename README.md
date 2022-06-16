@@ -9,7 +9,10 @@ You can also the scripts as standalone (see below)
 First install requirements: `pip install -r requirements.txt`.
 Then run scripts depending on what you want.
 
-To run it with docker, first build the container then run it with `docker run --rm convertcollectiontoskos:latest`
+To run it with docker:
+
+- first build the container: `docker build .` (sometimes you have to run `docker build --network=host .` so that pip can get the packages)
+- then run it with `docker-compose up`
 
 
 ## `convert_collection_to_skos.py`:

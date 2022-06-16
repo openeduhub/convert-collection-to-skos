@@ -1,0 +1,11 @@
+version: "3.9"
+   
+services:
+  converter:
+    build: .
+    command: python ./src/main.py
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "1k"
+        max-file: "3"

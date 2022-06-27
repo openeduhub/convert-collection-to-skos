@@ -1,4 +1,5 @@
 import logging
+from settings import LOG_LEVEL
 
 logger = logging
 
@@ -9,4 +10,4 @@ logger.basicConfig(
         logging.FileHandler(filename='log.log'),
         logging.StreamHandler()
     ],
-    level=logging.INFO)
+    level=LOG_LEVEL)

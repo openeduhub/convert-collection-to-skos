@@ -1,19 +1,35 @@
+import filecmp
+
 from github import Github
 from github import InputGitTreeElement
 
 from base_logger import logger
-from settings import GITHUB_TOKEN, GIT_REPO, FILENAME_FOR_PUSH
+from settings import GITHUB_TOKEN, GIT_REPO, FILENAME_FOR_PUSH, DRY_RUN
 
 from pathlib import Path
 
 
 def latest_file(path: Path, pattern: str = "*"):
     files = path.glob(pattern)
-    return max(files, key=lambda x: x.stat().st_ctime)
+    sorted_files = sorted(files, key=lambda x: x.stat().st_ctime, reverse=True)
+    return sorted_files
+
+def same_files(f1, f2):
+    return filecmp.cmp(f1, f2, shallow=True)
 
 def push_to_github():
 
-    latest_graph = latest_file(path=Path("data/"), pattern="graph_Taxonomie*")
+    latest_files = latest_file(path=Path("data/"), pattern="graph_Taxonomie*")
+
+    if same_files(latest_files[0], latest_files[1]):
+        logger.info("Files did not change, not pushing.")
+        return
+
+    if DRY_RUN:
+        logger.info("dry_run is true, not pushing")
+        return
+
+    latest_graph = latest_files[0]
 
     # using an access token
     g = Github(GITHUB_TOKEN)

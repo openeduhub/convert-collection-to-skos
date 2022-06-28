@@ -19,6 +19,7 @@ GITHUB_TOKEN = os.environ.get("github_token", "")
 GIT_REPO = os.environ.get("git_repo", "")
 FILENAME_FOR_PUSH = os.environ.get("filename_for_push", "oehTopics.ttl")
 LOG_LEVEL = get_log_level()
+DRY_RUN = bool(os.environ.get("dry_run", 1))
 
 errors = []
 

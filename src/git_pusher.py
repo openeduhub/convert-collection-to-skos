@@ -21,7 +21,7 @@ def push_to_github():
 
     latest_files = latest_file(path=Path("data/"), pattern="graph_Taxonomie*")
 
-    if same_files(latest_files[0], latest_files[1]):
+    if len(latest_files) > 1 and same_files(latest_files[0], latest_files[1]):
         logger.info("Files did not change, not pushing.")
         return
 

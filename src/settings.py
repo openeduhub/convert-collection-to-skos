@@ -19,7 +19,7 @@ GITHUB_TOKEN = os.environ.get("github_token", "")
 GIT_REPO = os.environ.get("git_repo", "")
 FILENAME_FOR_PUSH = os.environ.get("filename_for_push", "oehTopics.ttl")
 LOG_LEVEL = get_log_level()
-DRY_RUN = bool(os.environ.get("dry_run", 1))
+DRY_RUN = eval(os.environ.get("dry_run", "True"))
 
 errors = []
 
@@ -33,3 +33,15 @@ if len(errors) != 0:
     for err in errors:
         print(err)
     raise Exception("Necessary environment variables are missing")
+
+def show_configs():
+    print(f"START_COLLECTION_ID: {START_COLLECTION_ID}")
+    print(f"START_COLLECTION_NAME: {START_COLLECTION_NAME}")
+    print(f"GITHUB_TOKEN: {GITHUB_TOKEN}")
+    print(f"GIT_REPO: {GIT_REPO}")
+    print(f"FILENAME_FOR_PUSH: {FILENAME_FOR_PUSH}")
+    print(f"LOG_LEVEL: {LOG_LEVEL}")
+    print(f"DRY_RUN: {DRY_RUN}")
+
+
+show_configs()

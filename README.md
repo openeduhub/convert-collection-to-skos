@@ -4,6 +4,10 @@ This converter converts the edu-sharing topic collections developed by the Fachp
 
 If you run `python src/main.py` it will also push the vocabularies to a dedicated repository (defined in `.env`) and repeat its run every two hours.
 
+Copy the example env to .env and edit as needed.
+
+    cp .env.example .env
+
 You can also the scripts as standalone (see below)
 
 First install requirements: `pip install -r requirements.txt`.

@@ -1,12 +1,10 @@
-import filecmp
+from pathlib import Path
 
-from github import Github
-from github import InputGitTreeElement
+from github import Github, InputGitTreeElement
 
 from base_logger import logger
-from settings import GITHUB_TOKEN, GIT_REPO, FILENAME_FOR_PUSH, DRY_RUN
-
-from pathlib import Path
+from settings import DRY_RUN, FILENAME_FOR_PUSH, GIT_REPO, GITHUB_TOKEN
+from rdf_compare import same_graphs
 
 
 def latest_file(path: Path, pattern: str = "*"):
@@ -14,16 +12,13 @@ def latest_file(path: Path, pattern: str = "*"):
     sorted_files = sorted(files, key=lambda x: x.stat().st_ctime, reverse=True)
     return sorted_files
 
-def same_files(f1, f2):
-    return filecmp.cmp(f1, f2, shallow=True)
-
 def push_to_github():
 
     latest_files = latest_file(path=Path("data/"), pattern="graph_Taxonomie*")
 
-    if len(latest_files) > 1 and same_files(latest_files[0], latest_files[1]):
-        logger.info("Files did not change, not pushing.")
-        return
+    if len(latest_files) > 1:
+        if same_graphs(latest_files[0], latest_files[1]):
+            return    
 
     if DRY_RUN:
         logger.info("dry_run is true, not pushing")

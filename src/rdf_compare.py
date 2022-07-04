@@ -23,7 +23,7 @@ def same_graphs(p1: PosixPath, p2: PosixPath) -> bool:
 
     if len(in_first) == 0 and len(in_second) == 0:
         logger.info("no changes in graphs, not pushing")
-        return False
+        return True
 
     # compare length
     if len(in_first) > 1:

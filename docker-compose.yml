@@ -12,3 +12,7 @@ services:
         max-size: "1k"
         max-file: "3"
     network_mode: host
+    volumes:
+      - type: bind
+        source: ./data
+        target: /usr/src/app/data

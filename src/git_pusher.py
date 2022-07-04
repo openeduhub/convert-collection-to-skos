@@ -13,12 +13,17 @@ def latest_file(path: Path, pattern: str = "*"):
     return sorted_files
 
 def push_to_github():
+    """
+    Pushes the latest files to GitHub
+    Before the push it checks if the grahphs changed.
+    If not they will not be pushed.
+    """
 
     latest_files = latest_file(path=Path("data/"), pattern="graph_Taxonomie*")
 
     if len(latest_files) > 1:
         if same_graphs(latest_files[0], latest_files[1]):
-            return    
+            return
 
     if DRY_RUN:
         logger.info("dry_run is true, not pushing")

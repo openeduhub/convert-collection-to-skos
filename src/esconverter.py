@@ -45,6 +45,7 @@ class ESConverter:
 
     def getCollection(self, url):
         response = self.getRequest(url)
+        logger.debug(f"Get collection from {url}")
 
         collections = []
         try:
@@ -113,6 +114,8 @@ class ESConverter:
                 g.add((item_url, RDF.type, SKOS.Concept))
                 g.add((item_url, SKOS.prefLabel, Literal(
                     tree["prefLabel"], lang="de")))
+                g.add((item_url, SKOS.notation, Literal(
+                    tree["id"])))
 
                 if "hiddenLabel" in tree.keys():
                     for item in tree["hiddenLabel"]:
